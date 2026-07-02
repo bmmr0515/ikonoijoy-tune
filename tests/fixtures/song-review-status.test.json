@@ -1,0 +1,142 @@
+[
+  {
+    "songId": "joy-concept",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true
+  },
+  {
+    "songId": "joy-fragile",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true
+  },
+  {
+    "songId": "joy-lion",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true
+  },
+  {
+    "songId": "joy-sweet16",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true
+  },
+  {
+    "songId": "joy-cinderella",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true
+  },
+  {
+    "songId": "joy-gym-disco",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true
+  },
+  {
+    "songId": "joy-rebel",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true
+  },
+  {
+    "songId": "joy-nevergiveup",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true
+  },
+  {
+    "songId": "joy-peach",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true
+  },
+  {
+    "songId": "joy-dream",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true
+  }
+]

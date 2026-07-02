@@ -1,0 +1,2063 @@
+[
+  {
+    "id": "love-equal-love",
+    "title": "＝LOVE",
+    "normalizedTitle": "love",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "＝LOVE",
+        "releaseType": "single",
+        "releaseDate": "2017-09-06",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      },
+      {
+        "releaseTitle": "全部、内緒。",
+        "releaseType": "album",
+        "releaseDate": "2021-05-12",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia",
+        "=LOVE Official Website"
+      ],
+      "notes": "1st Single Title track."
+    },
+    "needsReview": false
+  },
+  {
+    "id": "love-kioku-no-doko-ka-de",
+    "title": "記憶のどこかで",
+    "normalizedTitle": "kiokunodokokade",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "＝LOVE",
+        "releaseType": "single",
+        "releaseDate": "2017-09-06",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia",
+        "=LOVE Official Website"
+      ],
+      "notes": "1st Single Coupling. Double Center: Noguchi Iori & Morohashi Sana."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-start",
+    "title": "スタート！",
+    "normalizedTitle": "start",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "＝LOVE",
+        "releaseType": "single",
+        "releaseDate": "2017-09-06",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia",
+        "=LOVE Official Website"
+      ],
+      "notes": "1st Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-seifuku-christmas",
+    "title": "僕らの制服クリスマス",
+    "normalizedTitle": "bokuranoseifukuchristmas",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "僕らの制服クリスマス",
+        "releaseType": "single",
+        "releaseDate": "2017-12-06",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      },
+      {
+        "releaseTitle": "全部、内緒。",
+        "releaseType": "album",
+        "releaseDate": "2021-05-12",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia",
+        "=LOVE Official Website"
+      ],
+      "notes": "2nd Single Title track. Center: Takamatsu Hitomi."
+    },
+    "needsReview": false
+  },
+  {
+    "id": "love-yokoso-ikolab-numa",
+    "title": "ようこそ！イコラブ沼",
+    "normalizedTitle": "yokosoikolabnuma",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "僕らの制服クリスマス",
+        "releaseType": "single",
+        "releaseDate": "2017-12-06",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "2nd Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-todoite-love-you",
+    "title": "届いてLOVE YOU♡",
+    "normalizedTitle": "todoiteloveyou",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "僕らの制服クリスマス",
+        "releaseType": "single",
+        "releaseDate": "2017-12-06",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "2nd Single Coupling. Center: Saito Nagisa."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-teokure-caution",
+    "title": "手遅れcaution",
+    "normalizedTitle": "teokurecaution",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "手遅れcaution",
+        "releaseType": "single",
+        "releaseDate": "2018-05-16",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      },
+      {
+        "releaseTitle": "全部、内緒。",
+        "releaseType": "album",
+        "releaseDate": "2021-05-12",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "3rd Single Title track."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-bukatsu-chu-me-ga-au",
+    "title": "部活中に目が合うなって思ってたんだ",
+    "normalizedTitle": "bukatsuchunimegaaunatteomottetanda",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "手遅れcaution",
+        "releaseType": "single",
+        "releaseDate": "2018-05-16",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "3rd Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-kiara-tasuke-ni-kita-zo",
+    "title": "樹愛羅、助けに来たぞ",
+    "normalizedTitle": "kiaratasukenikitazo",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "手遅れcaution",
+        "releaseType": "single",
+        "releaseDate": "2018-05-16",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "3rd Single Coupling. Center: Saito Kiara."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-want-you-want-you",
+    "title": "Want you! Want you!",
+    "normalizedTitle": "wantyouwantyou",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "Want you! Want you!",
+        "releaseType": "single",
+        "releaseDate": "2018-10-17",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      },
+      {
+        "releaseTitle": "全部、内緒。",
+        "releaseType": "album",
+        "releaseDate": "2021-05-12",
+        "trackNumber": 4,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "4th Single Title track. Center: Takamatsu Hitomi."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-ima-kono-fune-ni-nore",
+    "title": "今、この船に乗れ！",
+    "normalizedTitle": "imakonofuneninore",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "Want you! Want you!",
+        "releaseType": "single",
+        "releaseDate": "2018-10-17",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "4th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-aikatsu-happy-end",
+    "title": "アイカツハッピーエンド",
+    "normalizedTitle": "aikatsuhappyend",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "Want you! Want you!",
+        "releaseType": "single",
+        "releaseDate": "2018-10-17",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "4th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-diamond-lily",
+    "title": "探せ ダイヤモンドリリー",
+    "normalizedTitle": "sagasediamondlily",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "探せ ダイヤモンドリリー",
+        "releaseType": "single",
+        "releaseDate": "2019-04-24",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      },
+      {
+        "releaseTitle": "全部、内緒。",
+        "releaseType": "album",
+        "releaseDate": "2021-05-12",
+        "trackNumber": 5,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "5th Single Title track. Center: Takamatsu Hitomi."
+    },
+    "needsReview": false
+  },
+  {
+    "id": "love-iranai-twin-tail",
+    "title": "いらない ツインテール",
+    "normalizedTitle": "iranaitwintail",
+    "group": "equal-love",
+    "category": "unit",
+    "releases": [
+      {
+        "releaseTitle": "探せ ダイヤモンドリリー",
+        "releaseType": "single",
+        "releaseDate": "2019-04-24",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "5th Single Coupling. Double Center: Saito Kiara & Saito Nagisa."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-niji-no-moto",
+    "title": "虹の素",
+    "normalizedTitle": "nijinomoto",
+    "group": "equal-love",
+    "category": "unit",
+    "releases": [
+      {
+        "releaseTitle": "探せ ダイヤモンドリリー",
+        "releaseType": "single",
+        "releaseDate": "2019-04-24",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "5th Single Coupling. Unit by Noguchi Iori & Sasaki Maika."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-zuruiyo-zuruine",
+    "title": "ズルいよ ズルいね",
+    "normalizedTitle": "zuruiyozuruine",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "ズルいよ ズルいね",
+        "releaseType": "single",
+        "releaseDate": "2019-10-30",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      },
+      {
+        "releaseTitle": "全部、内緒。",
+        "releaseType": "album",
+        "releaseDate": "2021-05-12",
+        "trackNumber": 6,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "6th Single Title track."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-sweetest-girl",
+    "title": "Sweetest girl",
+    "normalizedTitle": "sweetestgirl",
+    "group": "equal-love",
+    "category": "unit",
+    "releases": [
+      {
+        "releaseTitle": "ズルいよ ズルいね",
+        "releaseType": "single",
+        "releaseDate": "2019-10-30",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "6th Single Coupling. Otani, Otoshima, Saito K, Saito N, Morohashi unit."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-oshi-no-iru-sekai",
+    "title": "推しのいる世界",
+    "normalizedTitle": "oshinoirusekai",
+    "group": "equal-love",
+    "category": "unit",
+    "releases": [
+      {
+        "releaseTitle": "ズルいよ ズルいね",
+        "releaseType": "single",
+        "releaseDate": "2019-10-30",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "6th Single Coupling. Sasaki, Takamatsu, Takiwaki, Noguchi, Yamamoto unit."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-cameo",
+    "title": "CAMEO",
+    "normalizedTitle": "cameo",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "CAMEO",
+        "releaseType": "single",
+        "releaseDate": "2020-07-08",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      },
+      {
+        "releaseTitle": "全部、内緒。",
+        "releaseType": "album",
+        "releaseDate": "2021-05-12",
+        "trackNumber": 7,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "7th Single Title track. Double Center: Otani Emiri & Noguchi Iori."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-kimi-to-watashi-no-uta",
+    "title": "君と私の歌",
+    "normalizedTitle": "kimitowatashinouta",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "CAMEO",
+        "releaseType": "single",
+        "releaseDate": "2020-07-08",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "7th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-my-voice-is-for-you",
+    "title": "My Voice Is For You",
+    "normalizedTitle": "myvoiceisforyou",
+    "group": "equal-love",
+    "category": "solo",
+    "releases": [
+      {
+        "releaseTitle": "CAMEO",
+        "releaseType": "single",
+        "releaseDate": "2020-07-08",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "7th Single Coupling. Solo song by Morohashi Sana."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-seishun-subliminal",
+    "title": "青春“サブリミナル”",
+    "normalizedTitle": "seishunsubliminal",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "青春“サブリミナル”",
+        "releaseType": "single",
+        "releaseDate": "2020-11-25",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      },
+      {
+        "releaseTitle": "全部、内緒。",
+        "releaseType": "album",
+        "releaseDate": "2021-05-12",
+        "trackNumber": 8,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "8th Single Title track. Center: Takamatsu Hitomi."
+    },
+    "needsReview": false
+  },
+  {
+    "id": "love-shukipi",
+    "title": "しゅきぴ",
+    "normalizedTitle": "shukipi",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "青春“サブリミナル”",
+        "releaseType": "single",
+        "releaseDate": "2020-11-25",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "8th Single Coupling. Center: Sasaki Maika."
+    },
+    "needsReview": false
+  },
+  {
+    "id": "love-ryuseigun",
+    "title": "流星群",
+    "normalizedTitle": "ryuseigun",
+    "group": "equal-love",
+    "category": "unit",
+    "releases": [
+      {
+        "releaseTitle": "青春“サブリミナル”",
+        "releaseType": "single",
+        "releaseDate": "2020-11-25",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "8th Single Coupling. Unit by Takamatsu Hitomi & Saito Nagisa."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-sakura-no-saku-oto-ga-shita",
+    "title": "桜の咲く音がした",
+    "normalizedTitle": "sakuranosakuotogashita",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "全部、内緒。",
+        "releaseType": "album",
+        "releaseDate": "2021-05-12",
+        "trackNumber": 9,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "1st Album Lead track."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-oh-darling",
+    "title": "Oh！Darling",
+    "normalizedTitle": "ohdarling",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "全部、内緒。",
+        "releaseType": "album",
+        "releaseDate": "2021-05-12",
+        "trackNumber": 10,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "1st Album track."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-senoby-in-love",
+    "title": "セノビーインラブ",
+    "normalizedTitle": "senobyinlove",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "全部、内緒。",
+        "releaseType": "album",
+        "releaseDate": "2021-05-12",
+        "trackNumber": 11,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "1st Album track."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-cinema",
+    "title": "cinema",
+    "normalizedTitle": "cinema",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "全部、内緒。",
+        "releaseType": "album",
+        "releaseDate": "2021-05-12",
+        "trackNumber": 12,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "1st Album track."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-haikei-anatadoma",
+    "title": "拝啓 貴方様",
+    "normalizedTitle": "haikeianatadoma",
+    "group": "equal-love",
+    "category": "solo",
+    "releases": [
+      {
+        "releaseTitle": "全部、内緒。",
+        "releaseType": "album",
+        "releaseDate": "2021-05-12",
+        "trackNumber": 13,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "1st Album Solo track. Solo: Noguchi Iori."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-geneki-idol-chu",
+    "title": "現役アイドルちゅ〜",
+    "normalizedTitle": "genekiidolchu",
+    "group": "equal-love",
+    "category": "solo",
+    "releases": [
+      {
+        "releaseTitle": "全部、内緒。",
+        "releaseType": "album",
+        "releaseDate": "2021-05-12",
+        "trackNumber": 14,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "1st Album Solo track. Solo: Saito Nagisa."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-24-7",
+    "title": "24/7",
+    "normalizedTitle": "247",
+    "group": "equal-love",
+    "category": "unit",
+    "releases": [
+      {
+        "releaseTitle": "全部、内緒。",
+        "releaseType": "album",
+        "releaseDate": "2021-05-12",
+        "trackNumber": 15,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "1st Album Unit track."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-onesan-ja-dame-desuka",
+    "title": "お姉さんじゃダメですか？",
+    "normalizedTitle": "onesanjadamedesuka",
+    "group": "equal-love",
+    "category": "unit",
+    "releases": [
+      {
+        "releaseTitle": "全部、内緒。",
+        "releaseType": "album",
+        "releaseDate": "2021-05-12",
+        "trackNumber": 16,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "1st Album Unit track."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-weekend-citron",
+    "title": "ウィークエンドシトロン",
+    "normalizedTitle": "weekendcitron",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "ウィークエンドシトロン",
+        "releaseType": "single",
+        "releaseDate": "2021-08-25",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "9th Single Title track. Center: Takamatsu Hitomi."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-zuttomo-anken",
+    "title": "ズッ友案件",
+    "normalizedTitle": "zuttomoanken",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "ウィークエンドシトロン",
+        "releaseType": "single",
+        "releaseDate": "2021-08-25",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "9th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-natsumatsuri-renbo-tahu",
+    "title": "夏祭り恋慕う",
+    "normalizedTitle": "natsumatsurirenbo",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "ウィークエンドシトロン",
+        "releaseType": "single",
+        "releaseDate": "2021-08-25",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "9th Single Coupling. Center: Sasaki Maika."
+    },
+    "needsReview": false
+  },
+  {
+    "id": "love-shukusai",
+    "title": "祝祭",
+    "normalizedTitle": "shukusai",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "ウィークエンドシトロン",
+        "releaseType": "single",
+        "releaseDate": "2021-08-25",
+        "trackNumber": 4,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "9th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-the-5th",
+    "title": "The 5th",
+    "normalizedTitle": "the5th",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "The 5th",
+        "releaseType": "single",
+        "releaseDate": "2021-12-15",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "10th Single Title track. Center: Takamatsu Hitomi."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-ohimesama-ni-shiteyo",
+    "title": "お姫様にしてよ！",
+    "normalizedTitle": "ohimesamanishiteyo",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "The 5th",
+        "releaseType": "single",
+        "releaseDate": "2021-12-15",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "10th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-poison-girl",
+    "title": "Poison Girl",
+    "normalizedTitle": "poisongirl",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "The 5th",
+        "releaseType": "single",
+        "releaseDate": "2021-12-15",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "10th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-bpm170-no-kimi-e",
+    "title": "BPM170の君へ",
+    "normalizedTitle": "bpm170nokimie",
+    "group": "equal-love",
+    "category": "unit",
+    "releases": [
+      {
+        "releaseTitle": "The 5th",
+        "releaseType": "single",
+        "releaseDate": "2021-12-15",
+        "trackNumber": 4,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "10th Single Coupling. Unit track."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-anoko-complex",
+    "title": "あの子コンプレックス",
+    "normalizedTitle": "anokocomplex",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "あの子コンプレックス",
+        "releaseType": "single",
+        "releaseDate": "2022-05-25",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "11th Single Title track. Center: Sasaki Maika."
+    },
+    "needsReview": false
+  },
+  {
+    "id": "love-egao-no-recipe",
+    "title": "笑顔のレシピ",
+    "normalizedTitle": "egaonorecipe",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "あの子コンプレックス",
+        "releaseType": "single",
+        "releaseDate": "2022-05-25",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "11th Single Coupling. Center: Yamamoto Anna."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-shirangedo",
+    "title": "知らんけど",
+    "normalizedTitle": "shirangedo",
+    "group": "equal-love",
+    "category": "unit",
+    "releases": [
+      {
+        "releaseTitle": "あの子コンプレックス",
+        "releaseType": "single",
+        "releaseDate": "2022-05-25",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "11th Single Coupling. Unit: Sasaki Maika, Noguchi Iori, Morohashi Sana."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-boku-no-heroine",
+    "title": "僕のヒロイン",
+    "normalizedTitle": "bokunoheroine",
+    "group": "equal-love",
+    "category": "solo",
+    "releases": [
+      {
+        "releaseTitle": "あの子コンプレックス",
+        "releaseType": "single",
+        "releaseDate": "2022-05-25",
+        "trackNumber": 4,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "11th Single Coupling. Solo: Takamatsu Hitomi."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-be-selfish",
+    "title": "Be Selfish",
+    "normalizedTitle": "beselfish",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "Be Selfish",
+        "releaseType": "single",
+        "releaseDate": "2022-09-28",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "12th Single Title track. Center: Noguchi Iori."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-sukitte-ienakatta",
+    "title": "好きって、言えなかった",
+    "normalizedTitle": "sukitteienakatta",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "Be Selfish",
+        "releaseType": "single",
+        "releaseDate": "2022-09-28",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "12th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-watashi-mahotsukai",
+    "title": "わたし、魔法使い",
+    "normalizedTitle": "watashimahotsukai",
+    "group": "equal-love",
+    "category": "unit",
+    "releases": [
+      {
+        "releaseTitle": "Be Selfish",
+        "releaseType": "single",
+        "releaseDate": "2022-09-28",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "12th Single Coupling. Unit by Otani Emiri & Saito Nagisa."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-mayonaka-mermaid",
+    "title": "真夜中マーメイド",
+    "normalizedTitle": "mayonakamermaid",
+    "group": "equal-love",
+    "category": "solo",
+    "releases": [
+      {
+        "releaseTitle": "Be Selfish",
+        "releaseType": "single",
+        "releaseDate": "2022-09-28",
+        "trackNumber": 4,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "12th Single Coupling. Solo: Sasaki Maika."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-kono-sora-ga-trigger",
+    "title": "この空がトリガー",
+    "normalizedTitle": "konosoragatrigger",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "この空がトリガー",
+        "releaseType": "single",
+        "releaseDate": "2023-02-22",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "13th Single Title track. Center: Sasaki Maika."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-love-create",
+    "title": "ラブクリエイト",
+    "normalizedTitle": "lovecreate",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "この空がトリガー",
+        "releaseType": "single",
+        "releaseDate": "2023-02-22",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "13th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-junkies",
+    "title": "Junkies",
+    "normalizedTitle": "junkies",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "この空がトリガー",
+        "releaseType": "single",
+        "releaseDate": "2023-02-22",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "13th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-kiara-tiara",
+    "title": "Kiara Tiara",
+    "normalizedTitle": "kiaratiara",
+    "group": "equal-love",
+    "category": "solo",
+    "releases": [
+      {
+        "releaseTitle": "この空がトリガー",
+        "releaseType": "single",
+        "releaseDate": "2023-02-22",
+        "trackNumber": 4,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "13th Single Coupling. Solo: Saito Kiara."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-natsumatope",
+    "title": "ナツマトペ",
+    "normalizedTitle": "natsumatope",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "ナツマトペ",
+        "releaseType": "single",
+        "releaseDate": "2023-07-19",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "14th Single Title track. Double Center: Sasaki Maika & Noguchi Iori."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-dakatote",
+    "title": "だからとて",
+    "normalizedTitle": "dakatote",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "ナツマトペ",
+        "releaseType": "single",
+        "releaseDate": "2023-07-19",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "14th Single Coupling. Center: Noguchi Iori."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-heroines",
+    "title": "ヒロインズ",
+    "normalizedTitle": "heroines",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "ナツマトペ",
+        "releaseType": "single",
+        "releaseDate": "2023-07-19",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "14th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-la-rocket",
+    "title": "ラブロケ",
+    "normalizedTitle": "larocket",
+    "group": "equal-love",
+    "category": "unit",
+    "releases": [
+      {
+        "releaseTitle": "ナツマトペ",
+        "releaseType": "single",
+        "releaseDate": "2023-07-19",
+        "trackNumber": 4,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "14th Single Coupling. Otani, Saito K, Sasaki, Takamatsu, Noguchi, Morohashi unit."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-last-note-shika-shiranai",
+    "title": "ラストノートしか知らない",
+    "normalizedTitle": "lastnoteshikashiranai",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "ラストノートしか知らない",
+        "releaseType": "single",
+        "releaseDate": "2023-11-29",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "15th Single Title track. Center: Saito Kiara."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-drive-date-tonai",
+    "title": "「ドライブ デート 都内」",
+    "normalizedTitle": "drivedatetonai",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "ラストノートしか知らない",
+        "releaseType": "single",
+        "releaseDate": "2023-11-29",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "15th Single Coupling."
+    },
+    "enabled": true,
+    "enabledForRecommendation": true
+  },
+  {
+    "id": "love-kyoso-catastrophe",
+    "title": "狂想カタストロフィ",
+    "normalizedTitle": "kyosocatastrophe",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "ラストノートしか知らない",
+        "releaseType": "single",
+        "releaseDate": "2023-11-29",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "15th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-doko-ga-suki-ka-itte",
+    "title": "どこが好きか言って",
+    "normalizedTitle": "dokogasakikaitte",
+    "group": "equal-love",
+    "category": "unit",
+    "releases": [
+      {
+        "releaseTitle": "ラストノートしか知らない",
+        "releaseType": "single",
+        "releaseDate": "2023-11-29",
+        "trackNumber": 4,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "15th Single Coupling. Otani, Sasaki, Noguchi, Morohashi unit."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-norotte-norotte",
+    "title": "呪って呪って",
+    "normalizedTitle": "norottenorotte",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "呪って呪って",
+        "releaseType": "single",
+        "releaseDate": "2024-03-06",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "16th Single Title track. Center: Sasaki Maika."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-dare-nimo-barezu-ni",
+    "title": "誰にもバレずに",
+    "normalizedTitle": "darenimobarezuni",
+    "group": "equal-love",
+    "category": "solo",
+    "releases": [
+      {
+        "releaseTitle": "呪って呪って",
+        "releaseType": "single",
+        "releaseDate": "2024-03-06",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "16th Single Coupling. Solo: Sasaki Maika."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-zettai-idol-yamenaide",
+    "title": "絶対アイドル辞めないで",
+    "normalizedTitle": "zettaiidolyamenaide",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "絶対アイドル辞めないで",
+        "releaseType": "single",
+        "releaseDate": "2024-07-31",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "17th Single Title track. Center: Sasaki Maika."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-nakanaori-cream",
+    "title": "仲直りシュークリーム",
+    "normalizedTitle": "nakanaorishucream",
+    "group": "equal-love",
+    "category": "unit",
+    "releases": [
+      {
+        "releaseTitle": "絶対アイドル辞めないで",
+        "releaseType": "single",
+        "releaseDate": "2024-07-31",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "17th Single Coupling. Unit track."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-umi-to-lemontea",
+    "title": "海とレモンティー",
+    "normalizedTitle": "umitolemontea",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "絶対アイドル辞めないで",
+        "releaseType": "single",
+        "releaseDate": "2024-07-31",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "17th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-tokubechu-shite",
+    "title": "とくべチュ、して",
+    "normalizedTitle": "tokubechushite",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "とくべチュ、して/恋人以上、好き未満",
+        "releaseType": "single",
+        "releaseDate": "2025-02-26",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "18th Single Title track (Double A-side)."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-koibito-ijo-suki-miman",
+    "title": "恋人以上、好き未満",
+    "normalizedTitle": "koibitoijosukimiman",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "とくべチュ、して/恋人以上、好き未満",
+        "releaseType": "single",
+        "releaseDate": "2025-02-26",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "18th Single Title track (Double A-side)."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-chotokkyu-toso-chu",
+    "title": "超特急逃走中",
+    "normalizedTitle": "chotokkyutosochu",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "とくべチュ、して/恋人以上、好き未満",
+        "releaseType": "single",
+        "releaseDate": "2025-02-26",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "18th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-lovesong-ni-osowareru",
+    "title": "ラブソングに襲われる",
+    "normalizedTitle": "lovesongniosowareru",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "ラブソングに襲われる",
+        "releaseType": "single",
+        "releaseDate": "2025-10-08",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "19th Single Title track."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-komorebi-mezzo-forte",
+    "title": "木漏れ日メゾフォルテ",
+    "normalizedTitle": "komorebimezzoforte",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "ラブソングに襲われる",
+        "releaseType": "single",
+        "releaseDate": "2025-10-08",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "19th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-queens",
+    "title": "Queens",
+    "normalizedTitle": "queens",
+    "group": "equal-love",
+    "category": "unit",
+    "releases": [
+      {
+        "releaseTitle": "ラブソングに襲われる",
+        "releaseType": "single",
+        "releaseDate": "2025-10-08",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "19th Single Coupling. Unit by Saito Kiara & Noguchi Iori."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-gekiyaku-chudoku",
+    "title": "劇薬中毒",
+    "normalizedTitle": "gekiyakuchudoku",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "劇薬中毒",
+        "releaseType": "single",
+        "releaseDate": "2026-04-01",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "20th Single Title track."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-moratorium",
+    "title": "モラトリアム",
+    "normalizedTitle": "moratorium",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "劇薬中毒",
+        "releaseType": "single",
+        "releaseDate": "2026-04-01",
+        "trackNumber": 2,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "20th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-ohimesama-no-tsukurikata",
+    "title": "お姫様の作り方",
+    "normalizedTitle": "ohimesamanotsukurikata",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "劇薬中毒",
+        "releaseType": "single",
+        "releaseDate": "2026-04-01",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "20th Single Coupling."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-kimi-dake-no-hanamichi",
+    "title": "君だけの花道",
+    "normalizedTitle": "kimidakenohanamichi",
+    "group": "equal-love",
+    "category": "solo",
+    "releases": [
+      {
+        "releaseTitle": "君だけの花道",
+        "releaseType": "digital",
+        "releaseDate": "2023-03-22",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "Digital Single. Saito Nagisa graduation solo track."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-okaeri-hanadayori",
+    "title": "おかえり、花便り",
+    "normalizedTitle": "okaerihanadayori",
+    "group": "equal-love",
+    "category": "solo",
+    "releases": [
+      {
+        "releaseTitle": "おかえり、花便り",
+        "releaseType": "digital",
+        "releaseDate": "2023-03-28",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "Digital Single. Yamamoto Anna solo track."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-takaramono-wa-green",
+    "title": "宝物はグリーン",
+    "normalizedTitle": "takaramonowagreen",
+    "group": "equal-love",
+    "category": "solo",
+    "releases": [
+      {
+        "releaseTitle": "宝物はグリーン",
+        "releaseType": "digital",
+        "releaseDate": "2023-11-29",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "Digital Single. Morohashi Sana solo track."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-naishobanashi",
+    "title": "内緒バナシ",
+    "normalizedTitle": "naishobanashi",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "内緒バナシ",
+        "releaseType": "digital",
+        "releaseDate": "2025-08-22",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "Digital Single. Center: Otani Emiri."
+    },
+    "needsReview": true
+  },
+  {
+    "id": "love-triple-date",
+    "title": "トリプルデート",
+    "normalizedTitle": "tripledate",
+    "group": "equal-love",
+    "category": "other",
+    "releases": [
+      {
+        "releaseTitle": "トリプルデート",
+        "releaseType": "digital",
+        "releaseDate": "2022-07-20",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "IKONOIJOY Joint song."
+    },
+    "needsReview": true,
+    "enabled": false,
+    "enabledForRecommendation": false
+  },
+  {
+    "id": "love-kimi-no-dai3-button",
+    "title": "君の第3ボタン",
+    "normalizedTitle": "君の第3ボタン",
+    "group": "equal-love",
+    "category": "group",
+    "releases": [
+      {
+        "releaseTitle": "呪って呪って",
+        "releaseType": "single",
+        "releaseDate": "2024-03-06",
+        "trackNumber": 3,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [],
+      "notes": "16th Single Coupling."
+    },
+    "needsReview": true
+  }
+]

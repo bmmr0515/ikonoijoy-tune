@@ -1,0 +1,29 @@
+[
+  {
+    "id": "love-triple-date",
+    "title": "トリプルデート",
+    "normalizedTitle": "tripledate",
+    "group": "equal-love",
+    "category": "other",
+    "releases": [
+      {
+        "releaseTitle": "トリプルデート",
+        "releaseType": "digital",
+        "releaseDate": "2022-07-20",
+        "trackNumber": 1,
+        "sourceUrl": "https://equal-love.jp/discography/"
+      }
+    ],
+    "factualVerification": {
+      "titleVerified": true,
+      "releaseVerified": true,
+      "verifiedSources": [
+        "Wikipedia"
+      ],
+      "notes": "IKONOIJOY Joint song."
+    },
+    "needsReview": true,
+    "enabled": false,
+    "enabledForRecommendation": false
+  }
+]

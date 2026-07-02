@@ -1,0 +1,1624 @@
+[
+  {
+    "id": "love-equal-love",
+    "group": "equal-love",
+    "title": "＝LOVE",
+    "normalizedTitle": "love",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-kioku-no-doko-ka-de",
+    "group": "equal-love",
+    "title": "記憶のどこかで",
+    "normalizedTitle": "記憶のどこかで",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-start",
+    "group": "equal-love",
+    "title": "スタート！",
+    "normalizedTitle": "スタト",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-seifuku-christmas",
+    "group": "equal-love",
+    "title": "僕らの制服クリスマス",
+    "normalizedTitle": "僕らの制服クリスマス",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-yokoso-ikolab-numa",
+    "group": "equal-love",
+    "title": "ようこそ！イコラブ沼",
+    "normalizedTitle": "ようこそイコラブ沼",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-todoite-love-you",
+    "group": "equal-love",
+    "title": "届いてLOVE YOU♡",
+    "normalizedTitle": "届いてloveyou♡",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-teokure-caution",
+    "group": "equal-love",
+    "title": "手遅れcaution",
+    "normalizedTitle": "手遅れcaution",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-bukatsu-chu-me-ga-au",
+    "group": "equal-love",
+    "title": "部活中に目が合うなって思ってたんだ",
+    "normalizedTitle": "部活中に目が合うなって思ってたんだ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-kiara-tasuke-ni-kita-zo",
+    "group": "equal-love",
+    "title": "樹愛羅、助けに来たぞ",
+    "normalizedTitle": "樹愛羅、助けに来たぞ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-want-you-want-you",
+    "group": "equal-love",
+    "title": "Want you! Want you!",
+    "normalizedTitle": "wantyouwantyou",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-ima-kono-fune-ni-nore",
+    "group": "equal-love",
+    "title": "今、この船に乗れ！",
+    "normalizedTitle": "今、この船に乗れ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-aikatsu-happy-end",
+    "group": "equal-love",
+    "title": "アイカツハッピーエンド",
+    "normalizedTitle": "アイカツハッピエンド",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-diamond-lily",
+    "group": "equal-love",
+    "title": "探せ ダイヤモンドリリー",
+    "normalizedTitle": "探せダイヤモンドリリ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-zuruiyo-zuruine",
+    "group": "equal-love",
+    "title": "ズルいよ ズルいね",
+    "normalizedTitle": "ズルいよズルいね",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-cameo",
+    "group": "equal-love",
+    "title": "CAMEO",
+    "normalizedTitle": "cameo",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-kimi-to-watashi-no-uta",
+    "group": "equal-love",
+    "title": "君と私の歌",
+    "normalizedTitle": "君と私の歌",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-seishun-subliminal",
+    "group": "equal-love",
+    "title": "青春“サブリミナル”",
+    "normalizedTitle": "青春サブリミナル",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-shukipi",
+    "group": "equal-love",
+    "title": "しゅきぴ",
+    "normalizedTitle": "しゅきぴ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-weekend-citron",
+    "group": "equal-love",
+    "title": "ウィークエンドシトロン",
+    "normalizedTitle": "ウィクエンドシトロン",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-zuttomo-anken",
+    "group": "equal-love",
+    "title": "ズッ友案件",
+    "normalizedTitle": "ズッ友案件",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-natsumatsuri-renbo-tahu",
+    "group": "equal-love",
+    "title": "夏祭り恋慕う",
+    "normalizedTitle": "夏祭り恋慕う",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-shukusai",
+    "group": "equal-love",
+    "title": "祝祭",
+    "normalizedTitle": "祝祭",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-the-5th",
+    "group": "equal-love",
+    "title": "The 5th",
+    "normalizedTitle": "the5th",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-ohimesama-ni-shiteyo",
+    "group": "equal-love",
+    "title": "お姫様にしてよ！",
+    "normalizedTitle": "お姫様にしてよ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-poison-girl",
+    "group": "equal-love",
+    "title": "Poison Girl",
+    "normalizedTitle": "poisongirl",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-anoko-complex",
+    "group": "equal-love",
+    "title": "あの子コンプレックス",
+    "normalizedTitle": "あの子コンプレックス",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-egao-no-recipe",
+    "group": "equal-love",
+    "title": "笑顔のレシピ",
+    "normalizedTitle": "笑顔のレシピ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-be-selfish",
+    "group": "equal-love",
+    "title": "Be Selfish",
+    "normalizedTitle": "beselfish",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-sukitte-ienakatta",
+    "group": "equal-love",
+    "title": "好きって、言えなかった",
+    "normalizedTitle": "好きって、言えなかった",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-kono-sora-ga-trigger",
+    "group": "equal-love",
+    "title": "この空がトリガー",
+    "normalizedTitle": "この空がトリガ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-love-create",
+    "group": "equal-love",
+    "title": "ラブクリエイト",
+    "normalizedTitle": "ラブクリエイト",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-junkies",
+    "group": "equal-love",
+    "title": "Junkies",
+    "normalizedTitle": "junkies",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-natsumatope",
+    "group": "equal-love",
+    "title": "ナツマトペ",
+    "normalizedTitle": "ナツマトペ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-dakatote",
+    "group": "equal-love",
+    "title": "だからとて",
+    "normalizedTitle": "だからとて",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-heroines",
+    "group": "equal-love",
+    "title": "ヒロインズ",
+    "normalizedTitle": "ヒロインズ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-last-note-shika-shiranai",
+    "group": "equal-love",
+    "title": "ラストノートしか知らない",
+    "normalizedTitle": "ラストノトしか知らない",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-drive-date-tonai",
+    "group": "equal-love",
+    "title": "「ドライブ デート 都内」",
+    "normalizedTitle": "ドライブデト都内",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-kyoso-catastrophe",
+    "group": "equal-love",
+    "title": "狂想カタストロフィ",
+    "normalizedTitle": "狂想カタストロフィ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-norotte-norotte",
+    "group": "equal-love",
+    "title": "呪って呪って",
+    "normalizedTitle": "呪って呪って",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-zettai-idol-yamenaide",
+    "group": "equal-love",
+    "title": "絶対アイドル辞めないで",
+    "normalizedTitle": "絶対アイドル辞めないで",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-umi-to-lemontea",
+    "group": "equal-love",
+    "title": "海とレモンティー",
+    "normalizedTitle": "海とレモンティ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-tokubechu-shite",
+    "group": "equal-love",
+    "title": "とくべチュ、して",
+    "normalizedTitle": "とくべチュ、して",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-koibito-ijo-suki-miman",
+    "group": "equal-love",
+    "title": "恋人以上、好き未満",
+    "normalizedTitle": "恋人以上、好き未満",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-chotokkyu-toso-chu",
+    "group": "equal-love",
+    "title": "超特急逃走中",
+    "normalizedTitle": "超特急逃走中",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-lovesong-ni-osowareru",
+    "group": "equal-love",
+    "title": "ラブソングに襲われる",
+    "normalizedTitle": "ラブソングに襲われる",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-komorebi-mezzo-forte",
+    "group": "equal-love",
+    "title": "木漏れ日メゾフォルテ",
+    "normalizedTitle": "木漏れ日メゾフォルテ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-gekiyaku-chudoku",
+    "group": "equal-love",
+    "title": "劇薬中毒",
+    "normalizedTitle": "劇薬中毒",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-moratorium",
+    "group": "equal-love",
+    "title": "モラトリアム",
+    "normalizedTitle": "モラトリアム",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-ohimesama-no-tsukurikata",
+    "group": "equal-love",
+    "title": "お姫様の作り方",
+    "normalizedTitle": "お姫様の作り方",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-naishobanashi",
+    "group": "equal-love",
+    "title": "内緒バナシ",
+    "normalizedTitle": "内緒バナシ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-kimi-no-dai3-button",
+    "group": "equal-love",
+    "title": "君の第3ボタン",
+    "normalizedTitle": "君の第3ボタン",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-sakura-no-saku-oto-ga-shita",
+    "group": "equal-love",
+    "title": "桜の咲く音がした",
+    "normalizedTitle": "桜の咲く音がした",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-oh-darling",
+    "group": "equal-love",
+    "title": "Oh！Darling",
+    "normalizedTitle": "ohdarling",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-senoby-in-love",
+    "group": "equal-love",
+    "title": "セノビーインラブ",
+    "normalizedTitle": "セノビインラブ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-cinema",
+    "group": "equal-love",
+    "title": "cinema",
+    "normalizedTitle": "cinema",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-iranai-twin-tail",
+    "group": "equal-love",
+    "title": "いらない ツインテール",
+    "normalizedTitle": "いらないツインテル",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-niji-no-moto",
+    "group": "equal-love",
+    "title": "虹の素",
+    "normalizedTitle": "虹の素",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-sweetest-girl",
+    "group": "equal-love",
+    "title": "Sweetest girl",
+    "normalizedTitle": "sweetestgirl",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-oshi-no-iru-sekai",
+    "group": "equal-love",
+    "title": "推しのいる世界",
+    "normalizedTitle": "推しのいる世界",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-my-voice-is-for-you",
+    "group": "equal-love",
+    "title": "My Voice Is For You",
+    "normalizedTitle": "myvoiceisforyou",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-ryuseigun",
+    "group": "equal-love",
+    "title": "流星群",
+    "normalizedTitle": "流星群",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-haikei-anatadoma",
+    "group": "equal-love",
+    "title": "拝啓 貴方様",
+    "normalizedTitle": "拝啓貴方様",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-geneki-idol-chu",
+    "group": "equal-love",
+    "title": "現役アイドルちゅ〜",
+    "normalizedTitle": "現役アイドルちゅ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-24-7",
+    "group": "equal-love",
+    "title": "24/7",
+    "normalizedTitle": "24/7",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-onesan-ja-dame-desuka",
+    "group": "equal-love",
+    "title": "お姉さんじゃダメですか？",
+    "normalizedTitle": "お姉さんじゃダメですか",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-bpm170-no-kimi-e",
+    "group": "equal-love",
+    "title": "BPM170の君へ",
+    "normalizedTitle": "bpm170の君へ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-shirangedo",
+    "group": "equal-love",
+    "title": "知らんけど",
+    "normalizedTitle": "知らんけど",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-boku-no-heroine",
+    "group": "equal-love",
+    "title": "僕のヒロイン",
+    "normalizedTitle": "僕のヒロイン",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-watashi-mahotsukai",
+    "group": "equal-love",
+    "title": "わたし、魔法使い",
+    "normalizedTitle": "わたし、魔法使い",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-mayonaka-mermaid",
+    "group": "equal-love",
+    "title": "真夜中マーメイド",
+    "normalizedTitle": "真夜中マメイド",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-kiara-tiara",
+    "group": "equal-love",
+    "title": "Kiara Tiara",
+    "normalizedTitle": "kiaratiara",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-la-rocket",
+    "group": "equal-love",
+    "title": "ラブロケ",
+    "normalizedTitle": "ラブロケ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-doko-ga-suki-ka-itte",
+    "group": "equal-love",
+    "title": "どこが好きか言って",
+    "normalizedTitle": "どこが好きか言って",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-dare-nimo-barezu-ni",
+    "group": "equal-love",
+    "title": "誰にもバレずに",
+    "normalizedTitle": "誰にもバレずに",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-nakanaori-cream",
+    "group": "equal-love",
+    "title": "仲直りシュークリーム",
+    "normalizedTitle": "仲直りシュクリム",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-queens",
+    "group": "equal-love",
+    "title": "Queens",
+    "normalizedTitle": "queens",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-kimi-dake-no-hanamichi",
+    "group": "equal-love",
+    "title": "君だけの花道",
+    "normalizedTitle": "君だけの花道",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-okaeri-hanadayori",
+    "group": "equal-love",
+    "title": "おかえり、花便り",
+    "normalizedTitle": "おかえり、花便り",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "love-takaramono-wa-green",
+    "group": "equal-love",
+    "title": "宝物はグリーン",
+    "normalizedTitle": "宝物はグリン",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-not-equal-me",
+    "group": "not-equal-me",
+    "title": "≠ME",
+    "normalizedTitle": "≠me",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-mahoroba-asterisk",
+    "group": "not-equal-me",
+    "title": "まほろばアスタリスク",
+    "normalizedTitle": "まほろばアスタリスク",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-chocolate-melancholy",
+    "group": "not-equal-me",
+    "title": "チョコレートメランコリー",
+    "normalizedTitle": "チョコレトメランコリ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-hanakami-short",
+    "group": "not-equal-me",
+    "title": "はにかみショート",
+    "normalizedTitle": "はにかみショト",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-peonies",
+    "group": "not-equal-me",
+    "title": "ピオニーズ",
+    "normalizedTitle": "ピオニズ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-kimi-wa-kono-natsu-koi-wo-suru",
+    "group": "not-equal-me",
+    "title": "君はこの夏、恋をする",
+    "normalizedTitle": "君はこの夏、恋をする",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-anti-confiture",
+    "group": "not-equal-me",
+    "title": "アンチコンフィチュール",
+    "normalizedTitle": "アンチコンフィチュル",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-last-chance-last-dance",
+    "group": "not-equal-me",
+    "title": "ラストチャンス、ラストダンス",
+    "normalizedTitle": "ラストチャンス、ラストダンス",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-su-suki-janai",
+    "group": "not-equal-me",
+    "title": "す、好きじゃない！",
+    "normalizedTitle": "す、好きじゃない",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-omowaseburikko",
+    "group": "not-equal-me",
+    "title": "想わせぶりっこ",
+    "normalizedTitle": "想わせぶりっこ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-miracle-road",
+    "group": "not-equal-me",
+    "title": "ミラクル！",
+    "normalizedTitle": "ミラクル",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-rainbow-melody",
+    "group": "not-equal-me",
+    "title": "虹が架かる瞬間",
+    "normalizedTitle": "虹が架かる瞬間",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-kimi-no-oto-datta-nda",
+    "group": "not-equal-me",
+    "title": "君の音だったんだ",
+    "normalizedTitle": "君の音だったんだ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-ai-kudasaimase",
+    "group": "not-equal-me",
+    "title": "愛くださいませ",
+    "normalizedTitle": "愛くださいませ",
+    "previousIds": [
+      "me-auto-track-1",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-koko-de-first-kiss",
+    "group": "not-equal-me",
+    "title": "ここでファーストキッス",
+    "normalizedTitle": "ここでファストキッス",
+    "previousIds": [
+      "me-auto-track-2",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-summerhaze",
+    "group": "not-equal-me",
+    "title": "Summer haze",
+    "normalizedTitle": "summerhaze",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-haitateki-fighter",
+    "group": "not-equal-me",
+    "title": "排他的ファイター",
+    "normalizedTitle": "排他的ファイタ",
+    "previousIds": [
+      "me-auto-track-3",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-kyunkawa-jinsei",
+    "group": "not-equal-me",
+    "title": "きゅんかわ人生",
+    "normalizedTitle": "きゅんかわ人生",
+    "previousIds": [
+      "me-auto-track-4",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-hanbunko-christmas",
+    "group": "not-equal-me",
+    "title": "はんぶんこクリスマス",
+    "normalizedTitle": "はんぶんこクリスマス",
+    "previousIds": [
+      "me-auto-track-5",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-mobunoderella",
+    "group": "not-equal-me",
+    "title": "モブノデレラ",
+    "normalizedTitle": "モブノデレラ",
+    "previousIds": [
+      "me-auto-track-6",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-kamisama-no-iutoori",
+    "group": "not-equal-me",
+    "title": "神様の言うとーり！",
+    "normalizedTitle": "神様の言うとり",
+    "previousIds": [
+      "me-auto-track-7",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-cafe-rakuen",
+    "group": "not-equal-me",
+    "title": "カフェ樂園",
+    "normalizedTitle": "カフェ樂園",
+    "previousIds": [
+      "me-auto-track-8",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-natsu-ga-kitakara",
+    "group": "not-equal-me",
+    "title": "夏が来たから",
+    "normalizedTitle": "夏が来たから",
+    "previousIds": [
+      "me-auto-track-9",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-gomen-majide",
+    "group": "not-equal-me",
+    "title": "ごめん、マジで",
+    "normalizedTitle": "ごめん、マジで",
+    "previousIds": [
+      "me-auto-track-10",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-saikyo-no-lovesong",
+    "group": "not-equal-me",
+    "title": "最強のラブソング",
+    "normalizedTitle": "最強のラブソング",
+    "previousIds": [
+      "me-auto-track-11",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-22",
+    "group": "not-equal-me",
+    "title": "デートの後、22時",
+    "normalizedTitle": "デトの後、22時",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-hatsukoi-comeback",
+    "group": "not-equal-me",
+    "title": "初恋カムバック",
+    "normalizedTitle": "初恋カムバック",
+    "previousIds": [
+      "me-auto-track-12",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-heroine-to-ookami",
+    "group": "not-equal-me",
+    "title": "ヒロインとオオカミ",
+    "normalizedTitle": "ヒロインとオオカミ",
+    "previousIds": [
+      "me-auto-track-13",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-tenshi-wa-dokohe",
+    "group": "not-equal-me",
+    "title": "天使は何処へ",
+    "normalizedTitle": "天使は何処へ",
+    "previousIds": [
+      "me-auto-track-14",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-2",
+    "group": "not-equal-me",
+    "title": "2時半ろけんろー",
+    "normalizedTitle": "2時半ろけんろ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-konomama-de-momentary",
+    "group": "not-equal-me",
+    "title": "このままでモーメンタリ",
+    "normalizedTitle": "このままでモメンタリ",
+    "previousIds": [
+      "me-auto-track-15",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-ultra-rare-kiss",
+    "group": "not-equal-me",
+    "title": "ウルトラレアキッス",
+    "normalizedTitle": "ウルトラレアキッス",
+    "previousIds": [
+      "me-auto-track-16",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-gekkabijin",
+    "group": "not-equal-me",
+    "title": "月下美人",
+    "normalizedTitle": "月下美人",
+    "previousIds": [
+      "me-auto-track-17",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-marshmallow-float",
+    "group": "not-equal-me",
+    "title": "マシュマロフロート",
+    "normalizedTitle": "マシュマロフロト",
+    "previousIds": [
+      "me-auto-track-18",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-floor-killer",
+    "group": "not-equal-me",
+    "title": "フロアキラー",
+    "normalizedTitle": "フロアキラ",
+    "previousIds": [
+      "me-auto-track-19",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-kochira-happy-tankentai",
+    "group": "not-equal-me",
+    "title": "こちらハッピー探検隊",
+    "normalizedTitle": "こちらハッピ探検隊",
+    "previousIds": [
+      "me-auto-track-20",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-summer-chocolate",
+    "group": "not-equal-me",
+    "title": "サマーチョコレート",
+    "normalizedTitle": "サマチョコレト",
+    "previousIds": [
+      "me-auto-track-21",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-momoiro-daybreak",
+    "group": "not-equal-me",
+    "title": "桃色デイブレイク",
+    "normalizedTitle": "桃色デイブレイク",
+    "previousIds": [
+      "me-auto-track-22",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-daremo-inai-mori-no-oku-de",
+    "group": "not-equal-me",
+    "title": "誰もいない森の奥で⼀本の⽊が倒れたら⾳はするか？",
+    "normalizedTitle": "誰もいない森の奥で⼀本の⽊が倒れたら⾳はするか",
+    "previousIds": [
+      "me-auto-track-23",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-sukida",
+    "group": "not-equal-me",
+    "title": "好きだ！！！",
+    "normalizedTitle": "好きだ",
+    "previousIds": [
+      "me-auto-track-24",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-bokutachi-no-image",
+    "group": "not-equal-me",
+    "title": "僕たちのイマージュ",
+    "normalizedTitle": "僕たちのイマジュ",
+    "previousIds": [
+      "me-auto-track-25",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-off-shoulder-knit",
+    "group": "not-equal-me",
+    "title": "#おふしょるにっと",
+    "normalizedTitle": "#おふしょるにっと",
+    "previousIds": [
+      "me-auto-track-26",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-kimi-wa-sparkle",
+    "group": "not-equal-me",
+    "title": "君はスパークル",
+    "normalizedTitle": "君はスパクル",
+    "previousIds": [
+      "me-auto-track-27",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-watashi-accent",
+    "group": "not-equal-me",
+    "title": "ワタシアクセント",
+    "normalizedTitle": "ワタシアクセント",
+    "previousIds": [
+      "me-auto-track-28",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-chozetsu-heroine",
+    "group": "not-equal-me",
+    "title": "超絶ヒロイン",
+    "normalizedTitle": "超絶ヒロイン",
+    "previousIds": [
+      "me-auto-track-29",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-overture",
+    "group": "not-equal-me",
+    "title": "Overture",
+    "normalizedTitle": "overture",
+    "previousIds": [],
+    "status": "disabled"
+  },
+  {
+    "id": "me-kimi-to-boku-no-uta",
+    "group": "not-equal-me",
+    "title": "君と僕の歌",
+    "normalizedTitle": "君と僕の歌",
+    "previousIds": [
+      "me-auto-track-30",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-kuhaku-no-hana",
+    "group": "not-equal-me",
+    "title": "空白の花",
+    "normalizedTitle": "空白の花",
+    "previousIds": [
+      "me-auto-track-31",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-p-i-c",
+    "group": "not-equal-me",
+    "title": "P.I.C.",
+    "normalizedTitle": "p.i.c.",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-teyuuka-mirutentte-nani",
+    "group": "not-equal-me",
+    "title": "てゆーか、みるてんって何？",
+    "normalizedTitle": "てゆか、みるてんって何",
+    "previousIds": [
+      "me-auto-track-32",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-himitsu-incident",
+    "group": "not-equal-me",
+    "title": "秘密インシデント",
+    "normalizedTitle": "秘密インシデント",
+    "previousIds": [
+      "me-auto-track-33",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-jibun-sanka",
+    "group": "not-equal-me",
+    "title": "自分賛歌",
+    "normalizedTitle": "自分賛歌",
+    "previousIds": [
+      "me-auto-track-34",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-ponytail-kyurun",
+    "group": "not-equal-me",
+    "title": "ポニーテール キュルン",
+    "normalizedTitle": "ポニテルキュルン",
+    "previousIds": [
+      "me-auto-track-35",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-hakumeikousen",
+    "group": "not-equal-me",
+    "title": "薄明光線",
+    "normalizedTitle": "薄明光線",
+    "previousIds": [
+      "me-auto-track-36",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-guuzen-symphony",
+    "group": "not-equal-me",
+    "title": "偶然シンフォニー",
+    "normalizedTitle": "偶然シンフォニ",
+    "previousIds": [
+      "me-auto-track-37",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-marcato",
+    "group": "not-equal-me",
+    "title": "Marcato",
+    "normalizedTitle": "marcato",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "me-date-zenya-requiem",
+    "group": "not-equal-me",
+    "title": "デート前夜レクイエム",
+    "normalizedTitle": "デト前夜レクイエム",
+    "previousIds": [
+      "me-auto-track-38",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "me-haru-no-koibito",
+    "group": "not-equal-me",
+    "title": "春の恋人",
+    "normalizedTitle": "春の恋人",
+    "previousIds": [
+      "me-auto-track-39",
+      "me-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "joy-denwabango-oshiete",
+    "group": "nearly-equal-joy",
+    "title": "電話番号教えて！",
+    "normalizedTitle": "電話番号教えて",
+    "previousIds": [
+      "joy-auto-track-1",
+      "joy-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "joy-feat-djalice",
+    "group": "nearly-equal-joy",
+    "title": "アマガミガール feat. DJ ALICE",
+    "normalizedTitle": "アマガミガルfeat.djalice",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "joy-ai-ga-itakatta",
+    "group": "nearly-equal-joy",
+    "title": "愛が痛かった",
+    "normalizedTitle": "愛が痛かった",
+    "previousIds": [
+      "joy-auto-track-2",
+      "joy-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "joy-denwabango-oshiete-mv",
+    "group": "nearly-equal-joy",
+    "title": "電話番号教えて！Music Video",
+    "normalizedTitle": "電話番号教えてmusicvideo",
+    "previousIds": [
+      "joy-auto-musicvideo-1",
+      "joy-"
+    ],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-denwabango-oshiete-making",
+    "group": "nearly-equal-joy",
+    "title": "電話番号教えて！メイキング映像",
+    "normalizedTitle": "電話番号教えてメイキング映像",
+    "previousIds": [
+      "joy-auto-track-3",
+      "joy-"
+    ],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-enjoybu-yokohama-2",
+    "group": "nearly-equal-joy",
+    "title": "ニアジョイ エンジョイ部 横浜★運試しツアー 後編",
+    "normalizedTitle": "ニアジョイエンジョイ部横浜★運試しツア後編",
+    "previousIds": [
+      "joy-auto-track-4",
+      "joy-"
+    ],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-enjoybu-yokohama-1",
+    "group": "nearly-equal-joy",
+    "title": "ニアジョイ エンジョイ部 横浜★運試しツアー 前編",
+    "normalizedTitle": "ニアジョイエンジョイ部横浜★運試しツア前編",
+    "previousIds": [
+      "joy-auto-track-5",
+      "joy-"
+    ],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-blue-hawaii-lemon",
+    "group": "nearly-equal-joy",
+    "title": "ブルーハワイレモン",
+    "normalizedTitle": "ブルハワイレモン",
+    "previousIds": [
+      "joy-auto-track-6",
+      "joy-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "joy-3",
+    "group": "nearly-equal-joy",
+    "title": "♡3ヶ月♡",
+    "normalizedTitle": "♡3ヶ月♡",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "joy-0120",
+    "group": "nearly-equal-joy",
+    "title": "0120お助け屋さん",
+    "normalizedTitle": "0120お助け屋さん",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "joy-2024",
+    "group": "nearly-equal-joy",
+    "title": "イコノイジョイ大感謝祭2024 「ニアジョイ球技大会",
+    "normalizedTitle": "イコノイジョイ大感謝祭2024ニアジョイ球技大会",
+    "previousIds": [],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-enjoybu-osaka-1",
+    "group": "nearly-equal-joy",
+    "title": "ニアジョイ エンジョイ部〜大阪おもろいやんツアー",
+    "normalizedTitle": "ニアジョイエンジョイ部大阪おもろいやんツア",
+    "previousIds": [
+      "joy-auto-track-7",
+      "joy-"
+    ],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-enjoybu-osaka-2",
+    "group": "nearly-equal-joy",
+    "title": "ニアジョイ エンジョイ部〜大阪なんでやねんツアー",
+    "normalizedTitle": "ニアジョイエンジョイ部大阪なんでやねんツア",
+    "previousIds": [
+      "joy-auto-track-8",
+      "joy-"
+    ],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-cinderella",
+    "group": "nearly-equal-joy",
+    "title": "初恋シンデレラ",
+    "normalizedTitle": "初恋シンデレラ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "joy-peach",
+    "group": "nearly-equal-joy",
+    "title": "ピーチティーとピーチパイ",
+    "normalizedTitle": "ピチティとピチパイ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "joy-dadada-datte",
+    "group": "nearly-equal-joy",
+    "title": "だだだ、だって。",
+    "normalizedTitle": "だだだ、だって。",
+    "previousIds": [
+      "joy-auto-track-9",
+      "joy-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "joy-enjoybu-lying-cat",
+    "group": "nearly-equal-joy",
+    "title": "ニアジョイ エンジョイ部 ～噓つきネコは誰だ？",
+    "normalizedTitle": "ニアジョイエンジョイ部～噓つきネコは誰だ",
+    "previousIds": [
+      "joy-auto-track-10",
+      "joy-"
+    ],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-cinderella-mv",
+    "group": "nearly-equal-joy",
+    "title": "初恋シンデレラ Music Video",
+    "normalizedTitle": "初恋シンデレラmusicvideo",
+    "previousIds": [
+      "joy-auto-musicvideo-2",
+      "joy-"
+    ],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-cinderella-making",
+    "group": "nearly-equal-joy",
+    "title": "初恋シンデレラ メイキング映像",
+    "normalizedTitle": "初恋シンデレラメイキング映像",
+    "previousIds": [
+      "joy-auto-track-11",
+      "joy-"
+    ],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-gym-disco",
+    "group": "nearly-equal-joy",
+    "title": "体育館ディスコ",
+    "normalizedTitle": "体育館ディスコ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "joy-yumemiru-idol",
+    "group": "nearly-equal-joy",
+    "title": "夢見る♡アイドル",
+    "normalizedTitle": "夢見る♡アイドル",
+    "previousIds": [
+      "joy-auto-track-12",
+      "joy-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "joy-nevergiveup",
+    "group": "nearly-equal-joy",
+    "title": "ネバギバ！生きろ",
+    "normalizedTitle": "ネバギバ生きろ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "joy-joy1sttourabsolute-zepphanedatokyo",
+    "group": "nearly-equal-joy",
+    "title": "≒JOY 1st Tour「Absolute」＠Zepp Haneda (TOKYO)",
+    "normalizedTitle": "≒joy1sttourabsolute＠zepphanedatokyo",
+    "previousIds": [],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-enjoybu-lying-monkey",
+    "group": "nearly-equal-joy",
+    "title": "ニアジョイ エンジョイ部 ～噓つきサルは誰だ？",
+    "normalizedTitle": "ニアジョイエンジョイ部～噓つきサルは誰だ",
+    "previousIds": [
+      "joy-auto-track-13",
+      "joy-"
+    ],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-rebel",
+    "group": "nearly-equal-joy",
+    "title": "無謀人",
+    "normalizedTitle": "無謀人",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "joy-concept",
+    "group": "nearly-equal-joy",
+    "title": "≒JOY",
+    "normalizedTitle": "≒joy",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "joy-fragile",
+    "group": "nearly-equal-joy",
+    "title": "笑って フラジール",
+    "normalizedTitle": "笑ってフラジル",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "joy-lion",
+    "group": "nearly-equal-joy",
+    "title": "超孤独ライオン",
+    "normalizedTitle": "超孤独ライオン",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "joy-sweet16",
+    "group": "nearly-equal-joy",
+    "title": "スイートシックスティーン",
+    "normalizedTitle": "スイトシックスティン",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "joy-dream",
+    "group": "nearly-equal-joy",
+    "title": "今日も君の夢を見たんだ",
+    "normalizedTitle": "今日も君の夢を見たんだ",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "joy-ozora-byunto",
+    "group": "nearly-equal-joy",
+    "title": "大空、ビュンと",
+    "normalizedTitle": "大空、ビュンと",
+    "previousIds": [
+      "joy-auto-track-14",
+      "joy-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "joy-sonosaki-wa-exalt",
+    "group": "nearly-equal-joy",
+    "title": "その先はイグザルト",
+    "normalizedTitle": "その先はイグザルト",
+    "previousIds": [
+      "joy-auto-track-15",
+      "joy-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "joy-kitto-aoi",
+    "group": "nearly-equal-joy",
+    "title": "きっと、青い",
+    "normalizedTitle": "きっと、青い",
+    "previousIds": [
+      "joy-auto-track-16",
+      "joy-"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "joy-kagaikatsudo-akadake",
+    "group": "nearly-equal-joy",
+    "title": "ニアジョイ課外活動 〜赤岳登山編〜",
+    "normalizedTitle": "ニアジョイ課外活動赤岳登山編",
+    "previousIds": [
+      "joy-auto-track-17",
+      "joy-"
+    ],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-gym-disco-mv",
+    "group": "nearly-equal-joy",
+    "title": "体育館ディスコMusic Video",
+    "normalizedTitle": "体育館ディスコmusicvideo",
+    "previousIds": [
+      "joy-auto-musicvideo-3",
+      "joy-"
+    ],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-gym-disco-making",
+    "group": "nearly-equal-joy",
+    "title": "体育館ディスコメイキング映像",
+    "normalizedTitle": "体育館ディスコメイキング映像",
+    "previousIds": [
+      "joy-auto-track-18",
+      "joy-"
+    ],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-kitto-aoi-mv",
+    "group": "nearly-equal-joy",
+    "title": "きっと、青い Music Video",
+    "normalizedTitle": "きっと、青いmusicvideo",
+    "previousIds": [
+      "joy-auto-musicvideo-4",
+      "joy-"
+    ],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-rebel-mv",
+    "group": "nearly-equal-joy",
+    "title": "無謀人 Music Video",
+    "normalizedTitle": "無謀人musicvideo",
+    "previousIds": [
+      "joy-auto-musicvideo-5",
+      "joy-"
+    ],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-rebel-making",
+    "group": "nearly-equal-joy",
+    "title": "無謀人 メイキング映像",
+    "normalizedTitle": "無謀人メイキング映像",
+    "previousIds": [
+      "joy-auto-track-19",
+      "joy-"
+    ],
+    "status": "disabled"
+  },
+  {
+    "id": "joy-bokutachinouta",
+    "group": "nearly-equal-joy",
+    "title": "僕たちの歌",
+    "normalizedTitle": "僕たちの歌",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "joy-nonfiction",
+    "group": "nearly-equal-joy",
+    "title": "ノンフィクション",
+    "normalizedTitle": "ノンフィクション",
+    "previousIds": [],
+    "status": "active"
+  },
+  {
+    "id": "joint-triple-date",
+    "group": "joint",
+    "title": "トリプルデート",
+    "normalizedTitle": "トリプルデート",
+    "previousIds": [],
+    "officialSourceUrl": "https://equal-love.jp/news/detail/5312",
+    "status": "active"
+  }
+]

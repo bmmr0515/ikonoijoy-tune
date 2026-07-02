@@ -1,0 +1,59 @@
+[
+  {
+    "originalTitle": "ネチネチ",
+    "originalData": {
+      "id": "joy-nechinechi",
+      "title": "ネチネチ",
+      "group": "nearly-equal-joy",
+      "factualData": {
+        "releaseDate": "2024-10-16",
+        "centerMembers": ["江角怜音"],
+        "verificationStatus": "verified"
+      },
+      "scores": {
+        "energy": 3,
+        "brightness": 2,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 4,
+        "romance": 2,
+        "liveHype": 3
+      },
+      "tags": {
+        "moods": ["calm", "sad", "nostalgic"],
+        "situations": ["relaxing", "before_sleep"],
+        "weather": ["cloudy", "rainy", "cold"],
+        "timeOfDay": ["night", "late_night"],
+        "seasons": ["autumn", "winter"],
+        "themes": ["memories"],
+        "tempos": ["medium"],
+        "playlistRoles": ["cool_down", "ending"]
+      },
+      "recommendation": {
+        "recommendedFor": "レトロでアンニュイな夜の空気感に浸り、ゆるくチルなリズムで心を落ち着かせたい人に。",
+        "recommendedSituation": "少し肌寒い雨の夜、温かい飲み物を片手に一人の時間を部屋でゆっくり過ごすときに。",
+        "notRecommendedSituation": "寝起きの朝一番に、テンションを最大に高めてダッシュで出かけたいとき。",
+        "recommendationText": "イコノイジョイには珍しい、ファンキーで少しアンニュイなレトロ・チル・ポップです。お洒落で脱力感のあるメロディと気だるい歌声が、張り詰めた頭のスイッチをオフにし、心地よいリラックスへと導いてくれます。",
+        "listeningSuggestion": "間接照明を灯し、体力を抜いてソファーに深く沈み込みながら聴くのがお勧めです。"
+      },
+      "recommendationVariants": [
+        {
+          "condition": "calm",
+          "text": "少しアンニュイで力を抜いたチルな時間を演出したい雨の夜。心地よく肩の力が抜けるレトロなサウンドが、あなたの安らぎ時間にそっと馴染みます。"
+        },
+        {
+          "condition": "before_sleep",
+          "text": "一日の忙しい思考をストップし、ベッドでゆるやかに眠りを迎えたい夜の時間。気だるく心地よいグルーヴが、頭の中の雑音をやさしく消し去ります。"
+        }
+      ],
+      "externalLinks": {
+        "youtube": "https://www.youtube.com/watch?v=wX-y0MvQk5A"
+      },
+      "enabled": true
+    },
+    "quarantineReason": "ネチネチは≒JOYの公式楽曲として確認できないため削除。",
+    "unverifiedDetails": "公式サイトのディスコグラフィおよび公式リリースにおいて、ネチネチというタイトルの楽曲の存在を確認できなかった。",
+    "deletedAt": "2026-07-01T07:56:11+09:00"
+  }
+]

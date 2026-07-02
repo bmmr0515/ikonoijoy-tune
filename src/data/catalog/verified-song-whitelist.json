@@ -1,0 +1,3309 @@
+[
+  {
+    "id": "love-equal-love",
+    "title": "＝LOVE",
+    "normalizedTitle": "love",
+    "group": "equal-love",
+    "officialReleaseTitle": "＝LOVE",
+    "officialReleaseDate": "2017-09-06",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "＝LOVE",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.965Z"
+    }
+  },
+  {
+    "id": "love-kioku-no-doko-ka-de",
+    "title": "記憶のどこかで",
+    "normalizedTitle": "記憶のどこかで",
+    "group": "equal-love",
+    "officialReleaseTitle": "＝LOVE",
+    "officialReleaseDate": "2017-09-06",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "記憶のどこかで",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-start",
+    "title": "スタート！",
+    "normalizedTitle": "スタト",
+    "group": "equal-love",
+    "officialReleaseTitle": "＝LOVE",
+    "officialReleaseDate": "2017-09-06",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "スタート！",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-seifuku-christmas",
+    "title": "僕らの制服クリスマス",
+    "normalizedTitle": "僕らの制服クリスマス",
+    "group": "equal-love",
+    "officialReleaseTitle": "僕らの制服クリスマス",
+    "officialReleaseDate": "2017-12-06",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "僕らの制服クリスマス",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-yokoso-ikolab-numa",
+    "title": "ようこそ！イコラブ沼",
+    "normalizedTitle": "ようこそイコラブ沼",
+    "group": "equal-love",
+    "officialReleaseTitle": "僕らの制服クリスマス",
+    "officialReleaseDate": "2017-12-06",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "ようこそ！イコラブ沼",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-todoite-love-you",
+    "title": "届いてLOVE YOU♡",
+    "normalizedTitle": "届いてloveyou♡",
+    "group": "equal-love",
+    "officialReleaseTitle": "僕らの制服クリスマス",
+    "officialReleaseDate": "2017-12-06",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "届いてLOVE YOU♡",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-teokure-caution",
+    "title": "手遅れcaution",
+    "normalizedTitle": "手遅れcaution",
+    "group": "equal-love",
+    "officialReleaseTitle": "手遅れcaution",
+    "officialReleaseDate": "2018-05-16",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "手遅れcaution",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-bukatsu-chu-me-ga-au",
+    "title": "部活中に目が合うなって思ってたんだ",
+    "normalizedTitle": "部活中に目が合うなって思ってたんだ",
+    "group": "equal-love",
+    "officialReleaseTitle": "手遅れcaution",
+    "officialReleaseDate": "2018-05-16",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "部活中に目が合うなって思ってたんだ",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-kiara-tasuke-ni-kita-zo",
+    "title": "樹愛羅、助けに来たぞ",
+    "normalizedTitle": "樹愛羅、助けに来たぞ",
+    "group": "equal-love",
+    "officialReleaseTitle": "手遅れcaution",
+    "officialReleaseDate": "2018-05-16",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "樹愛羅、助けに来たぞ",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-want-you-want-you",
+    "title": "Want you! Want you!",
+    "normalizedTitle": "wantyouwantyou",
+    "group": "equal-love",
+    "officialReleaseTitle": "Want you! Want you!",
+    "officialReleaseDate": "2018-10-17",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "Want you! Want you!",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-ima-kono-fune-ni-nore",
+    "title": "今、この船に乗れ！",
+    "normalizedTitle": "今、この船に乗れ",
+    "group": "equal-love",
+    "officialReleaseTitle": "Want you! Want you!",
+    "officialReleaseDate": "2018-10-17",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "今、この船に乗れ！",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-aikatsu-happy-end",
+    "title": "アイカツハッピーエンド",
+    "normalizedTitle": "アイカツハッピエンド",
+    "group": "equal-love",
+    "officialReleaseTitle": "Want you! Want you!",
+    "officialReleaseDate": "2018-10-17",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "アイカツハッピーエンド",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-diamond-lily",
+    "title": "探せ ダイヤモンドリリー",
+    "normalizedTitle": "探せダイヤモンドリリ",
+    "group": "equal-love",
+    "officialReleaseTitle": "探せ ダイヤモンドリリー",
+    "officialReleaseDate": "2019-04-24",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "探せ ダイヤモンドリリー",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-iranai-twin-tail",
+    "title": "いらない ツインテール",
+    "normalizedTitle": "いらないツインテル",
+    "group": "equal-love",
+    "officialReleaseTitle": "探せ ダイヤモンドリリー",
+    "officialReleaseDate": "2019-04-24",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "いらない ツインテール",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-niji-no-moto",
+    "title": "虹の素",
+    "normalizedTitle": "虹の素",
+    "group": "equal-love",
+    "officialReleaseTitle": "探せ ダイヤモンドリリー",
+    "officialReleaseDate": "2019-04-24",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "虹の素",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-zuruiyo-zuruine",
+    "title": "ズルいよ ズルいね",
+    "normalizedTitle": "ズルいよズルいね",
+    "group": "equal-love",
+    "officialReleaseTitle": "ズルいよ ズルいね",
+    "officialReleaseDate": "2019-10-30",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "ズルいよ ズルいね",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-sweetest-girl",
+    "title": "Sweetest girl",
+    "normalizedTitle": "sweetestgirl",
+    "group": "equal-love",
+    "officialReleaseTitle": "ズルいよ ズルいね",
+    "officialReleaseDate": "2019-10-30",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "Sweetest girl",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-oshi-no-iru-sekai",
+    "title": "推しのいる世界",
+    "normalizedTitle": "推しのいる世界",
+    "group": "equal-love",
+    "officialReleaseTitle": "ズルいよ ズルいね",
+    "officialReleaseDate": "2019-10-30",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "推しのいる世界",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-cameo",
+    "title": "CAMEO",
+    "normalizedTitle": "cameo",
+    "group": "equal-love",
+    "officialReleaseTitle": "CAMEO",
+    "officialReleaseDate": "2020-07-08",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "CAMEO",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-kimi-to-watashi-no-uta",
+    "title": "君と私の歌",
+    "normalizedTitle": "君と私の歌",
+    "group": "equal-love",
+    "officialReleaseTitle": "CAMEO",
+    "officialReleaseDate": "2020-07-08",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "君と私の歌",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-my-voice-is-for-you",
+    "title": "My Voice Is For You",
+    "normalizedTitle": "myvoiceisforyou",
+    "group": "equal-love",
+    "officialReleaseTitle": "CAMEO",
+    "officialReleaseDate": "2020-07-08",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "My Voice Is For You",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-seishun-subliminal",
+    "title": "青春“サブリミナル”",
+    "normalizedTitle": "青春サブリミナル",
+    "group": "equal-love",
+    "officialReleaseTitle": "青春“サブリミナル”",
+    "officialReleaseDate": "2020-11-25",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "青春“サブリミナル”",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-shukipi",
+    "title": "しゅきぴ",
+    "normalizedTitle": "しゅきぴ",
+    "group": "equal-love",
+    "officialReleaseTitle": "青春“サブリミナル”",
+    "officialReleaseDate": "2020-11-25",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "しゅきぴ",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-ryuseigun",
+    "title": "流星群",
+    "normalizedTitle": "流星群",
+    "group": "equal-love",
+    "officialReleaseTitle": "青春“サブリミナル”",
+    "officialReleaseDate": "2020-11-25",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "流星群",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-sakura-no-saku-oto-ga-shita",
+    "title": "桜の咲く音がした",
+    "normalizedTitle": "桜の咲く音がした",
+    "group": "equal-love",
+    "officialReleaseTitle": "全部、内緒。",
+    "officialReleaseDate": "2021-05-12",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "桜の咲く音がした",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-oh-darling",
+    "title": "Oh！Darling",
+    "normalizedTitle": "ohdarling",
+    "group": "equal-love",
+    "officialReleaseTitle": "全部、内緒。",
+    "officialReleaseDate": "2021-05-12",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "Oh！Darling",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-senoby-in-love",
+    "title": "セノビーインラブ",
+    "normalizedTitle": "セノビインラブ",
+    "group": "equal-love",
+    "officialReleaseTitle": "全部、内緒。",
+    "officialReleaseDate": "2021-05-12",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "セノビーインラブ",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-cinema",
+    "title": "cinema",
+    "normalizedTitle": "cinema",
+    "group": "equal-love",
+    "officialReleaseTitle": "全部、内緒。",
+    "officialReleaseDate": "2021-05-12",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "cinema",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-haikei-anatadoma",
+    "title": "拝啓 貴方様",
+    "normalizedTitle": "拝啓貴方様",
+    "group": "equal-love",
+    "officialReleaseTitle": "全部、内緒。",
+    "officialReleaseDate": "2021-05-12",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "拝啓 貴方様",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-geneki-idol-chu",
+    "title": "現役アイドルちゅ〜",
+    "normalizedTitle": "現役アイドルちゅ",
+    "group": "equal-love",
+    "officialReleaseTitle": "全部、内緒。",
+    "officialReleaseDate": "2021-05-12",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "現役アイドルちゅ〜",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-24-7",
+    "title": "24/7",
+    "normalizedTitle": "24/7",
+    "group": "equal-love",
+    "officialReleaseTitle": "全部、内緒。",
+    "officialReleaseDate": "2021-05-12",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "24/7",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-onesan-ja-dame-desuka",
+    "title": "お姉さんじゃダメですか？",
+    "normalizedTitle": "お姉さんじゃダメですか",
+    "group": "equal-love",
+    "officialReleaseTitle": "全部、内緒。",
+    "officialReleaseDate": "2021-05-12",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "お姉さんじゃダメですか？",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-weekend-citron",
+    "title": "ウィークエンドシトロン",
+    "normalizedTitle": "ウィクエンドシトロン",
+    "group": "equal-love",
+    "officialReleaseTitle": "ウィークエンドシトロン",
+    "officialReleaseDate": "2021-08-25",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "ウィークエンドシトロン",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-zuttomo-anken",
+    "title": "ズッ友案件",
+    "normalizedTitle": "ズッ友案件",
+    "group": "equal-love",
+    "officialReleaseTitle": "ウィークエンドシトロン",
+    "officialReleaseDate": "2021-08-25",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "ズッ友案件",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-natsumatsuri-renbo-tahu",
+    "title": "夏祭り恋慕う",
+    "normalizedTitle": "夏祭り恋慕う",
+    "group": "equal-love",
+    "officialReleaseTitle": "ウィークエンドシトロン",
+    "officialReleaseDate": "2021-08-25",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "夏祭り恋慕う",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-shukusai",
+    "title": "祝祭",
+    "normalizedTitle": "祝祭",
+    "group": "equal-love",
+    "officialReleaseTitle": "ウィークエンドシトロン",
+    "officialReleaseDate": "2021-08-25",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "祝祭",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-the-5th",
+    "title": "The 5th",
+    "normalizedTitle": "the5th",
+    "group": "equal-love",
+    "officialReleaseTitle": "The 5th",
+    "officialReleaseDate": "2021-12-15",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "The 5th",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-ohimesama-ni-shiteyo",
+    "title": "お姫様にしてよ！",
+    "normalizedTitle": "お姫様にしてよ",
+    "group": "equal-love",
+    "officialReleaseTitle": "The 5th",
+    "officialReleaseDate": "2021-12-15",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "お姫様にしてよ！",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-poison-girl",
+    "title": "Poison Girl",
+    "normalizedTitle": "poisongirl",
+    "group": "equal-love",
+    "officialReleaseTitle": "The 5th",
+    "officialReleaseDate": "2021-12-15",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "Poison Girl",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-bpm170-no-kimi-e",
+    "title": "BPM170の君へ",
+    "normalizedTitle": "bpm170の君へ",
+    "group": "equal-love",
+    "officialReleaseTitle": "The 5th",
+    "officialReleaseDate": "2021-12-15",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "BPM170の君へ",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-anoko-complex",
+    "title": "あの子コンプレックス",
+    "normalizedTitle": "あの子コンプレックス",
+    "group": "equal-love",
+    "officialReleaseTitle": "あの子コンプレックス",
+    "officialReleaseDate": "2022-05-25",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "あの子コンプレックス",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-egao-no-recipe",
+    "title": "笑顔のレシピ",
+    "normalizedTitle": "笑顔のレシピ",
+    "group": "equal-love",
+    "officialReleaseTitle": "あの子コンプレックス",
+    "officialReleaseDate": "2022-05-25",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "笑顔のレシピ",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-shirangedo",
+    "title": "知らんけど",
+    "normalizedTitle": "知らんけど",
+    "group": "equal-love",
+    "officialReleaseTitle": "あの子コンプレックス",
+    "officialReleaseDate": "2022-05-25",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "知らんけど",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-boku-no-heroine",
+    "title": "僕のヒロイン",
+    "normalizedTitle": "僕のヒロイン",
+    "group": "equal-love",
+    "officialReleaseTitle": "あの子コンプレックス",
+    "officialReleaseDate": "2022-05-25",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "僕のヒロイン",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-be-selfish",
+    "title": "Be Selfish",
+    "normalizedTitle": "beselfish",
+    "group": "equal-love",
+    "officialReleaseTitle": "Be Selfish",
+    "officialReleaseDate": "2022-09-28",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "Be Selfish",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-sukitte-ienakatta",
+    "title": "好きって、言えなかった",
+    "normalizedTitle": "好きって、言えなかった",
+    "group": "equal-love",
+    "officialReleaseTitle": "Be Selfish",
+    "officialReleaseDate": "2022-09-28",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "好きって、言えなかった",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-watashi-mahotsukai",
+    "title": "わたし、魔法使い",
+    "normalizedTitle": "わたし、魔法使い",
+    "group": "equal-love",
+    "officialReleaseTitle": "Be Selfish",
+    "officialReleaseDate": "2022-09-28",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "わたし、魔法使い",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-mayonaka-mermaid",
+    "title": "真夜中マーメイド",
+    "normalizedTitle": "真夜中マメイド",
+    "group": "equal-love",
+    "officialReleaseTitle": "Be Selfish",
+    "officialReleaseDate": "2022-09-28",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "真夜中マーメイド",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-kono-sora-ga-trigger",
+    "title": "この空がトリガー",
+    "normalizedTitle": "この空がトリガ",
+    "group": "equal-love",
+    "officialReleaseTitle": "この空がトリガー",
+    "officialReleaseDate": "2023-02-22",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "この空がトリガー",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-love-create",
+    "title": "ラブクリエイト",
+    "normalizedTitle": "ラブクリエイト",
+    "group": "equal-love",
+    "officialReleaseTitle": "この空がトリガー",
+    "officialReleaseDate": "2023-02-22",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "ラブクリエイト",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-junkies",
+    "title": "Junkies",
+    "normalizedTitle": "junkies",
+    "group": "equal-love",
+    "officialReleaseTitle": "この空がトリガー",
+    "officialReleaseDate": "2023-02-22",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "Junkies",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-kiara-tiara",
+    "title": "Kiara Tiara",
+    "normalizedTitle": "kiaratiara",
+    "group": "equal-love",
+    "officialReleaseTitle": "この空がトリガー",
+    "officialReleaseDate": "2023-02-22",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "Kiara Tiara",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-natsumatope",
+    "title": "ナツマトペ",
+    "normalizedTitle": "ナツマトペ",
+    "group": "equal-love",
+    "officialReleaseTitle": "ナツマトペ",
+    "officialReleaseDate": "2023-07-19",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "ナツマトペ",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-dakatote",
+    "title": "だからとて",
+    "normalizedTitle": "だからとて",
+    "group": "equal-love",
+    "officialReleaseTitle": "ナツマトペ",
+    "officialReleaseDate": "2023-07-19",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "だからとて",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-heroines",
+    "title": "ヒロインズ",
+    "normalizedTitle": "ヒロインズ",
+    "group": "equal-love",
+    "officialReleaseTitle": "ナツマトペ",
+    "officialReleaseDate": "2023-07-19",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "ヒロインズ",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-la-rocket",
+    "title": "ラブロケ",
+    "normalizedTitle": "ラブロケ",
+    "group": "equal-love",
+    "officialReleaseTitle": "ナツマトペ",
+    "officialReleaseDate": "2023-07-19",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "ラブロケ",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-last-note-shika-shiranai",
+    "title": "ラストノートしか知らない",
+    "normalizedTitle": "ラストノトしか知らない",
+    "group": "equal-love",
+    "officialReleaseTitle": "ラストノートしか知らない",
+    "officialReleaseDate": "2023-11-29",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "ラストノートしか知らない",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-drive-date-tonai",
+    "title": "「ドライブ デート 都内」",
+    "normalizedTitle": "ドライブデト都内",
+    "group": "equal-love",
+    "officialReleaseTitle": "ラストノートしか知らない",
+    "officialReleaseDate": "2023-11-29",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "「ドライブ デート 都内」",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-kyoso-catastrophe",
+    "title": "狂想カタストロフィ",
+    "normalizedTitle": "狂想カタストロフィ",
+    "group": "equal-love",
+    "officialReleaseTitle": "ラストノートしか知らない",
+    "officialReleaseDate": "2023-11-29",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "狂想カタストロフィ",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-doko-ga-suki-ka-itte",
+    "title": "どこが好きか言って",
+    "normalizedTitle": "どこが好きか言って",
+    "group": "equal-love",
+    "officialReleaseTitle": "ラストノートしか知らない",
+    "officialReleaseDate": "2023-11-29",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "どこが好きか言って",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-norotte-norotte",
+    "title": "呪って呪って",
+    "normalizedTitle": "呪って呪って",
+    "group": "equal-love",
+    "officialReleaseTitle": "呪って呪って",
+    "officialReleaseDate": "2024-03-06",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "呪って呪って",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-dare-nimo-barezu-ni",
+    "title": "誰にもバレずに",
+    "normalizedTitle": "誰にもバレずに",
+    "group": "equal-love",
+    "officialReleaseTitle": "呪って呪って",
+    "officialReleaseDate": "2024-03-06",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "誰にもバレずに",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-kimi-no-dai3-button",
+    "title": "君の第3ボタン",
+    "normalizedTitle": "君の第3ボタン",
+    "group": "equal-love",
+    "officialReleaseTitle": "呪って呪って",
+    "officialReleaseDate": "2024-03-06",
+    "officialSourceUrl": "https://equal-love.jp/discography/detail/16/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "君の第3ボタン",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-zettai-idol-yamenaide",
+    "title": "絶対アイドル辞めないで",
+    "normalizedTitle": "絶対アイドル辞めないで",
+    "group": "equal-love",
+    "officialReleaseTitle": "絶対アイドル辞めないで",
+    "officialReleaseDate": "2024-07-31",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "絶対アイドル辞めないで",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-nakanaori-cream",
+    "title": "仲直りシュークリーム",
+    "normalizedTitle": "仲直りシュクリム",
+    "group": "equal-love",
+    "officialReleaseTitle": "絶対アイドル辞めないで",
+    "officialReleaseDate": "2024-07-31",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "仲直りシュークリーム",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-umi-to-lemontea",
+    "title": "海とレモンティー",
+    "normalizedTitle": "海とレモンティ",
+    "group": "equal-love",
+    "officialReleaseTitle": "絶対アイドル辞めないで",
+    "officialReleaseDate": "2024-07-31",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "海とレモンティー",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-tokubechu-shite",
+    "title": "とくべチュ、して",
+    "normalizedTitle": "とくべチュ、して",
+    "group": "equal-love",
+    "officialReleaseTitle": "とくべチュ、して/恋人以上、好き未満",
+    "officialReleaseDate": "2025-02-26",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "とくべチュ、して",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-koibito-ijo-suki-miman",
+    "title": "恋人以上、好き未満",
+    "normalizedTitle": "恋人以上、好き未満",
+    "group": "equal-love",
+    "officialReleaseTitle": "とくべチュ、して/恋人以上、好き未満",
+    "officialReleaseDate": "2025-02-26",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "恋人以上、好き未満",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-chotokkyu-toso-chu",
+    "title": "超特急逃走中",
+    "normalizedTitle": "超特急逃走中",
+    "group": "equal-love",
+    "officialReleaseTitle": "とくべチュ、して/恋人以上、好き未満",
+    "officialReleaseDate": "2025-02-26",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "超特急逃走中",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-lovesong-ni-osowareru",
+    "title": "ラブソングに襲われる",
+    "normalizedTitle": "ラブソングに襲われる",
+    "group": "equal-love",
+    "officialReleaseTitle": "ラブソングに襲われる",
+    "officialReleaseDate": "2025-10-08",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "ラブソングに襲われる",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-komorebi-mezzo-forte",
+    "title": "木漏れ日メゾフォルテ",
+    "normalizedTitle": "木漏れ日メゾフォルテ",
+    "group": "equal-love",
+    "officialReleaseTitle": "ラブソングに襲われる",
+    "officialReleaseDate": "2025-10-08",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "木漏れ日メゾフォルテ",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-queens",
+    "title": "Queens",
+    "normalizedTitle": "queens",
+    "group": "equal-love",
+    "officialReleaseTitle": "ラブソングに襲われる",
+    "officialReleaseDate": "2025-10-08",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "Queens",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-gekiyaku-chudoku",
+    "title": "劇薬中毒",
+    "normalizedTitle": "劇薬中毒",
+    "group": "equal-love",
+    "officialReleaseTitle": "劇薬中毒",
+    "officialReleaseDate": "2026-04-01",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "劇薬中毒",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-moratorium",
+    "title": "モラトリアム",
+    "normalizedTitle": "モラトリアム",
+    "group": "equal-love",
+    "officialReleaseTitle": "劇薬中毒",
+    "officialReleaseDate": "2026-04-01",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "モラトリアム",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-ohimesama-no-tsukurikata",
+    "title": "お姫様の作り方",
+    "normalizedTitle": "お姫様の作り方",
+    "group": "equal-love",
+    "officialReleaseTitle": "劇薬中毒",
+    "officialReleaseDate": "2026-04-01",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "お姫様の作り方",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-kimi-dake-no-hanamichi",
+    "title": "君だけの花道",
+    "normalizedTitle": "君だけの花道",
+    "group": "equal-love",
+    "officialReleaseTitle": "君だけの花道",
+    "officialReleaseDate": "2023-03-22",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "君だけの花道",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-okaeri-hanadayori",
+    "title": "おかえり、花便り",
+    "normalizedTitle": "おかえり、花便り",
+    "group": "equal-love",
+    "officialReleaseTitle": "おかえり、花便り",
+    "officialReleaseDate": "2023-03-28",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "おかえり、花便り",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-takaramono-wa-green",
+    "title": "宝物はグリーン",
+    "normalizedTitle": "宝物はグリン",
+    "group": "equal-love",
+    "officialReleaseTitle": "宝物はグリーン",
+    "officialReleaseDate": "2023-11-29",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "宝物はグリーン",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "love-naishobanashi",
+    "title": "内緒バナシ",
+    "normalizedTitle": "内緒バナシ",
+    "group": "equal-love",
+    "officialReleaseTitle": "内緒バナシ",
+    "officialReleaseDate": "2025-08-22",
+    "officialSourceUrl": "https://equal-love.jp/discography/",
+    "verifiedAt": "2026-07-01T02:10:27.638Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://equal-love.jp/discography/",
+      "verifiedTitle": "内緒バナシ",
+      "verifiedGroup": "equal-love",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+
+  {
+    "id": "me-ai-kudasaimase",
+    "title": "愛くださいませ",
+    "normalizedTitle": "愛くださいませ",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「愛くださいませ/ここでファーストキッス」＜ノイミー盤＞",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/78/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/78/",
+      "verifiedTitle": "愛くださいませ",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-koko-de-first-kiss",
+    "title": "ここでファーストキッス",
+    "normalizedTitle": "ここでファストキッス",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「愛くださいませ/ここでファーストキッス」＜ノイミー盤＞",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/78/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/78/",
+      "verifiedTitle": "ここでファーストキッス",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-summerhaze",
+    "title": "Summer haze",
+    "normalizedTitle": "summerhaze",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「愛くださいませ/ここでファーストキッス」＜ノイミー盤＞",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/78/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/78/",
+      "verifiedTitle": "Summer haze",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-haitateki-fighter",
+    "title": "排他的ファイター",
+    "normalizedTitle": "排他的ファイタ",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「排他的ファイター」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/71/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/69/",
+      "verifiedTitle": "排他的ファイター",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-kyunkawa-jinsei",
+    "title": "きゅんかわ人生",
+    "normalizedTitle": "きゅんかわ人生",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「排他的ファイター」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/71/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/69/",
+      "verifiedTitle": "きゅんかわ人生",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-hanbunko-christmas",
+    "title": "はんぶんこクリスマス",
+    "normalizedTitle": "はんぶんこクリスマス",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「排他的ファイター」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/71/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/69/",
+      "verifiedTitle": "はんぶんこクリスマス",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-mobunoderella",
+    "title": "モブノデレラ",
+    "normalizedTitle": "モブノデレラ",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「モブノデレラ/神様の言うとーり！」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/63/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/61/",
+      "verifiedTitle": "モブノデレラ",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-kamisama-no-iutoori",
+    "title": "神様の言うとーり！",
+    "normalizedTitle": "神様の言うとり",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「モブノデレラ/神様の言うとーり！」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/63/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/61/",
+      "verifiedTitle": "神様の言うとーり！",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-cafe-rakuen",
+    "title": "カフェ樂園",
+    "normalizedTitle": "カフェ樂園",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「モブノデレラ/神様の言うとーり！」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/63/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/61/",
+      "verifiedTitle": "カフェ樂園",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-natsu-ga-kitakara",
+    "title": "夏が来たから",
+    "normalizedTitle": "夏が来たから",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「夏が来たから」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/51/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/51/",
+      "verifiedTitle": "夏が来たから",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-gomen-majide",
+    "title": "ごめん、マジで",
+    "normalizedTitle": "ごめん、マジで",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「夏が来たから」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/51/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/51/",
+      "verifiedTitle": "ごめん、マジで",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-saikyo-no-lovesong",
+    "title": "最強のラブソング",
+    "normalizedTitle": "最強のラブソング",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「夏が来たから」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/51/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/51/",
+      "verifiedTitle": "最強のラブソング",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-guuzen-symphony",
+    "title": "偶然シンフォニー",
+    "normalizedTitle": "偶然シンフォニ",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「Springtime In You」ノイミー盤",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+      "verifiedTitle": "偶然シンフォニー",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-himitsu-incident",
+    "title": "秘密インシデント",
+    "normalizedTitle": "秘密インシデント",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「Springtime In You」ノイミー盤",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/4/",
+      "verifiedTitle": "秘密インシデント",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-su-suki-janai",
+    "title": "す、好きじゃない！",
+    "normalizedTitle": "す、好きじゃない",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「Springtime In You」ノイミー盤",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/",
+      "verifiedTitle": "す、好きじゃない！",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-tenshi-wa-dokohe",
+    "title": "天使は何処へ",
+    "normalizedTitle": "天使は何処へ",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「Springtime In You」ノイミー盤",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/26/",
+      "verifiedTitle": "天使は何処へ",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-anti-confiture",
+    "title": "アンチコンフィチュール",
+    "normalizedTitle": "アンチコンフィチュル",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「Springtime In You」ノイミー盤",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/",
+      "verifiedTitle": "アンチコンフィチュール",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-marcato",
+    "title": "Marcato",
+    "normalizedTitle": "marcato",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「Springtime In You」ノイミー盤",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+      "verifiedTitle": "Marcato",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-chocolate-melancholy",
+    "title": "チョコレートメランコリー",
+    "normalizedTitle": "チョコレトメランコリ",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「Springtime In You」ノイミー盤",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/",
+      "verifiedTitle": "チョコレートメランコリー",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-date-zenya-requiem",
+    "title": "デート前夜レクイエム",
+    "normalizedTitle": "デト前夜レクイエム",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「Springtime In You」ノイミー盤",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+      "verifiedTitle": "デート前夜レクイエム",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-omowaseburikko",
+    "title": "想わせぶりっこ",
+    "normalizedTitle": "想わせぶりっこ",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「Springtime In You」ノイミー盤",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/",
+      "verifiedTitle": "想わせぶりっこ",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-haru-no-koibito",
+    "title": "春の恋人",
+    "normalizedTitle": "春の恋人",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「Springtime In You」ノイミー盤",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+      "verifiedTitle": "春の恋人",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-kimi-wa-kono-natsu-koi-wo-suru",
+    "title": "君はこの夏、恋をする",
+    "normalizedTitle": "君はこの夏、恋をする",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「Springtime In You」ノイミー盤",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/",
+      "verifiedTitle": "君はこの夏、恋をする",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-mahoroba-asterisk",
+    "title": "まほろばアスタリスク",
+    "normalizedTitle": "まほろばアスタリスク",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「Springtime In You」ノイミー盤",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/",
+      "verifiedTitle": "まほろばアスタリスク",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-hanakami-short",
+    "title": "はにかみショート",
+    "normalizedTitle": "はにかみショト",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「Springtime In You」ノイミー盤",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/",
+      "verifiedTitle": "はにかみショート",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-last-chance-last-dance",
+    "title": "ラストチャンス、ラストダンス",
+    "normalizedTitle": "ラストチャンス、ラストダンス",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「Springtime In You」ノイミー盤",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/49/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/",
+      "verifiedTitle": "ラストチャンス、ラストダンス",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-hatsukoi-comeback",
+    "title": "初恋カムバック",
+    "normalizedTitle": "初恋カムバック",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「アンチコンフィチュール」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/42/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/44/",
+      "verifiedTitle": "初恋カムバック",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-heroine-to-ookami",
+    "title": "ヒロインとオオカミ",
+    "normalizedTitle": "ヒロインとオオカミ",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「アンチコンフィチュール」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/42/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/44/",
+      "verifiedTitle": "ヒロインとオオカミ",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-22",
+    "title": "デートの後、22時",
+    "normalizedTitle": "デトの後、22時",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「想わせぶりっこ」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/40/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/40/",
+      "verifiedTitle": "デートの後、22時",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-ultra-rare-kiss",
+    "title": "ウルトラレアキッス",
+    "normalizedTitle": "ウルトラレアキッス",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「はにかみショート」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/22/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/22/",
+      "verifiedTitle": "ウルトラレアキッス",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-floor-killer",
+    "title": "フロアキラー",
+    "normalizedTitle": "フロアキラ",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「想わせぶりっこ」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/37/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/37/",
+      "verifiedTitle": "フロアキラー",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-konomama-de-momentary",
+    "title": "このままでモーメンタリ",
+    "normalizedTitle": "このままでモメンタリ",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「天使は何処へ」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/23/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/23/",
+      "verifiedTitle": "このままでモーメンタリ",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-marshmallow-float",
+    "title": "マシュマロフロート",
+    "normalizedTitle": "マシュマロフロト",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「天使は何処へ」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/24/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/24/",
+      "verifiedTitle": "マシュマロフロート",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-gekkabijin",
+    "title": "月下美人",
+    "normalizedTitle": "月下美人",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「想わせぶりっこ」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/38/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/38/",
+      "verifiedTitle": "月下美人",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-2",
+    "title": "2時半ろけんろー",
+    "normalizedTitle": "2時半ろけんろ",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「天使は何処へ」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/26/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/26/",
+      "verifiedTitle": "2時半ろけんろー",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-kochira-happy-tankentai",
+    "title": "こちらハッピー探検隊",
+    "normalizedTitle": "こちらハッピ探検隊",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「す、好きじゃない！」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/17/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/16/",
+      "verifiedTitle": "こちらハッピー探検隊",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-momoiro-daybreak",
+    "title": "桃色デイブレイク",
+    "normalizedTitle": "桃色デイブレイク",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「はにかみショート」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/19/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/19/",
+      "verifiedTitle": "桃色デイブレイク",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-summer-chocolate",
+    "title": "サマーチョコレート",
+    "normalizedTitle": "サマチョコレト",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「す、好きじゃない！」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/15/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/15/",
+      "verifiedTitle": "サマーチョコレート",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-peonies",
+    "title": "ピオニーズ",
+    "normalizedTitle": "ピオニズ",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「はにかみショート」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/20/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/",
+      "verifiedTitle": "ピオニーズ",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-sukida",
+    "title": "好きだ！！！",
+    "normalizedTitle": "好きだ",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「まほろばアスタリスク」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/8/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/8/",
+      "verifiedTitle": "好きだ！！！",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-chozetsu-heroine",
+    "title": "超絶ヒロイン",
+    "normalizedTitle": "超絶ヒロイン",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「君はこの夏、恋をする」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/7/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/7/",
+      "verifiedTitle": "超絶ヒロイン",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-kimi-wa-sparkle",
+    "title": "君はスパークル",
+    "normalizedTitle": "君はスパクル",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「チョコレートメランコリー」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/11/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/11/",
+      "verifiedTitle": "君はスパークル",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-rainbow-melody",
+    "title": "虹が架かる瞬間",
+    "normalizedTitle": "虹が架かる瞬間",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「チョコレートメランコリー」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/12/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/",
+      "verifiedTitle": "虹が架かる瞬間",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-watashi-accent",
+    "title": "ワタシアクセント",
+    "normalizedTitle": "ワタシアクセント",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「まほろばアスタリスク」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/9/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/9/",
+      "verifiedTitle": "ワタシアクセント",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-bokutachi-no-image",
+    "title": "僕たちのイマージュ",
+    "normalizedTitle": "僕たちのイマジュ",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「す、好きじゃない！」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/14/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/14/",
+      "verifiedTitle": "僕たちのイマージュ",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-off-shoulder-knit",
+    "title": "#おふしょるにっと",
+    "normalizedTitle": "#おふしょるにっと",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「チョコレートメランコリー」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/13/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/13/",
+      "verifiedTitle": "#おふしょるにっと",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-daremo-inai-mori-no-oku-de",
+    "title": "誰もいない森の奥で⼀本の⽊が倒れたら⾳はするか？",
+    "normalizedTitle": "誰もいない森の奥で⼀本の⽊が倒れたら⾳はするか",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「まほろばアスタリスク」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/10/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/10/",
+      "verifiedTitle": "誰もいない森の奥で⼀本の⽊が倒れたら⾳はするか？",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-kimi-no-oto-datta-nda",
+    "title": "君の音だったんだ",
+    "normalizedTitle": "君の音だったんだ",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「超特急 ≠ME行き」 ＜CD＋DVD/初回限定盤＞",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/2/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/",
+      "verifiedTitle": "君の音だったんだ",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-kimi-to-boku-no-uta",
+    "title": "君と僕の歌",
+    "normalizedTitle": "君と僕の歌",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「超特急 ≠ME行き」 ＜CD＋DVD/初回限定盤＞",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/2/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/4/",
+      "verifiedTitle": "君と僕の歌",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-kuhaku-no-hana",
+    "title": "空白の花",
+    "normalizedTitle": "空白の花",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「超特急 ≠ME行き」 ＜CD＋DVD/初回限定盤＞",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/2/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/4/",
+      "verifiedTitle": "空白の花",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-p-i-c",
+    "title": "P.I.C.",
+    "normalizedTitle": "p.i.c.",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「超特急 ≠ME行き」 ＜CD＋DVD/初回限定盤＞",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/2/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/4/",
+      "verifiedTitle": "P.I.C.",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-jibun-sanka",
+    "title": "自分賛歌",
+    "normalizedTitle": "自分賛歌",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「超特急 ≠ME行き」 ＜CD＋DVD/初回限定盤＞",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/2/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/2/",
+      "verifiedTitle": "自分賛歌",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-not-equal-me",
+    "title": "≠ME",
+    "normalizedTitle": "≠me",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「超特急 ≠ME行き」 ＜CD＋DVD/初回限定盤＞",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/2/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/",
+      "verifiedTitle": "≠ME",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-ponytail-kyurun",
+    "title": "ポニーテール キュルン",
+    "normalizedTitle": "ポニテルキュルン",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「超特急 ≠ME行き」 ＜CD Only/通常盤＞",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/3/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/3/",
+      "verifiedTitle": "ポニーテール キュルン",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-teyuuka-mirutentte-nani",
+    "title": "てゆーか、みるてんって何？",
+    "normalizedTitle": "てゆか、みるてんって何",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「超特急 ≠ME行き」 ＜CD Only/ノイミー盤＞",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/4/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/4/",
+      "verifiedTitle": "てゆーか、みるてんって何？",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-hakumeikousen",
+    "title": "薄明光線",
+    "normalizedTitle": "薄明光線",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「君はこの夏、恋をする」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/6/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/detail/6/",
+      "verifiedTitle": "薄明光線",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "me-miracle-road",
+    "title": "ミラクル！",
+    "normalizedTitle": "ミラクル",
+    "group": "not-equal-me",
+    "officialReleaseTitle": "「君はこの夏、恋をする」",
+    "officialSourceUrl": "https://not-equal-me.jp/discography/detail/5/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://not-equal-me.jp/discography/",
+      "verifiedTitle": "ミラクル！",
+      "verifiedGroup": "not-equal-me",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-denwabango-oshiete",
+    "title": "電話番号教えて！",
+    "normalizedTitle": "電話番号教えて",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "電話番号教えて！[完全生産限定盤/Type D]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/47/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/47/",
+      "verifiedTitle": "電話番号教えて！",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-feat-djalice",
+    "title": "アマガミガール feat. DJ ALICE",
+    "normalizedTitle": "アマガミガルfeat.djalice",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "電話番号教えて！[完全生産限定盤/Type D]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/47/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/47/",
+      "verifiedTitle": "アマガミガール feat. DJ ALICE",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-ai-ga-itakatta",
+    "title": "愛が痛かった",
+    "normalizedTitle": "愛が痛かった",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "電話番号教えて！[完全生産限定盤/Type D]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/47/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/47/",
+      "verifiedTitle": "愛が痛かった",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-denwabango-oshiete-mv",
+    "title": "電話番号教えて！Music Video",
+    "normalizedTitle": "電話番号教えてmusicvideo",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "電話番号教えて！[CD+DVD/Type A]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/44/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/44/",
+      "verifiedTitle": "電話番号教えて！Music Video",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-denwabango-oshiete-making",
+    "title": "電話番号教えて！メイキング映像",
+    "normalizedTitle": "電話番号教えてメイキング映像",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "電話番号教えて！[CD+DVD/Type A]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/44/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/44/",
+      "verifiedTitle": "電話番号教えて！メイキング映像",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-enjoybu-yokohama-2",
+    "title": "ニアジョイ エンジョイ部 横浜★運試しツアー 後編",
+    "normalizedTitle": "ニアジョイエンジョイ部横浜★運試しツア後編",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "電話番号教えて！[CD+DVD/Type C]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/46/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/46/",
+      "verifiedTitle": "ニアジョイ エンジョイ部 横浜★運試しツアー 後編",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-enjoybu-yokohama-1",
+    "title": "ニアジョイ エンジョイ部 横浜★運試しツアー 前編",
+    "normalizedTitle": "ニアジョイエンジョイ部横浜★運試しツア前編",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "電話番号教えて！[CD+DVD/Type B]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/45/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/45/",
+      "verifiedTitle": "ニアジョイ エンジョイ部 横浜★運試しツアー 前編",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-blue-hawaii-lemon",
+    "title": "ブルーハワイレモン",
+    "normalizedTitle": "ブルハワイレモン",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "ブルーハワイレモン[CD+DVD/Type A]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/34/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/34/",
+      "verifiedTitle": "ブルーハワイレモン",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-3",
+    "title": "♡3ヶ月♡",
+    "normalizedTitle": "♡3ヶ月♡",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "ブルーハワイレモン[CD+DVD/Type A]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/34/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/34/",
+      "verifiedTitle": "♡3ヶ月♡",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-0120",
+    "title": "0120お助け屋さん",
+    "normalizedTitle": "0120お助け屋さん",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "ブルーハワイレモン[CD+DVD/Type A]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/34/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/34/",
+      "verifiedTitle": "0120お助け屋さん",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-2024",
+    "title": "イコノイジョイ大感謝祭2024 「ニアジョイ球技大会",
+    "normalizedTitle": "イコノイジョイ大感謝祭2024ニアジョイ球技大会",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "ブルーハワイレモン[CD+DVD/Type A]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/34/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/34/",
+      "verifiedTitle": "イコノイジョイ大感謝祭2024 「ニアジョイ球技大会",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-enjoybu-osaka-1",
+    "title": "ニアジョイ エンジョイ部〜大阪おもろいやんツアー",
+    "normalizedTitle": "ニアジョイエンジョイ部大阪おもろいやんツア",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "ブルーハワイレモン[CD+DVD/Type C]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/36/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/36/",
+      "verifiedTitle": "ニアジョイ エンジョイ部〜大阪おもろいやんツアー",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-enjoybu-osaka-2",
+    "title": "ニアジョイ エンジョイ部〜大阪なんでやねんツアー",
+    "normalizedTitle": "ニアジョイエンジョイ部大阪なんでやねんツア",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "ブルーハワイレモン[CD+DVD/Type B]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/35/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/35/",
+      "verifiedTitle": "ニアジョイ エンジョイ部〜大阪なんでやねんツアー",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-cinderella",
+    "title": "初恋シンデレラ",
+    "normalizedTitle": "初恋シンデレラ",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "初恋シンデレラ[CD+DVD/Type C]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/29/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/29/",
+      "verifiedTitle": "初恋シンデレラ",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-peach",
+    "title": "ピーチティーとピーチパイ",
+    "normalizedTitle": "ピチティとピチパイ",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "初恋シンデレラ[CD+DVD/Type C]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/29/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/29/",
+      "verifiedTitle": "ピーチティーとピーチパイ",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-dadada-datte",
+    "title": "だだだ、だって。",
+    "normalizedTitle": "だだだ、だって。",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "初恋シンデレラ[CD+DVD/Type C]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/29/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/29/",
+      "verifiedTitle": "だだだ、だって。",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-enjoybu-lying-cat",
+    "title": "ニアジョイ エンジョイ部 ～噓つきネコは誰だ？",
+    "normalizedTitle": "ニアジョイエンジョイ部～噓つきネコは誰だ",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "初恋シンデレラ[CD+DVD/Type C]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/29/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/29/",
+      "verifiedTitle": "ニアジョイ エンジョイ部 ～噓つきネコは誰だ？",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-cinderella-mv",
+    "title": "初恋シンデレラ Music Video",
+    "normalizedTitle": "初恋シンデレラmusicvideo",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "初恋シンデレラ[CD+DVD/Type A]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/27/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/27/",
+      "verifiedTitle": "初恋シンデレラ Music Video",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-cinderella-making",
+    "title": "初恋シンデレラ メイキング映像",
+    "normalizedTitle": "初恋シンデレラメイキング映像",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "初恋シンデレラ[CD+DVD/Type A]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/27/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/27/",
+      "verifiedTitle": "初恋シンデレラ メイキング映像",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-gym-disco",
+    "title": "体育館ディスコ",
+    "normalizedTitle": "体育館ディスコ",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "体育館ディスコ [CD +BD/Type D]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/22/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/22/",
+      "verifiedTitle": "体育館ディスコ",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-yumemiru-idol",
+    "title": "夢見る♡アイドル",
+    "normalizedTitle": "夢見る♡アイドル",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "体育館ディスコ [CD +BD/Type D]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/22/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/22/",
+      "verifiedTitle": "夢見る♡アイドル",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-nevergiveup",
+    "title": "ネバギバ！生きろ",
+    "normalizedTitle": "ネバギバ生きろ",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "体育館ディスコ [CD +BD/Type D]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/22/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/22/",
+      "verifiedTitle": "ネバギバ！生きろ",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-joy1sttourabsolute-zepphanedatokyo",
+    "title": "≒JOY 1st Tour「Absolute」＠Zepp Haneda (TOKYO)",
+    "normalizedTitle": "≒joy1sttourabsolute＠zepphanedatokyo",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "体育館ディスコ [CD +BD/Type D]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/22/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/22/",
+      "verifiedTitle": "≒JOY 1st Tour「Absolute」＠Zepp Haneda (TOKYO)",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-enjoybu-lying-monkey",
+    "title": "ニアジョイ エンジョイ部 ～噓つきサルは誰だ？",
+    "normalizedTitle": "ニアジョイエンジョイ部～噓つきサルは誰だ",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "初恋シンデレラ[CD+DVD/Type B]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/28/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/28/",
+      "verifiedTitle": "ニアジョイ エンジョイ部 ～噓つきサルは誰だ？",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-rebel",
+    "title": "無謀人",
+    "normalizedTitle": "無謀人",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "きっと、絶対、絶対 [CD+DVD/Type B]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "mini-album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+      "verifiedTitle": "無謀人",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-concept",
+    "title": "≒JOY",
+    "normalizedTitle": "≒joy",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "きっと、絶対、絶対 [CD+DVD/Type B]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "mini-album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+      "verifiedTitle": "≒JOY",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-fragile",
+    "title": "笑って フラジール",
+    "normalizedTitle": "笑ってフラジル",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "きっと、絶対、絶対 [CD+DVD/Type B]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "mini-album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+      "verifiedTitle": "笑って フラジール",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-lion",
+    "title": "超孤独ライオン",
+    "normalizedTitle": "超孤独ライオン",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "きっと、絶対、絶対 [CD+DVD/Type B]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "mini-album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+      "verifiedTitle": "超孤独ライオン",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-sweet16",
+    "title": "スイートシックスティーン",
+    "normalizedTitle": "スイトシックスティン",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "きっと、絶対、絶対 [CD+DVD/Type B]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "mini-album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+      "verifiedTitle": "スイートシックスティーン",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-dream",
+    "title": "今日も君の夢を見たんだ",
+    "normalizedTitle": "今日も君の夢を見たんだ",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "きっと、絶対、絶対 [CD+DVD/Type B]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "mini-album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+      "verifiedTitle": "今日も君の夢を見たんだ",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-ozora-byunto",
+    "title": "大空、ビュンと",
+    "normalizedTitle": "大空、ビュンと",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "きっと、絶対、絶対 [CD+DVD/Type B]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "mini-album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+      "verifiedTitle": "大空、ビュンと",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-sonosaki-wa-exalt",
+    "title": "その先はイグザルト",
+    "normalizedTitle": "その先はイグザルト",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "きっと、絶対、絶対 [CD+DVD/Type B]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "mini-album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+      "verifiedTitle": "その先はイグザルト",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-kitto-aoi",
+    "title": "きっと、青い",
+    "normalizedTitle": "きっと、青い",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "きっと、絶対、絶対 [CD+DVD/Type B]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "mini-album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+      "verifiedTitle": "きっと、青い",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-kagaikatsudo-akadake",
+    "title": "ニアジョイ課外活動 〜赤岳登山編〜",
+    "normalizedTitle": "ニアジョイ課外活動赤岳登山編",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "きっと、絶対、絶対 [CD+DVD/Type B]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "mini-album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/",
+      "verifiedTitle": "ニアジョイ課外活動 〜赤岳登山編〜",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-gym-disco-mv",
+    "title": "体育館ディスコMusic Video",
+    "normalizedTitle": "体育館ディスコmusicvideo",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "体育館ディスコ [CD+DVD/Type A]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/19/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/19/",
+      "verifiedTitle": "体育館ディスコMusic Video",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-gym-disco-making",
+    "title": "体育館ディスコメイキング映像",
+    "normalizedTitle": "体育館ディスコメイキング映像",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "体育館ディスコ [CD+DVD/Type A]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/19/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "single",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/19/",
+      "verifiedTitle": "体育館ディスコメイキング映像",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-kitto-aoi-mv",
+    "title": "きっと、青い Music Video",
+    "normalizedTitle": "きっと、青いmusicvideo",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "きっと、絶対、絶対 [CD+DVD/Type A]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/13/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "mini-album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/13/",
+      "verifiedTitle": "きっと、青い Music Video",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-rebel-mv",
+    "title": "無謀人 Music Video",
+    "normalizedTitle": "無謀人musicvideo",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "きっと、絶対、絶対 [CD+DVD/Type A]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/13/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "mini-album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/13/",
+      "verifiedTitle": "無謀人 Music Video",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-rebel-making",
+    "title": "無謀人 メイキング映像",
+    "normalizedTitle": "無謀人メイキング映像",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "きっと、絶対、絶対 [CD+DVD/Type A]",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/13/",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-discography",
+    "verifiedAt": "2026-07-01T08:40:14.696Z",
+    "sourceReleaseType": "mini-album",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/discography/detail/13/",
+      "verifiedTitle": "無謀人 メイキング映像",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-bokutachinouta",
+    "title": "僕たちの歌",
+    "normalizedTitle": "僕たちの歌",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "「僕たちの歌」 / 「ノンフィクション」 (配信限定リリース)",
+    "officialReleaseDate": "2026-04-03",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/news/detail/3477",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-news",
+    "verifiedAt": "2026-07-01T09:16:36.300Z",
+    "sourceReleaseType": "digital-release",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/news/detail/3477",
+      "verifiedTitle": "僕たちの歌",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joy-nonfiction",
+    "title": "ノンフィクション",
+    "normalizedTitle": "ノンフィクション",
+    "group": "nearly-equal-joy",
+    "officialReleaseTitle": "「僕たちの歌」 / 「ノンフィクション」 (配信限定リリース)",
+    "officialReleaseDate": "2026-04-03",
+    "officialSourceUrl": "https://nearly-equal-joy.jp/news/detail/3477",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-news",
+    "verifiedAt": "2026-07-01T09:16:36.300Z",
+    "sourceReleaseType": "digital-release",
+    "verification": {
+      "sourceType": "official_discography",
+      "sourceUrl": "https://nearly-equal-joy.jp/news/detail/3477",
+      "verifiedTitle": "ノンフィクション",
+      "verifiedGroup": "nearly-equal-joy",
+      "verifiedAt": "2026-07-01T10:53:05.966Z"
+    }
+  },
+  {
+    "id": "joint-triple-date",
+    "title": "トリプルデート",
+    "normalizedTitle": "トリプルデート",
+    "group": "joint",
+    "officialReleaseTitle": "トリプルデート",
+    "officialReleaseDate": "2022-07-03",
+    "officialSourceUrl": "https://equal-love.jp/news/detail/5312",
+    "sourceContainsExactTitle": true,
+    "verificationMethod": "official-news",
+    "verifiedAt": "2026-07-01T11:48:42.000Z",
+    "sourceReleaseType": "digital-release",
+    "verification": {
+      "sourceType": "official_release_news",
+      "sourceUrl": "https://equal-love.jp/news/detail/5312",
+      "verifiedTitle": "トリプルデート",
+      "verifiedGroup": "joint",
+      "verifiedAt": "2026-07-01T11:48:42.000Z"
+    }
+  }
+]

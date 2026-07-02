@@ -1,0 +1,1050 @@
+[
+  {
+    "title": "君の音だったんだ",
+    "registeredGroup": "equal-love",
+    "correctGroup": "not-equal-me",
+    "reason": "wrong-group-assignment",
+    "originalData": {
+      "id": "love-kimi-no-oto-datta-nda",
+      "title": "君の音だったんだ",
+      "group": "equal-love",
+      "category": "group",
+      "factualData": {
+        "releaseDate": "2019-10-30",
+        "releaseTitle": "ズルいよ ズルいね",
+        "participatingMembers": [
+          "needs-review"
+        ],
+        "verificationStatus": "partially-verified",
+        "verifiedSources": [
+          {
+            "field": "title",
+            "url": "https://equal-love.jp/discography/detail/6/",
+            "note": "Official Discography Title Details"
+          },
+          {
+            "field": "release",
+            "url": "https://equal-love.jp/discography/detail/6/",
+            "note": "Official Discography release date"
+          }
+        ]
+      },
+      "scores": {
+        "energy": 4,
+        "brightness": 4,
+        "sadness": 2,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3,
+        "nostalgia": 3,
+        "emotionalIntensity": 3
+      },
+      "tags": {
+        "moods": [
+          "happy"
+        ],
+        "situations": [
+          "commute",
+          "walking"
+        ],
+        "weather": [
+          "sunny"
+        ],
+        "timeOfDay": [
+          "daytime"
+        ],
+        "seasons": [
+          "all_seasons"
+        ],
+        "themes": [
+          "youth"
+        ],
+        "tempos": [
+          "medium"
+        ],
+        "playlistRoles": [
+          "build_up"
+        ]
+      },
+      "recommendation": {
+        "songImpression": "メンバーたちの瑞々しくのびのびとした歌声と心地よいアレンジが魅力的な、爽やかで王道アイドルらしさが溢れる楽曲です。",
+        "recommendedFor": "心地よいリズムに乗せて、軽快なポップスを味わいたい人に。",
+        "recommendedSituation": "徒歩での移動中や、晴れた日の散歩のお供に。",
+        "notRecommendedSituation": "激しいビートでテンションを極限まで高めたいとき。",
+        "recommendationText": "日常の通勤・通学時間や、静かにリラックスしたいときに、耳元を心地よく彩ってくれます。気持ちを少しだけ明るい方向へ向けたいときや、前向きに一日をスタートしたいときにおすすめです。",
+        "listeningSuggestion": "散歩をしながら、周囲の風景に溶け込ませて聴くのがおすすめです。"
+      },
+      "recommendationVariants": [
+        {
+          "conditionType": "mood",
+          "condition": "happy",
+          "text": "明るく前向きなメロディが、あなたの何気ない一日にそっと彩りを添えてくれます。"
+        },
+        {
+          "conditionType": "situation",
+          "condition": "commute",
+          "text": "毎日の通勤や通学の電車の中で、心地よくリズムに浸りたいときに向いています。"
+        }
+      ],
+      "analysisBasis": {
+        "interpretationNotes": "公式リリース情報に基づく全員曲。バランスのとれたポップ調アレンジ。",
+        "confidence": 85
+      },
+      "enabled": true,
+      "enabledForRecommendation": true
+    },
+    "quarantinedAt": "2026-07-01T02:26:54.651Z"
+  },
+  {
+    "title": "君の第３ボタンです！",
+    "registeredGroup": "equal-love",
+    "reason": "invalid-title-variant",
+    "originalData": {
+      "id": "love-kimi-no-dai3-button-desu",
+      "title": "君の第3ボタンです！",
+      "group": "equal-love",
+      "category": "group",
+      "factualData": {
+        "releaseDate": "2024-03-06",
+        "releaseTitle": "呪って呪って",
+        "participatingMembers": [
+          "needs-review"
+        ],
+        "verificationStatus": "partially-verified",
+        "verifiedSources": [
+          {
+            "field": "title",
+            "url": "https://equal-love.jp/discography/detail/16/",
+            "note": "Official Discography Title Details"
+          },
+          {
+            "field": "release",
+            "url": "https://equal-love.jp/discography/detail/16/",
+            "note": "Official Discography release date"
+          }
+        ]
+      },
+      "scores": {
+        "energy": 4,
+        "brightness": 4,
+        "sadness": 2,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3,
+        "nostalgia": 3,
+        "emotionalIntensity": 3
+      },
+      "tags": {
+        "moods": [
+          "happy"
+        ],
+        "situations": [
+          "commute",
+          "walking"
+        ],
+        "weather": [
+          "sunny"
+        ],
+        "timeOfDay": [
+          "daytime"
+        ],
+        "seasons": [
+          "all_seasons"
+        ],
+        "themes": [
+          "youth"
+        ],
+        "tempos": [
+          "medium"
+        ],
+        "playlistRoles": [
+          "build_up"
+        ]
+      },
+      "recommendation": {
+        "songImpression": "メンバーたちの瑞々しくのびのびとした歌声と心地よいアレンジが魅力的な、爽やかで王道アイドルらしさが溢れる楽曲です。",
+        "recommendedFor": "心地よいリズムに乗せて、軽快なポップスを味わいたい人に。",
+        "recommendedSituation": "徒歩での移動中や、晴れた日の散歩のお供に。",
+        "notRecommendedSituation": "激しいビートでテンションを極限まで高めたいとき。",
+        "recommendationText": "日常の通勤・通学時間や、静かにリラックスしたいときに、耳元を心地よく彩ってくれます。気持ちを少しだけ明るい方向へ向けたいときや、前向きに一日をスタートしたいときにおすすめです。",
+        "listeningSuggestion": "散歩をしながら、周囲の風景に溶け込ませて聴くのがおすすめです。"
+      },
+      "recommendationVariants": [
+        {
+          "conditionType": "mood",
+          "condition": "happy",
+          "text": "明るく前向きなメロディが、あなたの何気ない一日にそっと彩りを添えてくれます。"
+        },
+        {
+          "conditionType": "situation",
+          "condition": "commute",
+          "text": "毎日の通勤や通学の電車の中で、心地よくリズムに浸りたいときに向いています。"
+        }
+      ],
+      "analysisBasis": {
+        "interpretationNotes": "公式リリース情報に基づく全員曲。バランスのとれたポップ調アレンジ。",
+        "confidence": 85
+      },
+      "enabled": true,
+      "enabledForRecommendation": true
+    },
+    "quarantinedAt": "2026-07-01T02:26:54.651Z"
+  },
+  {
+    "title": "トリプルデート",
+    "registeredGroup": "equal-love",
+    "reason": "wrong-group-assignment",
+    "originalData": {
+      "id": "love-triple-date",
+      "title": "トリプルデート",
+      "normalizedTitle": "tripledate",
+      "group": "equal-love",
+      "category": "other",
+      "releases": [
+        {
+          "releaseTitle": "トリプルデート",
+          "releaseType": "digital",
+          "releaseDate": "2022-07-20",
+          "trackNumber": 1,
+          "sourceUrl": "https://equal-love.jp/discography/"
+        }
+      ],
+      "factualVerification": {
+        "titleVerified": true,
+        "releaseVerified": true,
+        "verifiedSources": [
+          "Wikipedia"
+        ],
+        "notes": "IKONOIJOY Joint song."
+      },
+      "needsReview": true
+    },
+    "quarantinedAt": "2026-07-01T02:45:13.176Z"
+  },
+  {
+    "title": "超孤独ライオン",
+    "registeredGroup": "nearly-equal-joy",
+    "reason": "unverified-song",
+    "originalData": {
+      "id": "joy-chokodoku-lion",
+      "title": "超孤独ライオン",
+      "group": "nearly-equal-joy",
+      "factualData": {
+        "releaseDate": "2022-11-23",
+        "centerMembers": [
+          "江角怜音"
+        ],
+        "verificationStatus": "verified"
+      },
+      "scores": {
+        "energy": 5,
+        "brightness": 1,
+        "sadness": 3,
+        "cuteness": 1,
+        "power": 5,
+        "calmness": 1,
+        "romance": 1,
+        "liveHype": 5
+      },
+      "tags": {
+        "moods": [
+          "excited",
+          "lonely",
+          "confident"
+        ],
+        "situations": [
+          "driving",
+          "before_live",
+          "commute"
+        ],
+        "weather": [
+          "cloudy",
+          "rainy"
+        ],
+        "timeOfDay": [
+          "night",
+          "late_night"
+        ],
+        "seasons": [
+          "all_seasons"
+        ],
+        "themes": [
+          "challenge"
+        ],
+        "tempos": [
+          "upbeat"
+        ],
+        "playlistRoles": [
+          "build_up",
+          "peak"
+        ]
+      },
+      "recommendation": {
+        "recommendedFor": "日常の不満や葛藤をエネルギーに変えて、圧倒的に強気なメタルサウンドで爆発したい人に。",
+        "recommendedSituation": "ライブ前の高揚感を極限まで高めたいときや、夜のハードな移動・ドライブに。",
+        "notRecommendedSituation": "日曜日の穏やかな晴れた朝、小鳥のさえずりを聴きながらコーヒーを飲んでいるとき。",
+        "recommendationText": "イコノイジョイ史上最も激しい、超ヘヴィな本格ヘヴィメタル・ロック曲です。江角怜音のシャウトと魂を揺さぶる重厚なドラム・ギターが、あなたの中にある孤独や恐れをすべて焼き尽くすほどの強烈な自信の炎を灯します。",
+        "listeningSuggestion": "可能な限りイヤホンの音質を高めて、イントロの咆哮から一気に音に呑み込まれてみてください。"
+      },
+      "recommendationVariants": [
+        {
+          "condition": "excited",
+          "text": "ここぞという時に心の底から獣を呼び覚ますような、超攻撃的で熱いメタルナンバー。退屈な日常を一瞬でライブの最前線に変え、感情を最高にスパークさせます。"
+        },
+        {
+          "condition": "lonely",
+          "text": "孤独を抱えて戦うあなたの心を、圧倒的な怒りと強さで包み込んでくれる無敵のサウンドトラックです。「孤独だからこそ強い」という反逆のマインドで心を満たしてくれます。"
+        }
+      ],
+      "enabled": true
+    },
+    "quarantinedAt": "2026-07-01T02:45:13.176Z"
+  },
+  {
+    "title": "今日も君の夢を見たんだ",
+    "registeredGroup": "nearly-equal-joy",
+    "reason": "unverified-song",
+    "originalData": {
+      "id": "joy-kyou-mo-kimi-no-yume-wo-mitanda",
+      "title": "今日も君の夢を見たんだ",
+      "group": "nearly-equal-joy",
+      "factualData": {
+        "releaseDate": "2023-04-12",
+        "centerMembers": [
+          "村山結香"
+        ],
+        "verificationStatus": "verified"
+      },
+      "scores": {
+        "energy": 3,
+        "brightness": 4,
+        "sadness": 2,
+        "cuteness": 4,
+        "power": 3,
+        "calmness": 4,
+        "romance": 4,
+        "liveHype": 3
+      },
+      "tags": {
+        "moods": [
+          "calm",
+          "romantic",
+          "nostalgic"
+        ],
+        "situations": [
+          "relaxing",
+          "before_sleep",
+          "walking"
+        ],
+        "weather": [
+          "sunny",
+          "cloudy"
+        ],
+        "timeOfDay": [
+          "morning",
+          "evening"
+        ],
+        "seasons": [
+          "all_seasons"
+        ],
+        "themes": [
+          "love",
+          "unrequited_love",
+          "memories"
+        ],
+        "tempos": [
+          "medium"
+        ],
+        "playlistRoles": [
+          "cool_down",
+          "ending"
+        ]
+      },
+      "recommendation": {
+        "recommendedFor": "甘酸っぱくも少し切ない恋心を抱いている人や、爽やかで優しいメロディに浸りたい人に。",
+        "recommendedSituation": "夕焼け空を眺めながら静かに帰路につくときや、ベッドの中で一日を振り返るとき。",
+        "notRecommendedSituation": "深夜に激しいビートでダンスをして、一晩中大騒ぎをして眠りたくないとき。",
+        "recommendationText": "村山結香の透き通るような美しいソロパートが印象的な、切なくも爽快な青春ラブポップスです。優しいストリングスと素直な恋心を綴った歌詞が、あなたの心をやさしく癒やし、心地よい余韻を残してくれます。",
+        "listeningSuggestion": "お風呂上がりのリラックスした時間、耳に優しい音量でまったり聴いてみてください。"
+      },
+      "recommendationVariants": [
+        {
+          "condition": "calm",
+          "text": "夕暮れの静かな時間に、呼吸を整えて心を穏やかにしてくれる爽やかな曲です。清らかなボーカルが、あなたの一日の疲れをふっと吸い取ってくれます。"
+        },
+        {
+          "condition": "before_sleep",
+          "text": "眠る前に「今日も良い一日だった」と心を落ち着かせたい時間にぴったり。優しいピアノの響きが、あなたの睡眠へ向かう意識をそっと包みます。"
+        }
+      ],
+      "enabled": true
+    },
+    "quarantinedAt": "2026-07-01T02:45:13.176Z"
+  },
+  {
+    "title": "その先はイグザルト",
+    "registeredGroup": "nearly-equal-joy",
+    "reason": "unverified-song",
+    "originalData": {
+      "id": "joy-sono-saki-wa-exalt",
+      "title": "その先はイグザルト",
+      "group": "nearly-equal-joy",
+      "factualData": {
+        "releaseDate": "2023-09-06",
+        "centerMembers": [
+          "江角怜音"
+        ],
+        "verificationStatus": "verified"
+      },
+      "scores": {
+        "energy": 4,
+        "brightness": 3,
+        "sadness": 2,
+        "cuteness": 2,
+        "power": 5,
+        "calmness": 2,
+        "romance": 1,
+        "liveHype": 4
+      },
+      "tags": {
+        "moods": [
+          "excited",
+          "confident",
+          "motivated"
+        ],
+        "situations": [
+          "study",
+          "work",
+          "before_live"
+        ],
+        "weather": [
+          "cloudy",
+          "cold"
+        ],
+        "timeOfDay": [
+          "evening",
+          "night"
+        ],
+        "seasons": [
+          "all_seasons"
+        ],
+        "themes": [
+          "challenge",
+          "dream"
+        ],
+        "tempos": [
+          "upbeat"
+        ],
+        "playlistRoles": [
+          "build_up",
+          "peak"
+        ]
+      },
+      "recommendation": {
+        "recommendedFor": "周囲に同調せず自分の芯を通したい人や、内なる静かな闘志を燃やしたい人に。",
+        "recommendedSituation": "夕方から夜にかけて、孤独に何かの作業に没頭して成果を出したいときに。",
+        "notRecommendedSituation": "晴れ渡った青空のもと、全員で手を繋いでピクニックをして歌いたいとき。",
+        "recommendationText": "葛藤を切り裂き「自分の道を進む」という強いメッセージを秘めた、クールで少し影のあるロックダンスナンバーです。江角怜音の力強い歌声が、あなたの胸に「揺るがない自分」という自信を注入し、暗闇の中で戦う情熱を呼び覚まします。",
+        "listeningSuggestion": "部屋の明かりを暗めにして、クールなシンセとギターの応酬に没入しながら聴くのがおすすめです。"
+      },
+      "recommendationVariants": [
+        {
+          "condition": "confident",
+          "text": "誰かに自分の意見を否定されそうなとき、自分自身の選択を信じるための静かな戦闘曲です。凛とした意志を秘めたサビが、あなたに強さを与えてくれます。"
+        },
+        {
+          "condition": "work",
+          "text": "夜の作業にギアをもう一段階上げたい時にぴったりです。緊張感のある引き締まったメロディが、脳内を冴え渡らせてくれます。"
+        }
+      ],
+      "enabled": true
+    },
+    "quarantinedAt": "2026-07-01T02:45:13.176Z"
+  },
+  {
+    "title": "その先はイグザルト",
+    "registeredGroup": "not-equal-me",
+    "correctGroup": "nearly-equal-joy",
+    "reason": "wrong-group-assignment",
+    "originalData": {
+      "id": "me-",
+      "title": "その先はイグザルト",
+      "group": "not-equal-me",
+      "category": "unknown",
+      "factualData": {
+        "releaseDate": "2023-09-06",
+        "releaseTitle": "「想わせぶりっこ」",
+        "verificationStatus": "needs-review",
+        "verifiedSources": [
+          {
+            "field": "title",
+            "url": "https://not-equal-me.jp/discography/detail/39/",
+            "note": "Official Discography Page"
+          }
+        ]
+      },
+      "scores": {
+        "energy": 3,
+        "brightness": 3,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3
+      },
+      "tags": {
+        "moods": [],
+        "situations": [],
+        "weather": [],
+        "timeOfDay": [],
+        "seasons": [],
+        "themes": [],
+        "tempos": [],
+        "playlistRoles": []
+      },
+      "recommendation": {
+        "songImpression": "楽曲情報を確認中です",
+        "recommendedFor": "楽曲情報を確認中です",
+        "recommendedSituation": "楽曲情報を確認中です",
+        "notRecommendedSituation": "楽曲情報を確認中です",
+        "recommendationText": "楽曲情報を確認中です",
+        "listeningSuggestion": "楽曲情報を確認中です"
+      },
+      "recommendationVariants": [],
+      "enabled": true,
+      "enabledForRecommendation": false,
+      "needsReview": true,
+      "releases": [
+        {
+          "title": "「想わせぶりっこ」",
+          "releaseType": "single",
+          "releaseDate": "2023-09-06",
+          "trackNumber": 2,
+          "officialSourceUrl": "https://not-equal-me.jp/discography/detail/39/"
+        }
+      ],
+      "verification": {
+        "titleVerified": true,
+        "releaseVerified": true,
+        "categoryVerified": false,
+        "sourceContainsExactTitle": true,
+        "verifiedSources": [
+          "https://not-equal-me.jp/discography/detail/39/"
+        ],
+        "checkedAt": "2026-07-01T02:50:43.721Z"
+      }
+    },
+    "quarantinedAt": "2026-07-01T02:51:26.977Z"
+  },
+  {
+    "title": "今日も君の夢を見たんだ",
+    "registeredGroup": "not-equal-me",
+    "correctGroup": "nearly-equal-joy",
+    "reason": "wrong-group-assignment",
+    "originalData": {
+      "id": "me-",
+      "title": "今日も君の夢を見たんだ",
+      "group": "not-equal-me",
+      "category": "unknown",
+      "factualData": {
+        "releaseDate": "2023-04-12",
+        "releaseTitle": "「天使は何処へ」",
+        "verificationStatus": "needs-review",
+        "verifiedSources": [
+          {
+            "field": "title",
+            "url": "https://not-equal-me.jp/discography/detail/25/",
+            "note": "Official Discography Page"
+          }
+        ]
+      },
+      "scores": {
+        "energy": 3,
+        "brightness": 3,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3
+      },
+      "tags": {
+        "moods": [],
+        "situations": [],
+        "weather": [],
+        "timeOfDay": [],
+        "seasons": [],
+        "themes": [],
+        "tempos": [],
+        "playlistRoles": []
+      },
+      "recommendation": {
+        "songImpression": "楽曲情報を確認中です",
+        "recommendedFor": "楽曲情報を確認中です",
+        "recommendedSituation": "楽曲情報を確認中です",
+        "notRecommendedSituation": "楽曲情報を確認中です",
+        "recommendationText": "楽曲情報を確認中です",
+        "listeningSuggestion": "楽曲情報を確認中です"
+      },
+      "recommendationVariants": [],
+      "enabled": true,
+      "enabledForRecommendation": false,
+      "needsReview": true,
+      "releases": [
+        {
+          "title": "「天使は何処へ」",
+          "releaseType": "single",
+          "releaseDate": "2023-04-12",
+          "trackNumber": 2,
+          "officialSourceUrl": "https://not-equal-me.jp/discography/detail/25/"
+        }
+      ],
+      "verification": {
+        "titleVerified": true,
+        "releaseVerified": true,
+        "categoryVerified": false,
+        "sourceContainsExactTitle": true,
+        "verifiedSources": [
+          "https://not-equal-me.jp/discography/detail/25/"
+        ],
+        "checkedAt": "2026-07-01T02:50:43.721Z"
+      }
+    },
+    "quarantinedAt": "2026-07-01T02:51:26.977Z"
+  },
+  {
+    "title": "超孤独ライオン",
+    "registeredGroup": "not-equal-me",
+    "correctGroup": "nearly-equal-joy",
+    "reason": "wrong-group-assignment",
+    "originalData": {
+      "id": "me-",
+      "title": "超孤独ライオン",
+      "group": "not-equal-me",
+      "category": "unknown",
+      "factualData": {
+        "releaseDate": "2022-11-23",
+        "releaseTitle": "「はにかみショート」",
+        "verificationStatus": "needs-review",
+        "verifiedSources": [
+          {
+            "field": "title",
+            "url": "https://not-equal-me.jp/discography/detail/21/",
+            "note": "Official Discography Page"
+          }
+        ]
+      },
+      "scores": {
+        "energy": 3,
+        "brightness": 3,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3
+      },
+      "tags": {
+        "moods": [],
+        "situations": [],
+        "weather": [],
+        "timeOfDay": [],
+        "seasons": [],
+        "themes": [],
+        "tempos": [],
+        "playlistRoles": []
+      },
+      "recommendation": {
+        "songImpression": "楽曲情報を確認中です",
+        "recommendedFor": "楽曲情報を確認中です",
+        "recommendedSituation": "楽曲情報を確認中です",
+        "notRecommendedSituation": "楽曲情報を確認中です",
+        "recommendationText": "楽曲情報を確認中です",
+        "listeningSuggestion": "楽曲情報を確認中です"
+      },
+      "recommendationVariants": [],
+      "enabled": true,
+      "enabledForRecommendation": false,
+      "needsReview": true,
+      "releases": [
+        {
+          "title": "「はにかみショート」",
+          "releaseType": "single",
+          "releaseDate": "2022-11-23",
+          "trackNumber": 2,
+          "officialSourceUrl": "https://not-equal-me.jp/discography/detail/21/"
+        }
+      ],
+      "verification": {
+        "titleVerified": true,
+        "releaseVerified": true,
+        "categoryVerified": false,
+        "sourceContainsExactTitle": true,
+        "verifiedSources": [
+          "https://not-equal-me.jp/discography/detail/21/"
+        ],
+        "checkedAt": "2026-07-01T02:50:43.721Z"
+      }
+    },
+    "quarantinedAt": "2026-07-01T02:51:26.977Z"
+  },
+  {
+    "title": "Overture",
+    "registeredGroup": "not-equal-me",
+    "correctGroup": "nearly-equal-joy",
+    "reason": "wrong-group-assignment",
+    "originalData": {
+      "id": "me-overture",
+      "title": "Overture",
+      "group": "not-equal-me",
+      "category": "unknown",
+      "factualData": {
+        "releaseDate": "2021-04-07",
+        "releaseTitle": "「超特急 ≠ME行き」 ＜CD Only/ノイミー盤＞",
+        "verificationStatus": "needs-review",
+        "verifiedSources": [
+          {
+            "field": "title",
+            "url": "https://not-equal-me.jp/discography/detail/4/",
+            "note": "Official Discography Page"
+          },
+          {
+            "field": "title",
+            "url": "https://not-equal-me.jp/discography/detail/2/",
+            "note": "Official Discography Page"
+          },
+          {
+            "field": "title",
+            "url": "https://not-equal-me.jp/discography/detail/3/",
+            "note": "Official Discography Page"
+          }
+        ]
+      },
+      "scores": {
+        "energy": 3,
+        "brightness": 3,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3
+      },
+      "tags": {
+        "moods": [],
+        "situations": [],
+        "weather": [],
+        "timeOfDay": [],
+        "seasons": [],
+        "themes": [],
+        "tempos": [],
+        "playlistRoles": []
+      },
+      "recommendation": {
+        "songImpression": "楽曲情報を確認中です",
+        "recommendedFor": "楽曲情報を確認中です",
+        "recommendedSituation": "楽曲情報を確認中です",
+        "notRecommendedSituation": "楽曲情報を確認中です",
+        "recommendationText": "楽曲情報を確認中です",
+        "listeningSuggestion": "楽曲情報を確認中です"
+      },
+      "recommendationVariants": [],
+      "enabled": true,
+      "enabledForRecommendation": false,
+      "needsReview": true,
+      "releases": [
+        {
+          "title": "「超特急 ≠ME行き」 ＜CD Only/ノイミー盤＞",
+          "releaseType": "album",
+          "releaseDate": "2021-04-07",
+          "trackNumber": 1,
+          "officialSourceUrl": "https://not-equal-me.jp/discography/detail/4/"
+        },
+        {
+          "title": "「超特急 ≠ME行き」 ＜CD＋DVD/初回限定盤＞",
+          "releaseType": "album",
+          "releaseDate": "2021-04-07",
+          "trackNumber": 1,
+          "officialSourceUrl": "https://not-equal-me.jp/discography/detail/2/"
+        },
+        {
+          "title": "「超特急 ≠ME行き」 ＜CD Only/通常盤＞",
+          "releaseType": "album",
+          "releaseDate": "2021-04-07",
+          "trackNumber": 1,
+          "officialSourceUrl": "https://not-equal-me.jp/discography/detail/3/"
+        }
+      ],
+      "verification": {
+        "titleVerified": true,
+        "releaseVerified": true,
+        "categoryVerified": false,
+        "sourceContainsExactTitle": true,
+        "verifiedSources": [
+          "https://not-equal-me.jp/discography/detail/4/",
+          "https://not-equal-me.jp/discography/detail/2/",
+          "https://not-equal-me.jp/discography/detail/3/"
+        ],
+        "checkedAt": "2026-07-01T02:50:43.721Z"
+      }
+    },
+    "quarantinedAt": "2026-07-01T02:51:26.977Z"
+  },
+  {
+    "title": "Overture",
+    "registeredGroup": "nearly-equal-joy",
+    "correctGroup": "not-equal-me",
+    "reason": "wrong-group-assignment",
+    "originalData": {
+      "id": "joy-overture",
+      "title": "Overture",
+      "group": "nearly-equal-joy",
+      "category": "unknown",
+      "factualData": {
+        "releaseDate": "2024-01-17",
+        "releaseTitle": "きっと、絶対、絶対 [CD Only/Type C] (デビュー記念特別プライス盤)",
+        "verificationStatus": "needs-review",
+        "verifiedSources": [
+          {
+            "field": "title",
+            "url": "https://nearly-equal-joy.jp/discography/detail/15/",
+            "note": "Official Discography Page"
+          },
+          {
+            "field": "title",
+            "url": "https://nearly-equal-joy.jp/discography/detail/14/",
+            "note": "Official Discography Page"
+          },
+          {
+            "field": "title",
+            "url": "https://nearly-equal-joy.jp/discography/detail/13/",
+            "note": "Official Discography Page"
+          }
+        ]
+      },
+      "scores": {
+        "energy": 3,
+        "brightness": 3,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3
+      },
+      "tags": {
+        "moods": [],
+        "situations": [],
+        "weather": [],
+        "timeOfDay": [],
+        "seasons": [],
+        "themes": [],
+        "tempos": [],
+        "playlistRoles": []
+      },
+      "recommendation": {
+        "songImpression": "楽曲情報を確認中です",
+        "recommendedFor": "楽曲情報を確認中です",
+        "recommendedSituation": "楽曲情報を確認中です",
+        "notRecommendedSituation": "楽曲情報を確認中です",
+        "recommendationText": "楽曲情報を確認中です",
+        "listeningSuggestion": "楽曲情報を確認中です"
+      },
+      "recommendationVariants": [],
+      "enabled": true,
+      "enabledForRecommendation": false,
+      "needsReview": true,
+      "releases": [
+        {
+          "title": "きっと、絶対、絶対 [CD Only/Type C] (デビュー記念特別プライス盤)",
+          "releaseType": "album",
+          "releaseDate": "2024-01-17",
+          "trackNumber": 1,
+          "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/15/"
+        },
+        {
+          "title": "きっと、絶対、絶対 [CD+DVD/Type B]",
+          "releaseType": "album",
+          "releaseDate": "2024-01-17",
+          "trackNumber": 1,
+          "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/14/"
+        },
+        {
+          "title": "きっと、絶対、絶対 [CD+DVD/Type A]",
+          "releaseType": "album",
+          "releaseDate": "2024-01-17",
+          "trackNumber": 1,
+          "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/13/"
+        }
+      ],
+      "verification": {
+        "titleVerified": true,
+        "releaseVerified": true,
+        "categoryVerified": false,
+        "sourceContainsExactTitle": true,
+        "verifiedSources": [
+          "https://nearly-equal-joy.jp/discography/detail/15/",
+          "https://nearly-equal-joy.jp/discography/detail/14/",
+          "https://nearly-equal-joy.jp/discography/detail/13/"
+        ],
+        "checkedAt": "2026-07-01T02:51:26.981Z"
+      }
+    },
+    "quarantinedAt": "2026-07-01T02:52:42.146Z"
+  },
+  {
+    "title": "ニアジョイエンジョイ部in福岡 前編",
+    "registeredGroup": "nearly-equal-joy",
+    "reason": "non-song-fanclub-video-content",
+    "originalData": {
+      "id": "joy-in",
+      "title": "ニアジョイエンジョイ部in福岡 前編",
+      "group": "nearly-equal-joy",
+      "category": "unknown",
+      "factualData": {
+        "releaseDate": "2024-06-12",
+        "releaseTitle": "体育館ディスコ [CD+DVD/Type B]",
+        "verificationStatus": "needs-review",
+        "verifiedSources": [
+          {
+            "field": "title",
+            "url": "https://nearly-equal-joy.jp/discography/detail/20/",
+            "note": "Official Discography Page"
+          }
+        ]
+      },
+      "scores": {
+        "energy": 3,
+        "brightness": 3,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3
+      },
+      "tags": {
+        "moods": [],
+        "situations": [],
+        "weather": [],
+        "timeOfDay": [],
+        "seasons": [],
+        "themes": [],
+        "tempos": [],
+        "playlistRoles": []
+      },
+      "recommendation": {
+        "songImpression": "楽曲情報を確認中です",
+        "recommendedFor": "楽曲情報を確認中です",
+        "recommendedSituation": "楽曲情報を確認中です",
+        "notRecommendedSituation": "楽曲情報を確認中です",
+        "recommendationText": "楽曲情報を確認中です",
+        "listeningSuggestion": "楽曲情報を確認中です"
+      },
+      "recommendationVariants": [],
+      "enabled": true,
+      "enabledForRecommendation": false,
+      "needsReview": false,
+      "releases": [
+        {
+          "title": "体育館ディスコ [CD+DVD/Type B]",
+          "releaseType": "single",
+          "releaseDate": "2024-06-12",
+          "trackNumber": 4,
+          "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/20/"
+        }
+      ],
+      "verification": {
+        "titleVerified": true,
+        "releaseVerified": true,
+        "categoryVerified": false,
+        "sourceContainsExactTitle": true,
+        "verifiedSources": [
+          "https://nearly-equal-joy.jp/discography/detail/20/"
+        ],
+        "checkedAt": "2026-07-01T02:51:26.981Z"
+      }
+    },
+    "quarantinedAt": "2026-07-01T04:22:57.854Z"
+  },
+  {
+    "title": "ニアジョイエンジョイ部in福岡 後編",
+    "registeredGroup": "nearly-equal-joy",
+    "reason": "non-song-fanclub-video-content",
+    "originalData": {
+      "id": "joy-in",
+      "title": "ニアジョイエンジョイ部in福岡 後編",
+      "group": "nearly-equal-joy",
+      "category": "unknown",
+      "factualData": {
+        "releaseDate": "2024-06-12",
+        "releaseTitle": "体育館ディスコ [CD+DVD/Type C]",
+        "verificationStatus": "needs-review",
+        "verifiedSources": [
+          {
+            "field": "title",
+            "url": "https://nearly-equal-joy.jp/discography/detail/21/",
+            "note": "Official Discography Page"
+          }
+        ]
+      },
+      "scores": {
+        "energy": 3,
+        "brightness": 3,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3
+      },
+      "tags": {
+        "moods": [],
+        "situations": [],
+        "weather": [],
+        "timeOfDay": [],
+        "seasons": [],
+        "themes": [],
+        "tempos": [],
+        "playlistRoles": []
+      },
+      "recommendation": {
+        "songImpression": "楽曲情報を確認中です",
+        "recommendedFor": "楽曲情報を確認中です",
+        "recommendedSituation": "楽曲情報を確認中です",
+        "notRecommendedSituation": "楽曲情報を確認中です",
+        "recommendationText": "楽曲情報を確認中です",
+        "listeningSuggestion": "楽曲情報を確認中です"
+      },
+      "recommendationVariants": [],
+      "enabled": true,
+      "enabledForRecommendation": false,
+      "needsReview": false,
+      "releases": [
+        {
+          "title": "体育館ディスコ [CD+DVD/Type C]",
+          "releaseType": "single",
+          "releaseDate": "2024-06-12",
+          "trackNumber": 4,
+          "officialSourceUrl": "https://nearly-equal-joy.jp/discography/detail/21/"
+        }
+      ],
+      "verification": {
+        "titleVerified": true,
+        "releaseVerified": true,
+        "categoryVerified": false,
+        "sourceContainsExactTitle": true,
+        "verifiedSources": [
+          "https://nearly-equal-joy.jp/discography/detail/21/"
+        ],
+        "checkedAt": "2026-07-01T02:51:26.981Z"
+      }
+    },
+    "quarantinedAt": "2026-07-01T04:22:57.854Z"
+  }
+]
