@@ -1,26 +1,92 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --font-geist-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+  --font-geist-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
+  --background: #F8F9FD;
+  --foreground: #171725;
+  --text-muted: #6E7180;
+  --border-color: rgba(80, 84, 120, 0.12);
+  --card-bg: rgba(255, 255, 255, 0.82);
+
+  --color-lavender: #B9A7FF;
+  --color-skyblue: #93C5FD;
+  --color-pink: #F9A8D4;
+  --color-mint: #9FE7D7;
+  --color-yellow: #FDE68A;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+@theme {
+  --color-app-bg: var(--background);
+  --color-app-fg: var(--foreground);
+  --color-app-muted: var(--text-muted);
+  --color-app-border: var(--border-color);
+  --color-app-card: var(--card-bg);
+
+  --color-lavender: #B9A7FF;
+  --color-skyblue: #93C5FD;
+  --color-pink: #F9A8D4;
+  --color-mint: #9FE7D7;
+  --color-yellow: #FDE68A;
+
+  --radius-app-card: 24px;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-color: #E2E6F3; /* Darker off-white background seen on desktop edges */
+  color: var(--foreground);
+  font-family: var(--font-geist-sans);
+}
+
+/* Slow-moving soft gradient light effect */
+@keyframes float-light {
+  0% {
+    transform: translate(0px, 0px) scale(1);
+    opacity: 0.5;
+  }
+  33% {
+    transform: translate(50px, -70px) scale(1.15);
+    opacity: 0.65;
+  }
+  66% {
+    transform: translate(-30px, 40px) scale(0.9);
+    opacity: 0.45;
+  }
+  100% {
+    transform: translate(0px, 0px) scale(1);
+    opacity: 0.5;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+.animate-float-light-1 {
+  animation: float-light 28s infinite ease-in-out;
+}
+
+.animate-float-light-2 {
+  animation: float-light 36s infinite ease-in-out reverse;
+}
+
+/* Micro-animations and transitions */
+.smooth-transition {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.active-card-glow {
+  box-shadow: 0 0 15px rgba(185, 167, 255, 0.25);
+  border-color: rgba(185, 167, 255, 0.6);
+}
+
+/* Accessibility settings for prefers-reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  .animate-float-light-1,
+  .animate-float-light-2,
+  .smooth-transition,
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
 }

@@ -6,9 +6,15 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "generate:approved-songs": "npx tsx scripts/generate-approved-song-ids.ts",
+    "validate:song-ids": "npx tsx scripts/validate-song-ids.ts",
+    "validate:songs": "npx tsx scripts/validate-song-whitelist.ts",
+    "test": "npx tsx scripts/test-recommendation-rules.ts"
   },
   "dependencies": {
+    "framer-motion": "^12.42.2",
+    "lucide-react": "^1.23.0",
     "next": "16.2.9",
     "react": "19.2.4",
     "react-dom": "19.2.4"

@@ -1046,5 +1046,155 @@
       }
     },
     "quarantinedAt": "2026-07-01T04:22:57.854Z"
+  },
+  {
+    "title": "僕たちの歌",
+    "registeredGroup": "nearly-equal-joy",
+    "reason": "unverified-song-non-audio-source",
+    "originalData": {
+      "id": "joy-bokutachinouta",
+      "title": "僕たちの歌",
+      "group": "nearly-equal-joy",
+      "category": "group",
+      "factualData": {
+        "releaseDate": "2026-04-03",
+        "releaseTitle": "「僕たちの歌」 / 「ノンフィクション」 (配信限定リリース)",
+        "verificationStatus": "verified",
+        "verifiedSources": [
+          {
+            "field": "title",
+            "url": "https://nearly-equal-joy.jp/news/detail/3477",
+            "note": "Official News Release"
+          }
+        ]
+      },
+      "scores": {
+        "energy": 3,
+        "brightness": 3,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3
+      },
+      "tags": {
+        "moods": [],
+        "situations": [],
+        "weather": [],
+        "timeOfDay": [],
+        "seasons": [],
+        "themes": [],
+        "tempos": [],
+        "playlistRoles": []
+      },
+      "recommendation": {
+        "songImpression": "楽曲情報を確認中です",
+        "recommendedFor": "楽曲情報を確認中です",
+        "recommendedSituation": "楽曲情報を確認中です",
+        "notRecommendedSituation": "楽曲情報を確認中です",
+        "recommendationText": "楽曲情報を確認中です",
+        "listeningSuggestion": "楽曲情報を確認中です"
+      },
+      "recommendationVariants": [],
+      "enabled": true,
+      "enabledForRecommendation": false,
+      "needsReview": true,
+      "releases": [
+        {
+          "title": "「僕たちの歌」 / 「ノンフィクション」 (配信限定リリース)",
+          "releaseType": "digital-release",
+          "releaseDate": "2026-04-03",
+          "officialSourceUrl": "https://nearly-equal-joy.jp/news/detail/3477"
+        }
+      ],
+      "verification": {
+        "titleVerified": true,
+        "releaseVerified": true,
+        "categoryVerified": true,
+        "sourceContainsExactTitle": true,
+        "verifiedSources": [
+          "https://nearly-equal-joy.jp/news/detail/3477"
+        ],
+        "checkedAt": "2026-07-01T09:16:36.300Z"
+      },
+      "recordType": "song"
+    },
+    "quarantinedAt": "2026-07-02T12:10:51.843Z"
+  },
+  {
+    "title": "ノンフィクション",
+    "registeredGroup": "nearly-equal-joy",
+    "reason": "unverified-song-non-audio-source",
+    "originalData": {
+      "id": "joy-nonfiction",
+      "title": "ノンフィクション",
+      "group": "nearly-equal-joy",
+      "category": "group",
+      "factualData": {
+        "releaseDate": "2026-04-03",
+        "releaseTitle": "「僕たちの歌」 / 「ノンフィクション」 (配信限定リリース)",
+        "verificationStatus": "verified",
+        "verifiedSources": [
+          {
+            "field": "title",
+            "url": "https://nearly-equal-joy.jp/news/detail/3477",
+            "note": "Official News Release"
+          }
+        ]
+      },
+      "scores": {
+        "energy": 3,
+        "brightness": 3,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3
+      },
+      "tags": {
+        "moods": [],
+        "situations": [],
+        "weather": [],
+        "timeOfDay": [],
+        "seasons": [],
+        "themes": [],
+        "tempos": [],
+        "playlistRoles": []
+      },
+      "recommendation": {
+        "songImpression": "楽曲情報を確認中です",
+        "recommendedFor": "楽曲情報を確認中です",
+        "recommendedSituation": "楽曲情報を確認中です",
+        "notRecommendedSituation": "楽曲情報を確認中です",
+        "recommendationText": "楽曲情報を確認中です",
+        "listeningSuggestion": "楽曲情報を確認中です"
+      },
+      "recommendationVariants": [],
+      "enabled": true,
+      "enabledForRecommendation": false,
+      "needsReview": true,
+      "releases": [
+        {
+          "title": "「僕たちの歌」 / 「ノンフィクション」 (配信限定リリース)",
+          "releaseType": "digital-release",
+          "releaseDate": "2026-04-03",
+          "officialSourceUrl": "https://nearly-equal-joy.jp/news/detail/3477"
+        }
+      ],
+      "verification": {
+        "titleVerified": true,
+        "releaseVerified": true,
+        "categoryVerified": true,
+        "sourceContainsExactTitle": true,
+        "verifiedSources": [
+          "https://nearly-equal-joy.jp/news/detail/3477"
+        ],
+        "checkedAt": "2026-07-01T09:16:36.300Z"
+      },
+      "recordType": "song"
+    },
+    "quarantinedAt": "2026-07-02T12:10:51.843Z"
   }
 ]

@@ -45,29 +45,62 @@ export const nearlyEqualJoySongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 3
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "playful",
+        "cute",
+        "happy"
+      ],
+      "situations": [
+        "getting_ready",
+        "commute",
+        "alone_time"
+      ],
+      "weather": [
+        "sunny"
+      ],
+      "timeOfDay": [
+        "daytime",
+        "evening"
+      ],
+      "seasons": [
+        "spring",
+        "all_seasons"
+      ],
+      "themes": [
+        "love",
+        "youth",
+        "jealousy"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "opening",
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "現代の若者の日常的なコミュニケーションを、軽妙でポップなメロディで切り取った楽しげな楽曲です。",
+      "recommendedFor": "ポップな世界観を楽しみたい時や、日常のちょっとしたやり取りを軽快に彩りたい方に適しています。",
+      "recommendedSituation": "友人からの連絡を待つ時間や、何気ない日常の移動時間をポップに演出したい場面に馴染みます。",
+      "notRecommendedSituation": "クラシカルな美術館で静かに鑑賞したい時や、深い内省を行うための夜の読書時間には向きません。",
+      "recommendationText": "キャッチーなリズムと現代的なフレーズが交差し、弾むような楽しさを演出します。",
+      "listeningSuggestion": "友達とのおしゃべりのBGMとして、カジュアルに小さめの音量で流し聴きするのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "playful",
+        "text": "日常の他愛ないやり取りを、ワクワクするアトラクションのように楽しみたい時におすすめです。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
+    "enabledForRecommendation": true,
     "needsReview": true,
     "releases": [
       {
@@ -110,7 +143,12 @@ export const nearlyEqualJoySongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T08:40:14.700Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "SNSやスマートフォンを通じた現代的なアプローチをコミカルに歌い上げています。",
+      "confidence": 5
+    }
   },
   {
     "id": "joy-feat-djalice",
@@ -156,29 +194,62 @@ export const nearlyEqualJoySongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "excited",
+        "playful",
+        "confident"
+      ],
+      "situations": [
+        "driving",
+        "before_live",
+        "celebration"
+      ],
+      "weather": [
+        "clear_night",
+        "hot"
+      ],
+      "timeOfDay": [
+        "evening",
+        "night"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "themes": [
+        "youth",
+        "love",
+        "identity"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "opening",
+        "peak"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "エレクトロなサウンドとクラブライクなビートが響く、ダンスミュージックの要素を取り入れたクールなナンバーです。",
+      "recommendedFor": "体を動かしたくなるようなグルーヴを感じたい時や、ダンスビートで気分を切り替えたい方にぴったりです。",
+      "recommendedSituation": "夜の街並みをドライブする時間や、アクティブなフィットネスを行う場面でテンションを高めるのに適しています。",
+      "notRecommendedSituation": "和風の落ち着いた空間で静かにお茶を嗜みたい時や、穏やかなアコースティック音に浸りたい時には適しません。",
+      "recommendationText": "ダンサブルなリズムとエッジの効いたボーカルが重なり、躍動的なエネルギーを放ちます。",
+      "listeningSuggestion": "少し広がりを感じるヘッドホンを使用し、ビートの細部まで体感しながら聴くのがおすすめです。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "excited",
+        "text": "ビートに乗せて日常を忘れ、華やかな高揚感に包まれたい時に最適です。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
+    "enabledForRecommendation": true,
     "needsReview": true,
     "releases": [
       {
@@ -221,7 +292,12 @@ export const nearlyEqualJoySongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T08:40:14.700Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "ダンスフロアの興奮と甘酸っぱい恋模様をコラボレーション的にアレンジした一曲です。",
+      "confidence": 5
+    }
   },
   {
     "id": "joy-ai-ga-itakatta",
@@ -267,29 +343,63 @@ export const nearlyEqualJoySongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 4,
+      "emotionalIntensity": 5
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "sad",
+        "lonely",
+        "bittersweet"
+      ],
+      "situations": [
+        "relaxing",
+        "alone_time",
+        "before_sleep"
+      ],
+      "weather": [
+        "rainy",
+        "cold"
+      ],
+      "timeOfDay": [
+        "evening",
+        "night"
+      ],
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
+      "themes": [
+        "love",
+        "breakup",
+        "longing"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "change",
+        "cool_down"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "深く重い感情の交錯と、胸に迫るような切なさを丁寧に表現したエモーショナルなバラードです。",
+      "recommendedFor": "切ない感情に向き合い寄り添いたい時や、ドラマチックで濃厚な歌声にじっくり耳を傾けたい方に適しています。",
+      "recommendedSituation": "雨の日の窓辺で一人思索にふける時間や、静まり返った夜の部屋で心を落ち着かせたい時に向いています。",
+      "notRecommendedSituation": "朝一番の爽快な運動時や、誕生日などの賑やかな祝祭の場で流すにはシリアスすぎるため不向きです。",
+      "recommendationText": "情熱的なボーカルとドラマチックに展開する旋律が、心の奥深くに眠る繊細な想いを揺さぶります。",
+      "listeningSuggestion": "静かな環境で、曲の世界観を想像しながら、一音一音を深く味わうように聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "sad",
+        "text": "傷ついた心にそっと寄り添い、感情を静かに解放したい時におすすめです。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
+    "enabledForRecommendation": true,
     "needsReview": true,
     "releases": [
       {
@@ -332,7 +442,12 @@ export const nearlyEqualJoySongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T08:40:14.700Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "愛することの痛みと切実な渇望を、重厚でシリアスな音楽構成に乗せて描き出しています。",
+      "confidence": 5
+    }
   },
   {
     "id": "joy-denwabango-oshiete-mv",
@@ -647,29 +762,62 @@ export const nearlyEqualJoySongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 3
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "happy",
+        "cute",
+        "excited"
+      ],
+      "situations": [
+        "walking",
+        "driving",
+        "relaxing"
+      ],
+      "weather": [
+        "sunny",
+        "breezy"
+      ],
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "themes": [
+        "love",
+        "youth",
+        "memories"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up",
+        "peak"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "夏のきらめく陽射しと甘酸っぱい青春のワンシーンを描いた、爽快感あふれるポップソングです。",
+      "recommendedFor": "爽やかな夏の風を感じたい時や、気分をすっきりとリフレッシュさせたい方に最適です。",
+      "recommendedSituation": "晴天の下でのサイクリングロードや、夏の海辺を散歩するような開放的な場面に向いています。",
+      "notRecommendedSituation": "極寒の冬の夜に暖炉の前で静かに暖まりたい時や、厳かで静かなクラシックコンサートのような場面には合いません。",
+      "recommendationText": "清涼感のあるボーカルと軽快なビートが調和し、炭酸が弾けるようなみずみずしい魅力を放ちます。",
+      "listeningSuggestion": "屋外で風を感じながら、ポータブルプレイヤーで明るく響かせて聴くのが最も馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "happy",
+        "text": "晴れやかな笑顔とともに、夏のアクティビティを最大限に楽しみたい時に最適です。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
+    "enabledForRecommendation": true,
     "needsReview": true,
     "releases": [
       {
@@ -706,7 +854,12 @@ export const nearlyEqualJoySongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T08:40:14.700Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "夏のフレーバーになぞらえて、甘酸っぱくも眩しい恋の駆け引きを表現しています。",
+      "confidence": 5
+    }
   },
   {
     "id": "joy-3",
@@ -747,29 +900,63 @@ export const nearlyEqualJoySongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 3
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "cute",
+        "calm",
+        "happy"
+      ],
+      "situations": [
+        "relaxing",
+        "alone_time",
+        "walking"
+      ],
+      "weather": [
+        "sunny",
+        "cloudy"
+      ],
+      "timeOfDay": [
+        "daytime",
+        "evening"
+      ],
+      "seasons": [
+        "spring",
+        "autumn"
+      ],
+      "themes": [
+        "love",
+        "promise",
+        "gratitude"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "build_up",
+        "cool_down"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "付き合い始めの初々しい時期の甘い日常を、優しいテンポで綴ったほのぼのとした恋愛ソングです。",
+      "recommendedFor": "幸せな恋愛の余韻に浸りたい時や、穏やかで微笑ましい気持ちになりたい方にぴったりです。",
+      "recommendedSituation": "お気に入りのカフェでゆっくり過ごすティータイムや、恋人を待ち合わせ場所で待つ時間に向いています。",
+      "notRecommendedSituation": "ハードなロックサウンドを求めている時や、限界まで集中力を高めたい試験前の時間には甘すぎるため適しません。",
+      "recommendationText": "温かみのあるボーカルと優しい旋律が重なり、何気ない日常の幸福感をそっと描き出します。",
+      "listeningSuggestion": "スマートスピーカーなどで室内に柔らかく響かせ、リラックスした状態で聴くのがおすすめです。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "calm",
+        "text": "穏やかな安らぎの中で、誰かを愛おしく思う優しい時間を過ごしたい時に適しています。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
+    "enabledForRecommendation": true,
     "needsReview": true,
     "releases": [
       {
@@ -806,7 +993,12 @@ export const nearlyEqualJoySongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T08:40:14.700Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "交際三ヶ月目の微妙な距離感と、溢れる愛着を穏やかなアコースティック調で表現しています。",
+      "confidence": 5
+    }
   },
   {
     "id": "joy-0120",
@@ -847,29 +1039,62 @@ export const nearlyEqualJoySongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 3
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "playful",
+        "excited",
+        "happy"
+      ],
+      "situations": [
+        "work",
+        "getting_ready",
+        "celebration"
+      ],
+      "weather": [
+        "sunny"
+      ],
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "spring",
+        "all_seasons"
+      ],
+      "themes": [
+        "friendship",
+        "gratitude",
+        "challenge"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "opening",
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "困りごとを解決するヒーローのようなコミカルさと、前向きな楽しさに溢れたユニークなポップナンバーです。",
+      "recommendedFor": "ユーモアのある世界観で笑顔になりたい時や、落ち込んだ気分を楽しくリセットしたい方に適しています。",
+      "recommendedSituation": "部屋の大掃除をテンポよく進めたい時や、賑やかなパーティーの準備を行う時にぴったりです。",
+      "notRecommendedSituation": "深い悲しみに寄り添って静かに過ごしたい夜や、本格的なビジネスの交渉を控えた緊張の場面には軽快すぎます。",
+      "recommendationText": "遊び心に満ちたフレーズと弾むリズムが絡み合い、ハッピーで賑やかな空間を作り出します。",
+      "listeningSuggestion": "みんなで集まる賑やかなシチュエーションで、スピーカーから楽しげに流すのが良いでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "playful",
+        "text": "退屈な日常のタスクを、賑やかなゲームのように楽しみたい時に最適です。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
+    "enabledForRecommendation": true,
     "needsReview": true,
     "releases": [
       {
@@ -906,7 +1131,12 @@ export const nearlyEqualJoySongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T08:40:14.700Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "相談窓口をメタファーに、いつでも駆けつける仲間との絆をコミカルに描いています。",
+      "confidence": 5
+    }
   },
   {
     "id": "joy-2024",
@@ -1427,29 +1657,62 @@ export const nearlyEqualJoySongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 3
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "cute",
+        "playful",
+        "excited"
+      ],
+      "situations": [
+        "getting_ready",
+        "walking",
+        "alone_time"
+      ],
+      "weather": [
+        "sunny"
+      ],
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "summer",
+        "all_seasons"
+      ],
+      "themes": [
+        "love",
+        "youth",
+        "jealousy"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up",
+        "peak"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "素直になれない恋心をポップに表現した、ツンデレな可愛らしさが光るキャッチーなナンバーです。",
+      "recommendedFor": "甘酸っぱい葛藤を含んだ恋愛表現を楽しみたい時や、キュートなリズムで元気を引き出したい方に適しています。",
+      "recommendedSituation": "お出かけのメイクやヘアセットをする時間など、可愛らしさを意識したい朝の準備に向いています。",
+      "notRecommendedSituation": "深い哲学書を読み耽る静かな午後や、厳粛なビジネスミーティングの準備時間には賑やかすぎて適しません。",
+      "recommendationText": "愛嬌のある構成と軽快なリズムが合わさり、胸の高鳴りを楽しく表現します。",
+      "listeningSuggestion": "ポップな世界観に合わせて、少し軽やかなリズムのステップを踏みながら楽しむのがおすすめです。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "cute",
+        "text": "少し拗ねたような乙女心をチャーミングに表現し、気分を明るくしたい時におすすめです。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
+    "enabledForRecommendation": true,
     "needsReview": true,
     "releases": [
       {
@@ -1486,7 +1749,12 @@ export const nearlyEqualJoySongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T08:40:14.700Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "素直になれない主人公の心理描写を、小気味よい会話劇のように演出した曲調です。",
+      "confidence": 5
+    }
   },
   {
     "id": "joy-enjoybu-lying-cat",
@@ -1890,29 +2158,62 @@ export const nearlyEqualJoySongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "happy",
+        "excited",
+        "confident"
+      ],
+      "situations": [
+        "getting_ready",
+        "before_live",
+        "celebration"
+      ],
+      "weather": [
+        "sunny"
+      ],
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "spring",
+        "all_seasons"
+      ],
+      "themes": [
+        "dream",
+        "challenge",
+        "identity"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "opening",
+        "peak"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "夢に向かって一途に努力するアイドルの輝きと情熱を歌う、前向きで華やかな王道ポップスです。",
+      "recommendedFor": "ひたむきに何かに打ち込む姿に勇気をもらいたい時や、華やかな高揚感を味わいたい方に適しています。",
+      "recommendedSituation": "新しい一歩を踏み出す日の朝や、目標に向かって進むやる気を引き出したい時間に向いています。",
+      "notRecommendedSituation": "静まり返った深夜の寝室で、心を完全に落ち着かせて眠りに入りたい時には適しません。",
+      "recommendationText": "きらびやかな旋律と希望に満ちたボーカルが融合し、未来への明るい光を感じさせます。",
+      "listeningSuggestion": "大きめの音量でボーカルの突き抜ける響きに耳を傾け、眩しい光を浴びるように聴くのがおすすめです。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "confident",
+        "text": "己の信じる夢や目標に向かって、前を向いて堂々と歩き出したい時におすすめです。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
+    "enabledForRecommendation": true,
     "needsReview": true,
     "releases": [
       {
@@ -1955,7 +2256,12 @@ export const nearlyEqualJoySongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T08:40:14.700Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "夢舞台へのあこがれと、そこに至るまでの葛藤と覚悟を清々しく表現しています。",
+      "confidence": 5
+    }
   },
   {
     "id": "joy-nevergiveup",
@@ -3055,29 +3361,62 @@ export const nearlyEqualJoySongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "excited",
+        "happy",
+        "confident"
+      ],
+      "situations": [
+        "driving",
+        "walking",
+        "before_live"
+      ],
+      "weather": [
+        "sunny",
+        "breezy"
+      ],
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "themes": [
+        "dream",
+        "challenge",
+        "youth"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "opening",
+        "peak"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "どこまでも広がる大空のような開放感と、果てしない未来への躍動を描いた前向きなアップテンポ曲です。",
+      "recommendedFor": "視界が開けるような爽快感を味わいたい時や、進むべき道への背中を押してもらいたい方に最適です。",
+      "recommendedSituation": "晴れ渡った青空の下での長距離ドライブや、広々とした公園で運動を行う場面に適しています。",
+      "notRecommendedSituation": "狭い密室でひたすら沈思黙考したい時や、雨音を聞きながら哀愁を帯びたバラードに浸りたい夜には不向きです。",
+      "recommendationText": "突き抜けるようなボーカルと心地よい疾走ビートが調和し、爽快な旅立ちの瞬間を演出します。",
+      "listeningSuggestion": "外の景色を眺めながら、広がりのある音響環境で楽しむのが最も心地よく馴染むでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "excited",
+        "text": "新しい世界の広がりを前にして、爽やかな風とともに走り出したい時にぴったりです。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
+    "enabledForRecommendation": true,
     "needsReview": true,
     "releases": [
       {
@@ -3108,7 +3447,12 @@ export const nearlyEqualJoySongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T08:40:14.700Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "大空を飛び立つ鳥や飛行機を想起させるイメージに、未来への大いなる希望を重ねています。",
+      "confidence": 5
+    }
   },
   {
     "id": "joy-sonosaki-wa-exalt",
@@ -3144,29 +3488,64 @@ export const nearlyEqualJoySongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "confident",
+        "rebellious",
+        "motivated"
+      ],
+      "situations": [
+        "study",
+        "work",
+        "before_live"
+      ],
+      "weather": [
+        "cloudy",
+        "clear_night"
+      ],
+      "timeOfDay": [
+        "evening",
+        "night"
+      ],
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
+      "themes": [
+        "challenge",
+        "independence",
+        "promise"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up",
+        "peak",
+        "change"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "未知の領域へ挑む覚悟と高揚感を、シリアスでエッジの効いた旋律で描いたドラマチックなナンバーです。",
+      "recommendedFor": "壁を乗り越えるための強い信念が欲しい時や、闘争心を奮い立たせたい方にぴったりです。",
+      "recommendedSituation": "大事な勝負事を控えた直前の集中時間や、自己ベストを目指して運動に打ち込む時に向いています。",
+      "notRecommendedSituation": "家族団欒の穏やかな食事の時間や、子供と一緒にのんびりと童謡を歌うような優しい場面には合いません。",
+      "recommendationText": "緊張感のあるメロディと熱いボーカルが響き合い、未来の先を見据える強い眼差しを想起させます。",
+      "listeningSuggestion": "周囲の雑音を遮断する環境で、楽曲の緊迫した世界観に完全に没入して聴くのがおすすめです。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "confident",
+        "text": "自分の選択に自信を持ち、いかなる困難にも果敢に立ち向かいたい時に最適です。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
+    "enabledForRecommendation": true,
     "needsReview": true,
     "releases": [
       {
@@ -3197,7 +3576,12 @@ export const nearlyEqualJoySongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T08:40:14.700Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "栄光の先にある真の強さを求めて、孤独をも厭わないストイックな意志を表現しています。",
+      "confidence": 5
+    }
   },
   {
     "id": "joy-kitto-aoi",
@@ -3233,29 +3617,62 @@ export const nearlyEqualJoySongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 4,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "bittersweet",
+        "excited",
+        "nostalgic"
+      ],
+      "situations": [
+        "commute",
+        "walking",
+        "alone_time"
+      ],
+      "weather": [
+        "sunny",
+        "breezy"
+      ],
+      "timeOfDay": [
+        "daytime",
+        "evening"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "themes": [
+        "youth",
+        "love",
+        "memories"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up",
+        "change"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "どこか懐かしく甘酸っぱい青春の残像を、疾走感のある旋律に乗せた爽快な楽曲です。",
+      "recommendedFor": "過ぎ去った夏の日を懐かしむ時や、清々しい汗を流して前を向きたい方に適しています。",
+      "recommendedSituation": "放課後や仕事帰りの夕焼けを眺めながら歩く時間や、友達と一緒に野外を散策する場面に向いています。",
+      "notRecommendedSituation": "豪華な演出の下でドレスアップして静かにワインを楽しむようなフォーマルな夜には適しません。",
+      "recommendationText": "センチメンタルな余韻を残しつつも前進するエネルギーを与える、爽やかな風のような旋律が印象的です。",
+      "listeningSuggestion": "少し高めの音域にフォーカスして、流れるギターバッキングと歌声の調和を味わうのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "nostalgic",
+        "text": "遠い夏の日の青空を思い出し、懐かしい情景の温かさに包まれたい時にぴったりです。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
+    "enabledForRecommendation": true,
     "needsReview": true,
     "releases": [
       {
@@ -3286,7 +3703,12 @@ export const nearlyEqualJoySongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T08:40:14.700Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "青をシンボルとした失われた時間と、それでも色褪せない記憶の美しさを描いています。",
+      "confidence": 5
+    }
   },
   {
     "id": "joy-kagaikatsudo-akadake",
@@ -3726,29 +4148,64 @@ export const nearlyEqualJoySongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 4,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "calm",
+        "healing",
+        "romantic"
+      ],
+      "situations": [
+        "relaxing",
+        "alone_time",
+        "before_sleep"
+      ],
+      "weather": [
+        "sunny",
+        "cloudy"
+      ],
+      "timeOfDay": [
+        "evening",
+        "night"
+      ],
+      "seasons": [
+        "winter",
+        "all_seasons"
+      ],
+      "themes": [
+        "friendship",
+        "gratitude",
+        "promise"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "change",
+        "cool_down",
+        "ending"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "仲間との強い絆と、未来への誓いを温かみのあるメロディで丁寧に紡いだエモーショナルな楽曲です。",
+      "recommendedFor": "大切な存在との繋がりに感謝したい時や、温かな感動で胸を満たしたい方に適しています。",
+      "recommendedSituation": "一日の終わりに静かに今日を振り返る時間や、旅立ちを見送る送別会のBGMに向いています。",
+      "notRecommendedSituation": "アップビートなダンスフロアで大汗をかいて踊り狂いたい時や、ゲームで対戦相手を圧倒したい場面には適しません。",
+      "recommendationText": "一人ひとりのボーカルが重なり合う豊かなハーモニーが、信じ合える仲間との絆を鮮やかに表現します。",
+      "listeningSuggestion": "部屋を少し暖かくして、心地よい空間で、歌詞の意味を噛み締めて聴くのが良いでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "calm",
+        "text": "静かな感動に浸り、これまでの思い出と仲間への感謝を噛み締めたい時におすすめです。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
+    "enabledForRecommendation": true,
     "needsReview": true,
     "releases": [
       {
@@ -3768,7 +4225,12 @@ export const nearlyEqualJoySongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T09:16:36.300Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "共に困難を越えてきた道のりと、これからも同じ志で進み続ける約束を歌い上げています。",
+      "confidence": 5
+    }
   },
   {
     "id": "joy-nonfiction",
@@ -3795,29 +4257,63 @@ export const nearlyEqualJoySongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "confident",
+        "dramatic",
+        "motivated"
+      ],
+      "situations": [
+        "study",
+        "work",
+        "alone_time"
+      ],
+      "weather": [
+        "cloudy",
+        "rainy"
+      ],
+      "timeOfDay": [
+        "evening",
+        "night"
+      ],
+      "seasons": [
+        "autumn"
+      ],
+      "themes": [
+        "identity",
+        "challenge",
+        "self_acceptance"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "build_up",
+        "change",
+        "ending"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "虚構ではないありのままの真実を訴えかけるような、緊張感と強いメッセージ性を持った曲調です。",
+      "recommendedFor": "本質的な強さを求めて気持ちを引き締めたい時や、劇的な音楽構成に身を委ねたい方に適しています。",
+      "recommendedSituation": "静まり返った夜の書斎で何かをじっくりと書き出す時間や、夕暮れから夜へ変わる瞬間に向いています。",
+      "notRecommendedSituation": "朝の爽やかな陽光の中で、無邪気に軽快なスキップをしながらパンをかじるような場面には重すぎます。",
+      "recommendationText": "重厚な調べと迫真のボーカルが交差し、現実の葛藤とそこからの覚醒を想起させます。",
+      "listeningSuggestion": "ステレオの音響バランスを均等に保ち、音量を少し上げて空間全体でドラマチックな響きを楽しむのがおすすめです。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "confident",
+        "text": "飾らない自分自身を認め、現実に力強く向き合う気概を高めたい時に向いています。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
+    "enabledForRecommendation": true,
     "needsReview": true,
     "releases": [
       {
@@ -3837,6 +4333,11 @@ export const nearlyEqualJoySongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T09:16:36.300Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "脚色のない現実（ノンフィクション）と直面する中での、葛藤と自立を劇的な構成で表現しています。",
+      "confidence": 5
+    }
   }
 ];
