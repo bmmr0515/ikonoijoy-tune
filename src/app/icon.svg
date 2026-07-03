@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Tuning Dial dotted border -->
+  <circle cx="16" cy="16" r="14" fill="none" stroke="#B9A7FF" stroke-width="2" stroke-linecap="round" stroke-dasharray="2.5 3"/>
+  <circle cx="16" cy="16" r="10.5" fill="none" stroke="#93C5FD" stroke-width="1.2" stroke-opacity="0.4"/>
+  
+  <!-- T-shaped abstract sound waves -->
+  <!-- Top horizontal bar -->
+  <line x1="9" y1="11" x2="23" y2="11" stroke="#B9A7FF" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Middle vertical stem -->
+  <line x1="16" y1="14" x2="16" y2="23" stroke="#F9A8D4" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Side accent waveforms -->
+  <line x1="12.5" y1="15.5" x2="12.5" y2="19.5" stroke="#93C5FD" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="19.5" y1="15.5" x2="19.5" y2="19.5" stroke="#9FE7D7" stroke-width="1.8" stroke-linecap="round"/>
+</svg>

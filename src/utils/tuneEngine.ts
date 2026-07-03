@@ -506,10 +506,15 @@ export function calculateScores(
 export function matchSingleSong(answers: QuizAnswers, history: string[] = [], reviewedSongIds: string[] = []): Song {
   const list = calculateScores(answers, history, reviewedSongIds);
   
-  // Fallback: if list empty, choose any active song
   if (list.length === 0) {
-    const activeSongs = songs.filter(s => s.enabled);
-    return activeSongs[Math.floor(Math.random() * activeSongs.length)];
+    // Fallback: Choose any approved active song from the database
+    const approvedSongs = songs.filter(s => isRecommendationReady(s, reviewedSongIds));
+    if (approvedSongs.length > 0) {
+      return approvedSongs[Math.floor(Math.random() * approvedSongs.length)];
+    }
+    // Deep fallback to any non-review legacy song just in case
+    const legacySongs = songs.filter(s => s.enabled && !s.needsReview);
+    return legacySongs.length > 0 ? legacySongs[0] : songs[0];
   }
   
   return list[0];
@@ -519,24 +524,8 @@ export function generatePlaylist(answers: QuizAnswers, history: string[] = [], r
   const list = calculateScores(answers, history, reviewedSongIds);
   const activeSongs = list.filter(s => s.enabled);
   
-  const count = activeSongs.length >= 5 ? 5 : (activeSongs.length >= 4 ? 4 : activeSongs.length);
+  const count = activeSongs.length >= 5 ? 5 : activeSongs.length;
   const selectedSongs = activeSongs.slice(0, count);
-
-  // Fallback backfill from database
-  const fallbackList = songs.filter(s => s.enabled);
-  while (selectedSongs.length < 4 && fallbackList.length > 0) {
-    const randomSong = fallbackList[Math.floor(Math.random() * fallbackList.length)];
-    if (!selectedSongs.find((s) => s.id === randomSong.id)) {
-      selectedSongs.push({
-        ...randomSong,
-        score: 0,
-        baseScore: 0,
-        normalizedScore: 0,
-        diversityAdjustment: 0,
-        finalScore: 0
-      });
-    }
-  }
 
   // Sort by energy to create a musical curve
   const sortedByEnergy = [...selectedSongs].sort((a, b) => a.scores.energy - b.scores.energy);
@@ -556,17 +545,7 @@ export function generatePlaylist(answers: QuizAnswers, history: string[] = [], r
     }
   };
 
-  if (selectedSongs.length === 4) {
-    const highest = sortedByEnergy[3];
-    const lowest = sortedByEnergy[0];
-    const middleLow = sortedByEnergy[1];
-    const middleHigh = sortedByEnergy[2];
-
-    tracks.push({ song: middleHigh, role: mapRoleLabel(middleHigh.tags.playlistRoles[0] || 'opening') });
-    tracks.push({ song: middleLow, role: mapRoleLabel(middleLow.tags.playlistRoles[0] || 'build_up') });
-    tracks.push({ song: highest, role: mapRoleLabel(highest.tags.playlistRoles[0] || 'peak') });
-    tracks.push({ song: lowest, role: mapRoleLabel(lowest.tags.playlistRoles[0] || 'ending') });
-  } else {
+  if (selectedSongs.length === 5) {
     const highest = sortedByEnergy[4];
     const lowest = sortedByEnergy[0];
     const secondLowest = sortedByEnergy[1];
@@ -578,9 +557,37 @@ export function generatePlaylist(answers: QuizAnswers, history: string[] = [], r
     tracks.push({ song: highest, role: mapRoleLabel(highest.tags.playlistRoles[0] || 'peak') });
     tracks.push({ song: middle, role: mapRoleLabel(middle.tags.playlistRoles[0] || 'change') });
     tracks.push({ song: lowest, role: mapRoleLabel(lowest.tags.playlistRoles[0] || 'ending') });
+  } else if (selectedSongs.length === 4) {
+    const highest = sortedByEnergy[3];
+    const lowest = sortedByEnergy[0];
+    const middleLow = sortedByEnergy[1];
+    const middleHigh = sortedByEnergy[2];
+
+    tracks.push({ song: middleHigh, role: mapRoleLabel(middleHigh.tags.playlistRoles[0] || 'opening') });
+    tracks.push({ song: middleLow, role: mapRoleLabel(middleLow.tags.playlistRoles[0] || 'build_up') });
+    tracks.push({ song: highest, role: mapRoleLabel(highest.tags.playlistRoles[0] || 'peak') });
+    tracks.push({ song: lowest, role: mapRoleLabel(lowest.tags.playlistRoles[0] || 'ending') });
+  } else if (selectedSongs.length === 3) {
+    const highest = sortedByEnergy[2];
+    const middle = sortedByEnergy[1];
+    const lowest = sortedByEnergy[0];
+
+    tracks.push({ song: lowest, role: mapRoleLabel(lowest.tags.playlistRoles[0] || 'opening') });
+    tracks.push({ song: middle, role: mapRoleLabel(middle.tags.playlistRoles[0] || 'build_up') });
+    tracks.push({ song: highest, role: mapRoleLabel(highest.tags.playlistRoles[0] || 'peak') });
+  } else if (selectedSongs.length === 2) {
+    const highest = sortedByEnergy[1];
+    const lowest = sortedByEnergy[0];
+
+    tracks.push({ song: lowest, role: mapRoleLabel(lowest.tags.playlistRoles[0] || 'opening') });
+    tracks.push({ song: highest, role: mapRoleLabel(highest.tags.playlistRoles[0] || 'peak') });
+  } else if (selectedSongs.length === 1) {
+    const highest = sortedByEnergy[0];
+    tracks.push({ song: highest, role: mapRoleLabel(highest.tags.playlistRoles[0] || 'peak') });
   }
 
   // Dynamic Title
+
   const moodLabel = getMoodLabel(answers.mood);
   const weatherLabel = getWeatherLabel(answers.weather);
   const timeLabel = getTimeLabel(answers.timeOfDay);

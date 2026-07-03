@@ -10,7 +10,9 @@ import {
   MOOD_ANSWERS,
   MOOD_TAG_MAP,
   MoodAnswer,
-  QuizAnswers
+  QuizAnswers,
+  matchSingleSong,
+  generatePlaylist
 } from '../src/utils/tuneEngine';
 import {
   getMissingRecommendationMetadata,
@@ -40,7 +42,7 @@ function assert(condition: boolean, message: string) {
   }
 }
 
-function createValidTestSong(overrides: Partial<Song>): Song {
+function createMockSongForRules(overrides: Partial<Song>): Song {
   return {
     id: 'test-song-id',
     title: 'テスト曲',
@@ -114,7 +116,7 @@ function createValidTestSong(overrides: Partial<Song>): Song {
 }
 
 // 1. undefinedはlegacy_curatedへ分類されること
-const mockLegacyCurated = createValidTestSong({
+const mockLegacyCurated = createMockSongForRules({
   needsReview: undefined
 });
 assert(getReviewRequirement(mockLegacyCurated) === 'legacy_curated', 'needsReview: undefined is classified as legacy_curated');
@@ -123,7 +125,7 @@ assert(getReviewRequirement(mockLegacyCurated) === 'legacy_curated', 'needsRevie
 assert(getReviewRequirement(mockLegacyCurated) !== 'human_approved', 'legacy_curated is not classified as human_approved');
 
 // 3. legacy_curated かつ Strict完成済みなら推薦可能であること
-const mockLegacyComplete = createValidTestSong({
+const mockLegacyComplete = createMockSongForRules({
   id: 'test-legacy-complete',
   needsReview: undefined
 });
@@ -131,7 +133,7 @@ assert(hasValidRecommendationMetadata(mockLegacyComplete) === true, 'mock legacy
 assert(isRecommendationReady(mockLegacyComplete, []) === true, 'legacy_curated + strictComplete is recommendation ready without approved IDs');
 
 // 4. legacy_curated でも Strict不完全なら推薦不可であること
-const mockLegacyIncomplete = createValidTestSong({
+const mockLegacyIncomplete = createMockSongForRules({
   id: 'test-legacy-incomplete',
   needsReview: undefined,
   recommendation: {
@@ -147,7 +149,7 @@ assert(hasValidRecommendationMetadata(mockLegacyIncomplete) === false, 'mock leg
 assert(isRecommendationReady(mockLegacyIncomplete, []) === false, 'legacy_curated + strictIncomplete is NOT recommendation ready');
 
 // 5. needs_reviewは承認IDなしでは推薦不可、ありで推薦可能であること
-const mockNeedsReview = createValidTestSong({
+const mockNeedsReview = createMockSongForRules({
   id: 'test-needs-review',
   reviewRequirement: 'needs_review',
   needsReview: true
@@ -477,9 +479,133 @@ completeSongs.forEach(s => {
 assert(allCompleteHaveNoMissing, 'all complete songs have no missing metadata fields');
 
 // Incomplete list ID duplicates check
+// Incomplete list ID duplicates check
 const incompleteIds = incompleteSongs.map(s => s.id);
 const uniqueIncompleteIds = new Set(incompleteIds);
 assert(uniqueIncompleteIds.size === incompleteIds.length, 'incomplete song IDs list contains no duplicate IDs');
+
+// --- Regression Tests: Recommendation Fallback & Exclusions ---
+const testApprovedSong = createMockSongForRules({
+  id: 'approved-song-1',
+  title: '承認済み曲1',
+  enabled: true,
+  enabledForRecommendation: true,
+  needsReview: false
+});
+
+const testUnapprovedSong = createMockSongForRules({
+  id: 'unapproved-song',
+  title: '未承認曲',
+  enabled: true,
+  enabledForRecommendation: true,
+  needsReview: true
+});
+
+const testNonSongRecord = createMockSongForRules({
+  id: 'non-song-record',
+  title: '非楽曲レコード',
+  recordType: 'music_video',
+  enabled: true,
+  enabledForRecommendation: true,
+  needsReview: false
+});
+
+const testPlaceholderSong = createMockSongForRules({
+  id: 'placeholder-song',
+  title: 'プレースホルダー曲',
+  enabled: true,
+  enabledForRecommendation: true,
+  needsReview: false,
+  recommendation: {
+    songImpression: '確認中',
+    recommendedFor: 'テスト',
+    recommendedSituation: 'テスト',
+    notRecommendedSituation: 'テスト',
+    recommendationText: 'テスト',
+    listeningSuggestion: 'テスト'
+  }
+});
+
+const mockSourcePool = [
+  testApprovedSong,
+  testUnapprovedSong,
+  testNonSongRecord,
+  testPlaceholderSong
+];
+
+// 1. & 5. & 6. Exclusions
+const normalResults = calculateScores(
+  { group: 'all', mood: 'excited' },
+  [],
+  [],
+  { sourceSongs: mockSourcePool }
+);
+const normalIds = normalResults.map(r => r.id);
+assert(!normalIds.includes('unapproved-song'), 'Unapproved song is excluded in normal selection');
+assert(!normalIds.includes('non-song-record'), 'Non-song record is excluded in normal selection');
+assert(!normalIds.includes('placeholder-song'), 'Placeholder song is excluded in normal selection');
+
+// 2. Fallback check for single song
+const singleMatch = matchSingleSong({ group: 'all', mood: 'excited' }, [], []);
+if (singleMatch) {
+  assert(isRecommendationReady(singleMatch, []) === true, 'matchSingleSong output is recommendation ready');
+  assert(singleMatch.recordType === 'song', 'matchSingleSong output is song record');
+}
+
+// 3. Approved candidates limited size return
+const jointSongObj = songs.find(s => s.id === 'joint-triple-date');
+const originalEnabledForRec = jointSongObj ? jointSongObj.enabledForRecommendation : false;
+if (jointSongObj) {
+  jointSongObj.enabledForRecommendation = true;
+}
+
+const oneApprovedId = ['joint-triple-date'];
+const playlistOne = generatePlaylist({ group: 'joint', mood: 'excited' }, [], oneApprovedId);
+assert(playlistOne.tracks.length === 1, 'generatePlaylist returns exactly 1 track if only 1 is approved for joint');
+const trackIds = playlistOne.tracks.map(t => t.song.id);
+assert(trackIds.includes('joint-triple-date'), 'generatePlaylist contains only the approved joint track');
+
+if (jointSongObj) {
+  jointSongObj.enabledForRecommendation = originalEnabledForRec; // restore original state
+}
+
+// 4. Zero approved candidates handling
+const jointPlaylist = generatePlaylist({ group: 'joint', mood: 'excited' }, [], []);
+assert(jointPlaylist.tracks.length === 0, 'generatePlaylist returns 0 tracks when approved candidates are 0');
+
+const jointSingle = matchSingleSong({ group: 'joint', mood: 'excited' }, [], []);
+assert(jointSingle !== null && isRecommendationReady(jointSingle, []) === true, 'matchSingleSong returns an approved fallback song when group candidates are 0');
+
+// Helper to check placeholder text in tests
+function hasPlaceholder(song: Song): boolean {
+  const pats = [/確認中/, /未確認/, /TODO/, /TBD/, /placeholder/i, /仮データ/, /仮文言/];
+  let found = false;
+  function scan(obj: any) {
+    if (!obj || found) return;
+    if (typeof obj === 'string') {
+      pats.forEach(p => { if (p.test(obj)) found = true; });
+    } else if (Array.isArray(obj)) {
+      obj.forEach(scan);
+    } else if (typeof obj === 'object') {
+      Object.values(obj).forEach(scan);
+    }
+  }
+  scan(song.recommendation);
+  scan(song.recommendationVariants);
+  scan(song.analysisBasis);
+  return found;
+}
+
+// 5. 非楽曲レコードが出ないこと
+const allPlaylistTracks = generatePlaylist({ group: 'all', mood: 'excited' }, [], []);
+allPlaylistTracks.tracks.forEach(t => {
+  assert(t.song.recordType === 'song', 'Playlist tracks do not contain non-song records');
+});
+
+// 6. プレースホルダー曲が出ないこと
+allPlaylistTracks.tracks.forEach(t => {
+  assert(hasPlaceholder(t.song) === false, 'Playlist tracks do not contain placeholder songs');
+});
 
 if (testFailed) {
   console.error('❌ Recommendation engine rule tests failed!');

@@ -58,6 +58,11 @@ function normalizeTitle(title: string): string {
     .replace(/[““””"'’`‘]/g, '')
     .replace(/[（）()［］[\]]/g, '')
     .replace(/[「」]/g, '')
+    .replace(/[「」]/g, '')
+    .replace(/[「」]/g, '')
+    .replace(/[「」]/g, '')
+    .replace(/[「」]/g, '')
+    .replace(/[「」]/g, '')
     .replace(/[・•]/g, '')
     .replace(/[ー〜~]/g, '');
 }

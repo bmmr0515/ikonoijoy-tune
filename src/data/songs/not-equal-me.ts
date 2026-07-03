@@ -1180,14 +1180,35 @@ export const notEqualMeSongs: Song[] = [
       "emotionalIntensity": 4
     },
     "tags": {
-      "moods": ["cute", "playful"],
-      "situations": ["getting_ready", "driving"],
-      "weather": ["sunny", "cloudy"],
-      "timeOfDay": ["morning", "daytime"],
-      "seasons": ["summer"],
-      "themes": ["love", "longing"],
-      "tempos": ["upbeat"],
-      "playlistRoles": ["build_up"]
+      "moods": [
+        "cute",
+        "playful"
+      ],
+      "situations": [
+        "getting_ready",
+        "driving"
+      ],
+      "weather": [
+        "sunny",
+        "cloudy"
+      ],
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "themes": [
+        "love",
+        "longing"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
       "songImpression": "「愛をください」という一途でキュートなおねだり感情を、アップテンポでエネルギッシュなメロディに乗せて甘酸っぱく届けるポップナンバーです。",
@@ -1302,30 +1323,65 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "excited",
+        "playful"
+      ],
+      "situations": [
+        "getting_ready",
+        "commute"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "evening"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "themes": [
+        "love",
+        "youth"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "恋愛の甘酸っぱさと初々しい恋の駆け引きを感じさせる、アップテンポでポップなメロディが印象的な楽曲と受け取れます。",
+      "recommendedFor": "ときめく恋心を描いた楽曲を好む方や、明るい気持ちで音楽を楽しみたい方に適しています。",
+      "recommendedSituation": "夕方の通学・通勤時間や、お出かけの準備をしながら軽やかな気分になりたい時に向いています。",
+      "notRecommendedSituation": "静かな深夜にじっくりと心を落ち着かせたい時や、深くリラックスしたい就寝前のBGMにはテンポが速すぎるため不向きです。",
+      "recommendationText": "ポップなサウンドと明るい歌声が重なり合い、胸が弾むような恋の初期衝動を引き立てます。",
+      "listeningSuggestion": "お気に入りのイヤホンを使い、軽快なリズムを歩くペースに合わせながら聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "playful",
+        "text": "少しいたずらっぽく、恋を楽しむような気分になりたい瞬間に、弾けるメロディがそっと寄り添います。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "getting_ready",
+        "text": "お出かけの準備をする時間に流すことで、曲が持つ明るいサウンドが軽やかなステップを後押しするでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、恋のときめきを描いたポップなアッパーチューン。初々しい恋心を表現するためemotionalIntensityを4、回想的な要素からnostalgiaを3に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 81
+    },
     "releases": [
       {
         "title": "「愛くださいませ/ここでファーストキッス」＜ノイミー盤＞",
@@ -1411,30 +1467,65 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 4,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "bittersweet",
+        "dreamy"
+      ],
+      "situations": [
+        "walking",
+        "alone_time"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "evening"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "themes": [
+        "youth",
+        "longing"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "cool_down"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "夏の夕暮れの淡い空気感を漂わせる、切なくノスタルジックなメロディが特徴的なポップスと受け取れます。",
+      "recommendedFor": "夏の思い出やセンチメンタルな余韻に浸りたい方、穏やかで情感豊かな音楽を求める方に適しています。",
+      "recommendedSituation": "夏の日の夕方の散歩中や、静かな部屋で一人きりで過ごす時間に向いています。",
+      "notRecommendedSituation": "テンションを上げて走り出したい朝の準備時間や、ライブ前のような興奮を高めたい場面には落ち着きすぎているため適していません。",
+      "recommendationText": "温かみと切なさを帯びた歌声が耳に優しく残り、夏の終わりを惜しむような情景を想起させます。",
+      "listeningSuggestion": "夕暮れ時に、ヘッドホンでボーカルの細かな息遣いや微細な強弱に集中して聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "timeOfDay",
+        "condition": "evening",
+        "text": "西日が傾く時間帯に聴くことで、曲が描く夕暮れ時の淡い寂しさと愛おしさがより身近に感じられるでしょう。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "alone_time",
+        "text": "誰にも邪魔されない一人の時間に流すことで、ノスタルジックな夏の空気感に深く浸ることができます。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、夏の夕景を想起させるノスタルジックなミディアムナンバー。センチメンタルな情感を反映してemotionalIntensityを4、夏の終わりの回想感からnostalgiaを4に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 82
+    },
     "releases": [
       {
         "title": "「愛くださいませ/ここでファーストキッス」＜ノイミー盤＞",
@@ -1505,30 +1596,65 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 5
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "excited",
+        "rebellious"
+      ],
+      "situations": [
+        "getting_ready",
+        "walking"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "night"
+      ],
+      "seasons": [
+        "all_seasons"
+      ],
+      "themes": [
+        "challenge",
+        "identity"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "peak"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "強い意志と自立心を表現するような、エッジの効いたダンスビートとアグレッシブな雰囲気が特徴的な楽曲と解釈されます。",
+      "recommendedFor": "困難に立ち向かう強いエネルギーをもらいたい方や、アッパーなサウンドでモチベーションを高めたい方に適しています。",
+      "recommendedSituation": "新しい挑戦に向けて気持ちを奮い立たせたい場面や、アクティブに体を動かす時間に向いています。",
+      "notRecommendedSituation": "心を静めて穏やかな眠りにつきたい夜の時間や、ゆったりとした静粛を求める状況でのBGMには適していません。",
+      "recommendationText": "力強いリズムセクションと凛としたボーカルワークが、聴く人の内なる気概を刺激し、前に進む原動力を後押しします。",
+      "listeningSuggestion": "音量を少し大きめに設定し、イヤホンやスピーカーの重低音に耳を傾けながらリズムを体全体で捉えるように聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "rebellious",
+        "text": "ブレない強さや反発するような強い意志を感じたい時に聴くことで、曲が放つ強烈なサウンドが心強い味方になります。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "getting_ready",
+        "text": "大切なイベントや勝負事の前に聴くことで、モチベーションを高め、気持ちをしっかりと引き締める準備が整うでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、葛藤や決意を力強く歌い上げるダンスナンバー。強い意志を表現するためemotionalIntensityを5、現在進行形の気概を描くためnostalgiaを2に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 84
+    },
     "releases": [
       {
         "title": "「排他的ファイター」",
@@ -1575,30 +1701,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 3
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "happy",
+        "cute"
+      ],
+      "situations": [
+        "getting_ready",
+        "walking"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "all_seasons"
+      ],
+      "themes": [
+        "self_acceptance",
+        "youth"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "自分らしさを肯定する前向きなメッセージを、ポップで可愛らしいメロディに乗せて歌うキュートな楽曲と受け取れます。",
+      "recommendedFor": "自己肯定感を高めたい時や、日常の小さな幸せに目を向けたい方、愛らしい雰囲気に包まれたい方に適しています。",
+      "recommendedSituation": "朝のメイク時間やお出かけの準備中、よく晴れた休日の散歩のお供に向いています。",
+      "notRecommendedSituation": "深い哀愁に浸りたい一人きりの夜や、静粛で集中力を要する作業中のBGMとしては世界観が合わず不向きです。",
+      "recommendationText": "フワフワとした温かみのある歌声と軽快なポップサウンドが、日常を彩り、明るい気持ちを演出します。",
+      "listeningSuggestion": "晴れた日の午前中に、ワイヤレスイヤホンで音楽を流しながら、軽快なステップに合わせて聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "cute",
+        "text": "自分らしさを存分に肯定し、可愛らしい世界観に浸りたい瞬間、軽快なボーカルがその感情に寄り添います。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "getting_ready",
+        "text": "お出かけ前のメイクやコーディネートを整える時間に流すことで、ハッピーな気分で一日を始める準備が整うでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、自己肯定と可愛らしさを描いたポップソング。明るい日常を描くためnostalgiaを3、心地よく調和した情緒からemotionalIntensityを3に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 82
+    },
     "releases": [
       {
         "title": "「排他的ファイター」",
@@ -1645,30 +1807,65 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 4,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "romantic",
+        "cute"
+      ],
+      "situations": [
+        "relaxing",
+        "alone_time"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "night"
+      ],
+      "seasons": [
+        "winter"
+      ],
+      "themes": [
+        "love",
+        "memories"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "冬のイルミネーションや冷たい空気を想起させる、温かでロマンチックなメロディが特徴的なウィンターポップスと受け取れます。",
+      "recommendedFor": "クリスマスシーズンの温かい恋愛模様を味わいたい方や、甘く少し切ないメロディに包まれたい方に適しています。",
+      "recommendedSituation": "冬の夜にお部屋で温かい飲み物を飲みながら過ごす時間や、静かな夜のひとときにBGMとして流すのに向いています。",
+      "notRecommendedSituation": "夏の猛暑日のアクティブな運動中や、朝の爽快なスタートダッシュを飾りたい場面には季節感やテンポが合わず適していません。",
+      "recommendationText": "優しく包み込むような歌声と冬らしいストリングスの響きが、心温まるような二人だけの特別な時間を演出します。",
+      "listeningSuggestion": "静かな夜の部屋で、間接照明を灯しながら、スピーカーから穏やかに流して楽しむのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "season",
+        "condition": "winter",
+        "text": "寒さが厳しくなる季節に聴くことで、曲が描く冬の恋の温もりや愛おしさがじんわりと心に広がります。"
+      },
+      {
+        "conditionType": "timeOfDay",
+        "condition": "night",
+        "text": "一日の終わりに近づく夜の静けさの中で流すことで、ロマンチックなメロディが穏やかな時間に調和するでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、冬の恋愛の温もりを描いたロマンチックなポップソング。愛おしさを表現するためemotionalIntensityを4、回想的な甘酸っぱさからnostalgiaを4に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 83
+    },
     "releases": [
       {
         "title": "「排他的ファイター」",
@@ -1715,30 +1912,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 4,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "sad",
+        "lonely"
+      ],
+      "situations": [
+        "alone_time",
+        "train_ride"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "night",
+        "late_night"
+      ],
+      "seasons": [
+        "all_seasons"
+      ],
+      "themes": [
+        "unrequited_love",
+        "longing"
+      ],
+      "tempos": [
+        "slow"
+      ],
+      "playlistRoles": [
+        "cool_down"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "恋愛における切ない片思いや孤独感を、繊細で静かなピアノの調べに乗せて歌うバラードと受け取れます。",
+      "recommendedFor": "報われない恋の切なさにじっくりと浸りたい方や、静かな音楽に心を寄せたい方に適しています。",
+      "recommendedSituation": "深夜に一人きりの部屋で過ごす時間や、帰りの電車の窓から夜景を眺めて物思いに耽る時に向いています。",
+      "notRecommendedSituation": "朝の爽やかな目覚めの瞬間や、元気を出して一日をスタートさせたいアクティブな場面のBGMには適していません。",
+      "recommendationText": "繊細で透明感のある歌声が胸に深く染み渡り、隠された恋心の寂しさをそっと包み込みます。",
+      "listeningSuggestion": "部屋の明かりを暗くし、ヘッドホンを使用してボーカルの細かなニュアンスや余韻までじっくり聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "timeOfDay",
+        "condition": "late_night",
+        "text": "深夜の静寂の中で聴くことで、曲が持つ孤独な美しさと切ない恋心の描写がより静かに心に響くでしょう。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "alone_time",
+        "text": "一人きりで考え事をしたい時間に流すことで、静かな旋律が胸の奥にある素直な感情に寄り添います。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、片思いの寂しさを描いた繊細なバラード。切ない恋心を表現するためemotionalIntensityを4、ノスタルジックな感傷からnostalgiaを4に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 83
+    },
     "releases": [
       {
         "title": "「モブノデレラ/神様の言うとーり！」",
@@ -1785,30 +2018,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 3
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "happy",
+        "playful"
+      ],
+      "situations": [
+        "getting_ready",
+        "commute"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "spring"
+      ],
+      "themes": [
+        "love",
+        "youth"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "恋する乙女の祈るような願望を、弾けるポップスサウンドで前向きに歌うハッピーな楽曲と受け取れます。",
+      "recommendedFor": "キュートな恋愛ソングを聴いて明るい気分になりたい方や、前向きなメッセージに背中を押されたい方に適しています。",
+      "recommendedSituation": "朝の身支度を整える時間や、明るい日差しの差し込む時間帯の通学・通勤路でのリスニングに向いています。",
+      "notRecommendedSituation": "厳かで静粛な雰囲気を求める作業時間や、一人で深く考え事をしたい静かな夜には元気すぎるため不向きです。",
+      "recommendationText": "ポップなビートと愛らしさを重視した歌声が心地よく調和し、日常に軽快なリズムをプラスします。",
+      "listeningSuggestion": "よく晴れた日の朝に、お気に入りのヘッドホンを装着し、リズムに合わせて歩きながら聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "playful",
+        "text": "恋の楽しさを素直に喜び、ウキウキした感情をシェアしたい瞬間に、曲の弾けるメロディが華を添えます。"
+      },
+      {
+        "conditionType": "timeOfDay",
+        "condition": "morning",
+        "text": "一日の始まりである朝の時間に聴くことで、曲が放つ明るいエネルギーがすっきりとした目覚めをサポートするでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、恋の願いを可愛らしく歌うハッピーなポップソング。明るい前向きさを表現するためemotionalIntensityを3、爽快な日常感からnostalgiaを3に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 82
+    },
     "releases": [
       {
         "title": "「モブノデレラ/神様の言うとーり！」",
@@ -1855,30 +2124,65 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 3
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "healing",
+        "cute"
+      ],
+      "situations": [
+        "relaxing",
+        "alone_time"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "daytime"
+      ],
+      "seasons": [
+        "spring"
+      ],
+      "themes": [
+        "love",
+        "youth"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "お気に入りのカフェで過ごすような心地よい時間を想起させる、日常の小さな幸せと可愛らしさを描いた穏やかなポップスと受け取れます。",
+      "recommendedFor": "忙しい日常から離れて心を落ち着かせたい方や、穏やかで可愛らしいメロディを好む方に適しています。",
+      "recommendedSituation": "休日の昼下がりに温かい飲み物を片手にお部屋で過ごす時間や、のんびりと読書をする時のBGMに向いています。",
+      "notRecommendedSituation": "深夜の張り詰めた緊張感の中で集中したい時や、激しいロックサウンドを求めてテンションを高めたい時には不向きです。",
+      "recommendationText": "温かみのあるアコースティックな響きを感じるサウンドと優しい歌声が、穏やかな安らぎの空間を演出します。",
+      "listeningSuggestion": "お部屋のスピーカーから心地よいカフェ音楽のように少し小さめの音量で流し、日常に溶け込ませて聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "situation",
+        "condition": "relaxing",
+        "text": "肩の力を抜いてくつろぎたい時間に聴くことで、温もりのあるサウンドが穏やかなひとときに寄り添います。"
+      },
+      {
+        "conditionType": "timeOfDay",
+        "condition": "daytime",
+        "text": "日差しの差し込む昼下がりの時間に流すことで、曲が持つ穏やかな木漏れ日のような雰囲気が日常を彩ります。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、カフェのような心地よい空間と日常の愛おしさを描いた温かみのある曲。穏やかな安らぎを重視し、nostalgiaを3、緩やかで優しい情緒からemotionalIntensityを3に設定。既存の穏やかなスコア（calmness:3, cuteness:3）との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 83
+    },
     "releases": [
       {
         "title": "「モブノデレラ/神様の言うとーり！」",
@@ -1925,30 +2229,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "happy",
+        "excited"
+      ],
+      "situations": [
+        "walking",
+        "driving"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "themes": [
+        "youth",
+        "love"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "夏のまばゆい光や高鳴る期待感を想起させる、爽快で勢いのあるポップチューンと受け取れます。",
+      "recommendedFor": "夏の青空の下で気分を盛り上げたい方や、爽やかでエネルギッシュなサマーソングを聴きたい方に適しています。",
+      "recommendedSituation": "天気の良い夏の日のドライブや、晴れた日の散歩、活動的な屋外イベントへの道中に向いています。",
+      "notRecommendedSituation": "雨の降る静かな梅雨の午後や、落ち着いた眠りを迎えたい就寝前の時間には賑やかすぎるため適していません。",
+      "recommendationText": "爽やかなボーカルと弾けるリズムが調和し、夏特有の開放的でハッピーなムードを演出します。",
+      "listeningSuggestion": "晴れ渡る夏の日の屋外で、ポータブルスピーカーやイヤホンを通じて、風を感じながら軽やかに聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "season",
+        "condition": "summer",
+        "text": "夏の太陽が照りつける時間帯に聴くことで、曲が描く青空の開放感がより鮮明に心に響くでしょう。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "driving",
+        "text": "晴れた日のドライブシーンで窓を開け、風を感じながら流すことで、爽快な疾走感が高まるでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、夏の到来を喜ぶ爽快なポップナンバー。輝かしいエネルギーを表現するためemotionalIntensityを4、爽やかな夏のノスタルジーからnostalgiaを3に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 83
+    },
     "releases": [
       {
         "title": "「夏が来たから」",
@@ -1995,30 +2335,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "playful",
+        "excited"
+      ],
+      "situations": [
+        "getting_ready",
+        "commute"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "daytime",
+        "evening"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "themes": [
+        "youth",
+        "friendship"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "コミカルで親しみやすい日常のやり取りを、軽快なポップサウンドとユーモラスな調子で描いたポップチューンと受け取れます。",
+      "recommendedFor": "肩の力を抜いてクスッと笑えるような楽しい音楽を聴きたい方や、気楽なテンションで気分転換をしたい方に適しています。",
+      "recommendedSituation": "友人との待ち合わせへの移動中や、何気ない日常の移動時間、肩の力を抜いて準備をしたい時に向いています。",
+      "notRecommendedSituation": "深い失恋の痛みに寄り添ってほしい静かな夜や、厳かな空気を保ちたいシリアスな場面には世界観が合わず適していません。",
+      "recommendationText": "遊び心のある台詞調のパートと親しみやすいメロディが調和し、気取らない楽しげな雰囲気を演出します。",
+      "listeningSuggestion": "移動中に周囲の安全に配慮しながら、気楽な気分で口ずさむように聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "playful",
+        "text": "何気ない日常のハプニングを笑い飛ばし、陽気な気分を味わいたい瞬間に、この軽快なメロディがフィットします。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "commute",
+        "text": "通学や通勤などの移動時間に流すことで、ユーモラスな世界観が日常の移動を楽しく彩ってくれるでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、日常の他愛ないやり取りをコミカルに描くポップナンバー。会話調の掛け合いの楽しさを表現するためemotionalIntensityを4、軽妙で現実味のある性質からnostalgiaを2に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 82
+    },
     "releases": [
       {
         "title": "「夏が来たから」",
@@ -2065,30 +2441,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "happy",
+        "cute"
+      ],
+      "situations": [
+        "getting_ready",
+        "walking"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "spring"
+      ],
+      "themes": [
+        "love",
+        "youth"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "ひたむきで愛らしい恋愛感情を、優しく爽やかなメロディに乗せてストレートに届けるポップソングと受け取れます。",
+      "recommendedFor": "純粋なラブソングで温かい気持ちになりたい方や、可愛らしく王道なアイドルポップスを好む方に適しています。",
+      "recommendedSituation": "晴れた日の穏やかな散歩中や、お出かけ前のハッピーな気分を盛り上げたい時間帯に向いています。",
+      "notRecommendedSituation": "厳かで静粛な作業中のバックグラウンドや、重厚でシリアスな感情に寄り添う音楽を必要とする場面には甘すぎるため適していません。",
+      "recommendationText": "温かみのあるメロディラインと愛らしさに満ちたボーカルが調和し、日常に恋心の華やぎをもたらします。",
+      "listeningSuggestion": "晴れ渡る青空の下で、ヘッドホンを通して優しい歌声に耳を傾けながら、のんびりと聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "cute",
+        "text": "とことん素直で可愛い恋心に寄り添いたい瞬間に聴くことで、曲の明るい旋律がハッピーな感情を後押しします。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "getting_ready",
+        "text": "お出かけの前に身支度をしながら流すことで、これから始まる一日が楽しみになるような明るい雰囲気を演出できるでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、ストレートな愛おしさを描いた可愛らしいポップソング。ひたむきな恋愛感情を表現するためemotionalIntensityを4、爽やかで少し回想的な愛らしさからnostalgiaを3に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 83
+    },
     "releases": [
       {
         "title": "「夏が来たから」",
@@ -2135,30 +2547,65 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 4,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "bittersweet",
+        "cute"
+      ],
+      "situations": [
+        "commute",
+        "alone_time"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "night"
+      ],
+      "seasons": [
+        "autumn"
+      ],
+      "themes": [
+        "love",
+        "longing"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "デートの解散直後の寂しさと愛おしさが入り混じる、夜22時の複雑な恋心を繊細に描いたと解釈されるミディアムポップスです。",
+      "recommendedFor": "好きな人との楽しい時間の後の寂しさに寄り添ってほしい方や、甘く切ない雰囲気の恋愛曲を好む方に適しています。",
+      "recommendedSituation": "デートの帰り道の電車内や、自宅の部屋で一日の出来事を振り返りながら過ごす夜に向いています。",
+      "notRecommendedSituation": "早朝の爽やかな目覚めの瞬間や、大人数が集まって盛り上がるようなパーティーシーンのBGMには情緒が合わず適していません。",
+      "recommendationText": "感情の揺れを表現するようなボーカルと耳馴染みの良いメロディが、胸の奥にある切ない雰囲気を引き立てます。",
+      "listeningSuggestion": "帰りの電車で窓の夜景を眺めながら、イヤホンでボーカルの細かなニュアンスに耳を澄ませて聴くのがおすすめです。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "timeOfDay",
+        "condition": "night",
+        "text": "一日の終わりに近づく夜の静けさの中で、デートの記憶を振り返りながら聴くことで、胸の切なさにそっと寄り添います。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "commute",
+        "text": "デート終わりの帰り道、一人きりの移動時間に聴くことで、曲が描く恋心の余韻を感じられるでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、デート後の寂しさと愛おしさを描いた甘く切ない恋愛ソング。帰り道のノスタルジックな感傷を反映してnostalgiaを4、恋心の高まりからemotionalIntensityを4に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 82
+    },
     "releases": [
       {
         "title": "「想わせぶりっこ」",
@@ -2205,30 +2652,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 4,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "cute",
+        "bittersweet"
+      ],
+      "situations": [
+        "getting_ready",
+        "commute"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "spring"
+      ],
+      "themes": [
+        "unrequited_love",
+        "memories"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "かつての恋心の再燃と甘酸っぱい記憶を、可愛らしくもどこか切ないメロディに乗せて歌うミディアムナンバーと受け取れます。",
+      "recommendedFor": "過去の淡い恋の思い出に優しく浸りたい方や、温かみのあるメロディに寄り添ってほしい方に適しています。",
+      "recommendedSituation": "朝の身支度中や、お出かけ時の穏やかな移動時間、静かな昼下がりのBGMに向いています。",
+      "notRecommendedSituation": "深夜に静かに心を無にして眠りたい時や、ハードなロックサウンドを求めてテンションを高めたい時には適していません。",
+      "recommendationText": "キュートな歌声と馴染みやすいビートが調和し、胸の奥にある甘酸っぱい感傷を引き立てます。",
+      "listeningSuggestion": "晴れた日の朝に、お気に入りのヘッドホンを使い、少しノスタルジックな気分に寄り添いながら聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "cute",
+        "text": "とことん素直な甘酸っぱさに包まれたい時、優しく可愛らしいボーカルがその感情にそっと寄り添います。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "getting_ready",
+        "text": "お出かけ前のメイク時間や服を選ぶ時間に聴くことで、一日を少し特別な気分でスタートできるでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、過去の恋心が蘇る甘酸っぱさを描いたポップソング。切なくも愛らしい心情を表現するためemotionalIntensityを4、思い出の回想からnostalgiaを4に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 82
+    },
     "releases": [
       {
         "title": "「アンチコンフィチュール」",
@@ -2275,30 +2758,65 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "happy",
+        "playful"
+      ],
+      "situations": [
+        "getting_ready",
+        "commute"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "daytime"
+      ],
+      "seasons": [
+        "winter"
+      ],
+      "themes": [
+        "love",
+        "youth"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "ファンタジックで遊び心あふれる世界観を、賑やかでキャッチーなメロディに乗せて軽快に歌うポップチューンと受け取れます。",
+      "recommendedFor": "ファンタジー感のある可愛らしい音楽を楽しみたい方や、気分の上がる曲で日常を楽しく彩りたい方に適しています。",
+      "recommendedSituation": "朝の通学・通勤時間や、お出かけの準備中にウキウキした気分を高めたい時に向いています。",
+      "notRecommendedSituation": "厳粛な会議前の集中したい時間や、穏やかな気持ちでリラックスしたい就寝前の静寂な夜には賑やかすぎるため適していません。",
+      "recommendationText": "表情豊かなボーカルワークとポップなビートが調和し、物語の登場人物になったような楽しい空間を演出します。",
+      "listeningSuggestion": "移動中に、軽快なテンポに合わせて歩きながら、イヤホンで賑やかな音の重なりを楽しむのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "playful",
+        "text": "ちょっとした物語の主人公になったような遊び心のある気分を楽しみたい時、ポップな旋律がその感情を彩ります。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "getting_ready",
+        "text": "お出かけ前のメイク時間や服を選ぶ時間に聴くことで、一日を楽しい気分でスタートできるでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、ファンタジックな恋のかけ引きを描くアップテンポなポップソング。楽しげな活力を表現するためemotionalIntensityを4、現在進行形のファンタジー感からnostalgiaを2に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 82
+    },
     "releases": [
       {
         "title": "「アンチコンフィチュール」",
@@ -2458,30 +2976,65 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "excited",
+        "playful"
+      ],
+      "situations": [
+        "getting_ready",
+        "driving"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "late_night"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "themes": [
+        "youth",
+        "challenge"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "深夜2時半の雰囲気を感じさせる、軽快なテンションと疾走感を描いたロック調の楽曲として捉えられます。",
+      "recommendedFor": "モヤモヤした夜を吹き飛ばしたい方や、ライブのような勢いのある音楽で気分を盛り上げたい方に適しています。",
+      "recommendedSituation": "深夜のドライブ中や、眠れない夜にヘッドホンでボリュームを上げて楽しみたい時に合います。",
+      "notRecommendedSituation": "一日の疲れを癒やす穏やかな就寝前の時間や、静かで集中力を要する作業中のBGMには賑やかすぎるため向いていません。",
+      "recommendationText": "遊び心を感じるボーカル表現とギターサウンドが、聴く人の気分を刺激するような熱量を持っています。",
+      "listeningSuggestion": "深夜のドライブ中にカーステレオの音量を適度に調節して、スピード感と一緒に楽しむのが魅力を引き出しやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "timeOfDay",
+        "condition": "late_night",
+        "text": "真夜中にテンションを上げたい時、歪んだギターサウンドを思わせる響きと歌声が適度なスパイスになり得ます。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "driving",
+        "text": "夜風を浴びながら疾走するドライブシーンで、曲が持つエネルギッシュなサウンドが爽快な疾走感に調和します。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、深夜の熱量をポップかつロックに描くエネルギッシュな楽曲。夜更けのライブ感あふれる勢いを重視し、emotionalIntensityを4、軽快で楽しげな性質からnostalgiaを2に設定。既存の穏やかなスコア（energy:3, liveHype:3）との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 80
+    },
     "releases": [
       {
         "title": "「天使は何処へ」",
@@ -2528,30 +3081,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 4,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "romantic",
+        "dreamy"
+      ],
+      "situations": [
+        "relaxing",
+        "alone_time"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "evening",
+        "night"
+      ],
+      "seasons": [
+        "spring"
+      ],
+      "themes": [
+        "love",
+        "youth"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "cool_down"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "儚く美しい「今この瞬間」の愛おしさを、幻想的で透明感のあるサウンドに乗せて歌うミディアムナンバーと受け取れます。",
+      "recommendedFor": "大切な人との時間の儚さに寄り添いたい方や、ドリーミーで心地よい浮遊感のあるポップスを求める方に適しています。",
+      "recommendedSituation": "夕暮れ時に窓の外を眺めながら過ごす時間や、夜に部屋を少し暗くしてリラックスするひとときに向いています。",
+      "notRecommendedSituation": "早朝の爽やかな目覚めと共にテンションを急上昇させたい時や、ハードな運動で汗を流したい場面には不向きです。",
+      "recommendationText": "透明感に満ちた歌声とたゆたうようなメロディラインが調和し、儚くも美しい世界観を演出します。",
+      "listeningSuggestion": "一日の終わりに近づく夕暮れや夜に、心地よいイヤホンを使って音の広がりに身を委ねるように聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "timeOfDay",
+        "condition": "evening",
+        "text": "夕空の色が変わる瞬間に聴くことで、曲が描く「瞬間」の美しさと切なさがより胸に深く響くでしょう。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "relaxing",
+        "text": "肩の力を抜いて静かに過ごしたい時間に流すことで、ドリーミーな旋律が心に優しく寄り添います。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、瞬間の儚さと愛おしさを描いたドリーミーなポップソング。幻想的で少し切ない情緒を表現するためemotionalIntensityを4、瞬間への愛おしさとノスタルジーからnostalgiaを4に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 82
+    },
     "releases": [
       {
         "title": "「天使は何処へ」",
@@ -2598,30 +3187,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "happy",
+        "cute"
+      ],
+      "situations": [
+        "getting_ready",
+        "walking"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "winter"
+      ],
+      "themes": [
+        "love",
+        "youth"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "コミカルでハイテンションな可愛らしさを、弾けるような超高速のビートとユニークな歌詞表現で描いたポップチューンと受け取れます。",
+      "recommendedFor": "とことん明るくコミカルなアイドルソングで笑顔になりたい方や、とにかく元気に気分を盛り上げたい方に適しています。",
+      "recommendedSituation": "朝の目覚まし時間や、気合を入れて出かける準備をしたい時、テンションを上げたい通勤・通学路に向いています。",
+      "notRecommendedSituation": "静かな深夜にリラックスして読書をしたい時や、クラシック音楽を聴くような静粛を重んじる場面には賑やかすぎるため不向きです。",
+      "recommendationText": "コミカルで表情豊かなボーカル表現と疾走するサウンドが重なり、聴く人を楽しい気分へと誘います。",
+      "listeningSuggestion": "お出かけ前に、カーステレオやイヤホンで音量を適度に調節し、ビートの勢いに乗りながら聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "cute",
+        "text": "甘くキュートな遊び心に満ちた世界観を体感したい瞬間に聴くことで、曲の弾けるエネルギーがハッピーな気分を後押しします。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "getting_ready",
+        "text": "朝の身支度を整える時間に流すことで、曲が持つハイテンションなサウンドが一日のスタートを軽快に彩るでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、ユニークでコミカルな可愛らしさを歌う高速ポップナンバー。溢れるエネルギーを表現するためemotionalIntensityを4、現在進行形のハイテンションな性質からnostalgiaを2に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 82
+    },
     "releases": [
       {
         "title": "「はにかみショート」",
@@ -2673,14 +3298,34 @@ export const notEqualMeSongs: Song[] = [
       "emotionalIntensity": 4
     },
     "tags": {
-      "moods": ["bittersweet", "healing"],
-      "situations": ["relaxing", "before_sleep"],
-      "weather": ["cloudy", "snowy"],
-      "timeOfDay": ["late_night"],
-      "seasons": ["winter"],
-      "themes": ["love", "unrequited_love"],
-      "tempos": ["slow"],
-      "playlistRoles": ["ending"]
+      "moods": [
+        "bittersweet",
+        "healing"
+      ],
+      "situations": [
+        "relaxing",
+        "before_sleep"
+      ],
+      "weather": [
+        "cloudy",
+        "snowy"
+      ],
+      "timeOfDay": [
+        "late_night"
+      ],
+      "seasons": [
+        "winter"
+      ],
+      "themes": [
+        "love",
+        "unrequited_love"
+      ],
+      "tempos": [
+        "slow"
+      ],
+      "playlistRoles": [
+        "ending"
+      ]
     },
     "recommendation": {
       "songImpression": "夜の静寂に咲く月下美人のように、儚くも情熱的な秘めた恋心を和のエッセンスを感じる美しい調べで歌い上げた情緒溢れるミディアムバラードです。",
@@ -2756,30 +3401,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 3
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "happy",
+        "cute"
+      ],
+      "situations": [
+        "getting_ready",
+        "walking"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "spring"
+      ],
+      "themes": [
+        "love",
+        "friendship"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "フワフワとした甘い恋心と日常の喜びを描いた、軽快でキャッチーなメロディが特徴的なキュートポップスと受け取れます。",
+      "recommendedFor": "甘酸っぱい恋愛ソングを聴いて明るい気分になりたい方や、日常のスタートに元気をもらいたい方に適しています。",
+      "recommendedSituation": "朝の身支度を整える時間や、天気の良い休日の朝にお散歩をしながら聴くのに向いています。",
+      "notRecommendedSituation": "深い感傷に浸りたい一人きりの静かな夜や、重厚なロックサウンドを求めて集中したい時には世界観が合わず不向きです。",
+      "recommendationText": "可愛らしさを重視した歌声とブラスサウンドを感じる調べが調和し、心が弾むような明るい空間を演出します。",
+      "listeningSuggestion": "晴れた朝の光を浴びながら、お気に入りのヘッドホンを装着して軽やかなビートと共に歩きながら聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "cute",
+        "text": "甘くハッピーな気分に浸りたい瞬間、弾けるようなボーカルがその可愛らしい感情に寄り添います。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "getting_ready",
+        "text": "お出かけ前のメイク時間や服を選ぶ時間に聴くことで、一日を明るい気分でスタートする準備が整うでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、甘く軽やかなポップソング。明るい恋愛感情と可愛らしさを重視し、nostalgiaを3、心地よく調和した情緒からemotionalIntensityを3に設定。既存の穏やかなスコア（brightness:3, cuteness:3）との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 82
+    },
     "releases": [
       {
         "title": "「天使は何処へ」",
@@ -2826,30 +3507,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 5
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "excited",
+        "confident"
+      ],
+      "situations": [
+        "getting_ready",
+        "driving"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "night",
+        "late_night"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "themes": [
+        "challenge",
+        "identity"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "peak"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "ダンスビートを感じさせるサウンドと活動的な表現が融合した、高揚感を演出するアッパーチューンと解釈されます。",
+      "recommendedFor": "エネルギッシュなダンス調の音楽で気分を高めたい方や、ライブハウスのような臨場感を好む方に適しています。",
+      "recommendedSituation": "気持ちを盛り上げて出かける準備をする時や、夜のドライブ中にビートを感じて走り抜ける時間に向いています。",
+      "notRecommendedSituation": "就寝前のリラックスした読書時間や、静かにクラシック音楽を聴くような落ち着いた空間には適していません。",
+      "recommendationText": "力強いリズムとボーカルワークが、聴く人の気分を刺激し、全身で音を感じる快感を提供します。",
+      "listeningSuggestion": "低音が綺麗に響くスピーカーや重低音対応のイヤホンを使用し、ビートの圧力を全身で受け止めるように聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "excited",
+        "text": "エネルギーが高まっている時、この重厚なダンスサウンドがさらに心拍数を刺激するような高揚感をもたらします。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "driving",
+        "text": "夜間のドライブシーンにおいて、ビートに同期するヘッドライトの光を感じながら走るような高揚感を生み出し得ます。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、力強いビートで聴衆を惹きつけるダンスナンバー。感情の爆発力やパッションを重視し、emotionalIntensityを5、現在進行形のダンス熱を描くためnostalgiaを2に設定。既存の穏やかなスコア（energy:3, liveHype:3）との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 85
+    },
     "releases": [
       {
         "title": "「想わせぶりっこ」",
@@ -2896,30 +3613,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "happy",
+        "playful"
+      ],
+      "situations": [
+        "getting_ready",
+        "commute"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "themes": [
+        "friendship",
+        "youth"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "明るく親しみやすい冒険心を歌う、元気でポップなメロディが特徴的なアッパーチューンと受け取れます。",
+      "recommendedFor": "みんなで明るい気分を共有したい方や、日常の中の小さな探検気分を味わいたい方に適しています。",
+      "recommendedSituation": "朝の身支度を整える時間や、お天気の良い日の気軽なお出かけ時のBGMに向いています。",
+      "notRecommendedSituation": "厳かで深い考え事をしたい深夜の時間や、哀愁漂うセンチメンタルな余韻に浸りたい時には適していません。",
+      "recommendationText": "元気いっぱいの歌声と軽快なポップサウンドが調和し、心が弾むような明るい雰囲気を演出します。",
+      "listeningSuggestion": "晴れた日の朝に、お気に入りのポータブルスピーカーで流しながら、お出かけ前の気分を高めて聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "playful",
+        "text": "何か新しい面白いことを見つけたいようなワクワクした気分の時に、この陽気なメロディがその気持ちを応援します。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "getting_ready",
+        "text": "お出かけの準備をする時間に流すことで、軽快なサウンドがスムーズなスタートを後押ししてくれるでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、探検と友情をテーマにしたポップソング。明るい前向きさを表現するためemotionalIntensityを4、爽快な日常感からnostalgiaを2に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 82
+    },
     "releases": [
       {
         "title": "「す、好きじゃない！」",
@@ -2966,30 +3719,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 3
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "happy",
+        "cute"
+      ],
+      "situations": [
+        "getting_ready",
+        "walking"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "themes": [
+        "love",
+        "youth"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "夏の甘くキュートな恋模様を描いた、フワフワと可愛らしいメロディが特徴的な甘口ポップスと受け取れます。",
+      "recommendedFor": "甘い恋愛ソングを聴いてハッピーな気分になりたい方や、とにかく可愛らしい音楽で癒やされたい方に適しています。",
+      "recommendedSituation": "夏の朝の身支度を整える時間や、天気の良い休日の散歩をしながら軽やかに聴くのに向いています。",
+      "notRecommendedSituation": "厳かでシリアスな集中力を要する作業時間や、重厚なロックサウンドを求めてテンションを高めたい場面には不向きです。",
+      "recommendationText": "とことん甘い歌声と軽快なブラスサウンドの響きが調和し、聴くだけで心が弾むようなハッピーな空間を演出します。",
+      "listeningSuggestion": "晴れた夏の朝の光を浴びながら、お気に入りのヘッドホンを装着して軽やかなビートと共に歩きながら聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "cute",
+        "text": "とことん甘くハッピーな気分に浸りたい瞬間、弾けるようなボーカルがその可愛らしい感情にそっと寄り添います。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "getting_ready",
+        "text": "お出かけ前のメイク時間や服を選ぶ時間に聴くことで、一日を明るい気分でスタートする準備が整うでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、甘く軽快なサマーポップソング。明るい恋愛感情と可愛らしさを重視し、nostalgiaを3、心地よく調和した情緒からemotionalIntensityを3に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 82
+    },
     "releases": [
       {
         "title": "「す、好きじゃない！」",
@@ -3036,30 +3825,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "excited",
+        "dramatic"
+      ],
+      "situations": [
+        "getting_ready",
+        "commute"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "all_seasons"
+      ],
+      "themes": [
+        "youth",
+        "identity"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "新しい朝の訪れと内なる決意を感じさせる、疾走感のある劇的でエネルギッシュなメロディが特徴的な楽曲と受け取れます。",
+      "recommendedFor": "強い決意を持って新しい一日をスタートしたい方や、勢いのあるドラマチックなロック調のサウンドを好む方に適しています。",
+      "recommendedSituation": "夜明けから朝にかけての目覚めの時間や、気持ちを引き締めて移動する通学・通勤路に向いています。",
+      "notRecommendedSituation": "一日の疲れを穏やかに癒やしたい就寝前のベッドルームや、静かに読書を楽しみたい場面のBGMには賑やかすぎるため不向きです。",
+      "recommendationText": "力強くのびやかな歌声と劇的なストリングスが融合し、前を向いて歩き出す勇気を引き立てます。",
+      "listeningSuggestion": "朝の通勤時に、イヤホンでサウンド全体の疾走感とボーカルの力強い響きをダイレクトに感じながら聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "timeOfDay",
+        "condition": "morning",
+        "text": "朝の澄んだ空気の中で聴くことで、曲が描く夜明けの決意と爽快な熱量がより鮮明に心に響くでしょう。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "commute",
+        "text": "移動時間や通学路で流すことで、ドラマチックなメロディラインが一日のスタートを力強く後押しします。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、夜明けと決意をドラマチックに描いたアッパーナンバー。熱量の高さや決意を表現するためemotionalIntensityを4、爽快で少し回想的な性質からnostalgiaを3に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 83
+    },
     "releases": [
       {
         "title": "「はにかみショート」",
@@ -3106,30 +3931,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 4,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "calm",
+        "dreamy"
+      ],
+      "situations": [
+        "relaxing",
+        "alone_time"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "night",
+        "late_night"
+      ],
+      "seasons": [
+        "autumn"
+      ],
+      "themes": [
+        "self_acceptance",
+        "youth"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "cool_down"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "誰にも気づかれないような内面の葛藤や存在の問いかけを、穏やかで幻想的なアコースティック調のサウンドに乗せて優しく歌う楽曲と受け取れます。",
+      "recommendedFor": "静かに自己の心と向き合いたい方や、孤独に優しく寄り添うような穏やかな世界観に浸りたい方に適しています。",
+      "recommendedSituation": "深夜に一人きりの部屋で考え事をしながら過ごす時間や、静かに読書をする時のBGMに向いています。",
+      "notRecommendedSituation": "テンションを上げて大勢で盛り上がりたいライブ前の瞬間や、激しいダンスビートを求めて活動したい場面には向きません。",
+      "recommendationText": "温かみのある歌声とアコースティックな響きが、心の中に静かに問いかけるような落ち着いた空間を演出します。",
+      "listeningSuggestion": "深夜の部屋の照明を少し落とし、ヘッドホンを使用して静かな音の響きとボーカルの細かなニュアンスに耳を傾けるのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "timeOfDay",
+        "condition": "late_night",
+        "text": "真夜中の静寂の中で聴くことで、曲が持つ問いかけるような優しさと幻想的な調べがより静かに胸に染み入るでしょう。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "alone_time",
+        "text": "誰にも邪魔されない一人の時間に流すことで、静かなアコースティックサウンドが心の中に穏やかな安らぎをもたらします。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、内省的な問いかけを描いた幻想的なポップソング。穏やかな温もりを表現するためemotionalIntensityを4、静かな内省とノスタルジーからnostalgiaを4に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 82
+    },
     "releases": [
       {
         "title": "「まほろばアスタリスク」",
@@ -3176,30 +4037,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 5
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "excited",
+        "confident"
+      ],
+      "situations": [
+        "getting_ready",
+        "commute"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "themes": [
+        "love",
+        "youth"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "peak"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "溢れる想いと情熱をストレートに歌い上げる、疾走感に満ちたメロディが胸に響く全力のポップナンバーと受け取れます。",
+      "recommendedFor": "まっすぐな恋心の強さにエネルギーをもらいたい方や、スピード感のあるキャッチーなメロディで気分を最高潮に高めたい方に適しています。",
+      "recommendedSituation": "朝の身支度を整えながら気持ちを奮い立たせたい時や、お出かけ時の移動路でテンションを高めたい時に向いています。",
+      "notRecommendedSituation": "一日の終わりに静かに落ち着いて眠りにつきたい夜や、ゆったりとしたクラシックを聴いて心を無にしたい場面には賑やかすぎるため不向きです。",
+      "recommendationText": "力強く前向きな歌声と爽快なリズムが調和し、胸の奥にある熱い気持ちを後押しします。",
+      "listeningSuggestion": "移動中に、スピード感に合わせて歩幅を広げながら、イヤホンでボーカルの突き抜けるような高音に耳を傾けて聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "excited",
+        "text": "エネルギーが有り余っている時、この疾走感のあるサウンドがさらに気分を高揚させ、元気を後押しします。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "getting_ready",
+        "text": "出かける準備の仕上げの時間に聴くことで、曲が持つ圧倒的な熱量がスムーズな一日のスタートを促すでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、ストレートな愛を叫ぶ情熱的なポップソング。圧倒的なエネルギーを表現するためemotionalIntensityを5、現在進行形の力強さからnostalgiaを2に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 83
+    },
     "releases": [
       {
         "title": "「まほろばアスタリスク」",
@@ -3251,14 +4148,34 @@ export const notEqualMeSongs: Song[] = [
       "emotionalIntensity": 4
     },
     "tags": {
-      "moods": ["healing", "excited"],
-      "situations": ["walking", "alone_time"],
-      "weather": ["sunny", "rainy"],
-      "timeOfDay": ["evening"],
-      "seasons": ["autumn"],
-      "themes": ["youth", "dream"],
-      "tempos": ["medium"],
-      "playlistRoles": ["build_up"]
+      "moods": [
+        "healing",
+        "excited"
+      ],
+      "situations": [
+        "walking",
+        "alone_time"
+      ],
+      "weather": [
+        "sunny",
+        "rainy"
+      ],
+      "timeOfDay": [
+        "evening"
+      ],
+      "seasons": [
+        "autumn"
+      ],
+      "themes": [
+        "youth",
+        "dream"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
       "songImpression": "青春のまぶしさと未来への希望を爽快なアンサンブルで描き出し、どこか甘酸っぱいノスタルジーと晴れやかな余韻を残すナンバーです。",
@@ -3334,30 +4251,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 3
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "happy",
+        "cute"
+      ],
+      "situations": [
+        "getting_ready",
+        "commute"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "winter"
+      ],
+      "themes": [
+        "love",
+        "youth"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "冬のお出かけ前の女の子のウキウキしたときめきを、ポップで愛らしいメロディに乗せて甘く歌うキュートな楽曲と受け取れます。",
+      "recommendedFor": "お出かけ前にテンションを高めたい方や、甘酸っぱい恋愛ソングでハッピーな気分になりたい方に適しています。",
+      "recommendedSituation": "冬の寒い朝の身支度の時間や、楽しみにしているデートやお出かけへの移動中におけるリスニングに向いています。",
+      "notRecommendedSituation": "シリアスな気持ちで課題や仕事に集中したい時や、静かで重厚な音楽を聴いて心を落ち着かせたい夜には不向きです。",
+      "recommendationText": "フワフワとした温かみのあるボーカルとキュートなポップサウンドが調和し、明るい一日を彩る演出をします。",
+      "listeningSuggestion": "お気に入りのコートを着て歩きながら、イヤホンで曲の軽快なリズムと愛らしいコーラスに耳を澄ませて聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "season",
+        "condition": "winter",
+        "text": "冬の冷たい空気の中で聴くことで、曲が描くニットの温もりと恋する乙女の可愛らしさがよりいっそう魅力的に感じられるでしょう。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "getting_ready",
+        "text": "お出かけ前にメイクやヘアスタイルを整えながら聴くことで、ハッピーな気分をさらに高めてくれるでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、冬の日常と恋模様を可愛らしく描いたキュートなポップソング。愛らしいときめきを表現するためemotionalIntensityを3、冬の日常感からnostalgiaを3に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 82
+    },
     "releases": [
       {
         "title": "「チョコレートメランコリー」",
@@ -3517,30 +4470,65 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 5
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "excited",
+        "confident"
+      ],
+      "situations": [
+        "getting_ready",
+        "commute"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "night"
+      ],
+      "seasons": [
+        "all_seasons"
+      ],
+      "themes": [
+        "challenge",
+        "identity"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "peak"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "強い自己表現や決意を歌う、重厚なダンスビートとクールで挑戦的なメロディが特徴的な楽曲と解釈されます。",
+      "recommendedFor": "ブレない強さを持って自分を表現したい時や、エッジの効いたクールな楽曲でエネルギーを高めたい方に適しています。",
+      "recommendedSituation": "勝負事や大切なイベントの前の準備時間、夜のクールな移動路でのリスニングに向いています。",
+      "notRecommendedSituation": "一日の疲れを癒やす穏やかな就寝前の時間や、静かで集中力を要する読書中のBGMには刺激が強すぎるため適していません。",
+      "recommendationText": "力強く硬質な歌声と重厚なリズムセクションが調和し、聴く人の内なるプライドを刺激します。",
+      "listeningSuggestion": "低音が綺麗に響く重低音対応のイヤホンを使用し、ビートの圧力を全身で受け止めるように聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "confident",
+        "text": "ブレない強さを持って自己を肯定したい時、この力強く重厚なサウンドがさらに自信を後押しします。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "getting_ready",
+        "text": "大切な本番や勝負事の前に聴くことで、モチベーションを高め、気持ちをしっかりと引き締める準備が整うでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、強い決意と自己主張をクールに歌うダンスナンバー。圧倒的な熱量を表現するためemotionalIntensityを5、現在進行形のクールな主張からnostalgiaを2に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 84
+    },
     "releases": [
       {
         "title": "「まほろばアスタリスク」",
@@ -3587,30 +4575,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 4,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "happy",
+        "cute"
+      ],
+      "situations": [
+        "getting_ready",
+        "walking"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "themes": [
+        "love",
+        "youth"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "自分にとっての一番のヒロインへの眩しい憧れと恋心を、きらびやかで王道なアイドルポップサウンドに乗せて歌う明るい楽曲と受け取れます。",
+      "recommendedFor": "ときめく王道恋愛ソングで明るい気分になりたい方や、純粋な憧れや恋心のきらめきを好む方に適しています。",
+      "recommendedSituation": "よく晴れた休日の朝の散歩や、お出かけに向けてメイクや服を選ぶ楽しい身支度の時間に向いています。",
+      "notRecommendedSituation": "深い失恋の哀愁に一人でじっくり浸りたい静かな夜や、落ち着いた雰囲気を最優先したい読書時間には華やかすぎるため適していません。",
+      "recommendationText": "きらきらとしたサウンドと可愛らしくのびやかな歌声が重なり、日常を華やかなステージのように彩ります。",
+      "listeningSuggestion": "晴れた日の午前中に、お気に入りのヘッドホンを装着し、明るい日差しを浴びながら軽快に歩いて聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "cute",
+        "text": "とことんハッピーできらきらした恋心に包まれたい瞬間、愛らしいボーカルがその甘い感情に寄り添います。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "getting_ready",
+        "text": "お出かけ前のメイク時間や服を選ぶ時間に聴くことで、一日を最高に楽しい気分でスタートする準備が整うでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、憧れの存在を歌うきらびやかなアイドルポップス。眩しい恋心を表現するためemotionalIntensityを4、回想的な憧憬からnostalgiaを4に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 83
+    },
     "releases": [
       {
         "title": "「君はこの夏、恋をする」",
@@ -3764,30 +4788,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 4,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "happy",
+        "motivated"
+      ],
+      "situations": [
+        "getting_ready",
+        "commute"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "spring"
+      ],
+      "themes": [
+        "gratitude",
+        "youth"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "ファンとメンバーの強い絆や感謝の気持ちを、爽やかで温かみのあるメロディに乗せて前向きに届けるポップスと受け取れます。",
+      "recommendedFor": "未来への希望を感じてモチベーションを高めたい方や、心温まる前向きな絆を歌った曲を求める方に適しています。",
+      "recommendedSituation": "新しい一日の始まりである朝の通学・通勤時間や、気持ちをすっきりと前向きに整えたい時に向いています。",
+      "notRecommendedSituation": "静かな深夜にリラックスして思考を休めたい時や、切ない哀愁に深く浸りたい場面には明るすぎるため不向きです。",
+      "recommendationText": "一体感のある爽やかなボーカルと温かなメロディが調和し、一歩前に進みだす勇気を与えてくれます。",
+      "listeningSuggestion": "よく晴れた朝の光を浴びながら、イヤホンで曲全体の明るい広がりに耳を傾けて聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "motivated",
+        "text": "前を向いて新しいことに挑戦したい時、この温かくも前向きなサウンドが背中を優しく後押しします。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "commute",
+        "text": "通学や通勤などの移動時間に流すことで、曲が描く爽快な青春の雰囲気が日常の道のりを明るく彩るでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、ファンへの感謝と未来への歩みを歌う爽快なポップソング。前向きな一体感を表現するためemotionalIntensityを4、青春の回想感と絆からnostalgiaを4に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 83
+    },
     "releases": [
       {
         "title": "「超特急 ≠ME行き」 ＜CD Only/ノイミー盤＞",
@@ -3865,14 +4925,35 @@ export const notEqualMeSongs: Song[] = [
       "emotionalIntensity": 5
     },
     "tags": {
-      "moods": ["sad", "healing"],
-      "situations": ["relaxing", "before_sleep"],
-      "weather": ["rainy", "cloudy"],
-      "timeOfDay": ["late_night", "evening"],
-      "seasons": ["spring"],
-      "themes": ["unrequited_love", "love"],
-      "tempos": ["slow"],
-      "playlistRoles": ["ending"]
+      "moods": [
+        "sad",
+        "healing"
+      ],
+      "situations": [
+        "relaxing",
+        "before_sleep"
+      ],
+      "weather": [
+        "rainy",
+        "cloudy"
+      ],
+      "timeOfDay": [
+        "late_night",
+        "evening"
+      ],
+      "seasons": [
+        "spring"
+      ],
+      "themes": [
+        "unrequited_love",
+        "love"
+      ],
+      "tempos": [
+        "slow"
+      ],
+      "playlistRoles": [
+        "ending"
+      ]
     },
     "recommendation": {
       "songImpression": "ピアノ一台と張り詰めた歌声のみで孤独と喪失の痛みを極限まで表現した、静寂と激情が胸を締め付ける珠玉のソロバラードです。",
@@ -3974,30 +5055,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 5
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "excited",
+        "confident"
+      ],
+      "situations": [
+        "getting_ready",
+        "driving"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "night",
+        "late_night"
+      ],
+      "seasons": [
+        "all_seasons"
+      ],
+      "themes": [
+        "challenge",
+        "identity"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "peak"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "不敵でクールな世界観を、重厚なダンスビートと挑戦的なメロディラインで緊張感たっぷりに歌い上げるダンスチューンと受け取れます。",
+      "recommendedFor": "エッジの効いたクールなサウンドで気分を最大限に高めたい方や、力強いモチベーションを引き出したい方に適しています。",
+      "recommendedSituation": "勝負事や大切なイベントの前の準備時間や、夜間のドライブ中にスピード感を感じたい時に向いています。",
+      "notRecommendedSituation": "就寝前の穏やかに心を休めたい時間や、のんびりとアコースティックな音楽に癒やされたい場面には不向きです。",
+      "recommendationText": "力強くのびやかなボーカルと攻めのビートが融合し、聴く人の内なる情熱を強く刺激します。",
+      "listeningSuggestion": "低音が綺麗に響く重低音対応のイヤホンを使用し、ビートの圧力を全身で受け止めるように聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "excited",
+        "text": "エネルギーが高まっている時、この重厚なダンスサウンドがさらに心拍数を刺激するような高揚感をもたらします。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "driving",
+        "text": "夜間のドライブシーンにおいて、ビートに同期するヘッドライトの光を感じながら走るような高揚感を生み出し得ます。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、強い決意と不敵な挑戦をクールに歌うダンスナンバー。圧倒的な熱量を表現するためemotionalIntensityを5、現在進行形のクールな主張からnostalgiaを2に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 84
+    },
     "releases": [
       {
         "title": "「超特急 ≠ME行き」 ＜CD Only/ノイミー盤＞",
@@ -4060,30 +5177,66 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
+      "moods": [
+        "happy",
+        "playful"
+      ],
+      "situations": [
+        "getting_ready",
+        "walking"
+      ],
       "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "all_seasons"
+      ],
+      "themes": [
+        "youth",
+        "identity"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "コミカルでハイテンションな自己紹介調の楽しさを、キャッチーでコミカルなビートに乗せて歌うハッピーなポップスと受け取れます。",
+      "recommendedFor": "とにかく明るく楽しい気分になりたい方や、コミカルで愛らしいアイドルポップスで笑顔になりたい方に適しています。",
+      "recommendedSituation": "朝の目覚めの時間や、元気をもらってお出かけの準備をしたい時、何気ない日常の散歩に向いています。",
+      "notRecommendedSituation": "厳かで静粛な雰囲気を求めるシリアスな作業時間や、一人で深く考え事をしたい静かな夜には賑やかすぎるため不向きです。",
+      "recommendationText": "コミカルで愛らしいボーカルと遊び心あふれる台詞調のパートが調和し、聴く人の気分を明るく盛り上げます。",
+      "listeningSuggestion": "朝の身支度をしながら、スピーカーから少し大きめの音量で流し、楽しげなリズムと一緒に楽しむのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "playful",
+        "text": "とことんコミカルで楽しい気分に浸りたい瞬間、ユニークなボーカルがそのハッピーな感情にそっと寄り添います。"
+      },
+      {
+        "conditionType": "situation",
+        "condition": "getting_ready",
+        "text": "お出かけ前のメイクや服を選ぶ時間に聴くことで、一日を楽しい気分でスタートする準備が整うでしょう。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "曲の中心的な印象は、ユニークでコミカルな可愛らしさを歌うハッピーなポップソング。溢れる楽しさを表現するためemotionalIntensityを4、現在進行形のハイテンションな性質からnostalgiaを2に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+      "confidence": 82
+    },
     "releases": [
       {
         "title": "「超特急 ≠ME行き」 ＜CD Only/ノイミー盤＞",
@@ -4140,30 +5293,63 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "excited",
+        "romantic",
+        "happy"
+      ],
+      "situations": [
+        "getting_ready",
+        "commute",
+        "walking"
+      ],
+      "weather": [
+        "sunny"
+      ],
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "spring",
+        "summer"
+      ],
+      "themes": [
+        "love",
+        "youth",
+        "promise"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "opening",
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "恋の始まりを予感させる高揚感と、瑞々しいメロディラインが印象的なポップチューンです。",
+      "recommendedFor": "胸が高鳴るような恋心を味わいたい時や、前向きな気持ちで一日を始めたい方にぴったりです。",
+      "recommendedSituation": "朝の通勤通学路で、軽快な足取りとともに爽やかな空気の中で聴くのに適しています。",
+      "notRecommendedSituation": "静かに一日の反省を行いたい夜や、集中して作業に取り組みたい時には少し賑やかすぎるかもしれません。",
+      "recommendationText": "溢れる感情をきらめくサウンドに乗せて届ける、疾走感に満ちたメロディが魅力です。",
+      "listeningSuggestion": "明るい陽射しを浴びながら、歩くリズムに合わせて音量を調整して楽しむのがおすすめです。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "excited",
+        "text": "心躍るような恋のワクワク感をさらに高めたい時に最適です。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
     "releases": [
       {
         "title": "「超特急 ≠ME行き」 ＜CD Only/ノイミー盤＞",
@@ -4199,7 +5385,12 @@ export const notEqualMeSongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T02:50:43.722Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "青春の甘酸っぱさと恋愛のときめきをストレートに表現した構成となっています。",
+      "confidence": 5
+    }
   },
   {
     "id": "me-jibun-sanka",
@@ -4338,30 +5529,61 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 3
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "cute",
+        "playful",
+        "happy"
+      ],
+      "situations": [
+        "getting_ready",
+        "alone_time",
+        "celebration"
+      ],
+      "weather": [
+        "sunny"
+      ],
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "themes": [
+        "love",
+        "youth",
+        "jealousy"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "愛らしい歌声と華やかなリズムが融合した、非常にキュートでポップな楽曲です。",
+      "recommendedFor": "可愛らしい雰囲いに浸りたい時や、自分磨きの時間をもっと楽しく彩りたい方に最適です。",
+      "recommendedSituation": "休日の朝にお気に入りの服を選びながら、気分を盛り上げたい時によく馴染みます。",
+      "notRecommendedSituation": "厳かな雰囲気の中で気持ちを落ち着かせたい時や、静かに読書を楽しみたい場面には向きません。",
+      "recommendationText": "可憐な魅力と甘い恋心をぎゅっと詰め込んだ、躍動感のあるサウンドが心を弾ませます。",
+      "listeningSuggestion": "お部屋のスピーカーから流して、カジュアルな気分のまま楽しむのが良いでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "cute",
+        "text": "可愛らしさに包まれて、ハッピーな気分で満たされたい時におすすめです。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
     "releases": [
       {
         "title": "「超特急 ≠ME行き」 ＜CD Only/通常盤＞",
@@ -4381,7 +5603,12 @@ export const notEqualMeSongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T02:50:43.722Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "夏の恋心とヘアスタイルへのこだわりをモチーフにした、愛らしさに特化した世界観です。",
+      "confidence": 5
+    }
   },
   {
     "id": "me-hakumeikousen",
@@ -4413,14 +5640,34 @@ export const notEqualMeSongs: Song[] = [
       "emotionalIntensity": 5
     },
     "tags": {
-      "moods": ["confident", "motivated"],
-      "situations": ["study", "driving"],
-      "weather": ["cloudy", "sunny"],
-      "timeOfDay": ["morning"],
-      "seasons": ["spring"],
-      "themes": ["challenge", "identity"],
-      "tempos": ["medium"],
-      "playlistRoles": ["build_up"]
+      "moods": [
+        "confident",
+        "motivated"
+      ],
+      "situations": [
+        "study",
+        "driving"
+      ],
+      "weather": [
+        "cloudy",
+        "sunny"
+      ],
+      "timeOfDay": [
+        "morning"
+      ],
+      "seasons": [
+        "spring"
+      ],
+      "themes": [
+        "challenge",
+        "identity"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "build_up"
+      ]
     },
     "recommendation": {
       "songImpression": "暗闇から光が差し込む瞬間を切り取ったかのような、ドラマチックなメロディラインと力強いボーカルが胸を突くエモーショナルな楽曲です。",
@@ -4511,30 +5758,63 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 3,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "excited",
+        "dramatic",
+        "happy"
+      ],
+      "situations": [
+        "commute",
+        "walking",
+        "celebration"
+      ],
+      "weather": [
+        "sunny"
+      ],
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "spring",
+        "autumn"
+      ],
+      "themes": [
+        "love",
+        "youth",
+        "friendship"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up",
+        "peak"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "偶然の出会いから広がるドラマチックな展開を、爽やかなメロディに乗せて描くアップテンポなナンバーです。",
+      "recommendedFor": "青春のきらめきを感じたい時や、偶然の重なりに心躍らせたい時に適しています。",
+      "recommendedSituation": "晴れた日の屋外イベントへの移動中など、期待感に胸を膨らしながら進みたい場面に向いています。",
+      "notRecommendedSituation": "穏やかな波の音を聴きながらリラックスしたい夕暮れ時や、深い瞑想をしたい時には適しません。",
+      "recommendationText": "躍動的なメロディと晴れやかなハーモニーが交差し、未来への明るい予感を抱かせます。",
+      "listeningSuggestion": "少しテンポを意識して歩きながら、イヤホンで立体感のあるボーカルを楽しむのが良いでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "excited",
+        "text": "胸の高鳴りをそのまま楽しさへと昇華させたい場面に向いています。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
     "releases": [
       {
         "title": "「Springtime In You」ノイミー盤",
@@ -4578,7 +5858,12 @@ export const notEqualMeSongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T02:52:42.149Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "偶然の連鎖から始まる奇跡をテーマに、希望と喜びを最大限に演出した楽曲です。",
+      "confidence": 5
+    }
   },
   {
     "id": "me-marcato",
@@ -4620,30 +5905,64 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "confident",
+        "rebellious",
+        "motivated"
+      ],
+      "situations": [
+        "study",
+        "work",
+        "alone_time"
+      ],
+      "weather": [
+        "cloudy",
+        "clear_night"
+      ],
+      "timeOfDay": [
+        "evening",
+        "night"
+      ],
+      "seasons": [
+        "winter",
+        "all_seasons"
+      ],
+      "themes": [
+        "independence",
+        "challenge",
+        "identity"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up",
+        "change"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "自立した強い意思とクールな世界観を、エッジの効いたメロディで表現したスタイリッシュな楽曲です。",
+      "recommendedFor": "自分自身の信念を貫きたい時や、内に秘めた闘志を刺激したい方に向いています。",
+      "recommendedSituation": "目標に向けて集中を高めたい作業前の時間や、ストイックに進みたいトレーニング時によく合います。",
+      "notRecommendedSituation": "休日にひだまりの中でまどろみたい時や、甘く柔らかな恋愛気分を楽しみたい時には適しません。",
+      "recommendationText": "重厚感のある響きとシャープなリズムが融和し、一歩を踏み出す勇気を奮い立たせます。",
+      "listeningSuggestion": "低音の響きを重視したイヤホンで、力強いリズムラインに耳を傾けながら聴くのがおすすめです。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "confident",
+        "text": "自分の意志を強く持ち、迷いなく前に進む覚悟を補強したい時に最適です。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
     "releases": [
       {
         "title": "「Springtime In You」ノイミー盤",
@@ -4687,7 +6006,12 @@ export const notEqualMeSongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T02:52:42.149Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "己の生き方を貫く決意を音楽記号に準えてスタイリッシュに描き出した構成です。",
+      "confidence": 5
+    }
   },
   {
     "id": "me-date-zenya-requiem",
@@ -4729,30 +6053,63 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 2,
+      "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "excited",
+        "playful",
+        "happy"
+      ],
+      "situations": [
+        "getting_ready",
+        "night_walk",
+        "celebration"
+      ],
+      "weather": [
+        "clear_night"
+      ],
+      "timeOfDay": [
+        "night",
+        "late_night"
+      ],
+      "seasons": [
+        "autumn",
+        "all_seasons"
+      ],
+      "themes": [
+        "love",
+        "youth",
+        "longing"
+      ],
+      "tempos": [
+        "upbeat"
+      ],
+      "playlistRoles": [
+        "build_up",
+        "peak"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "特別な日の前夜における焦燥感と期待を、遊び心あふれる賑やかなテンポで歌うポップソングです。",
+      "recommendedFor": "楽しみな予定を控えて落ち着かない夜や、夜更かしの時間をテンション高く過ごしたい方に適しています。",
+      "recommendedSituation": "お出かけの準備を前夜から入念に行う時間や、明日への期待を胸に過ごしたい時に馴染みます。",
+      "notRecommendedSituation": "翌日の早起きに備えて深い眠りにつきたい真夜中や、心を落ち着かせてリラクゼーションを図りたい時には適しません。",
+      "recommendationText": "弾けるようなリズムと変化に富んだ構成が、明日の約束への待ち遠しさを鮮やかに彩ります。",
+      "listeningSuggestion": "部屋を少し暗くして、ポップなメロディラインを小音量で流しながら楽しむのも面白いでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "excited",
+        "text": "特別な約束を前にして、浮き足立つような興奮を分かち合いたい夜にぴったりです。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
     "releases": [
       {
         "title": "「Springtime In You」ノイミー盤",
@@ -4796,7 +6153,12 @@ export const notEqualMeSongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T02:52:42.149Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "大切な約束の前の心の揺らぎを、独創的なアレンジとコミカルなタッチで表現しています。",
+      "confidence": 5
+    }
   },
   {
     "id": "me-haru-no-koibito",
@@ -4838,30 +6200,63 @@ export const notEqualMeSongs: Song[] = [
       "power": 3,
       "calmness": 3,
       "romance": 3,
-      "liveHype": 3
+      "liveHype": 3,
+      "nostalgia": 4,
+      "emotionalIntensity": 3
     },
     "tags": {
-      "moods": [],
-      "situations": [],
-      "weather": [],
-      "timeOfDay": [],
-      "seasons": [],
-      "themes": [],
-      "tempos": [],
-      "playlistRoles": []
+      "moods": [
+        "calm",
+        "healing",
+        "bittersweet"
+      ],
+      "situations": [
+        "relaxing",
+        "walking",
+        "alone_time"
+      ],
+      "weather": [
+        "sunny",
+        "breezy"
+      ],
+      "timeOfDay": [
+        "morning",
+        "daytime"
+      ],
+      "seasons": [
+        "spring"
+      ],
+      "themes": [
+        "love",
+        "youth",
+        "memories"
+      ],
+      "tempos": [
+        "medium"
+      ],
+      "playlistRoles": [
+        "change",
+        "cool_down"
+      ]
     },
     "recommendation": {
-      "songImpression": "楽曲情報を確認中です",
-      "recommendedFor": "楽曲情報を確認中です",
-      "recommendedSituation": "楽曲情報を確認中です",
-      "notRecommendedSituation": "楽曲情報を確認中です",
-      "recommendationText": "楽曲情報を確認中です",
-      "listeningSuggestion": "楽曲情報を確認中です"
+      "songImpression": "春の木漏れ日のような温かさと、どこか切ない余韻を秘めた優美なミディアムナンバーです。",
+      "recommendedFor": "過ぎ去った青春の日々に思いを馳せたい時や、穏やかで優しい旋律に包まれたい方にぴったりです。",
+      "recommendedSituation": "春風を感じる並木道を散歩する時間や、窓辺で温かい飲み物を片手にくつろぐ時に向いています。",
+      "notRecommendedSituation": "大勢で盛り上がるフェスのような活気ある場面や、アップテンポな曲で汗を流したい時には不向きです。",
+      "recommendationText": "柔らかなボーカルと美しいメロディが融和し、季節の移り変わりと揺れる恋心を優しく表現します。",
+      "listeningSuggestion": "音量を少し控えめに設定し、背景の自然の音と重ね合わせながら聴くのが馴染みやすいでしょう。"
     },
-    "recommendationVariants": [],
+    "recommendationVariants": [
+      {
+        "conditionType": "mood",
+        "condition": "calm",
+        "text": "静かに流れる時間に身を任せ、心地よいメランコリーに浸りたい時に適しています。"
+      }
+    ],
     "enabled": true,
-    "enabledForRecommendation": false,
-    "needsReview": false,
+    "enabledForRecommendation": true,
+    "needsReview": true,
     "releases": [
       {
         "title": "「Springtime In You」ノイミー盤",
@@ -4905,6 +6300,11 @@ export const notEqualMeSongs: Song[] = [
       ],
       "checkedAt": "2026-07-01T02:52:42.149Z"
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "needs_review",
+    "analysisBasis": {
+      "interpretationNotes": "春の訪れとともに揺れる恋心と別れの予感を、淡く美しい筆致で描き出しています。",
+      "confidence": 5
+    }
   }
 ];
