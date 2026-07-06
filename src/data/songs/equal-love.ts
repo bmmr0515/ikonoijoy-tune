@@ -653,109 +653,121 @@ export const equalLoveSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "love-teokure-caution",
-    "title": "手遅れcaution",
-    "group": "equal-love",
-    "category": "group",
-    "factualData": {
-      "releaseDate": "2018-05-16",
-      "releaseTitle": "手遅れcaution",
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/3/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/3/",
-          "note": "Official Discography release date"
-        },
-        {
-          "field": "youtube",
-          "url": "https://www.youtube.com/watch?v=F3x0Y5A3sV8"
-        }
-      ]
-    },
-    "scores": {
-      "energy": 5,
-      "brightness": 1,
-      "sadness": 4,
-      "cuteness": 1,
-      "power": 5,
-      "calmness": 2,
-      "romance": 4,
-      "liveHype": 5,
-      "nostalgia": 3,
-      "emotionalIntensity": 5
-    },
-    "tags": {
-      "moods": [
-        "excited",
-        "sad",
-        "rebellious"
-      ],
-      "situations": [
-        "before_live",
-        "night_walk",
-        "alone_time"
-      ],
-      "weather": [
-        "rainy",
-        "humid"
-      ],
-      "timeOfDay": [
-        "night",
-        "late_night"
-      ],
-      "seasons": [
-        "all_seasons"
-      ],
-      "themes": [
-        "jealousy",
-        "love",
-        "identity"
-      ],
-      "tempos": [
-        "upbeat"
-      ],
-      "playlistRoles": [
-        "peak",
-        "change"
-      ]
-    },
-    "recommendation": {
-      "songImpression": "哀愁を帯びたメロディラインと激しいギターサウンドが織りなす、シリアスで重厚なダークナンバーです。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。",
-      "recommendedFor": "内に秘めた強い感情や、ダークな世界観の楽曲に深く没入したい人に。",
-      "recommendedSituation": "部屋の明かりを暗くした夜や、一人で深く考え事をしたいとき。",
-      "notRecommendedSituation": "爽やかな朝の目覚ましや、軽い気持ちでリラックスしたいとき。",
-      "recommendationText": "感情の奥底にある情熱や葛藤と向き合いたい夜におすすめです。強いメッセージとドラマチックな展開が、張り詰めた心にそっと寄り添います。 日常の何気ない瞬間にこの曲を聴くことで、少しだけ前向きな気持ちになり、素敵な一日を過ごすための彩りを与えてくれます。",
-      "listeningSuggestion": "ヘッドホンを使い、間奏のストリングスと重厚な低音に没頭してみてください。"
-    },
-    "recommendationVariants": [
+  "id": "love-teokure-caution",
+  "title": "手遅れcaution",
+  "group": "equal-love",
+  "category": "group",
+  "factualData": {
+    "releaseDate": "2018-05-16",
+    "releaseTitle": "手遅れcaution",
+    "centerMembers": [
+      "野口衣織"
+    ],
+    "participatingMembers": [
+      "大谷映美里",
+      "大場花菜",
+      "音嶋莉沙",
+      "齋藤樹愛羅",
+      "齊藤なぎさ",
+      "佐々木舞香",
+      "髙松瞳",
+      "瀧脇笙古",
+      "野口衣織",
+      "諸橋沙夏",
+      "山本杏奈"
+    ],
+    "lyricist": "指原莉乃",
+    "composer": "今井ひろし",
+    "arranger": "倉内達矢",
+    "verificationStatus": "verified",
+    "verifiedSources": [
       {
-        "conditionType": "mood",
-        "condition": "rebellious",
-        "text": "周囲の雑音を遮断し、自分だけの強い世界観に入り込みたい瞬間に合います。"
+        "field": "youtube",
+        "url": "https://www.youtube.com/watch?v=Shn-K4W32Lg",
+        "note": "Official Reaudit Verified Evidence Source"
       },
       {
-        "conditionType": "timeOfDay",
-        "condition": "late_night",
-        "text": "深夜の静寂の中、熱くドラマチックなメロディに浸りたい夜に向いています。"
+        "field": "youtube",
+        "url": "https://equal-love.jp/discography/detail/3/",
+        "note": "Official Reaudit Verified Evidence Source"
       }
-    ],
-    "analysisBasis": {
-      "interpretationNotes": "3rdシングル表題曲。ダークでシリアスな世界観の確立作。",
-      "confidence": 95
-    },
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "recordType": "song"
+    ]
   },
+  "scores": {
+    "energy": 5,
+    "brightness": 1,
+    "sadness": 4,
+    "cuteness": 1,
+    "power": 5,
+    "calmness": 2,
+    "romance": 4,
+    "liveHype": 5,
+    "nostalgia": 3,
+    "emotionalIntensity": 5
+  },
+  "tags": {
+    "moods": [
+      "excited",
+      "sad",
+      "rebellious"
+    ],
+    "situations": [
+      "before_live",
+      "night_walk",
+      "alone_time"
+    ],
+    "weather": [
+      "rainy",
+      "humid"
+    ],
+    "timeOfDay": [
+      "night",
+      "late_night"
+    ],
+    "seasons": [
+      "all_seasons"
+    ],
+    "themes": [
+      "jealousy",
+      "love",
+      "identity"
+    ],
+    "tempos": [
+      "upbeat"
+    ],
+    "playlistRoles": [
+      "peak",
+      "change"
+    ]
+  },
+  "recommendation": {
+    "songImpression": "哀愁を帯びたメロディラインと激しいギターサウンドが織りなす、シリアスで重厚なダークナンバーです。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。",
+    "recommendedFor": "内に秘めた強い感情や、ダークな世界観の楽曲に深く没入したい人に。",
+    "recommendedSituation": "部屋の明かりを暗くした夜や、一人で深く考え事をしたいとき。",
+    "notRecommendedSituation": "爽やかな朝の目覚ましや、軽い気持ちでリラックスしたいとき。",
+    "recommendationText": "葛藤とダークな世界観をもとにした、シリアスな雰囲気の作品です。\n簡単には言葉にできない感情と向き合いたい夜に合います。",
+    "listeningSuggestion": "ひとりで過ごす夜に、自分の中にある葛藤を見つめながら聴いてみてください。"
+  },
+  "recommendationVariants": [
+    {
+      "conditionType": "mood",
+      "condition": "rebellious",
+      "text": "葛藤とダークな世界観を描いた、シリアスな雰囲気の作品です。"
+    },
+    {
+      "conditionType": "timeOfDay",
+      "condition": "late_night",
+      "text": "深夜の静寂の中、熱くドラマチックなメロディに浸りたい夜に向いています。"
+    }
+  ],
+  "analysisBasis": {
+    "interpretationNotes": "3rdシングル表題曲。ダークでシリアスな世界観の確立作。",
+    "confidence": 95
+  },
+  "enabled": true,
+  "enabledForRecommendation": true,
+  "recordType": "song"
+},
   {
     "id": "love-bukatsu-chu-me-ga-au",
     "title": "部活中に目が合うなって思ってたんだ",
@@ -5519,97 +5531,108 @@ export const equalLoveSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "love-cinema",
-    "title": "cinema",
-    "group": "equal-love",
-    "category": "group",
-    "factualData": {
-      "releaseDate": "2021-05-12",
-      "releaseTitle": "全部、内緒。",
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography release date"
-        }
-      ]
-    },
-    "scores": {
-      "energy": 4,
-      "brightness": 4,
-      "sadness": 2,
-      "cuteness": 3,
-      "power": 3,
-      "calmness": 3,
-      "romance": 3,
-      "liveHype": 3,
-      "nostalgia": 3,
-      "emotionalIntensity": 3
-    },
-    "tags": {
-      "moods": [
-        "happy"
-      ],
-      "situations": [
-        "commute",
-        "walking"
-      ],
-      "weather": [
-        "sunny"
-      ],
-      "timeOfDay": [
-        "daytime"
-      ],
-      "seasons": [
-        "all_seasons"
-      ],
-      "themes": [
-        "youth"
-      ],
-      "tempos": [
-        "medium"
-      ],
-      "playlistRoles": [
-        "build_up"
-      ]
-    },
-    "recommendation": {
-      "songImpression": "メンバーたちの瑞々しくのびのびとした歌声と心地よいアレンジが魅力的な、爽やかで王道アイドルらしさが溢れる楽曲です。",
-      "recommendedFor": "心地よいリズムに乗せて、軽快なポップスを味わいたい人に。",
-      "recommendedSituation": "徒歩での移動中や、晴れた日の散歩のお供に。",
-      "notRecommendedSituation": "激しいビートでテンションを極限まで高めたいとき。",
-      "recommendationText": "日常の通勤・通学時間や、静かにリラックスしたいときに、耳元を心地よく彩ってくれます。気持ちを少しだけ明るい方向へ向けたいときや、前向きに一日をスタートしたいときにおすすめです。",
-      "listeningSuggestion": "散歩をしながら、周囲の風景に溶け込ませて聴くのがおすすめです。"
-    },
-    "recommendationVariants": [
-      {
-        "conditionType": "mood",
-        "condition": "happy",
-        "text": "明るく前向きなメロディが、あなたの何気ない一日にそっと彩りを添えてくれます。"
-      },
-      {
-        "conditionType": "situation",
-        "condition": "commute",
-        "text": "毎日の通勤や通学の電車の中で、心地よくリズムに浸りたいときに向いています。"
-      }
+  "id": "love-cinema",
+  "title": "cinema",
+  "group": "equal-love",
+  "category": "group",
+  "factualData": {
+    "releaseDate": "2021-05-12",
+    "releaseTitle": "全部、内緒。",
+    "centerMembers": [
+      "音嶋莉沙"
     ],
-    "analysisBasis": {
-      "interpretationNotes": "公式リリース情報に基づく全員曲。バランスのとれたポップ調アレンジ。",
-      "confidence": 85
-    },
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "recordType": "song"
+    "participatingMembers": [
+      "大谷映美里",
+      "大場花菜",
+      "音嶋莉沙",
+      "齋藤樹愛羅",
+      "齊藤なぎさ",
+      "佐々木舞香",
+      "髙松瞳",
+      "瀧脇笙古",
+      "野口衣織",
+      "諸橋沙夏",
+      "山本杏奈"
+    ],
+    "lyricist": "指原莉乃",
+    "composer": "Keisuke Koyama",
+    "arranger": "Keisuke Koyama",
+    "verificationStatus": "verified",
+    "verifiedSources": [
+      {
+        "field": "youtube",
+        "url": "https://www.youtube.com/watch?v=evMRqRppb5w",
+        "note": "Official Reaudit Verified Evidence Source"
+      }
+    ]
   },
+  "scores": {
+    "energy": 4,
+    "brightness": 4,
+    "sadness": 2,
+    "cuteness": 3,
+    "power": 3,
+    "calmness": 3,
+    "romance": 3,
+    "liveHype": 3,
+    "nostalgia": 3,
+    "emotionalIntensity": 3
+  },
+  "tags": {
+    "moods": [
+      "happy"
+    ],
+    "situations": [
+      "commute",
+      "walking"
+    ],
+    "weather": [
+      "sunny"
+    ],
+    "timeOfDay": [
+      "daytime"
+    ],
+    "seasons": [
+      "all_seasons"
+    ],
+    "themes": [
+      "youth"
+    ],
+    "tempos": [
+      "medium"
+    ],
+    "playlistRoles": [
+      "build_up"
+    ]
+  },
+  "recommendation": {
+    "songImpression": "メンバーたちの瑞々しくのびのびとした歌声と心地よいアレンジが魅力的な、爽やかで王道アイドルらしさが溢れる楽曲です。",
+    "recommendedFor": "心地よいリズムに乗せて、軽快なポップスを味わいたい人に。",
+    "recommendedSituation": "徒歩での移動中や、晴れた日の散歩のお供に。",
+    "notRecommendedSituation": "激しいビートでテンションを極限まで高めたいとき。",
+    "recommendationText": "映画館での初デートと、甘酸っぱい恋の始まりを描いた作品です。\n気になる人とのお出かけ前や、初めてのデートを思い浮かべたい時間に合います。",
+    "listeningSuggestion": "休日のお出かけ前に、初デートの緊張と期待を思い浮かべながら聴いてみてください。"
+  },
+  "recommendationVariants": [
+    {
+      "conditionType": "mood",
+      "condition": "happy",
+      "text": "映画館での初デートを舞台に、甘酸っぱい恋の始まりを描いた作品です。"
+    },
+    {
+      "conditionType": "situation",
+      "condition": "commute",
+      "text": "毎日の通勤や通学の電車の中で、心地よくリズムに浸りたいときに向いています。"
+    }
+  ],
+  "analysisBasis": {
+    "interpretationNotes": "公式リリース情報に基づく全員曲。バランスのとれたポップ調アレンジ。",
+    "confidence": 85
+  },
+  "enabled": true,
+  "enabledForRecommendation": true,
+  "recordType": "song"
+},
   {
     "id": "love-iranai-twin-tail",
     "title": "いらない ツインテール",
@@ -7649,107 +7672,103 @@ export const equalLoveSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "love-kimi-dake-no-hanamichi",
-    "title": "君だけの花道",
-    "group": "equal-love",
-    "category": "solo",
-    "factualData": {
-      "releaseDate": "2023-03-22",
-      "releaseTitle": "君だけの花道",
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography release date"
-        },
-        {
-          "field": "members",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography member details"
-        }
-      ]
-    },
-    "scores": {
-      "energy": 3,
-      "brightness": 4,
-      "sadness": 2,
-      "cuteness": 3,
-      "power": 3,
-      "calmness": 4,
-      "romance": 3,
-      "liveHype": 3,
-      "nostalgia": 3,
-      "emotionalIntensity": 4
-    },
-    "tags": {
-      "moods": [
-        "calm",
-        "healing"
-      ],
-      "situations": [
-        "relaxing",
-        "before_sleep",
-        "alone_time"
-      ],
-      "weather": [
-        "cloudy"
-      ],
-      "timeOfDay": [
-        "evening",
-        "night"
-      ],
-      "seasons": [
-        "all_seasons"
-      ],
-      "themes": [
-        "memories",
-        "identity"
-      ],
-      "tempos": [
-        "medium"
-      ],
-      "playlistRoles": [
-        "change",
-        "cool_down"
-      ]
-    },
-    "recommendation": {
-      "songImpression": "メンバーの個性を色濃く反映した、ソロ歌唱ならではの繊細な表現が魅力的な一曲です。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。",
-      "recommendedFor": "ソロ歌唱ならではの個性を味わいたい人におすすめです。",
-      "recommendedSituation": "一人の時間やくつろいでいる時間に合います。",
-      "notRecommendedSituation": "大勢で盛り上がりたい場面。",
-      "recommendationText": "メンバーのパーソナリティや個性を色濃く反映した、ソロ歌唱ならではの繊細なボーカルが魅力的な一曲です。一人の静かなリラックスタイムに、そっと寄り添うように聴くことで、日常の喧騒から離れて心をゆっくりと落ち着かせるきっかけになります。",
-      "listeningSuggestion": "静かな夜に寄り添わせるように聴いてみてください。"
-    },
-    "recommendationVariants": [
-      {
-        "conditionType": "situation",
-        "condition": "relaxing",
-        "text": "一日の疲れを癒やしたい夜、部屋の中で静かに一人で音楽の余韻に向き合う時間に合います。"
-      },
-      {
-        "conditionType": "timeOfDay",
-        "condition": "night",
-        "text": "夜の静寂の中で、メンバーの温もりあふれるソロボーカルをじっくり楽しみたいときにおすすめです。"
-      }
+  "id": "love-kimi-dake-no-hanamichi",
+  "title": "君だけの花道",
+  "group": "equal-love",
+  "category": "solo",
+  "factualData": {
+    "releaseDate": "2023-03-22",
+    "releaseTitle": "君だけの花道",
+    "centerMembers": [
+      "齊藤なぎさ"
     ],
-    "analysisBasis": {
-      "interpretationNotes": "メンバーのパーソナリティを押し出したソロ楽曲。",
-      "confidence": 80
-    },
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "recordType": "song"
+    "participatingMembers": [
+      "齊藤なぎさ"
+    ],
+    "lyricist": "指原莉乃",
+    "composer": "Kanoa",
+    "arranger": "Kanoa",
+    "verificationStatus": "verified",
+    "verifiedSources": [
+      {
+        "field": "youtube",
+        "url": "https://equal-love.jp/news/detail/6519",
+        "note": "Official Reaudit Verified Evidence Source"
+      }
+    ]
   },
+  "scores": {
+    "energy": 3,
+    "brightness": 4,
+    "sadness": 2,
+    "cuteness": 3,
+    "power": 3,
+    "calmness": 4,
+    "romance": 3,
+    "liveHype": 3,
+    "nostalgia": 3,
+    "emotionalIntensity": 4
+  },
+  "tags": {
+    "moods": [
+      "calm",
+      "healing"
+    ],
+    "situations": [
+      "relaxing",
+      "before_sleep",
+      "alone_time"
+    ],
+    "weather": [
+      "cloudy"
+    ],
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "seasons": [
+      "all_seasons"
+    ],
+    "themes": [
+      "memories",
+      "identity"
+    ],
+    "tempos": [
+      "medium"
+    ],
+    "playlistRoles": [
+      "change",
+      "cool_down"
+    ]
+  },
+  "recommendation": {
+    "songImpression": "メンバーの個性を色濃く反映した、ソロ歌唱ならではの繊細な表現が魅力的な一曲です。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。",
+    "recommendedFor": "ソロ歌唱ならではの個性を味わいたい人におすすめです。",
+    "recommendedSituation": "一人の時間やくつろいでいる時間に合います。",
+    "notRecommendedSituation": "大勢で盛り上がりたい場面。",
+    "recommendationText": "齊藤なぎさの卒業ソングとして、新たな道へ進む門出を描いた作品です。\n人生の節目や、大切な人の新しい出発を見送りたい時間に合います。",
+    "listeningSuggestion": "新しい一歩を踏み出す朝に、これから進む道を思い浮かべながら聴いてみてください。"
+  },
+  "recommendationVariants": [
+    {
+      "conditionType": "situation",
+      "condition": "relaxing",
+      "text": "齊藤なぎさの卒業ソングとして、新たな出発と門出を描いた作品です。"
+    },
+    {
+      "conditionType": "timeOfDay",
+      "condition": "night",
+      "text": "夜の静寂の中で、メンバーの温もりあふれるソロボーカルをじっくり楽しみたいときにおすすめです。"
+    }
+  ],
+  "analysisBasis": {
+    "interpretationNotes": "メンバーのパーソナリティを押し出したソロ楽曲。",
+    "confidence": 80
+  },
+  "enabled": true,
+  "enabledForRecommendation": true,
+  "recordType": "song"
+},
   {
     "id": "love-okaeri-hanadayori",
     "title": "おかえり、花便り",

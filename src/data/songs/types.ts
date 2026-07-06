@@ -103,6 +103,9 @@ export type Song = {
     centerMembers?: string[];
     participatingMembers?: string[];
     durationSeconds?: number;
+    lyricist?: string;
+    composer?: string;
+    arranger?: string;
     verificationStatus: 'verified' | 'partially-verified' | 'needs-review';
     verifiedSources?: {
       field: 'title' | 'release' | 'center' | 'members' | 'youtube';
@@ -161,6 +164,7 @@ export type Song = {
   reason?: string;
   quarantineReason?: string;
   recordType?: 'song' | 'overture' | 'music_video' | 'making_video' | 'variety_video' | 'live_video' | 'fanclub_content' | 'unknown';
+  contentType?: string;
   relatedSongId?: string;
 
   releases?: {

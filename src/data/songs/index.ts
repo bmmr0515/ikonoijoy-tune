@@ -49,3 +49,4 @@ const rawSongs: Song[] = [
 rawSongs.forEach(assertSongExistsInWhitelist);
 
 export const songs = rawSongs;
+export const allSongs = rawSongs;

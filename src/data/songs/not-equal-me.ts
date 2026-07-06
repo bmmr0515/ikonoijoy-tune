@@ -1677,111 +1677,118 @@ export const notEqualMeSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "me-kyunkawa-jinsei",
-    "title": "きゅんかわ人生",
-    "group": "not-equal-me",
-    "category": "unknown",
-    "factualData": {
-      "releaseDate": "2025-12-10",
-      "releaseTitle": "「排他的ファイター」",
-      "verificationStatus": "needs-review",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/69/",
-          "note": "Official Discography Page"
-        }
-      ]
-    },
-    "scores": {
-      "energy": 3,
-      "brightness": 3,
-      "sadness": 3,
-      "cuteness": 3,
-      "power": 3,
-      "calmness": 3,
-      "romance": 3,
-      "liveHype": 3,
-      "nostalgia": 3,
-      "emotionalIntensity": 3
-    },
-    "tags": {
-      "moods": [
-        "happy",
-        "cute"
-      ],
-      "situations": [
-        "getting_ready",
-        "walking"
-      ],
-      "weather": [],
-      "timeOfDay": [
-        "morning",
-        "daytime"
-      ],
-      "seasons": [
-        "all_seasons"
-      ],
-      "themes": [
-        "self_acceptance",
-        "youth"
-      ],
-      "tempos": [
-        "medium"
-      ],
-      "playlistRoles": [
-        "build_up"
-      ]
-    },
-    "recommendation": {
-      "songImpression": "自分らしさを肯定する前向きなメッセージを、ポップで可愛らしいメロディに乗せて歌うキュートな楽曲と受け取れます。",
-      "recommendedFor": "自己肯定感を高めたい時や、日常の小さな幸せに目を向けたい方、愛らしい雰囲気に包まれたい方に適しています。",
-      "recommendedSituation": "朝のメイク時間やお出かけの準備中、よく晴れた休日の散歩のお供に向いています。",
-      "notRecommendedSituation": "深い哀愁に浸りたい一人きりの夜や、静粛で集中力を要する作業中のBGMとしては世界観が合わず不向きです。",
-      "recommendationText": "フワフワとした温かみのある歌声と軽快なポップサウンドが、日常を彩り、明るい気持ちを演出します。",
-      "listeningSuggestion": "晴れた日の午前中に、ワイヤレスイヤホンで音楽を流しながら、軽快なステップに合わせて聴くのが馴染みやすいでしょう。"
-    },
-    "recommendationVariants": [
-      {
-        "conditionType": "mood",
-        "condition": "cute",
-        "text": "自分らしさを存分に肯定し、可愛らしい世界観に浸りたい瞬間、軽快なボーカルがその感情に寄り添います。"
-      },
-      {
-        "conditionType": "situation",
-        "condition": "getting_ready",
-        "text": "お出かけ前のメイクやコーディネートを整える時間に流すことで、ハッピーな気分で一日を始める準備が整うでしょう。"
-      }
+  "id": "me-kyunkawa-jinsei",
+  "title": "きゅんかわ人生",
+  "group": "not-equal-me",
+  "category": "unknown",
+  "factualData": {
+    "releaseDate": "2025-12-10",
+    "releaseTitle": "排他的ファイター",
+    "centerMembers": [
+      "櫻井もも"
     ],
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "needsReview": true,
-    "reviewRequirement": "needs_review",
-    "analysisBasis": {
-      "interpretationNotes": "曲の中心的な印象は、自己肯定と可愛らしさを描いたポップソング。明るい日常を描くためnostalgiaを3、心地よく調和した情緒からemotionalIntensityを3に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
-      "confidence": 82
-    },
-    "releases": [
+    "participatingMembers": [],
+    "lyricist": "指原莉乃",
+    "composer": "Ryo Shiraki / 新Q",
+    "arranger": "新Q",
+    "verificationStatus": "verified",
+    "verifiedSources": [
       {
-        "title": "「排他的ファイター」",
-        "releaseType": "single",
-        "releaseDate": "2025-12-10",
-        "trackNumber": 2,
-        "officialSourceUrl": "https://not-equal-me.jp/discography/detail/69/"
+        "field": "youtube",
+        "url": "https://www.youtube.com/watch?v=L8AQC1Gk4-M",
+        "note": "Official Reaudit Verified Evidence Source"
       }
-    ],
-    "verification": {
-      "titleVerified": true,
-      "releaseVerified": true,
-      "categoryVerified": false,
-      "sourceContainsExactTitle": true,
-      "verifiedSources": [
-        "https://not-equal-me.jp/discography/detail/69/"
-      ],
-      "checkedAt": "2026-07-01T02:50:43.721Z"
-    },
-    "recordType": "song"
+    ]
   },
+  "scores": {
+    "energy": 3,
+    "brightness": 3,
+    "sadness": 3,
+    "cuteness": 3,
+    "power": 3,
+    "calmness": 3,
+    "romance": 3,
+    "liveHype": 3,
+    "nostalgia": 3,
+    "emotionalIntensity": 3
+  },
+  "tags": {
+    "moods": [
+      "happy",
+      "cute"
+    ],
+    "situations": [
+      "getting_ready",
+      "walking"
+    ],
+    "weather": [],
+    "timeOfDay": [
+      "morning",
+      "daytime"
+    ],
+    "seasons": [
+      "all_seasons"
+    ],
+    "themes": [
+      "self_acceptance",
+      "youth"
+    ],
+    "tempos": [
+      "medium"
+    ],
+    "playlistRoles": [
+      "build_up"
+    ]
+  },
+  "recommendation": {
+    "songImpression": "自分らしさを肯定する前向きなメッセージを、ポップで可愛らしいメロディに乗せて歌うキュートな楽曲と受け取れます。",
+    "recommendedFor": "自己肯定感を高めたい時や、日常の小さな幸せに目を向けたい方、愛らしい雰囲気に包まれたい方に適しています。",
+    "recommendedSituation": "朝のメイク時間やお出かけの準備中、よく晴れた休日の散歩のお供に向いています。",
+    "notRecommendedSituation": "深い哀愁に浸りたい一人きりの夜や、静粛で集中力を要する作業中のBGMとしては世界観が合わず不向きです。",
+    "recommendationText": "ありのままの自分を愛することをテーマにした、自己肯定のメッセージを持つ作品です。\n自分らしさを大切にしたい日や、気持ちを軽くしたい時間に合います。",
+    "listeningSuggestion": "帰り道や放課後に、ありのままの自分を大切にする気持ちで聴いてみてください。"
+  },
+  "recommendationVariants": [
+    {
+      "conditionType": "mood",
+      "condition": "cute",
+      "text": "ありのままの自分を愛することをテーマにした、自己肯定のメッセージを持つ作品です。"
+    },
+    {
+      "conditionType": "situation",
+      "condition": "getting_ready",
+      "text": "お出かけ前のメイクやコーディネートを整える時間に流すことで、ハッピーな気分で一日を始める準備が整うでしょう。"
+    }
+  ],
+  "enabled": true,
+  "enabledForRecommendation": true,
+  "needsReview": true,
+  "reviewRequirement": "needs_review",
+  "analysisBasis": {
+    "interpretationNotes": "曲の中心的な印象は、自己肯定と可愛らしさを描いたポップソング。明るい日常を描くためnostalgiaを3、心地よく調和した情緒からemotionalIntensityを3に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+    "confidence": 82
+  },
+  "releases": [
+    {
+      "title": "「排他的ファイター」",
+      "releaseType": "single",
+      "releaseDate": "2025-12-10",
+      "trackNumber": 2,
+      "officialSourceUrl": "https://not-equal-me.jp/discography/detail/69/"
+    }
+  ],
+  "verification": {
+    "titleVerified": true,
+    "releaseVerified": true,
+    "categoryVerified": false,
+    "sourceContainsExactTitle": true,
+    "verifiedSources": [
+      "https://not-equal-me.jp/discography/detail/69/"
+    ],
+    "checkedAt": "2026-07-01T02:50:43.721Z"
+  },
+  "recordType": "song"
+},
   {
     "id": "me-hanbunko-christmas",
     "title": "はんぶんこクリスマス",
@@ -2100,110 +2107,121 @@ export const notEqualMeSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "me-cafe-rakuen",
-    "title": "カフェ樂園",
-    "group": "not-equal-me",
-    "category": "unknown",
-    "factualData": {
-      "releaseDate": "2025-04-30",
-      "releaseTitle": "「モブノデレラ/神様の言うとーり！」",
-      "verificationStatus": "needs-review",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/61/",
-          "note": "Official Discography Page"
-        }
-      ]
-    },
-    "scores": {
-      "energy": 3,
-      "brightness": 3,
-      "sadness": 3,
-      "cuteness": 3,
-      "power": 3,
-      "calmness": 3,
-      "romance": 3,
-      "liveHype": 3,
-      "nostalgia": 3,
-      "emotionalIntensity": 3
-    },
-    "tags": {
-      "moods": [
-        "healing",
-        "cute"
-      ],
-      "situations": [
-        "relaxing",
-        "alone_time"
-      ],
-      "weather": [],
-      "timeOfDay": [
-        "daytime"
-      ],
-      "seasons": [
-        "spring"
-      ],
-      "themes": [
-        "love",
-        "youth"
-      ],
-      "tempos": [
-        "medium"
-      ],
-      "playlistRoles": [
-        "build_up"
-      ]
-    },
-    "recommendation": {
-      "songImpression": "お気に入りのカフェで過ごすような心地よい時間を想起させる、日常の小さな幸せと可愛らしさを描いた穏やかなポップスと受け取れます。",
-      "recommendedFor": "忙しい日常から離れて心を落ち着かせたい方や、穏やかで可愛らしいメロディを好む方に適しています。",
-      "recommendedSituation": "休日の昼下がりに温かい飲み物を片手にお部屋で過ごす時間や、のんびりと読書をする時のBGMに向いています。",
-      "notRecommendedSituation": "深夜の張り詰めた緊張感の中で集中したい時や、激しいロックサウンドを求めてテンションを高めたい時には不向きです。",
-      "recommendationText": "温かみのあるアコースティックな響きを感じるサウンドと優しい歌声が、穏やかな安らぎの空間を演出します。",
-      "listeningSuggestion": "お部屋のスピーカーから心地よいカフェ音楽のように少し小さめの音量で流し、日常に溶け込ませて聴くのが馴染みやすいでしょう。"
-    },
-    "recommendationVariants": [
-      {
-        "conditionType": "situation",
-        "condition": "relaxing",
-        "text": "肩の力を抜いてくつろぎたい時間に聴くことで、温もりのあるサウンドが穏やかなひとときに寄り添います。"
-      },
-      {
-        "conditionType": "timeOfDay",
-        "condition": "daytime",
-        "text": "日差しの差し込む昼下がりの時間に流すことで、曲が持つ穏やかな木漏れ日のような雰囲気が日常を彩ります。"
-      }
+  "id": "me-cafe-rakuen",
+  "title": "カフェ樂園",
+  "group": "not-equal-me",
+  "category": "unknown",
+  "factualData": {
+    "releaseDate": "2025-04-30",
+    "releaseTitle": "モブノデレラ/神様の言うとーり！",
+    "centerMembers": [
+      "永田詩央里"
     ],
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "needsReview": true,
-    "reviewRequirement": "needs_review",
-    "analysisBasis": {
-      "interpretationNotes": "曲の中心的な印象は、カフェのような心地よい空間と日常の愛おしさを描いた温かみのある曲。穏やかな安らぎを重視し、nostalgiaを3、緩やかで優しい情緒からemotionalIntensityを3に設定。既存の穏やかなスコア（calmness:3, cuteness:3）との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
-      "confidence": 83
-    },
-    "releases": [
-      {
-        "title": "「モブノデレラ/神様の言うとーり！」",
-        "releaseType": "single",
-        "releaseDate": "2025-04-30",
-        "trackNumber": 3,
-        "officialSourceUrl": "https://not-equal-me.jp/discography/detail/61/"
-      }
+    "participatingMembers": [
+      "永田詩央里",
+      "蟹沢萌子",
+      "冨田菜々風"
     ],
-    "verification": {
-      "titleVerified": true,
-      "releaseVerified": true,
-      "categoryVerified": false,
-      "sourceContainsExactTitle": true,
-      "verifiedSources": [
-        "https://not-equal-me.jp/discography/detail/61/"
-      ],
-      "checkedAt": "2026-07-01T02:50:43.721Z"
-    },
-    "recordType": "song"
+    "lyricist": "指原莉乃",
+    "composer": "古川貴浩",
+    "arranger": "古川貴浩",
+    "verificationStatus": "verified",
+    "verifiedSources": [
+      {
+        "field": "youtube",
+        "url": "https://www.youtube.com/watch?v=vA5O8Pq9j44",
+        "note": "Official Reaudit Verified Evidence Source"
+      }
+    ]
   },
+  "scores": {
+    "energy": 3,
+    "brightness": 3,
+    "sadness": 3,
+    "cuteness": 3,
+    "power": 3,
+    "calmness": 3,
+    "romance": 3,
+    "liveHype": 3,
+    "nostalgia": 3,
+    "emotionalIntensity": 3
+  },
+  "tags": {
+    "moods": [
+      "healing",
+      "cute"
+    ],
+    "situations": [
+      "relaxing",
+      "alone_time"
+    ],
+    "weather": [],
+    "timeOfDay": [
+      "daytime"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "themes": [
+      "love",
+      "youth"
+    ],
+    "tempos": [
+      "medium"
+    ],
+    "playlistRoles": [
+      "build_up"
+    ]
+  },
+  "recommendation": {
+    "songImpression": "お気に入りのカフェで過ごすような心地よい時間を想起させる、日常の小さな幸せと可愛らしさを描いた穏やかなポップスと受け取れます。",
+    "recommendedFor": "忙しい日常から離れて心を落ち着かせたい方や、穏やかで可愛らしいメロディを好む方に適しています。",
+    "recommendedSituation": "休日の昼下がりに温かい飲み物を片手にお部屋で過ごす時間や、のんびりと読書をする時のBGMに向いています。",
+    "notRecommendedSituation": "深夜の張り詰めた緊張感の中で集中したい時や、激しいロックサウンドを求めてテンションを高めたい時には不向きです。",
+    "recommendationText": "お気に入りのカフェで過ごすような、穏やかな日常の幸せを描いた作品です。\n休憩時間や、少し落ち着きたい午後に合います。",
+    "listeningSuggestion": "休日の午後や休憩時間に、お気に入りのカフェで過ごす時間を思い浮かべながら聴いてみてください。"
+  },
+  "recommendationVariants": [
+    {
+      "conditionType": "situation",
+      "condition": "relaxing",
+      "text": "お気に入りのカフェで過ごすリラックスタイムと、穏やかな日常の幸せを描いた作品です。"
+    },
+    {
+      "conditionType": "timeOfDay",
+      "condition": "daytime",
+      "text": "日差しの差し込む昼下がりの時間に流すことで、曲が持つ穏やかな木漏れ日のような雰囲気が日常を彩ります。"
+    }
+  ],
+  "enabled": true,
+  "enabledForRecommendation": true,
+  "needsReview": true,
+  "reviewRequirement": "needs_review",
+  "analysisBasis": {
+    "interpretationNotes": "曲の中心的な印象は、カフェのような心地よい空間と日常の愛おしさを描いた温かみのある曲。穏やかな安らぎを重視し、nostalgiaを3、緩やかで優しい情緒からemotionalIntensityを3に設定。既存の穏やかなスコア（calmness:3, cuteness:3）との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+    "confidence": 83
+  },
+  "releases": [
+    {
+      "title": "「モブノデレラ/神様の言うとーり！」",
+      "releaseType": "single",
+      "releaseDate": "2025-04-30",
+      "trackNumber": 3,
+      "officialSourceUrl": "https://not-equal-me.jp/discography/detail/61/"
+    }
+  ],
+  "verification": {
+    "titleVerified": true,
+    "releaseVerified": true,
+    "categoryVerified": false,
+    "sourceContainsExactTitle": true,
+    "verifiedSources": [
+      "https://not-equal-me.jp/discography/detail/61/"
+    ],
+    "checkedAt": "2026-07-01T02:50:43.721Z"
+  },
+  "recordType": "song"
+},
   {
     "id": "me-natsu-ga-kitakara",
     "title": "夏が来たから",

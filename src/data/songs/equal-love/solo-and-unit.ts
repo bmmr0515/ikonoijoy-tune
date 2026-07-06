@@ -2040,107 +2040,102 @@ export const solo_and_unit: Song[] = [
     "enabledForRecommendation": true
   },
   {
-    "id": "love-kimi-dake-no-hanamichi",
-    "title": "君だけの花道",
-    "group": "equal-love",
-    "category": "solo",
-    "factualData": {
-      "releaseDate": "2023-03-22",
-      "releaseTitle": "君だけの花道",
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography release date"
-        },
-        {
-          "field": "members",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography member details"
-        }
-      ]
-    },
-    "scores": {
-      "energy": 3,
-      "brightness": 4,
-      "sadness": 2,
-      "cuteness": 3,
-      "power": 3,
-      "calmness": 4,
-      "romance": 3,
-      "liveHype": 3,
-      "nostalgia": 3,
-      "emotionalIntensity": 4
-    },
-    "tags": {
-      "moods": [
-        "calm",
-        "healing"
-      ],
-      "situations": [
-        "relaxing",
-        "before_sleep",
-        "alone_time"
-      ],
-      "weather": [
-        "cloudy"
-      ],
-      "timeOfDay": [
-        "evening",
-        "night"
-      ],
-      "seasons": [
-        "all_seasons"
-      ],
-      "themes": [
-        "memories",
-        "identity"
-      ],
-      "tempos": [
-        "medium"
-      ],
-      "playlistRoles": [
-        "change",
-        "cool_down"
-      ]
-    },
-    "recommendation": {
-      "songImpression": "メンバーの個性を色濃く反映した、ソロ歌唱ならではの繊細な表現が魅力的な一曲です。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。",
-      "recommendedFor": "ソロ歌唱ならではの個性を味わいたい人におすすめです。",
-      "recommendedSituation": "一人の時間やくつろいでいる時間に合います。",
-      "notRecommendedSituation": "大勢で盛り上がりたい場面。",
-      "recommendationText": "メンバーのパーソナリティや個性を色濃く反映した、ソロ歌唱ならではの繊細なボーカルが魅力的な一曲です。一人の静かなリラックスタイムに、そっと寄り添うように聴くことで、日常の喧騒から離れて心をゆっくりと落ち着かせるきっかけになります。",
-      "listeningSuggestion": "静かな夜に寄り添わせるように聴いてみてください。"
-    },
-    "recommendationVariants": [
-      {
-        "conditionType": "situation",
-        "condition": "relaxing",
-        "text": "一日の疲れを癒やしたい夜、部屋の中で静かに一人で音楽の余韻に向き合う時間に合います。"
-      },
-      {
-        "conditionType": "timeOfDay",
-        "condition": "night",
-        "text": "夜の静寂の中で、メンバーの温もりあふれるソロボーカルをじっくり楽しみたいときにおすすめです。"
-      }
+  "id": "love-kimi-dake-no-hanamichi",
+  "title": "君だけの花道",
+  "group": "equal-love",
+  "category": "solo",
+  "factualData": {
+    "releaseDate": "2023-03-22",
+    "releaseTitle": "君だけの花道",
+    "centerMembers": [
+      "齊藤なぎさ"
     ],
-    "analysisBasis": {
-      "interpretationNotes": "メンバーのパーソナリティを押し出したソロ楽曲。",
-      "confidence": 80
-    },
-    
-    "enabled": true,
-    "enabledForRecommendation": true
+    "participatingMembers": [
+      "齊藤なぎさ"
+    ],
+    "lyricist": "指原莉乃",
+    "composer": "Kanoa",
+    "arranger": "Kanoa",
+    "verificationStatus": "verified",
+    "verifiedSources": [
+      {
+        "field": "youtube",
+        "url": "https://equal-love.jp/news/detail/6519",
+        "note": "Official Reaudit Verified Evidence Source"
+      }
+    ]
   },
+  "scores": {
+    "energy": 3,
+    "brightness": 4,
+    "sadness": 2,
+    "cuteness": 3,
+    "power": 3,
+    "calmness": 4,
+    "romance": 3,
+    "liveHype": 3,
+    "nostalgia": 3,
+    "emotionalIntensity": 4
+  },
+  "tags": {
+    "moods": [
+      "calm",
+      "healing"
+    ],
+    "situations": [
+      "relaxing",
+      "before_sleep",
+      "alone_time"
+    ],
+    "weather": [
+      "cloudy"
+    ],
+    "timeOfDay": [
+      "evening",
+      "night"
+    ],
+    "seasons": [
+      "all_seasons"
+    ],
+    "themes": [
+      "memories",
+      "identity"
+    ],
+    "tempos": [
+      "medium"
+    ],
+    "playlistRoles": [
+      "change",
+      "cool_down"
+    ]
+  },
+  "recommendation": {
+    "songImpression": "メンバーの個性を色濃く反映した、ソロ歌唱ならではの繊細な表現が魅力的な一曲です。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。",
+    "recommendedFor": "ソロ歌唱ならではの個性を味わいたい人におすすめです。",
+    "recommendedSituation": "一人の時間やくつろいでいる時間に合います。",
+    "notRecommendedSituation": "大勢で盛り上がりたい場面。",
+    "recommendationText": "齊藤なぎさの卒業ソングとして、新たな道へ進む門出を描いた作品です。\n人生の節目や、大切な人の新しい出発を見送りたい時間に合います。",
+    "listeningSuggestion": "新しい一歩を踏み出す朝に、これから進む道を思い浮かべながら聴いてみてください。"
+  },
+  "recommendationVariants": [
+    {
+      "conditionType": "situation",
+      "condition": "relaxing",
+      "text": "齊藤なぎさの卒業ソングとして、新たな出発と門出を描いた作品です。"
+    },
+    {
+      "conditionType": "timeOfDay",
+      "condition": "night",
+      "text": "夜の静寂の中で、メンバーの温もりあふれるソロボーカルをじっくり楽しみたいときにおすすめです。"
+    }
+  ],
+  "analysisBasis": {
+    "interpretationNotes": "メンバーのパーソナリティを押し出したソロ楽曲。",
+    "confidence": 80
+  },
+  "enabled": true,
+  "enabledForRecommendation": true
+},
   {
     "id": "love-okaeri-hanadayori",
     "title": "おかえり、花便り",

@@ -647,108 +647,120 @@ export const singles_01_06: Song[] = [
     "enabledForRecommendation": true
   },
   {
-    "id": "love-teokure-caution",
-    "title": "手遅れcaution",
-    "group": "equal-love",
-    "category": "group",
-    "factualData": {
-      "releaseDate": "2018-05-16",
-      "releaseTitle": "手遅れcaution",
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/3/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/3/",
-          "note": "Official Discography release date"
-        },
-        {
-          "field": "youtube",
-          "url": "https://www.youtube.com/watch?v=F3x0Y5A3sV8"
-        }
-      ]
-    },
-    "scores": {
-      "energy": 5,
-      "brightness": 1,
-      "sadness": 4,
-      "cuteness": 1,
-      "power": 5,
-      "calmness": 2,
-      "romance": 4,
-      "liveHype": 5,
-      "nostalgia": 3,
-      "emotionalIntensity": 5
-    },
-    "tags": {
-      "moods": [
-        "excited",
-        "sad",
-        "rebellious"
-      ],
-      "situations": [
-        "before_live",
-        "night_walk",
-        "alone_time"
-      ],
-      "weather": [
-        "rainy",
-        "humid"
-      ],
-      "timeOfDay": [
-        "night",
-        "late_night"
-      ],
-      "seasons": [
-        "all_seasons"
-      ],
-      "themes": [
-        "jealousy",
-        "love",
-        "identity"
-      ],
-      "tempos": [
-        "upbeat"
-      ],
-      "playlistRoles": [
-        "peak",
-        "change"
-      ]
-    },
-    "recommendation": {
-      "songImpression": "哀愁を帯びたメロディラインと激しいギターサウンドが織りなす、シリアスで重厚なダークナンバーです。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。",
-      "recommendedFor": "内に秘めた強い感情や、ダークな世界観の楽曲に深く没入したい人に。",
-      "recommendedSituation": "部屋の明かりを暗くした夜や、一人で深く考え事をしたいとき。",
-      "notRecommendedSituation": "爽やかな朝の目覚ましや、軽い気持ちでリラックスしたいとき。",
-      "recommendationText": "感情の奥底にある情熱や葛藤と向き合いたい夜におすすめです。強いメッセージとドラマチックな展開が、張り詰めた心にそっと寄り添います。 日常の何気ない瞬間にこの曲を聴くことで、少しだけ前向きな気持ちになり、素敵な一日を過ごすための彩りを与えてくれます。",
-      "listeningSuggestion": "ヘッドホンを使い、間奏のストリングスと重厚な低音に没頭してみてください。"
-    },
-    "recommendationVariants": [
+  "id": "love-teokure-caution",
+  "title": "手遅れcaution",
+  "group": "equal-love",
+  "category": "group",
+  "factualData": {
+    "releaseDate": "2018-05-16",
+    "releaseTitle": "手遅れcaution",
+    "centerMembers": [
+      "野口衣織"
+    ],
+    "participatingMembers": [
+      "大谷映美里",
+      "大場花菜",
+      "音嶋莉沙",
+      "齋藤樹愛羅",
+      "齊藤なぎさ",
+      "佐々木舞香",
+      "髙松瞳",
+      "瀧脇笙古",
+      "野口衣織",
+      "諸橋沙夏",
+      "山本杏奈"
+    ],
+    "lyricist": "指原莉乃",
+    "composer": "今井ひろし",
+    "arranger": "倉内達矢",
+    "verificationStatus": "verified",
+    "verifiedSources": [
       {
-        "conditionType": "mood",
-        "condition": "rebellious",
-        "text": "周囲の雑音を遮断し、自分だけの強い世界観に入り込みたい瞬間に合います。"
+        "field": "youtube",
+        "url": "https://www.youtube.com/watch?v=Shn-K4W32Lg",
+        "note": "Official Reaudit Verified Evidence Source"
       },
       {
-        "conditionType": "timeOfDay",
-        "condition": "late_night",
-        "text": "深夜の静寂の中、熱くドラマチックなメロディに浸りたい夜に向いています。"
+        "field": "youtube",
+        "url": "https://equal-love.jp/discography/detail/3/",
+        "note": "Official Reaudit Verified Evidence Source"
       }
-    ],
-    "analysisBasis": {
-      "interpretationNotes": "3rdシングル表題曲。ダークでシリアスな世界観の確立作。",
-      "confidence": 95
-    },
-    "enabled": true,
-    "enabledForRecommendation": true
+    ]
   },
+  "scores": {
+    "energy": 5,
+    "brightness": 1,
+    "sadness": 4,
+    "cuteness": 1,
+    "power": 5,
+    "calmness": 2,
+    "romance": 4,
+    "liveHype": 5,
+    "nostalgia": 3,
+    "emotionalIntensity": 5
+  },
+  "tags": {
+    "moods": [
+      "excited",
+      "sad",
+      "rebellious"
+    ],
+    "situations": [
+      "before_live",
+      "night_walk",
+      "alone_time"
+    ],
+    "weather": [
+      "rainy",
+      "humid"
+    ],
+    "timeOfDay": [
+      "night",
+      "late_night"
+    ],
+    "seasons": [
+      "all_seasons"
+    ],
+    "themes": [
+      "jealousy",
+      "love",
+      "identity"
+    ],
+    "tempos": [
+      "upbeat"
+    ],
+    "playlistRoles": [
+      "peak",
+      "change"
+    ]
+  },
+  "recommendation": {
+    "songImpression": "哀愁を帯びたメロディラインと激しいギターサウンドが織りなす、シリアスで重厚なダークナンバーです。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。",
+    "recommendedFor": "内に秘めた強い感情や、ダークな世界観の楽曲に深く没入したい人に。",
+    "recommendedSituation": "部屋の明かりを暗くした夜や、一人で深く考え事をしたいとき。",
+    "notRecommendedSituation": "爽やかな朝の目覚ましや、軽い気持ちでリラックスしたいとき。",
+    "recommendationText": "葛藤とダークな世界観をもとにした、シリアスな雰囲気の作品です。\n簡単には言葉にできない感情と向き合いたい夜に合います。",
+    "listeningSuggestion": "ひとりで過ごす夜に、自分の中にある葛藤を見つめながら聴いてみてください。"
+  },
+  "recommendationVariants": [
+    {
+      "conditionType": "mood",
+      "condition": "rebellious",
+      "text": "葛藤とダークな世界観を描いた、シリアスな雰囲気の作品です。"
+    },
+    {
+      "conditionType": "timeOfDay",
+      "condition": "late_night",
+      "text": "深夜の静寂の中、熱くドラマチックなメロディに浸りたい夜に向いています。"
+    }
+  ],
+  "analysisBasis": {
+    "interpretationNotes": "3rdシングル表題曲。ダークでシリアスな世界観の確立作。",
+    "confidence": 95
+  },
+  "enabled": true,
+  "enabledForRecommendation": true
+},
   {
     "id": "love-bukatsu-chu-me-ga-au",
     "title": "部活中に目が合うなって思ってたんだ",

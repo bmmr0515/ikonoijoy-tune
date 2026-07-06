@@ -1,1 +1,1106 @@
-[]
+[
+  {
+    "songId": "me-not-equal-me",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-04T09:41:56.929Z",
+    "reviewerNote": "Restored from human reviewed baseline (review-batch-01.json)"
+  },
+  {
+    "songId": "me-anti-confiture",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-04T09:41:56.929Z",
+    "reviewerNote": "Restored from human reviewed baseline (review-batch-01.json)"
+  },
+  {
+    "songId": "me-last-chance-last-dance",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-04T09:41:56.929Z",
+    "reviewerNote": "Restored from human reviewed baseline (review-batch-01.json)"
+  },
+  {
+    "songId": "me-su-suki-janai",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-04T09:41:56.929Z",
+    "reviewerNote": "Restored from human reviewed baseline (review-batch-01.json)"
+  },
+  {
+    "songId": "me-omowaseburikko",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-04T09:41:56.929Z",
+    "reviewerNote": "Restored from human reviewed baseline (review-batch-01.json)"
+  },
+  {
+    "songId": "me-miracle-road",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-04T09:41:56.929Z",
+    "reviewerNote": "Restored from human reviewed baseline (review-batch-01.json)"
+  },
+  {
+    "songId": "me-rainbow-melody",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-04T09:41:56.929Z",
+    "reviewerNote": "Restored from human reviewed baseline (review-batch-01.json)"
+  },
+  {
+    "songId": "me-ai-kudasaimase",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-04T09:41:56.929Z",
+    "reviewerNote": "Restored from human reviewed baseline (review-batch-01.json)"
+  },
+  {
+    "songId": "me-tenshi-wa-dokohe",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-04T09:41:56.929Z",
+    "reviewerNote": "Restored from human reviewed baseline (review-batch-01.json)"
+  },
+  {
+    "songId": "me-gekkabijin",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-04T09:41:56.929Z",
+    "reviewerNote": "Restored from human reviewed baseline (review-batch-01.json)"
+  },
+  {
+    "songId": "me-bokutachi-no-image",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-04T09:41:56.929Z",
+    "reviewerNote": "Restored from human reviewed baseline (review-batch-01.json)"
+  },
+  {
+    "songId": "me-kimi-wa-sparkle",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-04T09:41:56.929Z",
+    "reviewerNote": "Restored from human reviewed baseline (review-batch-01.json)"
+  },
+  {
+    "songId": "me-kuhaku-no-hana",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-04T09:41:56.929Z",
+    "reviewerNote": "Restored from human reviewed baseline (review-batch-01.json)"
+  },
+  {
+    "songId": "me-jibun-sanka",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-04T09:41:56.929Z",
+    "reviewerNote": "Restored from human reviewed baseline (review-batch-01.json)"
+  },
+  {
+    "songId": "me-hakumeikousen",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-04T09:41:56.929Z",
+    "reviewerNote": "Restored from human reviewed baseline (review-batch-01.json)"
+  },
+  {
+    "songId": "love-kioku-no-doko-ka-de",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:10:00.000Z",
+    "reviewerNote": "Approved based on explicit user human review"
+  },
+  {
+    "songId": "love-start",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:10:00.000Z",
+    "reviewerNote": "Approved based on explicit user human review"
+  },
+  {
+    "songId": "love-seifuku-christmas",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:10:00.000Z",
+    "reviewerNote": "Approved based on explicit user human review"
+  },
+  {
+    "songId": "joy-denwabango-oshiete",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:10:00.000Z",
+    "reviewerNote": "Approved based on explicit user human review"
+  },
+  {
+    "songId": "joy-ai-ga-itakatta",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:10:00.000Z",
+    "reviewerNote": "Approved based on explicit user human review"
+  },
+  {
+    "songId": "joy-blue-hawaii-lemon",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:10:00.000Z",
+    "reviewerNote": "Approved based on explicit user human review"
+  },
+  {
+    "songId": "love-yokoso-ikolab-numa",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:25:00.000Z",
+    "reviewerNote": "人間確認済み。曲ごとの個性が出るように、ファンになる楽しさとイコラブの歩みを軸に修正。ユーザーによる明示的な人間確認に基づく承認。"
+  },
+  {
+    "songId": "love-todoite-love-you",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:25:00.000Z",
+    "reviewerNote": "人間確認済み。恋心を届けたいという曲のテーマに沿って修正。ユーザーによる明示的な人間確認に基づく承認。"
+  },
+  {
+    "songId": "love-bukatsu-chu-me-ga-au",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:25:00.000Z",
+    "reviewerNote": "人間確認済み。学校生活と片思いの空気が伝わる内容へ修正。ユーザーによる明示的な人間確認に基づく承認。"
+  },
+  {
+    "songId": "joy-3",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:25:00.000Z",
+    "reviewerNote": "人間確認済み。未確認の音源表現を削除し、恋愛の時期と心情に寄せて修正。ユーザーによる明示的な人間確認に基づく承認。"
+  },
+  {
+    "songId": "joy-0120",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:25:00.000Z",
+    "reviewerNote": "人間確認済み。未確認の音源表現を削除し、遊び心のある世界観を軸に修正。ユーザーによる明示的な人間確認に基づく承認。"
+  },
+  {
+    "songId": "joy-peach",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:25:00.000Z",
+    "reviewerNote": "人間確認済み。未確認の音源表現と定型的な表現を削除し、曲固有のモチーフを軸に修正。ユーザーによる明示的な人間確認に基づく承認。"
+  },
+  {
+    "songId": "love-kiara-tasuke-ni-kita-zo",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:32:00.000Z",
+    "reviewerNote": "Approved based on explicit user human confirmation (Batch 3)"
+  },
+  {
+    "songId": "love-want-you-want-you",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:32:00.000Z",
+    "reviewerNote": "Approved based on explicit user human confirmation (Batch 3)"
+  },
+  {
+    "songId": "love-ima-kono-fune-ni-nore",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:32:00.000Z",
+    "reviewerNote": "Approved based on explicit user human confirmation (Batch 3)"
+  },
+  {
+    "songId": "joy-dadada-datte",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:32:00.000Z",
+    "reviewerNote": "Approved based on explicit user human confirmation (Batch 3)"
+  },
+  {
+    "songId": "joy-gym-disco",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:32:00.000Z",
+    "reviewerNote": "Approved based on explicit user human confirmation (Batch 3)"
+  },
+  {
+    "songId": "joy-yumemiru-idol",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:32:00.000Z",
+    "reviewerNote": "Approved based on explicit user human confirmation (Batch 3)"
+  },
+  {
+    "songId": "love-aikatsu-happy-end",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:47:00.000Z",
+    "reviewerNote": "人間確認用修正案。他曲と完全重複していた定型文を削除し、アイドル活動と大切な時間を軸に修正。ユーザーによる明示的な人間確認に基づく承認。"
+  },
+  {
+    "songId": "love-diamond-lily",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:47:00.000Z",
+    "reviewerNote": "人間確認用修正案。未確認のサウンド表現と感情効果の保証を削除し、別れと大切な人を探す思いを軸に修正。ユーザーによる明示的な人間確認に基づく承認。"
+  },
+  {
+    "songId": "love-zuruiyo-zuruine",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:47:00.000Z",
+    "reviewerNote": "人間確認用修正案。ブレスやビブラートなど未確認の歌唱表現と、感情効果の保証を削除。終わった恋への未練を軸に修正。ユーザーによる明示的な人間確認に基づく承認。"
+  },
+  {
+    "songId": "joy-nevergiveup",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:47:00.000Z",
+    "reviewerNote": "人間確認用修正案。コーラスやメロディなど未確認の音源表現を削除し、諦めずに進む気持ちを軸に修正。ユーザーによる明示的な人間確認に基づく承認。"
+  },
+  {
+    "songId": "joy-concept",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:47:00.000Z",
+    "reviewerNote": "人間確認用修正案。メロディや歌声など未確認の音源表現を削除し、グループの出発点と理想への歩みを軸に修正。ユーザーによる明示的な人間確認に基づく承認。"
+  },
+  {
+    "songId": "joy-fragile",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T20:47:00.000Z",
+    "reviewerNote": "人間確認用修正案。歌声やメロディなど未確認の音源表現を削除し、弱さと笑顔を軸に修正。ユーザーによる明示的な人間確認に基づく承認。"
+  },
+  {
+    "songId": "love-equal-love",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T21:20:00.000Z",
+    "reviewerNote": "人間確認済み。デビュー曲としてのアイデンティティと一途な恋心をベースに修正。"
+  },
+  {
+    "songId": "love-cameo",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T21:20:00.000Z",
+    "reviewerNote": "人間確認済み。妖艶で大人な恋愛をベースに修正。"
+  },
+  {
+    "songId": "love-seishun-subliminal",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T21:20:00.000Z",
+    "reviewerNote": "人間確認済み。爽やかな青春とまっすぐな好意をベースに修正。"
+  },
+  {
+    "songId": "love-shukipi",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T21:20:00.000Z",
+    "reviewerNote": "人間確認済み。おめかしして会いに行く女の子の心情をベースに修正。"
+  },
+  {
+    "songId": "love-natsumatsuri-renbo-tahu",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T21:20:00.000Z",
+    "reviewerNote": "人間確認済み。夏祭りの情景と切ない片思いをベースに修正。"
+  },
+  {
+    "songId": "love-anoko-complex",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T21:30:00.000Z",
+    "reviewerNote": "人間確認済み。雨や涙をモチーフにした失恋物語をベースに修正。"
+  },
+  {
+    "songId": "love-be-selfish",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T21:30:00.000Z",
+    "reviewerNote": "人間確認済み。自己肯定と自分を大切にする姿勢をベースに修正。"
+  },
+  {
+    "songId": "me-mahoroba-asterisk",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T21:30:00.000Z",
+    "reviewerNote": "人間確認済み。オリオン座の下の届かない片思いをベースに修正。"
+  },
+  {
+    "songId": "me-chocolate-melancholy",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T21:30:00.000Z",
+    "reviewerNote": "人間確認済み。バレンタインの甘くダークな愛をベースに修正。"
+  },
+  {
+    "songId": "me-hanakami-short",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T21:30:00.000Z",
+    "reviewerNote": "人間確認済み。ショートにした君への一途な恋心をベースに修正。"
+  },
+  {
+    "songId": "me-peonies",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T22:30:00.000Z",
+    "reviewerNote": "人間確認済み。芍薬をモチーフにした耽美な世界をベースに修正。"
+  },
+  {
+    "songId": "me-kimi-wa-kono-natsu-koi-wo-suru",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T22:30:00.000Z",
+    "reviewerNote": "人間確認済み。夏の始まりの恋を描くデビュー曲をベースに修正。"
+  },
+  {
+    "songId": "me-kimi-no-oto-datta-nda",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T22:30:00.000Z",
+    "reviewerNote": "人間確認済み。吹奏楽部をモチーフにした放課後のときめきをベースに修正。メタデータ補完完了。"
+  },
+  {
+    "songId": "joy-bokutachinouta",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T22:30:00.000Z",
+    "reviewerNote": "人間確認済み。仲間と同じ夢へ進む約束と信頼関係をベースに修正。"
+  },
+  {
+    "songId": "joy-nonfiction",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T22:30:00.000Z",
+    "reviewerNote": "人間確認済み。夢に向かう葛藤と覚悟をベースに修正。"
+  },
+  {
+    "songId": "joy-feat-djalice",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T22:50:00.000Z",
+    "reviewerNote": "人間確認済み。少し背伸びをした恋心と遊び心のある世界をベースに修正。メタデータ補完完了。"
+  },
+  {
+    "songId": "joy-cinderella",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T22:50:00.000Z",
+    "reviewerNote": "人間確認済み。初恋の甘酸っぱさとときめきをベースに修正。メタデータ補完完了。"
+  },
+  {
+    "songId": "joy-rebel",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T22:50:00.000Z",
+    "reviewerNote": "人間確認済み。高い壁に立ち向かう覚悟と決意をベースに修正。メタデータ補完完了。"
+  },
+  {
+    "songId": "joy-lion",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T22:50:00.000Z",
+    "reviewerNote": "人間確認済み。プレッシャーや孤独を恐れない強い自立心をベースに修正。メタデータ補完完了。"
+  },
+  {
+    "songId": "joy-sweet16",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-05T22:50:00.000Z",
+    "reviewerNote": "人間確認済み。16歳の等身大の夢と仲間と過ごす時間をベースに修正。メタデータ補完完了。"
+  },
+  {
+    "songId": "love-junkies",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-06T03:48:08.223Z",
+    "reviewerNote": "Approved based on human review with verified metadata and copies."
+  },
+  {
+    "songId": "love-heroines",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-06T03:48:08.224Z",
+    "reviewerNote": "Approved based on human review with verified metadata and copies."
+  },
+  {
+    "songId": "love-drive-date-tonai",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-06T03:48:08.224Z",
+    "reviewerNote": "Approved based on human review with verified metadata and copies."
+  },
+  {
+    "songId": "love-chotokkyu-toso-chu",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-06T03:48:08.224Z",
+    "reviewerNote": "Approved based on human review (centerMembers: centerMembers (公式情報にセンター明記なし))"
+  },
+  {
+    "songId": "love-gekiyaku-chudoku",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-06T03:48:08.224Z",
+    "reviewerNote": "Approved based on human review with verified metadata and copies."
+  },
+  {
+    "songId": "love-cinema",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-06T11:51:48.787Z",
+    "reviewerNote": "V9 reaudit baseline human approved. Official YouTube/Website evidence verified."
+  },
+  {
+    "songId": "love-kimi-dake-no-hanamichi",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-06T11:51:48.788Z",
+    "reviewerNote": "V9 reaudit baseline human approved. Official YouTube/Website evidence verified."
+  },
+  {
+    "songId": "love-teokure-caution",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-06T11:51:48.788Z",
+    "reviewerNote": "V9 reaudit baseline human approved. Official YouTube/Website evidence verified."
+  },
+  {
+    "songId": "me-kyunkawa-jinsei",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-06T11:51:48.788Z",
+    "reviewerNote": "V9 reaudit baseline human approved. Official YouTube/Website evidence verified."
+  },
+  {
+    "songId": "me-cafe-rakuen",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-06T11:51:48.788Z",
+    "reviewerNote": "V9 reaudit baseline human approved. Official YouTube/Website evidence verified."
+  }
+]
