@@ -22,6 +22,12 @@ export default function BottomNavigation() {
       // Matches /tune or subpages
       isActive: (path: string) => path.startsWith('/tune'),
     },
+    {
+      label: 'SONGS',
+      href: '/songs',
+      icon: ListMusic,
+      isActive: (path: string) => path.startsWith('/songs'),
+    },
   ];
 
   return (

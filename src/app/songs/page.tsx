@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useMemo, useEffect } from 'react';
-import { useRouter, notFound } from 'next/navigation';
+import { useRouter } from 'next/navigation';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Search, SlidersHorizontal, ChevronDown, ChevronUp, X, Music } from 'lucide-react';
 import AppHeader from '../../components/AppHeader';
@@ -26,7 +26,6 @@ function normalizeSearchText(text: string): string {
 }
 
 export default function SongsPage() {
-  notFound();
   const router = useRouter();
   const [searchQuery, setSearchQuery] = useState('');
   const [showFilters, setShowFilters] = useState(false);

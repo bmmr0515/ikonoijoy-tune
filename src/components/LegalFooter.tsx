@@ -30,10 +30,13 @@ export default function LegalFooter() {
       {/* Disclaimers */}
       <div className="flex flex-col gap-2 max-w-sm text-[10px] text-[#6E7180]/80 leading-relaxed text-center font-normal">
         <p>
-          本サイトは＝LOVE、≠ME、≒JOYおよび関係各社とは無関係の非公式ファンアプリです。
+          IKONOIJOY TUNEは、ファンが個人で制作・運営する非公式Webアプリです。
         </p>
         <p>
-          本サイトは公式画像、ジャケット画像、歌詞、音源を一切掲載・配信していません。
+          ＝LOVE、≠ME、≒JOY、各所属事務所、レコード会社、および各音楽配信サービスとは一切関係ありません。
+        </p>
+        <p>
+          本サイトは公式画像、ジャケット画像、歌詞、音源を一切掲載・配信していません。楽曲の視聴にはSpotify、Apple Music、YouTube等の公式サービスをご利用ください。
         </p>
         <p>
           掲載内容に問題がある場合は、お手数ですがお問い合わせよりご連絡ください。

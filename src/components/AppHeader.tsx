@@ -87,6 +87,14 @@ export default function AppHeader({ showBack, onBackClick }: AppHeaderProps) {
             TUNE
           </Link>
           <Link 
+            href="/songs" 
+            className={`text-xs font-bold tracking-widest hover:text-[#93C5FD] smooth-transition ${
+              pathname === '/songs' ? 'text-[#93C5FD]' : 'text-[#6E7180]'
+            }`}
+          >
+            SONGS
+          </Link>
+          <Link 
             href="/about" 
             className={`text-xs font-bold tracking-widest hover:text-[#F9A8D4] smooth-transition ${
               pathname === '/about' ? 'text-[#F9A8D4]' : 'text-[#6E7180]'
@@ -139,6 +147,15 @@ export default function AppHeader({ showBack, onBackClick }: AppHeaderProps) {
               >
                 <Music className="w-4 h-4 text-[#B9A7FF]" />
                 診断を開始する
+              </Link>
+
+              <Link
+                href="/songs"
+                onClick={() => setIsMenuOpen(false)}
+                className="flex items-center gap-3 px-3 py-2.5 rounded-xl hover:bg-[#F8F9FD] text-[#171725] text-sm smooth-transition lg:hidden"
+              >
+                <Music className="w-4 h-4 text-[#93C5FD]" />
+                楽曲一覧を見る
               </Link>
 
               <Link
