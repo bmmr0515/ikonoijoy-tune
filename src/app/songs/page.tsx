@@ -179,6 +179,11 @@ export default function SongsPage() {
         return false;
       }
 
+      // Skip unapproved songs to ensure beta launch safety
+      if (!reviewedSongIds.includes(song.id)) {
+        return false;
+      }
+
       // 1. Text Search matching title or members
       const members = [
         ...(song.factualData.centerMembers || []),

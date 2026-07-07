@@ -251,6 +251,12 @@ export function getEffectiveNeedsReview(song: Song, approvedSongIds: string[]): 
 }
 
 export function isRecommendationReady(song: Song, approvedSongIds: string[]): boolean {
+  if (approvedSongIds && approvedSongIds.length > 0) {
+    if (!approvedSongIds.includes(song.id)) {
+      return false;
+    }
+  }
+
   return (
     song.recordType === 'song' &&
     song.enabled === true &&
