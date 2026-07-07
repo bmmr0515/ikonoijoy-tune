@@ -198,7 +198,7 @@ export default function PlaylistShareImageGenerator({
       const currentY = startY + index * (rowH + 20);
 
       // Draw subtle row outline card
-      ctx.fillStyle = 'rgba(248, 249, FD, 0.6)';
+      ctx.fillStyle = 'rgba(248, 249, 253, 0.6)';
       ctx.beginPath();
       ctx.roundRect?.(trackX, currentY, trackW, rowH, 20);
       ctx.fill();
@@ -227,10 +227,12 @@ export default function PlaylistShareImageGenerator({
       ctx.fillStyle = '#6E7180';
       ctx.fillText(groupName, trackX + 105, currentY + 38);
 
+      const groupNameWidth = ctx.measureText(groupName).width;
+
       // Draw role badge text
       ctx.font = `bold 14px ${fontBody}`;
       ctx.fillStyle = '#B9A7FF';
-      ctx.fillText(`[ ${role} ]`, trackX + 115 + ctx.measureText(groupName).width, currentY + 38);
+      ctx.fillText(`[ ${role} ]`, trackX + 115 + groupNameWidth, currentY + 38);
 
       // Track Title
       ctx.fillStyle = '#171725';
