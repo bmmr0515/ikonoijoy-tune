@@ -41,7 +41,7 @@ export const equalLoveSongs: Song[] = [
         {
           "field": "center",
           "url": "https://www.youtube.com/watch?v=xq2e3sV7Cbg",
-          "note": "Official MV descriptions & video credits"
+          "note": "Official MV descriptions and video credits"
         },
         {
           "field": "members",
