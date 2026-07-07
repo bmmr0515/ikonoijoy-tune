@@ -41,7 +41,7 @@ export const equalLoveSongs: Song[] = [
         {
           "field": "center",
           "url": "https://www.youtube.com/watch?v=xq2e3sV7Cbg",
-          "note": "Official MV descriptions and video credits"
+          "note": "Official MV descriptions & video credits"
         },
         {
           "field": "members",
@@ -1651,16 +1651,14 @@ export const equalLoveSongs: Song[] = [
       "verificationStatus": "partially-verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/7/",
-          "note": "Official Discography Title Details"
-        },
-        {
           "field": "release",
-          "url": "https://equal-love.jp/discography/detail/7/",
-          "note": "Official Discography release date"
+          "url": "https://equal-love.jp/discography/detail/20/"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "塚田耕平",
+      "arranger": "古川貴浩"
     },
     "scores": {
       "energy": 4,
@@ -1706,8 +1704,9 @@ export const equalLoveSongs: Song[] = [
       "recommendedFor": "心地よいリズムに乗せて、軽快なポップスを味わいたい人に。",
       "recommendedSituation": "徒歩での移動中や、晴れた日の散歩のお供に。",
       "notRecommendedSituation": "激しいビートでテンションを極限まで高めたいとき。",
-      "recommendationText": "日常の通勤・通学時間や、静かにリラックスしたいときに、耳元を心地よく彩ってくれます。気持ちを少しだけ明るい方向へ向けたいときや、前向きに一日をスタートしたいときにおすすめです。",
-      "listeningSuggestion": "散歩をしながら、周囲の風景に溶け込ませて聴くのがおすすめです。"
+      "recommendationText": "野口衣織が初のセンターを務める、ファンとアイドルの深い絆とファンへの感謝を歌った温かいメッセージソングです。",
+      "listeningSuggestion": "コンサートの後や、応援しているアイドルへの思いをゆっくり噛みしめたいときに合います。",
+      "otherDisplayText": "アイドルとファンの絆とファンへの感謝を歌うメッセージソング"
     },
     "recommendationVariants": [
       {
@@ -1727,7 +1726,9 @@ export const equalLoveSongs: Song[] = [
     },
     "enabled": true,
     "enabledForRecommendation": true,
-    "recordType": "song"
+    "recordType": "song",
+    "needsReview": false,
+    "reviewRequirement": "human_approved"
   },
   {
     "id": "love-seishun-subliminal",
@@ -5268,16 +5269,14 @@ export const equalLoveSongs: Song[] = [
       "verificationStatus": "partially-verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography Title Details"
-        },
-        {
           "field": "release",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography release date"
+          "url": "https://equal-love.jp/discography/detail/31/"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "水流雄一朗",
+      "arranger": "湯浅篤"
     },
     "scores": {
       "energy": 4,
@@ -5323,8 +5322,9 @@ export const equalLoveSongs: Song[] = [
       "recommendedFor": "心地よいリズムに乗せて、軽快なポップスを味わいたい人に。",
       "recommendedSituation": "徒歩での移動中や、晴れた日の散歩のお供に。",
       "notRecommendedSituation": "激しいビートでテンションを極限まで高めたいとき。",
-      "recommendationText": "日常の通勤・通学時間や、静かにリラックスしたいときに、耳元を心地よく彩ってくれます。気持ちを少しだけ明るい方向へ向けたいときや、前向きに一日をスタートしたいときにおすすめです。",
-      "listeningSuggestion": "散歩をしながら、周囲の風景に溶け込ませて聴くのがおすすめです。"
+      "recommendationText": "春の訪れとともに新生活をスタートする人へ贈る王道ポップス。新しい一歩と恋の始まりを爽やかに表現した作品です。",
+      "listeningSuggestion": "桜の咲く季節の通学路や、新しい環境へ進む時間に合います。",
+      "otherDisplayText": "春の訪れと新しいスタート、恋の始まりを描く王道ポップス"
     },
     "recommendationVariants": [
       {
@@ -5344,7 +5344,9 @@ export const equalLoveSongs: Song[] = [
     },
     "enabled": true,
     "enabledForRecommendation": true,
-    "recordType": "song"
+    "recordType": "song",
+    "needsReview": false,
+    "reviewRequirement": "human_approved"
   },
   {
     "id": "love-oh-darling",
@@ -5360,16 +5362,14 @@ export const equalLoveSongs: Song[] = [
       "verificationStatus": "partially-verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography Title Details"
-        },
-        {
           "field": "release",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography release date"
+          "url": "https://equal-love.jp/discography/detail/31/"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "磯崎健史",
+      "arranger": "清水哲平"
     },
     "scores": {
       "energy": 4,
@@ -5415,8 +5415,9 @@ export const equalLoveSongs: Song[] = [
       "recommendedFor": "心地よいリズムに乗せて、軽快なポップスを味わいたい人に。",
       "recommendedSituation": "徒歩での移動中や、晴れた日の散歩のお供に。",
       "notRecommendedSituation": "激しいビートでテンションを極限まで高めたいとき。",
-      "recommendationText": "日常の通勤・通学時間や、静かにリラックスしたいときに、耳元を心地よく彩ってくれます。気持ちを少しだけ明るい方向へ向けたいときや、前向きに一日をスタートしたいときにおすすめです。",
-      "listeningSuggestion": "散歩をしながら、周囲の風景に溶け込ませて聴くのがおすすめです。"
+      "recommendationText": "ライブで盛り上がりを見せるコールアンドレスポンス満載の明るい王道ライブ定番曲です。",
+      "listeningSuggestion": "日常の中でコンサートのような高揚感を得たい時間に合います。",
+      "otherDisplayText": "ライブで盛り上がるコールアンドレスポンス満載の明るい定番曲"
     },
     "recommendationVariants": [
       {
@@ -5436,7 +5437,9 @@ export const equalLoveSongs: Song[] = [
     },
     "enabled": true,
     "enabledForRecommendation": true,
-    "recordType": "song"
+    "recordType": "song",
+    "needsReview": false,
+    "reviewRequirement": "human_approved"
   },
   {
     "id": "love-senoby-in-love",
@@ -5452,16 +5455,14 @@ export const equalLoveSongs: Song[] = [
       "verificationStatus": "partially-verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography Title Details"
-        },
-        {
           "field": "release",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography release date"
+          "url": "https://equal-love.jp/discography/detail/31/"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "NA.ZU.NA",
+      "arranger": "ArmySlick"
     },
     "scores": {
       "energy": 4,
@@ -5507,8 +5508,9 @@ export const equalLoveSongs: Song[] = [
       "recommendedFor": "心地よいリズムに乗せて、軽快なポップスを味わいたい人に。",
       "recommendedSituation": "徒歩での移動中や、晴れた日の散歩のお供に。",
       "notRecommendedSituation": "激しいビートでテンションを極限まで高めたいとき。",
-      "recommendationText": "日常の通勤・通学時間や、静かにリラックスしたいときに、耳元を心地よく彩ってくれます。気持ちを少しだけ明るい方向へ向けたいときや、前向きに一日をスタートしたいときにおすすめです。",
-      "listeningSuggestion": "散歩をしながら、周囲の風景に溶け込ませて聴くのがおすすめです。"
+      "recommendationText": "齋藤樹愛羅がセンターを務め、大人っぽさに憧れて少し背伸びする女の子の「かわいい」恋心を表現したキュートな楽曲です。",
+      "listeningSuggestion": "軽快なダンスポップを聴いてリフレッシュしたい時間に合います。",
+      "otherDisplayText": "大人っぽさに憧れて少し背伸びする女の子のかわいい恋心を描く曲"
     },
     "recommendationVariants": [
       {
@@ -5528,7 +5530,9 @@ export const equalLoveSongs: Song[] = [
     },
     "enabled": true,
     "enabledForRecommendation": true,
-    "recordType": "song"
+    "recordType": "song",
+    "needsReview": false,
+    "reviewRequirement": "human_approved"
   },
   {
   "id": "love-cinema",
@@ -5641,30 +5645,20 @@ export const equalLoveSongs: Song[] = [
     "factualData": {
       "releaseDate": "2019-04-24",
       "releaseTitle": "探せ ダイヤモンドリリー",
-      "centerMembers": [
-        "齋藤樹愛羅"
-      ],
+      "centerMembers": [],
       "participatingMembers": [
         "needs-review"
       ],
       "verificationStatus": "partially-verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/5/",
-          "note": "Official Discography Title Details"
-        },
-        {
           "field": "release",
-          "url": "https://equal-love.jp/discography/detail/5/",
-          "note": "Official Discography release date"
-        },
-        {
-          "field": "center",
-          "url": "https://equal-love.jp/discography/",
-          "note": "Official MV credits"
+          "url": "https://equal-love.jp/discography/detail/13/"
         }
-      ]
+      ],
+      "lyricist": "指原莉乃",
+      "composer": "和田耕平",
+      "arranger": "増田武史"
     },
     "scores": {
       "energy": 4,
@@ -5712,8 +5706,9 @@ export const equalLoveSongs: Song[] = [
       "recommendedFor": "特定のメンバーペアやユニットの掛け合いを楽しみたい人に。",
       "recommendedSituation": "散歩の途中やのんびりしたお部屋の時間に。",
       "notRecommendedSituation": "全員の一体感を味わいたいとき。",
-      "recommendationText": "特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が大きな魅力です。少人数ならではの個性が際立つ掛け合いやハーモニーを、散歩中やお部屋でのカジュアルな時間に楽しむのにおすすめです。",
-      "listeningSuggestion": "左右の定位に分かれた歌声の違いをヘッドホンで楽しんでみてください。"
+      "recommendationText": "齋藤樹愛羅と齊藤なぎさのダブルセンターがツインテールとの決意の別れを歌うヘヴィメタル調のロックナンバーです。",
+      "listeningSuggestion": "ライブイベントの熱気を感じたい時間に合います。",
+      "otherDisplayText": "ツインテールとの決別を歌うヘヴィメタル調のロックナンバー"
     },
     "recommendationVariants": [
       {
@@ -5733,7 +5728,9 @@ export const equalLoveSongs: Song[] = [
     },
     "enabled": true,
     "enabledForRecommendation": true,
-    "recordType": "song"
+    "recordType": "song",
+    "needsReview": false,
+    "reviewRequirement": "human_approved"
   },
   {
     "id": "love-niji-no-moto",
@@ -5749,16 +5746,14 @@ export const equalLoveSongs: Song[] = [
       "verificationStatus": "partially-verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/5/",
-          "note": "Official Discography Title Details"
-        },
-        {
           "field": "release",
-          "url": "https://equal-love.jp/discography/detail/5/",
-          "note": "Official Discography release date"
+          "url": "https://equal-love.jp/discography/detail/14/"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "増谷賢",
+      "arranger": "渡辺和紀"
     },
     "scores": {
       "energy": 4,
@@ -5806,8 +5801,9 @@ export const equalLoveSongs: Song[] = [
       "recommendedFor": "特定のメンバーペアやユニットの掛け合いを楽しみたい人に。",
       "recommendedSituation": "散歩の途中やのんびりしたお部屋の時間に。",
       "notRecommendedSituation": "全員の一体感を味わいたいとき。",
-      "recommendationText": "特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が大きな魅力です。少人数ならではの個性が際立つ掛け合いやハーモニーを、散歩中やお部屋でのカジュアルな時間に楽しむのにおすすめです。",
-      "listeningSuggestion": "左右の定位に分かれた歌声の違いをヘッドホンで楽しんでみてください。"
+      "recommendationText": "佐々木舞香と野口衣織の表現力が際立つ初のユニット曲。感情をむき出しにしたシリアスな世界観を描いた作品です。",
+      "listeningSuggestion": "雨の日の静かな時間に合います。",
+      "otherDisplayText": "感情をむき出しにしたシリアスな世界観を歌い上げるユニット曲"
     },
     "recommendationVariants": [
       {
@@ -5827,7 +5823,9 @@ export const equalLoveSongs: Song[] = [
     },
     "enabled": true,
     "enabledForRecommendation": true,
-    "recordType": "song"
+    "recordType": "song",
+    "needsReview": false,
+    "reviewRequirement": "human_approved"
   },
   {
     "id": "love-sweetest-girl",
@@ -5843,16 +5841,14 @@ export const equalLoveSongs: Song[] = [
       "verificationStatus": "partially-verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/6/",
-          "note": "Official Discography Title Details"
-        },
-        {
           "field": "release",
-          "url": "https://equal-love.jp/discography/detail/6/",
-          "note": "Official Discography release date"
+          "url": "https://equal-love.jp/discography/detail/16/"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "Yu-ki Kokubo",
+      "arranger": "YUU for YOU"
     },
     "scores": {
       "energy": 4,
@@ -5900,8 +5896,9 @@ export const equalLoveSongs: Song[] = [
       "recommendedFor": "特定のメンバーペアやユニットの掛け合いを楽しみたい人に。",
       "recommendedSituation": "散歩の途中やのんびりしたお部屋の時間に。",
       "notRecommendedSituation": "全員の一体感を味わいたいとき。",
-      "recommendationText": "特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が大きな魅力です。少人数ならではの個性が際立つ掛け合いやハーモニーを、散歩中やお部屋でのカジュアルな時間に楽しむのにおすすめです。",
-      "listeningSuggestion": "左右の定位に分かれた歌声の違いをヘッドホンで楽しんでみてください。"
+      "recommendationText": "大谷映美里がセンターを務め、女の子の休日やおしゃれなど「かわいい」コンセプトを表現したユニット曲です。",
+      "listeningSuggestion": "休日のお出かけ前の準備時間に合います。",
+      "otherDisplayText": "女の子の休日やおしゃれを描くかわいらしいユニット曲"
     },
     "recommendationVariants": [
       {
@@ -5921,7 +5918,9 @@ export const equalLoveSongs: Song[] = [
     },
     "enabled": true,
     "enabledForRecommendation": true,
-    "recordType": "song"
+    "recordType": "song",
+    "needsReview": false,
+    "reviewRequirement": "human_approved"
   },
   {
     "id": "love-oshi-no-iru-sekai",
@@ -5937,16 +5936,14 @@ export const equalLoveSongs: Song[] = [
       "verificationStatus": "partially-verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/6/",
-          "note": "Official Discography Title Details"
-        },
-        {
           "field": "release",
-          "url": "https://equal-love.jp/discography/detail/6/",
-          "note": "Official Discography release date"
+          "url": "https://equal-love.jp/discography/detail/17/"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "田畑健",
+      "arranger": "古川貴浩"
     },
     "scores": {
       "energy": 4,
@@ -5994,8 +5991,9 @@ export const equalLoveSongs: Song[] = [
       "recommendedFor": "特定のメンバーペアやユニットの掛け合いを楽しみたい人に。",
       "recommendedSituation": "散歩の途中やのんびりしたお部屋の時間に。",
       "notRecommendedSituation": "全員の一体感を味わいたいとき。",
-      "recommendationText": "特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が大きな魅力です。少人数ならではの個性が際立つ掛け合いやハーモニーを、散歩中やお部屋でのカジュアルな時間に楽しむのにおすすめです。",
-      "listeningSuggestion": "左右の定位に分かれた歌声の違いをヘッドホンで楽しんでみてください。"
+      "recommendationText": "佐竹のん乃がセンターを務めるファン目線の楽曲。推しに対する思いや無償の愛の尊さを優しい表現で歌う作品です。",
+      "listeningSuggestion": "大好きな推しを応援する時間に合います。",
+      "otherDisplayText": "ファンから推しに対する無償の愛や尊さを描くファン目線の楽曲"
     },
     "recommendationVariants": [
       {
@@ -6015,7 +6013,9 @@ export const equalLoveSongs: Song[] = [
     },
     "enabled": true,
     "enabledForRecommendation": true,
-    "recordType": "song"
+    "recordType": "song",
+    "needsReview": false,
+    "reviewRequirement": "human_approved"
   },
   {
     "id": "love-my-voice-is-for-you",
@@ -6031,20 +6031,16 @@ export const equalLoveSongs: Song[] = [
       "verificationStatus": "partially-verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/7/",
-          "note": "Official Discography Title Details"
-        },
-        {
           "field": "release",
-          "url": "https://equal-love.jp/discography/detail/7/",
-          "note": "Official Discography release date"
-        },
-        {
-          "field": "members",
-          "url": "https://equal-love.jp/discography/detail/7/",
-          "note": "Official Discography member details"
+          "url": "https://equal-love.jp/discography/detail/21/"
         }
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "春日章宏",
+      "arranger": "清水哲平",
+      "singingMembers": [
+        "諸橋沙夏"
       ]
     },
     "scores": {
@@ -6096,8 +6092,9 @@ export const equalLoveSongs: Song[] = [
       "recommendedFor": "ソロ歌唱ならではの個性を味わいたい人におすすめです。",
       "recommendedSituation": "一人の時間やくつろいでいる時間に合います。",
       "notRecommendedSituation": "大勢で盛り上がりたい場面。",
-      "recommendationText": "メンバーのパーソナリティや個性を色濃く反映した、ソロ歌唱ならではの繊細なボーカルが魅力的な一曲です。一人の静かなリラックスタイムに、そっと寄り添うように聴くことで、日常の喧騒から離れて心をゆっくりと落ち着かせるきっかけになります。",
-      "listeningSuggestion": "静かな夜に寄り添わせるように聴いてみてください。"
+      "recommendationText": "諸橋沙夏ののびやかな歌声が引き立つ初のソロ曲。ストレートな思いを伝えるバラード調のラブソングです。",
+      "listeningSuggestion": "一日の終わりの静かな夜の時間に合います。",
+      "otherDisplayText": "諸橋沙夏ののびやかな歌声を活かしたバラード調のソロラブソング"
     },
     "recommendationVariants": [
       {
@@ -6117,7 +6114,9 @@ export const equalLoveSongs: Song[] = [
     },
     "enabled": true,
     "enabledForRecommendation": true,
-    "recordType": "song"
+    "recordType": "song",
+    "needsReview": false,
+    "reviewRequirement": "human_approved"
   },
   {
     "id": "love-ryuseigun",
@@ -6133,16 +6132,14 @@ export const equalLoveSongs: Song[] = [
       "verificationStatus": "partially-verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/8/",
-          "note": "Official Discography Title Details"
-        },
-        {
           "field": "release",
-          "url": "https://equal-love.jp/discography/detail/8/",
-          "note": "Official Discography release date"
+          "url": "https://equal-love.jp/discography/detail/25/"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "HaTo",
+      "arranger": "若田部誠"
     },
     "scores": {
       "energy": 4,
@@ -6190,8 +6187,9 @@ export const equalLoveSongs: Song[] = [
       "recommendedFor": "特定のメンバーペアやユニットの掛け合いを楽しみたい人に。",
       "recommendedSituation": "散歩の途中やのんびりしたお部屋の時間に。",
       "notRecommendedSituation": "全員の一体感を味わいたいとき。",
-      "recommendationText": "特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が大きな魅力です。少人数ならではの個性が際立つ掛け合いやハーモニーを、散歩中やお部屋でのカジュアルな時間に楽しむのにおすすめです。",
-      "listeningSuggestion": "左右の定位に分かれた歌声の違いをヘッドホンで楽しんでみてください。"
+      "recommendationText": "髙松瞳と齊藤なぎさの強い絆と友情を描いた初のデュエット曲。二人の旅路を映し出すロードムービーのような世界観です。",
+      "listeningSuggestion": "旅の途中のドライブ時間に合います。",
+      "otherDisplayText": "髙松瞳と齊藤なぎさの友情や強い絆を描くデュエット曲"
     },
     "recommendationVariants": [
       {
@@ -6211,7 +6209,9 @@ export const equalLoveSongs: Song[] = [
     },
     "enabled": true,
     "enabledForRecommendation": true,
-    "recordType": "song"
+    "recordType": "song",
+    "needsReview": false,
+    "reviewRequirement": "human_approved"
   },
   {
     "id": "love-haikei-anatadoma",
@@ -6227,20 +6227,16 @@ export const equalLoveSongs: Song[] = [
       "verificationStatus": "partially-verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography Title Details"
-        },
-        {
           "field": "release",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography release date"
-        },
-        {
-          "field": "members",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography member details"
+          "url": "https://equal-love.jp/discography/detail/32/"
         }
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "原一博",
+      "arranger": "原一博",
+      "singingMembers": [
+        "野口衣織"
       ]
     },
     "scores": {
@@ -6292,8 +6288,9 @@ export const equalLoveSongs: Song[] = [
       "recommendedFor": "ソロ歌唱ならではの個性を味わいたい人におすすめです。",
       "recommendedSituation": "一人の時間やくつろいでいる時間に合います。",
       "notRecommendedSituation": "大勢で盛り上がりたい場面。",
-      "recommendationText": "メンバーのパーソナリティや個性を色濃く反映した、ソロ歌唱ならではの繊細なボーカルが魅力的な一曲です。一人の静かなリラックスタイムに、そっと寄り添うように聴くことで、日常の喧騒から離れて心をゆっくりと落ち着かせるきっかけになります。",
-      "listeningSuggestion": "静かな夜に寄り添わせるように聴いてみてください。"
+      "recommendationText": "野口衣織がソロで歌う独創的な楽曲。妖艶で情熱的な狂気や深い愛を表現する大人な世界観です。",
+      "listeningSuggestion": "妖艶な物語の世界にじっくり浸りたい時間に合います。",
+      "otherDisplayText": "妖艶で情熱的な狂気や深い愛を表現する野口衣織のソロ曲"
     },
     "recommendationVariants": [
       {
@@ -6313,7 +6310,9 @@ export const equalLoveSongs: Song[] = [
     },
     "enabled": true,
     "enabledForRecommendation": true,
-    "recordType": "song"
+    "recordType": "song",
+    "needsReview": false,
+    "reviewRequirement": "human_approved"
   },
   {
     "id": "love-geneki-idol-chu",
@@ -6329,20 +6328,16 @@ export const equalLoveSongs: Song[] = [
       "verificationStatus": "partially-verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography Title Details"
-        },
-        {
           "field": "release",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography release date"
-        },
-        {
-          "field": "members",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography member details"
+          "url": "https://equal-love.jp/discography/detail/31/"
         }
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "悠木真一",
+      "arranger": "悠木真一",
+      "singingMembers": [
+        "齊藤なぎさ"
       ]
     },
     "scores": {
@@ -6394,8 +6389,9 @@ export const equalLoveSongs: Song[] = [
       "recommendedFor": "ソロ歌唱ならではの個性を味わいたい人におすすめです。",
       "recommendedSituation": "一人の時間やくつろいでいる時間に合います。",
       "notRecommendedSituation": "大勢で盛り上がりたい場面。",
-      "recommendationText": "メンバーのパーソナリティや個性を色濃く反映した、ソロ歌唱ならではの繊細なボーカルが魅力的な一曲です。一人の静かなリラックスタイムに、そっと寄り添うように聴くことで、日常の喧騒から離れて心をゆっくりと落ち着かせるきっかけになります。",
-      "listeningSuggestion": "静かな夜に寄り添わせるように聴いてみてください。"
+      "recommendationText": "齊藤なぎさの魅力を詰め込んだソロ曲。王道アイドルの「かわいい」世界観を表現した作品です。",
+      "listeningSuggestion": "お気に入りの音楽を聴いてリラックスしたい時間に合います。",
+      "otherDisplayText": "王道アイドルの魅力と徹底的なかわいらしさを詰め込んだ齊藤なぎさのソロ曲"
     },
     "recommendationVariants": [
       {
@@ -6415,7 +6411,9 @@ export const equalLoveSongs: Song[] = [
     },
     "enabled": true,
     "enabledForRecommendation": true,
-    "recordType": "song"
+    "recordType": "song",
+    "needsReview": false,
+    "reviewRequirement": "human_approved"
   },
   {
     "id": "love-24-7",

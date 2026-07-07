@@ -3617,11 +3617,14 @@ export const notEqualMeSongs: Song[] = [
       "verificationStatus": "needs-review",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/16/",
-          "note": "Official Discography Page"
+          "field": "release",
+          "url": "https://not-equal-me.jp/discography/detail/16/"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "小野寺祐輔",
+      "arranger": "脇眞富"
     },
     "scores": {
       "energy": 3,
@@ -3668,8 +3671,9 @@ export const notEqualMeSongs: Song[] = [
       "recommendedFor": "みんなで明るい気分を共有したい方や、日常の中の小さな探検気分を味わいたい方に適しています。",
       "recommendedSituation": "朝の身支度を整える時間や、お天気の良い日の気軽なお出かけ時のBGMに向いています。",
       "notRecommendedSituation": "厳かで深い考え事をしたい深夜の時間や、哀愁漂うセンチメンタルな余韻に浸りたい時には適していません。",
-      "recommendationText": "元気いっぱいの歌声と軽快なポップサウンドが調和し、心が弾むような明るい雰囲気を演出します。",
-      "listeningSuggestion": "晴れた日の朝に、お気に入りのポータブルスピーカーで流しながら、お出かけ前の気分を高めて聴くのが馴染みやすいでしょう。"
+      "recommendationText": "河口夏音がセンターを務める5人組ユニットが、日常のハッピーを探して冒険するコミカルで楽しい探検隊ソングです。",
+      "listeningSuggestion": "賑やかで楽しいハッピーポップで明るい気持ちになりたい時間に合います。",
+      "otherDisplayText": "日常のハッピーを探して冒険するコミカルで楽しい探検隊ソング"
     },
     "recommendationVariants": [
       {
@@ -3685,8 +3689,8 @@ export const notEqualMeSongs: Song[] = [
     ],
     "enabled": true,
     "enabledForRecommendation": true,
-    "needsReview": true,
-    "reviewRequirement": "needs_review",
+    "needsReview": false,
+    "reviewRequirement": "human_approved",
     "analysisBasis": {
       "interpretationNotes": "曲の中心的な印象は、探検と友情をテーマにしたポップソング。明るい前向きさを表現するためemotionalIntensityを4、爽快な日常感からnostalgiaを2に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
       "confidence": 82
@@ -3935,11 +3939,14 @@ export const notEqualMeSongs: Song[] = [
       "verificationStatus": "needs-review",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/10/",
-          "note": "Official Discography Page"
+          "field": "release",
+          "url": "https://not-equal-me.jp/discography/detail/10/"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "千葉“naotyu-”直樹",
+      "arranger": "千葉“naotyu-”直樹"
     },
     "scores": {
       "energy": 3,
@@ -3986,8 +3993,9 @@ export const notEqualMeSongs: Song[] = [
       "recommendedFor": "静かに自己の心と向き合いたい方や、孤独に優しく寄り添うような穏やかな世界観に浸りたい方に適しています。",
       "recommendedSituation": "深夜に一人きりの部屋で考え事をしながら過ごす時間や、静かに読書をする時のBGMに向いています。",
       "notRecommendedSituation": "テンションを上げて大勢で盛り上がりたいライブ前の瞬間や、激しいダンスビートを求めて活動したい場面には向きません。",
-      "recommendationText": "温かみのある歌声とアコースティックな響きが、心の中に静かに問いかけるような落ち着いた空間を演出します。",
-      "listeningSuggestion": "深夜の部屋の照明を少し落とし、ヘッドホンを使用して静かな音の響きとボーカルの細かなニュアンスに耳を傾けるのが馴染みやすいでしょう。"
+      "recommendationText": "映画の挿入歌にも起用されたユニット曲。孤独や自己の存在についてアコースティックなサウンドで静かに問いかける作品です。",
+      "listeningSuggestion": "一人で静かに過ごす夜の時間に合います。",
+      "otherDisplayText": "孤独や自己の存在について静かに問いかけるアコースティックな曲"
     },
     "recommendationVariants": [
       {
@@ -4003,8 +4011,8 @@ export const notEqualMeSongs: Song[] = [
     ],
     "enabled": true,
     "enabledForRecommendation": true,
-    "needsReview": true,
-    "reviewRequirement": "needs_review",
+    "needsReview": false,
+    "reviewRequirement": "human_approved",
     "analysisBasis": {
       "interpretationNotes": "曲の中心的な印象は、内省的な問いかけを描いた幻想的なポップソング。穏やかな温もりを表現するためemotionalIntensityを4、静かな内省とノスタルジーからnostalgiaを4に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
       "confidence": 82
@@ -4041,11 +4049,14 @@ export const notEqualMeSongs: Song[] = [
       "verificationStatus": "needs-review",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/8/",
-          "note": "Official Discography Page"
+          "field": "release",
+          "url": "https://not-equal-me.jp/discography/detail/8/"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "Keisuke Koyama",
+      "arranger": "家原正樹"
     },
     "scores": {
       "energy": 3,
@@ -4092,8 +4103,9 @@ export const notEqualMeSongs: Song[] = [
       "recommendedFor": "まっすぐな恋心の強さにエネルギーをもらいたい方や、スピード感のあるキャッチーなメロディで気分を最高潮に高めたい方に適しています。",
       "recommendedSituation": "朝の身支度を整えながら気持ちを奮い立たせたい時や、お出かけ時の移動路でテンションを高めたい時に向いています。",
       "notRecommendedSituation": "一日の終わりに静かに落ち着いて眠りにつきたい夜や、ゆったりとしたクラシックを聴いて心を無にしたい場面には賑やかすぎるため不向きです。",
-      "recommendationText": "力強く前向きな歌声と爽快なリズムが調和し、胸の奥にある熱い気持ちを後押しします。",
-      "listeningSuggestion": "移動中に、スピード感に合わせて歩幅を広げながら、イヤホンでボーカルの突き抜けるような高音に耳を傾けて聴くのが馴染みやすいでしょう。"
+      "recommendationText": "谷崎早耶と冨田菜々風のダブルセンターによる、ストレートな愛を歌う明るくエネルギッシュな王道青春ソングです。",
+      "listeningSuggestion": "気持ちをリフレッシュして前を向きたい時間に合います。",
+      "otherDisplayText": "ストレートな愛を全力で届ける明るくエネルギッシュな青春ソング"
     },
     "recommendationVariants": [
       {
@@ -4109,8 +4121,8 @@ export const notEqualMeSongs: Song[] = [
     ],
     "enabled": true,
     "enabledForRecommendation": true,
-    "needsReview": true,
-    "reviewRequirement": "needs_review",
+    "needsReview": false,
+    "reviewRequirement": "human_approved",
     "analysisBasis": {
       "interpretationNotes": "曲の中心的な印象は、ストレートな愛を叫ぶ情熱的なポップソング。圧倒的なエネルギーを表現するためemotionalIntensityを5、現在進行形の力強さからnostalgiaを2に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
       "confidence": 83
@@ -4255,11 +4267,14 @@ export const notEqualMeSongs: Song[] = [
       "verificationStatus": "needs-review",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/13/",
-          "note": "Official Discography Page"
+          "field": "release",
+          "url": "https://not-equal-me.jp/discography/detail/13/"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "yuma",
+      "arranger": "yuma"
     },
     "scores": {
       "energy": 3,
@@ -4306,8 +4321,9 @@ export const notEqualMeSongs: Song[] = [
       "recommendedFor": "お出かけ前にテンションを高めたい方や、甘酸っぱい恋愛ソングでハッピーな気分になりたい方に適しています。",
       "recommendedSituation": "冬の寒い朝の身支度の時間や、楽しみにしているデートやお出かけへの移動中におけるリスニングに向いています。",
       "notRecommendedSituation": "シリアスな気持ちで課題や仕事に集中したい時や、静かで重厚な音楽を聴いて心を落ち着かせたい夜には不向きです。",
-      "recommendationText": "フワフワとした温かみのあるボーカルとキュートなポップサウンドが調和し、明るい一日を彩る演出をします。",
-      "listeningSuggestion": "お気に入りのコートを着て歩きながら、イヤホンで曲の軽快なリズムと愛らしいコーラスに耳を澄ませて聴くのが馴染みやすいでしょう。"
+      "recommendationText": "鈴木瞳美と谷崎早耶のダブルセンターでおくる、冬のデート前におふしょるにっとを着た女の子の「かわいい」ときめきを描いたユニット曲です。",
+      "listeningSuggestion": "デート前のおめかしする特別な時間に合います。",
+      "otherDisplayText": "デート前のおふしょるにっとを着た女の子のかわいいときめきを描く曲"
     },
     "recommendationVariants": [
       {
@@ -4323,8 +4339,8 @@ export const notEqualMeSongs: Song[] = [
     ],
     "enabled": true,
     "enabledForRecommendation": true,
-    "needsReview": true,
-    "reviewRequirement": "needs_review",
+    "needsReview": false,
+    "reviewRequirement": "human_approved",
     "analysisBasis": {
       "interpretationNotes": "曲の中心的な印象は、冬の日常と恋模様を可愛らしく描いたキュートなポップソング。愛らしいときめきを表現するためemotionalIntensityを3、冬の日常感からnostalgiaを3に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
       "confidence": 82
@@ -4792,25 +4808,18 @@ export const notEqualMeSongs: Song[] = [
     "category": "unknown",
     "factualData": {
       "releaseDate": "2021-04-07",
-      "releaseTitle": "「超特急 ≠ME行き」 ＜CD Only/ノイミー盤＞",
+      "releaseTitle": "「超特急 ≠ME行き」",
       "verificationStatus": "needs-review",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/4/",
-          "note": "Official Discography Page"
-        },
-        {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/2/",
-          "note": "Official Discography Page"
-        },
-        {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/3/",
-          "note": "Official Discography Page"
+          "field": "release",
+          "url": "https://not-equal-me.jp/discography/detail/2/"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "バグベア",
+      "arranger": "バグベア"
     },
     "scores": {
       "energy": 3,
@@ -4857,8 +4866,9 @@ export const notEqualMeSongs: Song[] = [
       "recommendedFor": "未来への希望を感じてモチベーションを高めたい方や、心温まる前向きな絆を歌った曲を求める方に適しています。",
       "recommendedSituation": "新しい一日の始まりである朝の通学・通勤時間や、気持ちをすっきりと前向きに整えたい時に向いています。",
       "notRecommendedSituation": "静かな深夜にリラックスして思考を休めたい時や、切ない哀愁に深く浸りたい場面には明るすぎるため不向きです。",
-      "recommendationText": "一体感のある爽やかなボーカルと温かなメロディが調和し、一歩前に進みだす勇気を与えてくれます。",
-      "listeningSuggestion": "よく晴れた朝の光を浴びながら、イヤホンで曲全体の明るい広がりに耳を傾けて聴くのが馴染みやすいでしょう。"
+      "recommendationText": "冨田菜々風がセンターを務め、ファンとメンバーの約束や強い絆、さらに大きいステージへ一緒に進む決意を歌うメッセージソングです。",
+      "listeningSuggestion": "これまでの歩みを振り返り、未来を夢見る時間に合います。",
+      "otherDisplayText": "ファンと一緒にさらに大きいステージへ向かう約束と絆を歌う曲"
     },
     "recommendationVariants": [
       {
@@ -4874,8 +4884,8 @@ export const notEqualMeSongs: Song[] = [
     ],
     "enabled": true,
     "enabledForRecommendation": true,
-    "needsReview": true,
-    "reviewRequirement": "needs_review",
+    "needsReview": false,
+    "reviewRequirement": "human_approved",
     "analysisBasis": {
       "interpretationNotes": "曲の中心的な印象は、ファンへの感謝と未来への歩みを歌う爽快なポップソング。前向きな一体感を表現するためemotionalIntensityを4、青春の回想感と絆からnostalgiaを4に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
       "confidence": 83
@@ -5188,15 +5198,18 @@ export const notEqualMeSongs: Song[] = [
     "category": "unknown",
     "factualData": {
       "releaseDate": "2021-04-07",
-      "releaseTitle": "「超特急 ≠ME行き」 ＜CD Only/ノイミー盤＞",
+      "releaseTitle": "「超特急 ≠ME行き」",
       "verificationStatus": "needs-review",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/4/",
-          "note": "Official Discography Page"
+          "field": "release",
+          "url": "https://not-equal-me.jp/discography/detail/4/"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "yuma",
+      "arranger": "yuma"
     },
     "scores": {
       "energy": 3,
@@ -5243,8 +5256,9 @@ export const notEqualMeSongs: Song[] = [
       "recommendedFor": "とにかく明るく楽しい気分になりたい方や、コミカルで愛らしいアイドルポップスで笑顔になりたい方に適しています。",
       "recommendedSituation": "朝の目覚めの時間や、元気をもらってお出かけの準備をしたい時、何気ない日常の散歩に向いています。",
       "notRecommendedSituation": "厳かで静粛な雰囲気を求めるシリアスな作業時間や、一人で深く考え事をしたい静かな夜には賑やかすぎるため不向きです。",
-      "recommendationText": "コミカルで愛らしいボーカルと遊び心あふれる台詞調のパートが調和し、聴く人の気分を明るく盛り上げます。",
-      "listeningSuggestion": "朝の身支度をしながら、スピーカーから少し大きめの音量で流し、楽しげなリズムと一緒に楽しむのが馴染みやすいでしょう。"
+      "recommendationText": "本田珠由記（みるてん）のユニークな魅力をユーモラスに描いた、コミカルで賑やかな自己紹介ソングです。",
+      "listeningSuggestion": "明るく賑やかなサウンドで楽しく過ごしたい時間に合います。",
+      "otherDisplayText": "本田珠由記の個性をユーモラスに描くコミカルな自己紹介ソング"
     },
     "recommendationVariants": [
       {
@@ -5260,8 +5274,8 @@ export const notEqualMeSongs: Song[] = [
     ],
     "enabled": true,
     "enabledForRecommendation": true,
-    "needsReview": true,
-    "reviewRequirement": "needs_review",
+    "needsReview": false,
+    "reviewRequirement": "human_approved",
     "analysisBasis": {
       "interpretationNotes": "曲の中心的な印象は、ユニークでコミカルな可愛らしさを歌うハッピーなポップソング。溢れる楽しさを表現するためemotionalIntensityを4、現在進行形のハイテンションな性質からnostalgiaを2に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
       "confidence": 82
@@ -5294,25 +5308,18 @@ export const notEqualMeSongs: Song[] = [
     "category": "unknown",
     "factualData": {
       "releaseDate": "2021-04-07",
-      "releaseTitle": "「超特急 ≠ME行き」 ＜CD Only/ノイミー盤＞",
+      "releaseTitle": "「超特急 ≠ME行き」",
       "verificationStatus": "needs-review",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/4/",
-          "note": "Official Discography Page"
-        },
-        {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/2/",
-          "note": "Official Discography Page"
-        },
-        {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/3/",
-          "note": "Official Discography Page"
+          "field": "release",
+          "url": "https://not-equal-me.jp/discography/detail/2/"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "宮川麿",
+      "arranger": "宮川麿"
     },
     "scores": {
       "energy": 3,
@@ -5366,8 +5373,9 @@ export const notEqualMeSongs: Song[] = [
       "recommendedFor": "胸が高鳴るような恋心を味わいたい時や、前向きな気持ちで一日を始めたい方にぴったりです。",
       "recommendedSituation": "朝の通勤通学路で、軽快な足取りとともに爽やかな空気の中で聴くのに適しています。",
       "notRecommendedSituation": "静かに一日の反省を行いたい夜や、集中して作業に取り組みたい時には少し賑やかすぎるかもしれません。",
-      "recommendationText": "溢れる感情をきらめくサウンドに乗せて届ける、疾走感に満ちたメロディが魅力です。",
-      "listeningSuggestion": "明るい陽射しを浴びながら、歩くリズムに合わせて音量を調整して楽しむのがおすすめです。"
+      "recommendationText": "虹がかかる美しい空のもとで突然始まる秘密の恋を描く、爽やかで王道な青春ポップナンバーです。",
+      "listeningSuggestion": "青空が広がる晴れた日の散歩時間に合います。",
+      "otherDisplayText": "虹がかかる空のもとで、突然始まる秘密の恋を描く爽やかな青春ソング"
     },
     "recommendationVariants": [
       {
@@ -5378,7 +5386,7 @@ export const notEqualMeSongs: Song[] = [
     ],
     "enabled": true,
     "enabledForRecommendation": true,
-    "needsReview": true,
+    "needsReview": false,
     "releases": [
       {
         "title": "「超特急 ≠ME行き」 ＜CD Only/ノイミー盤＞",
@@ -5415,7 +5423,7 @@ export const notEqualMeSongs: Song[] = [
       "checkedAt": "2026-07-01T02:50:43.722Z"
     },
     "recordType": "song",
-    "reviewRequirement": "needs_review",
+    "reviewRequirement": "human_approved",
     "analysisBasis": {
       "interpretationNotes": "青春の甘酸っぱさと恋愛のときめきをストレートに表現した構成となっています。",
       "confidence": 5
@@ -5540,15 +5548,18 @@ export const notEqualMeSongs: Song[] = [
     "category": "unknown",
     "factualData": {
       "releaseDate": "2021-04-07",
-      "releaseTitle": "「超特急 ≠ME行き」 ＜CD Only/通常盤＞",
+      "releaseTitle": "「超特急 ≠ME行き」",
       "verificationStatus": "needs-review",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/3/",
-          "note": "Official Discography Page"
+          "field": "release",
+          "url": "https://not-equal-me.jp/discography/detail/3/"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "野井洋児",
+      "arranger": "家原正樹"
     },
     "scores": {
       "energy": 3,
@@ -5600,8 +5611,9 @@ export const notEqualMeSongs: Song[] = [
       "recommendedFor": "可愛らしい雰囲いに浸りたい時や、自分磨きの時間をもっと楽しく彩りたい方に最適です。",
       "recommendedSituation": "休日の朝にお気に入りの服を選びながら、気分を盛り上げたい時によく馴染みます。",
       "notRecommendedSituation": "厳かな雰囲気の中で気持ちを落ち着かせたい時や、静かに読書を楽しみたい場面には向きません。",
-      "recommendationText": "可憐な魅力と甘い恋心をぎゅっと詰め込んだ、躍動感のあるサウンドが心を弾ませます。",
-      "listeningSuggestion": "お部屋のスピーカーから流して、カジュアルな気分のまま楽しむのが良いでしょう。"
+      "recommendationText": "鈴木瞳美がセンターを務め、ポニーテールにした女の子の大好きな人への「かわいい」片思いを描くキュートなポップスです。",
+      "listeningSuggestion": "甘酸っぱい胸のときめきを感じたい時間に合います。",
+      "otherDisplayText": "ポニーテールをテーマに大好きな君への片思いを描くかわいらしい曲"
     },
     "recommendationVariants": [
       {
@@ -5612,7 +5624,7 @@ export const notEqualMeSongs: Song[] = [
     ],
     "enabled": true,
     "enabledForRecommendation": true,
-    "needsReview": true,
+    "needsReview": false,
     "releases": [
       {
         "title": "「超特急 ≠ME行き」 ＜CD Only/通常盤＞",
@@ -5633,7 +5645,7 @@ export const notEqualMeSongs: Song[] = [
       "checkedAt": "2026-07-01T02:50:43.722Z"
     },
     "recordType": "song",
-    "reviewRequirement": "needs_review",
+    "reviewRequirement": "human_approved",
     "analysisBasis": {
       "interpretationNotes": "夏の恋心とヘアスタイルへのこだわりをモチーフにした、愛らしさに特化した世界観です。",
       "confidence": 5
