@@ -3201,27 +3201,22 @@ export const nearlyEqualJoySongs: Song[] = [
     "id": "joy-dream",
     "title": "今日も君の夢を見たんだ",
     "group": "nearly-equal-joy",
-    "category": "unknown",
+    "category": "group",
     "factualData": {
       "releaseTitle": "きっと、絶対、絶対 [CD+DVD/Type B]",
-      "verificationStatus": "needs-review",
+      "verificationStatus": "verified",
       "verifiedSources": [
         {
-          "field": "title",
+          "field": "release",
           "url": "https://nearly-equal-joy.jp/discography/detail/14/",
-          "note": "Official Discography Page"
-        },
-        {
-          "field": "title",
-          "url": "https://nearly-equal-joy.jp/discography/detail/13/",
-          "note": "Official Discography Page"
-        },
-        {
-          "field": "title",
-          "url": "https://nearly-equal-joy.jp/discography/detail/15/",
-          "note": "Official Discography Page"
+          "note": "Official Reaudit Verified Evidence Source"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "participatingMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "塚田耕平",
+      "arranger": "古川貴浩"
     },
     "scores": {
       "energy": 3,
@@ -3270,12 +3265,12 @@ export const nearlyEqualJoySongs: Song[] = [
       ]
     },
     "recommendation": {
-      "songImpression": "切なく揺れるメロディと美しいハーモニーが印象的な、想い出の余韻に深く浸るエモーショナルなバラード・ポップです。",
+      "songImpression": "相手への切ない想いや、夢の中で出会う大切な思い出を描いた作品です。",
       "recommendedFor": "大切な人のことを静かに想う夜や、切ない夢の余韻から覚めずに静寂の中で感情に浸りたいときにおすすめです。",
       "recommendedSituation": "一日の終わりにひとり静かに過ごす時間、あるいは雨の降る静かな夜のベッドサイドに向いています。",
       "notRecommendedSituation": "アドレナリンを全開にして騒ぎたいときや、激しいダンスでアクティブに活動したい場面には向きにくいです。",
-      "recommendationText": "メロウなサウンドと優しい歌声が、心の奥に眠る想い出を呼び覚まし、包み込んでくれます。誰にも邪魔されない部屋で、大切な人を想いながら、感情の余韻に浸りたい夜に合います。",
-      "listeningSuggestion": "夜、部屋の明かりを暗くして、ベッドに入りながら静かに目を閉じて聴くと、曲の持つ深い余韻が心に広がります。"
+      "recommendationText": "相手への切ない想いや、夢の中で出会う大切な思い出を描いた作品です。一日の終わりのリラックスタイムや、静かに過去の思い出を振り返りたい夜に合います。",
+      "listeningSuggestion": "部屋の明かりを少し落とし、静かな環境でメロディの余韻を味わうように聴いてみてください。"
     },
     "recommendationVariants": [
       {
@@ -3291,7 +3286,7 @@ export const nearlyEqualJoySongs: Song[] = [
     ],
     "enabled": true,
     "enabledForRecommendation": true,
-    "needsReview": true,
+    "needsReview": false,
     "releases": [
       {
         "title": "きっと、絶対、絶対 [CD+DVD/Type B]",
@@ -3325,33 +3320,29 @@ export const nearlyEqualJoySongs: Song[] = [
       "interpretationNotes": "切なさや夢の中の余韻をエモーショナルに表現したミディアム・ポップ。ノスタルジーと余韻を重視したスコアリング。",
       "confidence": 91
     },
-    "recordType": "song"
+    "recordType": "song",
+    "reviewRequirement": "human_approved"
   },
   {
     "id": "joy-ozora-byunto",
     "title": "大空、ビュンと",
     "group": "nearly-equal-joy",
-    "category": "unknown",
+    "category": "group",
     "factualData": {
       "releaseTitle": "きっと、絶対、絶対 [CD+DVD/Type B]",
-      "verificationStatus": "needs-review",
+      "verificationStatus": "verified",
       "verifiedSources": [
         {
-          "field": "title",
+          "field": "release",
           "url": "https://nearly-equal-joy.jp/discography/detail/14/",
-          "note": "Official Discography Page"
-        },
-        {
-          "field": "title",
-          "url": "https://nearly-equal-joy.jp/discography/detail/13/",
-          "note": "Official Discography Page"
-        },
-        {
-          "field": "title",
-          "url": "https://nearly-equal-joy.jp/discography/detail/15/",
-          "note": "Official Discography Page"
+          "note": "Official Reaudit Verified Evidence Source"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "participatingMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "本多友紀",
+      "arranger": "脇眞富"
     },
     "scores": {
       "energy": 3,
@@ -3401,12 +3392,12 @@ export const nearlyEqualJoySongs: Song[] = [
       ]
     },
     "recommendation": {
-      "songImpression": "どこまでも広がる大空のような開放感と、果てしない未来への躍動を描いた前向きなアップテンポ曲です。",
+      "songImpression": "大空への旅立ちや、夢への明るいフライトをテーマにした前向きな作品です。",
       "recommendedFor": "視界が開けるような爽快感を味わいたい時や、進むべき道への背中を押してもらいたい方に最適です。",
       "recommendedSituation": "晴れ渡った青空の下での長距離ドライブや、広々とした公園で運動を行う場面に適しています。",
       "notRecommendedSituation": "狭い密室でひたすら沈思黙考したい時や、雨音を聞きながら哀愁を帯びたバラードに浸りたい夜には不向きです。",
-      "recommendationText": "突き抜けるようなボーカルと心地よい疾走ビートが調和し、爽快な旅立ちの瞬間を演出します。",
-      "listeningSuggestion": "外の景色を眺めながら、広がりのある音響環境で楽しむのが最も心地よく馴染むでしょう。"
+      "recommendationText": "大空への旅立ちや、夢への明るいフライトを描いた作品です。新しいスタートを切る門出の瞬間や、前向きな気持ちで一日を始めたい朝に合います。",
+      "listeningSuggestion": "広がる景色を眺めながら、広がりのある音響環境で聴いてみてください。"
     },
     "recommendationVariants": [
       {
@@ -3417,7 +3408,7 @@ export const nearlyEqualJoySongs: Song[] = [
     ],
     "enabled": true,
     "enabledForRecommendation": true,
-    "needsReview": true,
+    "needsReview": false,
     "releases": [
       {
         "title": "きっと、絶対、絶対 [CD+DVD/Type B]",
@@ -3448,7 +3439,7 @@ export const nearlyEqualJoySongs: Song[] = [
       "checkedAt": "2026-07-01T08:40:14.700Z"
     },
     "recordType": "song",
-    "reviewRequirement": "needs_review",
+    "reviewRequirement": "human_approved",
     "analysisBasis": {
       "interpretationNotes": "大空を飛び立つ鳥や飛行機を想起させるイメージに、未来への大いなる希望を重ねています。",
       "confidence": 5
@@ -3458,27 +3449,22 @@ export const nearlyEqualJoySongs: Song[] = [
     "id": "joy-sonosaki-wa-exalt",
     "title": "その先はイグザルト",
     "group": "nearly-equal-joy",
-    "category": "unknown",
+    "category": "group",
     "factualData": {
       "releaseTitle": "きっと、絶対、絶対 [CD+DVD/Type B]",
-      "verificationStatus": "needs-review",
+      "verificationStatus": "verified",
       "verifiedSources": [
         {
-          "field": "title",
+          "field": "release",
           "url": "https://nearly-equal-joy.jp/discography/detail/14/",
-          "note": "Official Discography Page"
-        },
-        {
-          "field": "title",
-          "url": "https://nearly-equal-joy.jp/discography/detail/13/",
-          "note": "Official Discography Page"
-        },
-        {
-          "field": "title",
-          "url": "https://nearly-equal-joy.jp/discography/detail/15/",
-          "note": "Official Discography Page"
+          "note": "Official Reaudit Verified Evidence Source"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "participatingMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "太田雅友",
+      "arranger": "EFFY"
     },
     "scores": {
       "energy": 3,
@@ -3530,12 +3516,12 @@ export const nearlyEqualJoySongs: Song[] = [
       ]
     },
     "recommendation": {
-      "songImpression": "未知の領域へ挑む覚悟と高揚感を、シリアスでエッジの効いた旋律で描いたドラマチックなナンバーです。",
+      "songImpression": "葛藤を乗り越える強い意志と、自分を信じて進む決意を描いた作品です。",
       "recommendedFor": "壁を乗り越えるための強い信念が欲しい時や、闘争心を奮い立たせたい方にぴったりです。",
       "recommendedSituation": "大事な勝負事を控えた直前の集中時間や、自己ベストを目指して運動に打ち込む時に向いています。",
       "notRecommendedSituation": "家族団欒の穏やかな食事の時間や、子供と一緒にのんびりと童謡を歌うような優しい場面には合いません。",
-      "recommendationText": "緊張感のあるメロディと熱いボーカルが響き合い、未来の先を見据える強い眼差しを想起させます。",
-      "listeningSuggestion": "周囲の雑音を遮断する環境で、楽曲の緊迫した世界観に完全に没入して聴くのがおすすめです。"
+      "recommendationText": "葛藤を乗り越える強い意志や、自分を信じて進む決意を描いた作品です。目標に向けて集中したいときや、自分の選択を強く信じて一歩を進めたい瞬間に合います。",
+      "listeningSuggestion": "周囲の雑音を避けた環境で、曲の世界観にじっくりと向き合って聴いてみてください。"
     },
     "recommendationVariants": [
       {
@@ -3546,7 +3532,7 @@ export const nearlyEqualJoySongs: Song[] = [
     ],
     "enabled": true,
     "enabledForRecommendation": true,
-    "needsReview": true,
+    "needsReview": false,
     "releases": [
       {
         "title": "きっと、絶対、絶対 [CD+DVD/Type B]",
@@ -3577,7 +3563,7 @@ export const nearlyEqualJoySongs: Song[] = [
       "checkedAt": "2026-07-01T08:40:14.700Z"
     },
     "recordType": "song",
-    "reviewRequirement": "needs_review",
+    "reviewRequirement": "human_approved",
     "analysisBasis": {
       "interpretationNotes": "栄光の先にある真の強さを求めて、孤独をも厭わないストイックな意志を表現しています。",
       "confidence": 5
@@ -3587,27 +3573,22 @@ export const nearlyEqualJoySongs: Song[] = [
     "id": "joy-kitto-aoi",
     "title": "きっと、青い",
     "group": "nearly-equal-joy",
-    "category": "unknown",
+    "category": "group",
     "factualData": {
       "releaseTitle": "きっと、絶対、絶対 [CD+DVD/Type B]",
-      "verificationStatus": "needs-review",
+      "verificationStatus": "verified",
       "verifiedSources": [
         {
-          "field": "title",
+          "field": "release",
           "url": "https://nearly-equal-joy.jp/discography/detail/14/",
-          "note": "Official Discography Page"
-        },
-        {
-          "field": "title",
-          "url": "https://nearly-equal-joy.jp/discography/detail/13/",
-          "note": "Official Discography Page"
-        },
-        {
-          "field": "title",
-          "url": "https://nearly-equal-joy.jp/discography/detail/15/",
-          "note": "Official Discography Page"
+          "note": "Official Reaudit Verified Evidence Source"
         }
-      ]
+      ],
+      "centerMembers": [],
+      "participatingMembers": [],
+      "lyricist": "指原莉乃",
+      "composer": "鈴木エレカ",
+      "arranger": "鈴木エレカ"
     },
     "scores": {
       "energy": 3,
@@ -3657,12 +3638,12 @@ export const nearlyEqualJoySongs: Song[] = [
       ]
     },
     "recommendation": {
-      "songImpression": "どこか懐かしく甘酸っぱい青春の残像を、疾走感のある旋律に乗せた爽快な楽曲です。",
+      "songImpression": "青春の爽やかさと葛藤、全力で駆け抜ける若さの輝きを描いた作品です。",
       "recommendedFor": "過ぎ去った夏の日を懐かしむ時や、清々しい汗を流して前を向きたい方に適しています。",
       "recommendedSituation": "放課後や仕事帰りの夕焼けを眺めながら歩く時間や、友達と一緒に野外を散策する場面に向いています。",
       "notRecommendedSituation": "豪華な演出の下でドレスアップして静かにワインを楽しむようなフォーマルな夜には適しません。",
-      "recommendationText": "センチメンタルな余韻を残しつつも前進するエネルギーを与える、爽やかな風のような旋律が印象的です。",
-      "listeningSuggestion": "少し高めの音域にフォーカスして、流れるギターバッキングと歌声の調和を味わうのが馴染みやすいでしょう。"
+      "recommendationText": "青春の爽やかさと葛藤、そして全力で駆け抜ける若さの輝きを描いた作品です。爽快な風を感じる夏の移動時間や、みずみずしい青春の瞬間を振り返りたいときに合います。",
+      "listeningSuggestion": "移動中や散歩の最中に、心地よいメロディの流れを感じながら聴いてみてください。"
     },
     "recommendationVariants": [
       {
@@ -3673,7 +3654,7 @@ export const nearlyEqualJoySongs: Song[] = [
     ],
     "enabled": true,
     "enabledForRecommendation": true,
-    "needsReview": true,
+    "needsReview": false,
     "releases": [
       {
         "title": "きっと、絶対、絶対 [CD+DVD/Type B]",
@@ -3704,7 +3685,7 @@ export const nearlyEqualJoySongs: Song[] = [
       "checkedAt": "2026-07-01T08:40:14.700Z"
     },
     "recordType": "song",
-    "reviewRequirement": "needs_review",
+    "reviewRequirement": "human_approved",
     "analysisBasis": {
       "interpretationNotes": "青をシンボルとした失われた時間と、それでも色褪せない記憶の美しさを描いています。",
       "confidence": 5

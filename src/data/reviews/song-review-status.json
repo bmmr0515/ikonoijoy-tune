@@ -1182,5 +1182,85 @@
     "reviewed": true,
     "reviewedAt": "2026-07-07T05:07:20.322Z",
     "reviewerNote": "Approved in review-batch-5-part3-v5"
+  },
+  {
+    "songId": "me-koko-de-first-kiss",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T06:56:05.443Z",
+    "reviewerNote": "Approved based on human-review-batch-5-part4-v5.json"
+  },
+  {
+    "songId": "joy-dream",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T06:56:05.443Z",
+    "reviewerNote": "Approved based on human-review-batch-5-part4-v5.json"
+  },
+  {
+    "songId": "joy-ozora-byunto",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T06:56:05.443Z",
+    "reviewerNote": "Approved based on human-review-batch-5-part4-v5.json"
+  },
+  {
+    "songId": "joy-sonosaki-wa-exalt",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T06:56:05.443Z",
+    "reviewerNote": "Approved based on human-review-batch-5-part4-v5.json"
+  },
+  {
+    "songId": "joy-kitto-aoi",
+    "group": "nearly-equal-joy",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T06:56:05.443Z",
+    "reviewerNote": "Approved based on human-review-batch-5-part4-v5.json"
   }
 ]
