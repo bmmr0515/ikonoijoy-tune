@@ -46,11 +46,14 @@ export const approvedSongIds = [
   "love-want-you-want-you",
   "love-yokoso-ikolab-numa",
   "love-zuruiyo-zuruine",
+  "me-2",
+  "me-22",
   "me-ai-kudasaimase",
   "me-anti-confiture",
   "me-bokutachi-no-image",
   "me-cafe-rakuen",
   "me-chocolate-melancholy",
+  "me-chozetsu-heroine",
   "me-gekkabijin",
   "me-hakumeikousen",
   "me-hanakami-short",
@@ -65,10 +68,12 @@ export const approvedSongIds = [
   "me-miracle-road",
   "me-not-equal-me",
   "me-omowaseburikko",
+  "me-p-i-c",
   "me-peonies",
   "me-rainbow-melody",
   "me-su-suki-janai",
-  "me-tenshi-wa-dokohe"
+  "me-tenshi-wa-dokohe",
+  "me-watashi-accent"
 ] as const;
 
 export const approvedSongIdSet = new Set<string>(approvedSongIds);

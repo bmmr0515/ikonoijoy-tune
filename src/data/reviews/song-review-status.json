@@ -1102,5 +1102,85 @@
     "reviewed": true,
     "reviewedAt": "2026-07-06T11:51:48.788Z",
     "reviewerNote": "V9 reaudit baseline human approved. Official YouTube/Website evidence verified."
+  },
+  {
+    "songId": "me-22",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T05:07:20.322Z",
+    "reviewerNote": "Approved in review-batch-5-part3-v5"
+  },
+  {
+    "songId": "me-2",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T05:07:20.322Z",
+    "reviewerNote": "Approved in review-batch-5-part3-v5"
+  },
+  {
+    "songId": "me-watashi-accent",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T05:07:20.322Z",
+    "reviewerNote": "Approved in review-batch-5-part3-v5"
+  },
+  {
+    "songId": "me-chozetsu-heroine",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T05:07:20.322Z",
+    "reviewerNote": "Approved in review-batch-5-part3-v5"
+  },
+  {
+    "songId": "me-p-i-c",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T05:07:20.322Z",
+    "reviewerNote": "Approved in review-batch-5-part3-v5"
   }
 ]
