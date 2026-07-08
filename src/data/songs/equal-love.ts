@@ -1985,39 +1985,24 @@ export const equalLoveSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "love-weekend-citron",
-    "title": "ウィークエンドシトロン",
-    "group": "equal-love",
-    "category": "group",
-    "factualData": {
-      "releaseDate": "2021-08-25",
-      "releaseTitle": "ウィークエンドシトロン",
-      "centerMembers": [
-        "高松瞳"
-      ],
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/9/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/9/",
-          "note": "Official Discography release date"
-        },
-        {
-          "field": "center",
-          "url": "https://equal-love.jp/discography/",
-          "note": "Official MV credits"
-        }
+    id: 'love-weekend-citron',
+    title: 'ウィークエンドシトロン',
+    group: 'equal-love',
+    category: 'group',
+    factualData: {
+      releaseDate: '2021-08-25',
+      releaseTitle: 'ウィークエンドシトロン',
+      centerMembers: ["髙松瞳"],
+      singingMembers: [],
+      lyricist: '指原莉乃',
+      composer: 'ArmySlick, Yu-ki Kokubo, YUU for YOU',
+      arranger: 'ArmySlick, YUU for YOU',
+      verificationStatus: 'verified',
+      verifiedSources: [
+        { field: 'release', url: 'https://equal-love.jp/discography/detail/9/' }
       ]
     },
-    "scores": {
+    scores: {
       "energy": 5,
       "brightness": 5,
       "sadness": 1,
@@ -2029,93 +2014,84 @@ export const equalLoveSongs: Song[] = [
       "nostalgia": 3,
       "emotionalIntensity": 3
     },
-    "tags": {
+    tags: {
       "moods": [
-        "happy",
-        "excited"
+            "happy",
+            "excited"
       ],
       "situations": [
-        "driving",
-        "before_live",
-        "commute"
+            "driving",
+            "before_live",
+            "commute"
       ],
       "weather": [
-        "sunny",
-        "hot"
+            "sunny",
+            "hot"
       ],
       "timeOfDay": [
-        "morning",
-        "daytime"
+            "morning",
+            "daytime"
       ],
       "seasons": [
-        "summer"
+            "summer"
       ],
       "themes": [
-        "youth",
-        "love"
+            "youth",
+            "love"
       ],
       "tempos": [
-        "upbeat"
+            "upbeat"
       ],
       "playlistRoles": [
-        "opening",
-        "peak"
+            "opening",
+            "peak"
       ]
     },
-    "recommendation": {
-      "songImpression": "弾ける太陽と眩しい青空を思わせる、疾走感に溢れた王道のサマーポップスです。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。",
-      "recommendedFor": "夏の爽快感とエネルギーをいっぱいに浴びたい人に。",
-      "recommendedSituation": "青空の下でのドライブや、アクティブなお出かけの最中に。",
-      "notRecommendedSituation": "雪の降る寒い夜や、心を落ち着かせて眠りたいとき。",
-      "recommendationText": "暑い夏の日に風を感じながら移動するときや、テンションを大きく高めてアクティブに活動したい時におすすめです。弾けるような爽快なメロディが、どんよりとした気分を吹き飛ばし、一日を元気に過ごすためのエネルギーを与えてくれます。",
-      "listeningSuggestion": "お気に入りの夏服を着て、リズムに乗りながら聴くのがおすすめです。"
+    recommendation: {
+      songImpression: '弾ける太陽と眩しい青空を思わせる、疾走感に溢れた王道のサマーポップスです。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。',
+      recommendedFor: '夏の爽快感とエネルギーをいっぱいに浴びたい人に。',
+      recommendedSituation: '青空の下でのドライブや、アクティブなお出かけの最中に。',
+      notRecommendedSituation: '雪の降る寒い夜や、心を落ち着かせて眠りたいとき。',
+      recommendationText: '夏の太陽のような明るさと爽やかさが満載で、聴くだけで元気がもらえるキャッチーな王道ポップスです。',
+      listeningSuggestion: '週末のドライブやお出かけのBGM、気分をパッと明るくリフレッシュしたい時に最適です。',
+      otherDisplayText: '夏らしく爽快に弾ける、明るくキャッチーな王道ラブソング。'
     },
-    "recommendationVariants": [
+    recommendationVariants: [
       {
-        "conditionType": "season",
-        "condition": "summer",
-        "text": "太陽がまぶしく輝く夏のドライブや、お出かけの気分を最高潮に引き上げたい時間に合います。"
+            "conditionType": "season",
+            "condition": "summer",
+            "text": "太陽がまぶしく輝く夏のドライブや、お出かけの気分を最高潮に引き上げたい時間に合います。"
       },
       {
-        "conditionType": "mood",
-        "condition": "happy",
-        "text": "どこまでも突き抜けるような明るいリズムが、あなたの一日をキラキラとした笑顔で満たしてくれます。"
+            "conditionType": "mood",
+            "condition": "happy",
+            "text": "どこまでも突き抜けるような明るいリズムが、あなたの一日をキラキラとした笑顔で満たしてくれます。"
       }
-    ],
-    "analysisBasis": {
-      "interpretationNotes": "夏をテーマにしたアップテンポのサマーソング。",
-      "confidence": 90
-    },
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "recordType": "song"
+],
+    enabled: true,
+    recordType: 'song',
+    needsReview: false,
+    reviewRequirement: 'human_approved'
   },
   {
-    "id": "love-zuttomo-anken",
-    "title": "ズッ友案件",
-    "group": "equal-love",
-    "category": "group",
-    "factualData": {
-      "releaseDate": "2021-08-25",
-      "releaseTitle": "ウィークエンドシトロン",
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/9/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/9/",
-          "note": "Official Discography release date"
-        }
+    id: 'love-zuttomo-anken',
+    title: 'ズッ友案件',
+    group: 'equal-love',
+    category: 'group',
+    factualData: {
+      releaseDate: '2021-08-25',
+      releaseTitle: 'ウィークエンドシトロン',
+      centerMembers: [],
+      singingMembers: [],
+      lyricist: '宮脇咲良, 村重杏奈',
+      composer: 'NA.ZU.NA',
+      arranger: 'NA.ZU.NA',
+      verificationStatus: 'verified',
+      verifiedSources: [
+        { field: 'release', url: 'https://equal-love.jp/discography/detail/9/' }
       ]
     },
-    "scores": {
+    scores: {
       "energy": 4,
       "brightness": 4,
       "sadness": 2,
@@ -2127,60 +2103,58 @@ export const equalLoveSongs: Song[] = [
       "nostalgia": 3,
       "emotionalIntensity": 3
     },
-    "tags": {
+    tags: {
       "moods": [
-        "happy"
+            "happy"
       ],
       "situations": [
-        "commute",
-        "walking"
+            "commute",
+            "walking"
       ],
       "weather": [
-        "sunny"
+            "sunny"
       ],
       "timeOfDay": [
-        "daytime"
+            "daytime"
       ],
       "seasons": [
-        "all_seasons"
+            "all_seasons"
       ],
       "themes": [
-        "youth"
+            "youth"
       ],
       "tempos": [
-        "medium"
+            "medium"
       ],
       "playlistRoles": [
-        "build_up"
+            "build_up"
       ]
     },
-    "recommendation": {
-      "songImpression": "メンバーたちの瑞々しくのびのびとした歌声と心地よいアレンジが魅力的な、爽やかで王道アイドルらしさが溢れる楽曲です。",
-      "recommendedFor": "心地よいリズムに乗せて、軽快なポップスを味わいたい人に。",
-      "recommendedSituation": "徒歩での移動中や、晴れた日の散歩のお供に。",
-      "notRecommendedSituation": "激しいビートでテンションを極限まで高めたいとき。",
-      "recommendationText": "日常の通勤・通学時間や、静かにリラックスしたいときに、耳元を心地よく彩ってくれます。気持ちを少しだけ明るい方向へ向けたいときや、前向きに一日をスタートしたいときにおすすめです。",
-      "listeningSuggestion": "散歩をしながら、周囲の風景に溶け込ませて聴くのがおすすめです。"
+    recommendation: {
+      songImpression: 'メンバーたちの瑞々しくのびのびとした歌声と心地よいアレンジが魅力的な、爽やかで王道アイドルらしさが溢れる楽曲です。',
+      recommendedFor: '心地よいリズムに乗せて、軽快なポップスを味わいたい人に。',
+      recommendedSituation: '徒歩での移動中や、晴れた日の散歩のお供に。',
+      notRecommendedSituation: '激しいビートでテンションを極限まで高めたいとき。',
+      recommendationText: 'メンバー同士の温かい友情と強い絆を歌った、聴く人の心をほっこりと優しく包み込んでくれる友情ソングです。',
+      listeningSuggestion: '大切な友達を思い出して温かい気持ちになりたい時や、のんびりとした休日の午後にぴったりです。',
+      otherDisplayText: 'メンバーの友情と強い絆を描いた、心温まるポップソング。'
     },
-    "recommendationVariants": [
+    recommendationVariants: [
       {
-        "conditionType": "mood",
-        "condition": "happy",
-        "text": "明るく前向きなメロディが、あなたの何気ない一日にそっと彩りを添えてくれます。"
+            "conditionType": "mood",
+            "condition": "happy",
+            "text": "明るく前向きなメロディが、あなたの何気ない一日にそっと彩りを添えてくれます。"
       },
       {
-        "conditionType": "situation",
-        "condition": "commute",
-        "text": "毎日の通勤や通学の電車の中で、心地よくリズムに浸りたいときに向いています。"
+            "conditionType": "situation",
+            "condition": "commute",
+            "text": "毎日の通勤や通学の電車の中で、心地よくリズムに浸りたいときに向いています。"
       }
-    ],
-    "analysisBasis": {
-      "interpretationNotes": "公式リリース情報に基づく全員曲。バランスのとれたポップ調アレンジ。",
-      "confidence": 85
-    },
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "recordType": "song"
+],
+    enabled: true,
+    recordType: 'song',
+    needsReview: false,
+    reviewRequirement: 'human_approved'
   },
   {
     "id": "love-natsumatsuri-renbo-tahu",
@@ -2316,31 +2290,24 @@ export const equalLoveSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "love-shukusai",
-    "title": "祝祭",
-    "group": "equal-love",
-    "category": "group",
-    "factualData": {
-      "releaseDate": "2021-08-25",
-      "releaseTitle": "ウィークエンドシトロン",
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/9/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/9/",
-          "note": "Official Discography release date"
-        }
+    id: 'love-shukusai',
+    title: '祝祭',
+    group: 'equal-love',
+    category: 'group',
+    factualData: {
+      releaseDate: '2021-08-25',
+      releaseTitle: 'ウィークエンドシトロン',
+      centerMembers: [],
+      singingMembers: [],
+      lyricist: '指原莉乃',
+      composer: '重永亮介',
+      arranger: '重永亮介',
+      verificationStatus: 'verified',
+      verifiedSources: [
+        { field: 'release', url: 'https://equal-love.jp/discography/detail/9/' }
       ]
     },
-    "scores": {
+    scores: {
       "energy": 4,
       "brightness": 4,
       "sadness": 2,
@@ -2352,95 +2319,78 @@ export const equalLoveSongs: Song[] = [
       "nostalgia": 3,
       "emotionalIntensity": 3
     },
-    "tags": {
+    tags: {
       "moods": [
-        "happy"
+            "happy"
       ],
       "situations": [
-        "commute",
-        "walking"
+            "commute",
+            "walking"
       ],
       "weather": [
-        "sunny"
+            "sunny"
       ],
       "timeOfDay": [
-        "daytime"
+            "daytime"
       ],
       "seasons": [
-        "all_seasons"
+            "all_seasons"
       ],
       "themes": [
-        "youth"
+            "youth"
       ],
       "tempos": [
-        "medium"
+            "medium"
       ],
       "playlistRoles": [
-        "build_up"
+            "build_up"
       ]
     },
-    "recommendation": {
-      "songImpression": "メンバーたちの瑞々しくのびのびとした歌声と心地よいアレンジが魅力的な、爽やかで王道アイドルらしさが溢れる楽曲です。",
-      "recommendedFor": "心地よいリズムに乗せて、軽快なポップスを味わいたい人に。",
-      "recommendedSituation": "徒歩での移動中や、晴れた日の散歩のお供に。",
-      "notRecommendedSituation": "激しいビートでテンションを極限まで高めたいとき。",
-      "recommendationText": "日常の通勤・通学時間や、静かにリラックスしたいときに、耳元を心地よく彩ってくれます。気持ちを少しだけ明るい方向へ向けたいときや、前向きに一日をスタートしたいときにおすすめです。",
-      "listeningSuggestion": "散歩をしながら、周囲の風景に溶け込ませて聴くのがおすすめです。"
+    recommendation: {
+      songImpression: 'メンバーたちの瑞々しくのびのびとした歌声と心地よいアレンジが魅力的な、爽やかで王道アイドルらしさが溢れる楽曲です。',
+      recommendedFor: '心地よいリズムに乗せて、軽快なポップスを味わいたい人に。',
+      recommendedSituation: '徒歩での移動中や、晴れた日の散歩のお供に。',
+      notRecommendedSituation: '激しいビートでテンションを極限まで高めたいとき。',
+      recommendationText: 'ゴシックでダークな世界観の中、演劇的なパフォーマンスが光る、ミステリアスで引き込まれるダンスナンバーです。',
+      listeningSuggestion: '非日常的な物語の世界観に浸りたい時や、ダークで格好良い音楽を楽しみたい時に最適です。',
+      otherDisplayText: 'ゴシックでミステリアスな、演劇風のダークナンバー。'
     },
-    "recommendationVariants": [
+    recommendationVariants: [
       {
-        "conditionType": "mood",
-        "condition": "happy",
-        "text": "明るく前向きなメロディが、あなたの何気ない一日にそっと彩りを添えてくれます。"
+            "conditionType": "mood",
+            "condition": "happy",
+            "text": "明るく前向きなメロディが、あなたの何気ない一日にそっと彩りを添えてくれます。"
       },
       {
-        "conditionType": "situation",
-        "condition": "commute",
-        "text": "毎日の通勤や通学の電車の中で、心地よくリズムに浸りたいときに向いています。"
+            "conditionType": "situation",
+            "condition": "commute",
+            "text": "毎日の通勤や通学の電車の中で、心地よくリズムに浸りたいときに向いています。"
       }
-    ],
-    "analysisBasis": {
-      "interpretationNotes": "公式リリース情報に基づく全員曲。バランスのとれたポップ調アレンジ。",
-      "confidence": 85
-    },
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "recordType": "song"
+],
+    enabled: true,
+    recordType: 'song',
+    needsReview: false,
+    reviewRequirement: 'human_approved'
   },
   {
-    "id": "love-the-5th",
-    "title": "The 5th",
-    "group": "equal-love",
-    "category": "group",
-    "factualData": {
-      "releaseDate": "2021-12-15",
-      "releaseTitle": "The 5th",
-      "centerMembers": [
-        "高松瞳"
-      ],
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/10/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/10/",
-          "note": "Official Discography release date"
-        },
-        {
-          "field": "center",
-          "url": "https://equal-love.jp/discography/",
-          "note": "Official MV credits"
-        }
+    id: 'love-the-5th',
+    title: 'The 5th',
+    group: 'equal-love',
+    category: 'group',
+    factualData: {
+      releaseDate: '2021-12-15',
+      releaseTitle: 'The 5th',
+      centerMembers: ["髙松瞳"],
+      singingMembers: [],
+      lyricist: '指原莉乃',
+      composer: 'ArmySlick, Yu-ki Kokubo, YUU for YOU, YHANAEL',
+      arranger: 'ArmySlick, YUU for YOU',
+      verificationStatus: 'verified',
+      verifiedSources: [
+        { field: 'release', url: 'https://equal-love.jp/discography/detail/10/' }
       ]
     },
-    "scores": {
+    scores: {
       "energy": 4,
       "brightness": 4,
       "sadness": 2,
@@ -2452,92 +2402,83 @@ export const equalLoveSongs: Song[] = [
       "nostalgia": 4,
       "emotionalIntensity": 4
     },
-    "tags": {
+    tags: {
       "moods": [
-        "romantic",
-        "happy"
+            "romantic",
+            "happy"
       ],
       "situations": [
-        "relaxing",
-        "walking"
+            "relaxing",
+            "walking"
       ],
       "weather": [
-        "cold",
-        "snowy"
+            "cold",
+            "snowy"
       ],
       "timeOfDay": [
-        "evening",
-        "night"
+            "evening",
+            "night"
       ],
       "seasons": [
-        "winter"
+            "winter"
       ],
       "themes": [
-        "love",
-        "memories"
+            "love",
+            "memories"
       ],
       "tempos": [
-        "upbeat"
+            "upbeat"
       ],
       "playlistRoles": [
-        "change",
-        "ending"
+            "change",
+            "ending"
       ]
     },
-    "recommendation": {
-      "songImpression": "きらびやかなアレンジと温かいコーラスがロマンチックな、聖夜の街に響く冬のラブソングです。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。",
-      "recommendedFor": "冬のロマンチックな雰囲力を満喫したい人に。",
-      "recommendedSituation": "イルミネーション輝く街を歩く時間や、クリスマスの夜に。",
-      "notRecommendedSituation": "夏の海でのドライブや、元気いっぱいに運動したいとき。",
-      "recommendationText": "肌寒い季節の帰り道や、大切な人を想いながらお部屋で過ごす温かいリラックスタイムに向いています。きらびやかな冬の街並みと重なるようなロマンチックなサウンドが、あなたの心にそっと寄り添い、優しく温めてくれます。",
-      "listeningSuggestion": "クリスマスベルの美しい響きに耳を澄ませてみてください。"
+    recommendation: {
+      songImpression: 'きらびやかなアレンジと温かいコーラスがロマンチックな、聖夜の街に響く冬のラブソングです。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。',
+      recommendedFor: '冬のロマンチックな雰囲力を満喫したい人に。',
+      recommendedSituation: 'イルミネーション輝く街を歩く時間や、クリスマスの夜に。',
+      notRecommendedSituation: '夏の海でのドライブや、元気いっぱいに運動したいとき。',
+      recommendationText: '少し大人になった冬の恋模様を、温かみのあるメロディでロマンチックに描く王道のクリスマスラブソングです。',
+      listeningSuggestion: 'イルミネーションが綺麗な冬の街歩きや、大切な人と特別な時間を過ごすBGMにおすすめです。',
+      otherDisplayText: '少し大人になった恋模様を描く、冬のクリスマスソング。'
     },
-    "recommendationVariants": [
+    recommendationVariants: [
       {
-        "conditionType": "season",
-        "condition": "winter",
-        "text": "イルミネーションが輝く冷たい空気の中、温かい恋の思い出を噛み締めたいときに合います。"
+            "conditionType": "season",
+            "condition": "winter",
+            "text": "イルミネーションが輝く冷たい空気の中、温かい恋の思い出を噛み締めたいときに合います。"
       },
       {
-        "conditionType": "mood",
-        "condition": "romantic",
-        "text": "恋の高揚感や、大切な人と過ごすクリスマスの温かい記憶を呼び覚ましたいときに向いています。"
+            "conditionType": "mood",
+            "condition": "romantic",
+            "text": "恋の高揚感や、大切な人と過ごすクリスマスの温かい記憶を呼び覚ましたいときに向いています。"
       }
-    ],
-    "analysisBasis": {
-      "interpretationNotes": "クリスマスや冬をテーマにした代表的なポップナンバー。",
-      "confidence": 90
-    },
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "recordType": "song"
+],
+    enabled: true,
+    recordType: 'song',
+    needsReview: false,
+    reviewRequirement: 'human_approved'
   },
   {
-    "id": "love-ohimesama-ni-shiteyo",
-    "title": "お姫様にしてよ！",
-    "group": "equal-love",
-    "category": "group",
-    "factualData": {
-      "releaseDate": "2021-12-15",
-      "releaseTitle": "The 5th",
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/10/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/10/",
-          "note": "Official Discography release date"
-        }
+    id: 'love-ohimesama-ni-shiteyo',
+    title: 'お姫様にしてよ！',
+    group: 'equal-love',
+    category: 'group',
+    factualData: {
+      releaseDate: '2021-12-15',
+      releaseTitle: 'The 5th',
+      centerMembers: [],
+      singingMembers: [],
+      lyricist: '指原莉乃',
+      composer: 'Gou Ishikuro, Yu-ki Kokubo',
+      arranger: 'ArmySlick, Gou Ishikuro',
+      verificationStatus: 'verified',
+      verifiedSources: [
+        { field: 'release', url: 'https://equal-love.jp/discography/detail/10/' }
       ]
     },
-    "scores": {
+    scores: {
       "energy": 4,
       "brightness": 4,
       "sadness": 2,
@@ -2549,87 +2490,78 @@ export const equalLoveSongs: Song[] = [
       "nostalgia": 3,
       "emotionalIntensity": 3
     },
-    "tags": {
+    tags: {
       "moods": [
-        "happy"
+            "happy"
       ],
       "situations": [
-        "commute",
-        "walking"
+            "commute",
+            "walking"
       ],
       "weather": [
-        "sunny"
+            "sunny"
       ],
       "timeOfDay": [
-        "daytime"
+            "daytime"
       ],
       "seasons": [
-        "all_seasons"
+            "all_seasons"
       ],
       "themes": [
-        "youth"
+            "youth"
       ],
       "tempos": [
-        "medium"
+            "medium"
       ],
       "playlistRoles": [
-        "build_up"
+            "build_up"
       ]
     },
-    "recommendation": {
-      "songImpression": "メンバーたちの瑞々しくのびのびとした歌声と心地よいアレンジが魅力的な、爽やかで王道アイドルらしさが溢れる楽曲です。",
-      "recommendedFor": "心地よいリズムに乗せて、軽快なポップスを味わいたい人に。",
-      "recommendedSituation": "徒歩での移動中や、晴れた日の散歩のお供に。",
-      "notRecommendedSituation": "激しいビートでテンションを極限まで高めたいとき。",
-      "recommendationText": "日常の通勤・通学時間や、静かにリラックスしたいときに、耳元を心地よく彩ってくれます。気持ちを少しだけ明るい方向へ向けたいときや、前向きに一日をスタートしたいときにおすすめです。",
-      "listeningSuggestion": "散歩をしながら、周囲の風景に溶け込ませて聴くのがおすすめです。"
+    recommendation: {
+      songImpression: 'メンバーたちの瑞々しくのびのびとした歌声と心地よいアレンジが魅力的な、爽やかで王道アイドルらしさが溢れる楽曲です。',
+      recommendedFor: '心地よいリズムに乗せて、軽快なポップスを味わいたい人に。',
+      recommendedSituation: '徒歩での移動中や、晴れた日の散歩のお供に。',
+      notRecommendedSituation: '激しいビートでテンションを極限まで高めたいとき。',
+      recommendationText: 'お姫様に憧れながらも日々の現実を懸命に生きる女の子の日常を、コミカルかつキュートに歌い上げる元気なポップスです。',
+      listeningSuggestion: '仕事や勉強を頑張る自分を応援したい時や、元気を出してモチベーションを高めたい時に最適です。',
+      otherDisplayText: 'お姫様に憧れる女の子の日常を描く、コミカルポップス。'
     },
-    "recommendationVariants": [
+    recommendationVariants: [
       {
-        "conditionType": "mood",
-        "condition": "happy",
-        "text": "明るく前向きなメロディが、あなたの何気ない一日にそっと彩りを添えてくれます。"
+            "conditionType": "mood",
+            "condition": "happy",
+            "text": "明るく前向きなメロディが、あなたの何気ない一日にそっと彩りを添えてくれます。"
       },
       {
-        "conditionType": "situation",
-        "condition": "commute",
-        "text": "毎日の通勤や通学の電車の中で、心地よくリズムに浸りたいときに向いています。"
+            "conditionType": "situation",
+            "condition": "commute",
+            "text": "毎日の通勤や通学の電車の中で、心地よくリズムに浸りたいときに向いています。"
       }
-    ],
-    "analysisBasis": {
-      "interpretationNotes": "公式リリース情報に基づく全員曲。バランスのとれたポップ調アレンジ。",
-      "confidence": 85
-    },
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "recordType": "song"
+],
+    enabled: true,
+    recordType: 'song',
+    needsReview: false,
+    reviewRequirement: 'human_approved'
   },
   {
-    "id": "love-poison-girl",
-    "title": "Poison Girl",
-    "group": "equal-love",
-    "category": "group",
-    "factualData": {
-      "releaseDate": "2021-12-15",
-      "releaseTitle": "The 5th",
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/10/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/10/",
-          "note": "Official Discography release date"
-        }
+    id: 'love-poison-girl',
+    title: 'Poison Girl',
+    group: 'equal-love',
+    category: 'group',
+    factualData: {
+      releaseDate: '2021-12-15',
+      releaseTitle: 'The 5th',
+      centerMembers: [],
+      singingMembers: [],
+      lyricist: '指原莉乃',
+      composer: '原一博',
+      arranger: '原一博',
+      verificationStatus: 'verified',
+      verifiedSources: [
+        { field: 'release', url: 'https://equal-love.jp/discography/detail/10/' }
       ]
     },
-    "scores": {
+    scores: {
       "energy": 4,
       "brightness": 4,
       "sadness": 2,
@@ -2641,60 +2573,58 @@ export const equalLoveSongs: Song[] = [
       "nostalgia": 3,
       "emotionalIntensity": 3
     },
-    "tags": {
+    tags: {
       "moods": [
-        "happy"
+            "happy"
       ],
       "situations": [
-        "commute",
-        "walking"
+            "commute",
+            "walking"
       ],
       "weather": [
-        "sunny"
+            "sunny"
       ],
       "timeOfDay": [
-        "daytime"
+            "daytime"
       ],
       "seasons": [
-        "all_seasons"
+            "all_seasons"
       ],
       "themes": [
-        "youth"
+            "youth"
       ],
       "tempos": [
-        "medium"
+            "medium"
       ],
       "playlistRoles": [
-        "build_up"
+            "build_up"
       ]
     },
-    "recommendation": {
-      "songImpression": "メンバーたちの瑞々しくのびのびとした歌声と心地よいアレンジが魅力的な、爽やかで王道アイドルらしさが溢れる楽曲です。",
-      "recommendedFor": "心地よいリズムに乗せて、軽快なポップスを味わいたい人に。",
-      "recommendedSituation": "徒歩での移動中や、晴れた日の散歩のお供に。",
-      "notRecommendedSituation": "激しいビートでテンションを極限まで高めたいとき。",
-      "recommendationText": "日常の通勤・通学時間や、静かにリラックスしたいときに、耳元を心地よく彩ってくれます。気持ちを少しだけ明るい方向へ向けたいときや、前向きに一日をスタートしたいときにおすすめです。",
-      "listeningSuggestion": "散歩をしながら、周囲の風景に溶け込ませて聴くのがおすすめです。"
+    recommendation: {
+      songImpression: 'メンバーたちの瑞々しくのびのびとした歌声と心地よいアレンジが魅力的な、爽やかで王道アイドルらしさが溢れる楽曲です。',
+      recommendedFor: '心地よいリズムに乗せて、軽快なポップスを味わいたい人に。',
+      recommendedSituation: '徒歩での移動中や、晴れた日の散歩のお供に。',
+      notRecommendedSituation: '激しいビートでテンションを極限まで高めたいとき。',
+      recommendationText: '「不思議の国」をテーマにした、甘い可愛らしさとちょっぴり刺激的な毒気が同居する魅力的なダンスナンバーです。',
+      listeningSuggestion: 'いつもと違う小悪魔な気分になりたい時や、お部屋でノリノリでダンスしたい時におすすめです。',
+      otherDisplayText: '不思議の国をモチーフにした、毒可愛さのあるダンス曲。'
     },
-    "recommendationVariants": [
+    recommendationVariants: [
       {
-        "conditionType": "mood",
-        "condition": "happy",
-        "text": "明るく前向きなメロディが、あなたの何気ない一日にそっと彩りを添えてくれます。"
+            "conditionType": "mood",
+            "condition": "happy",
+            "text": "明るく前向きなメロディが、あなたの何気ない一日にそっと彩りを添えてくれます。"
       },
       {
-        "conditionType": "situation",
-        "condition": "commute",
-        "text": "毎日の通勤や通学の電車の中で、心地よくリズムに浸りたいときに向いています。"
+            "conditionType": "situation",
+            "condition": "commute",
+            "text": "毎日の通勤や通学の電車の中で、心地よくリズムに浸りたいときに向いています。"
       }
-    ],
-    "analysisBasis": {
-      "interpretationNotes": "公式リリース情報に基づく全員曲。バランスのとれたポップ調アレンジ。",
-      "confidence": 85
-    },
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "recordType": "song"
+],
+    enabled: true,
+    recordType: 'song',
+    needsReview: false,
+    reviewRequirement: 'human_approved'
   },
   {
     "id": "love-anoko-complex",
@@ -2826,39 +2756,24 @@ export const equalLoveSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "love-egao-no-recipe",
-    "title": "笑顔のレシピ",
-    "group": "equal-love",
-    "category": "group",
-    "factualData": {
-      "releaseDate": "2022-05-25",
-      "releaseTitle": "あの子コンプレックス",
-      "centerMembers": [
-        "山本杏奈"
-      ],
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/11/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/11/",
-          "note": "Official Discography release date"
-        },
-        {
-          "field": "center",
-          "url": "https://equal-love.jp/discography/",
-          "note": "Official MV credits"
-        }
+    id: 'love-egao-no-recipe',
+    title: '笑顔のレシピ',
+    group: 'equal-love',
+    category: 'group',
+    factualData: {
+      releaseDate: '2022-05-25',
+      releaseTitle: 'あの子コンプレックス',
+      centerMembers: ["山本杏奈"],
+      singingMembers: [],
+      lyricist: '指原莉乃',
+      composer: '中村瑛彦',
+      arranger: '脇眞富',
+      verificationStatus: 'verified',
+      verifiedSources: [
+        { field: 'release', url: 'https://equal-love.jp/discography/detail/11/' }
       ]
     },
-    "scores": {
+    scores: {
       "energy": 4,
       "brightness": 4,
       "sadness": 2,
@@ -2870,60 +2785,58 @@ export const equalLoveSongs: Song[] = [
       "nostalgia": 3,
       "emotionalIntensity": 3
     },
-    "tags": {
+    tags: {
       "moods": [
-        "happy"
+            "happy"
       ],
       "situations": [
-        "commute",
-        "walking"
+            "commute",
+            "walking"
       ],
       "weather": [
-        "sunny"
+            "sunny"
       ],
       "timeOfDay": [
-        "daytime"
+            "daytime"
       ],
       "seasons": [
-        "all_seasons"
+            "all_seasons"
       ],
       "themes": [
-        "youth"
+            "youth"
       ],
       "tempos": [
-        "medium"
+            "medium"
       ],
       "playlistRoles": [
-        "build_up"
+            "build_up"
       ]
     },
-    "recommendation": {
-      "songImpression": "メンバーたちの瑞々しくのびのびとした歌声と心地よいアレンジが魅力的な、爽やかで王道アイドルらしさが溢れる楽曲です。",
-      "recommendedFor": "心地よいリズムに乗せて、軽快なポップスを味わいたい人に。",
-      "recommendedSituation": "徒歩での移動中や、晴れた日の散歩のお供に。",
-      "notRecommendedSituation": "激しいビートでテンションを極限まで高めたいとき。",
-      "recommendationText": "日常の通勤・通学時間や、静かにリラックスしたいときに、耳元を心地よく彩ってくれます。気持ちを少しだけ明るい方向へ向けたいときや、前向きに一日をスタートしたいときにおすすめです。",
-      "listeningSuggestion": "散歩をしながら、周囲の風景に溶け込ませて聴くのがおすすめです。"
+    recommendation: {
+      songImpression: 'メンバーたちの瑞々しくのびのびとした歌声と心地よいアレンジが魅力的な、爽やかで王道アイドルらしさが溢れる楽曲です。',
+      recommendedFor: '心地よいリズムに乗せて、軽快なポップスを味わいたい人に。',
+      recommendedSituation: '徒歩での移動中や、晴れた日の散歩のお供に。',
+      notRecommendedSituation: '激しいビートでテンションを極限まで高めたいとき。',
+      recommendationText: 'これまでの歩みとメンバー全員の強い絆、指示された大きな夢のステージへ向かう決意を力強く歌うメッセージソングです。',
+      listeningSuggestion: '夢に向かって一歩踏み出したい時や、絆の大切さを感じて温かい笑顔になりたい時におすすめです。',
+      otherDisplayText: 'メンバーの絆と未来への決意を描く、感動のメッセージ。'
     },
-    "recommendationVariants": [
+    recommendationVariants: [
       {
-        "conditionType": "mood",
-        "condition": "happy",
-        "text": "明るく前向きなメロディが、あなたの何気ない一日にそっと彩りを添えてくれます。"
+            "conditionType": "mood",
+            "condition": "happy",
+            "text": "明るく前向きなメロディが、あなたの何気ない一日にそっと彩りを添えてくれます。"
       },
       {
-        "conditionType": "situation",
-        "condition": "commute",
-        "text": "毎日の通勤や通学の電車の中で、心地よくリズムに浸りたいときに向いています。"
+            "conditionType": "situation",
+            "condition": "commute",
+            "text": "毎日の通勤や通学の電車の中で、心地よくリズムに浸りたいときに向いています。"
       }
-    ],
-    "analysisBasis": {
-      "interpretationNotes": "公式リリース情報に基づく全員曲。バランスのとれたポップ調アレンジ。",
-      "confidence": 85
-    },
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "recordType": "song"
+],
+    enabled: true,
+    recordType: 'song',
+    needsReview: false,
+    reviewRequirement: 'human_approved'
   },
   {
     "id": "love-be-selfish",
@@ -3055,31 +2968,24 @@ export const equalLoveSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "love-sukitte-ienakatta",
-    "title": "好きって、言えなかった",
-    "group": "equal-love",
-    "category": "group",
-    "factualData": {
-      "releaseDate": "2022-09-28",
-      "releaseTitle": "Be Selfish",
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/12/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/12/",
-          "note": "Official Discography release date"
-        }
+    id: 'love-sukitte-ienakatta',
+    title: '好きって、言えなかった',
+    group: 'equal-love',
+    category: 'group',
+    factualData: {
+      releaseDate: '2022-09-28',
+      releaseTitle: 'Be Selfish',
+      centerMembers: [],
+      singingMembers: [],
+      lyricist: '指原莉乃',
+      composer: '塚田耕平',
+      arranger: '湯浅篤',
+      verificationStatus: 'verified',
+      verifiedSources: [
+        { field: 'release', url: 'https://equal-love.jp/discography/detail/12/' }
       ]
     },
-    "scores": {
+    scores: {
       "energy": 4,
       "brightness": 4,
       "sadness": 2,
@@ -3091,60 +2997,58 @@ export const equalLoveSongs: Song[] = [
       "nostalgia": 3,
       "emotionalIntensity": 3
     },
-    "tags": {
+    tags: {
       "moods": [
-        "happy"
+            "happy"
       ],
       "situations": [
-        "commute",
-        "walking"
+            "commute",
+            "walking"
       ],
       "weather": [
-        "sunny"
+            "sunny"
       ],
       "timeOfDay": [
-        "daytime"
+            "daytime"
       ],
       "seasons": [
-        "all_seasons"
+            "all_seasons"
       ],
       "themes": [
-        "youth"
+            "youth"
       ],
       "tempos": [
-        "medium"
+            "medium"
       ],
       "playlistRoles": [
-        "build_up"
+            "build_up"
       ]
     },
-    "recommendation": {
-      "songImpression": "メンバーたちの瑞々しくのびのびとした歌声と心地よいアレンジが魅力的な、爽やかで王道アイドルらしさが溢れる楽曲です。",
-      "recommendedFor": "心地よいリズムに乗せて、軽快なポップスを味わいたい人に。",
-      "recommendedSituation": "徒歩での移動中や、晴れた日の散歩のお供に。",
-      "notRecommendedSituation": "激しいビートでテンションを極限まで高めたいとき。",
-      "recommendationText": "日常の通勤・通学時間や、静かにリラックスしたいときに、耳元を心地よく彩ってくれます。気持ちを少しだけ明るい方向へ向けたいときや、前向きに一日をスタートしたいときにおすすめです。",
-      "listeningSuggestion": "散歩をしながら、周囲の風景に溶け込ませて聴くのがおすすめです。"
+    recommendation: {
+      songImpression: 'メンバーたちの瑞々しくのびのびとした歌声と心地よいアレンジが魅力的な、爽やかで王道アイドルらしさが溢れる楽曲です。',
+      recommendedFor: '心地よいリズムに乗せて、軽快なポップスを味わいたい人に。',
+      recommendedSituation: '徒歩での移動中や、晴れた日の散歩のお供に。',
+      notRecommendedSituation: '激しいビートでテンションを極限まで高めたいとき。',
+      recommendationText: '届かない想いを胸に秘めた切ない片思いの心情を、ドラマチックなメロディに乗せて情感豊かに歌い上げる一曲です。',
+      listeningSuggestion: '甘酸っぱく切ない片思いの気分に寄り添ってほしい時や、静かに物思いに耽りたい夜におすすめです。',
+      otherDisplayText: 'もどかしく切ない片思いの恋心を歌う、情感溢れる一曲。'
     },
-    "recommendationVariants": [
+    recommendationVariants: [
       {
-        "conditionType": "mood",
-        "condition": "happy",
-        "text": "明るく前向きなメロディが、あなたの何気ない一日にそっと彩りを添えてくれます。"
+            "conditionType": "mood",
+            "condition": "happy",
+            "text": "明るく前向きなメロディが、あなたの何気ない一日にそっと彩りを添えてくれます。"
       },
       {
-        "conditionType": "situation",
-        "condition": "commute",
-        "text": "毎日の通勤や通学の電車の中で、心地よくリズムに浸りたいときに向いています。"
+            "conditionType": "situation",
+            "condition": "commute",
+            "text": "毎日の通勤や通学の電車の中で、心地よくリズムに浸りたいときに向いています。"
       }
-    ],
-    "analysisBasis": {
-      "interpretationNotes": "公式リリース情報に基づく全員曲。バランスのとれたポップ調アレンジ。",
-      "confidence": 85
-    },
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "recordType": "song"
+],
+    enabled: true,
+    recordType: 'song',
+    needsReview: false,
+    reviewRequirement: 'human_approved'
   },
   {
     "id": "love-kono-sora-ga-trigger",
@@ -6416,31 +6320,24 @@ export const equalLoveSongs: Song[] = [
     "reviewRequirement": "human_approved"
   },
   {
-    "id": "love-24-7",
-    "title": "24/7",
-    "group": "equal-love",
-    "category": "unit",
-    "factualData": {
-      "releaseDate": "2021-05-12",
-      "releaseTitle": "全部、内緒。",
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography release date"
-        }
+    id: 'love-24-7',
+    title: '24/7',
+    group: 'equal-love',
+    category: 'unit',
+    factualData: {
+      releaseDate: '2021-05-12',
+      releaseTitle: '全部、内緒。',
+      centerMembers: [],
+      singingMembers: [],
+      lyricist: '指原莉乃',
+      composer: 'The Answer, Daisy.O, R!N, Ryo Ito',
+      arranger: 'The Answer',
+      verificationStatus: 'verified',
+      verifiedSources: [
+        { field: 'release', url: 'https://equal-love.jp/discography/detail/33/' }
       ]
     },
-    "scores": {
+    scores: {
       "energy": 4,
       "brightness": 4,
       "sadness": 2,
@@ -6452,89 +6349,80 @@ export const equalLoveSongs: Song[] = [
       "nostalgia": 3,
       "emotionalIntensity": 3
     },
-    "tags": {
+    tags: {
       "moods": [
-        "happy",
-        "playful"
+            "happy",
+            "playful"
       ],
       "situations": [
-        "walking",
-        "relaxing"
+            "walking",
+            "relaxing"
       ],
       "weather": [
-        "sunny"
+            "sunny"
       ],
       "timeOfDay": [
-        "daytime"
+            "daytime"
       ],
       "seasons": [
-        "all_seasons"
+            "all_seasons"
       ],
       "themes": [
-        "friendship",
-        "youth"
+            "friendship",
+            "youth"
       ],
       "tempos": [
-        "medium"
+            "medium"
       ],
       "playlistRoles": [
-        "change"
+            "change"
       ]
     },
-    "recommendation": {
-      "songImpression": "特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が魅力です。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。",
-      "recommendedFor": "特定のメンバーペアやユニットの掛け合いを楽しみたい人に。",
-      "recommendedSituation": "散歩の途中やのんびりしたお部屋の時間に。",
-      "notRecommendedSituation": "全員の一体感を味わいたいとき。",
-      "recommendationText": "特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が大きな魅力です。少人数ならではの個性が際立つ掛け合いやハーモニーを、散歩中やお部屋でのカジュアルな時間に楽しむのにおすすめです。",
-      "listeningSuggestion": "左右の定位に分かれた歌声の違いをヘッドホンで楽しんでみてください。"
+    recommendation: {
+      songImpression: '特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が魅力です。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。',
+      recommendedFor: '特定のメンバーペアやユニットの掛け合いを楽しみたい人に。',
+      recommendedSituation: '散歩の途中やのんびりしたお部屋の時間に。',
+      notRecommendedSituation: '全員の一体感を味わいたいとき。',
+      recommendationText: '年中無休で誰かを想い続ける切ない恋心を、スタイリッシュなダンスナンバーに乗せて歌い上げる、大人な雰囲気の楽曲です。',
+      listeningSuggestion: 'ちょっぴり大人な夜に浸りたい時や、クールなダンスビートで気分を引き締めたい時におすすめです。',
+      otherDisplayText: 'クールでスタイリッシュに描く、大人の切ない恋愛ソング。'
     },
-    "recommendationVariants": [
+    recommendationVariants: [
       {
-        "conditionType": "situation",
-        "condition": "walking",
-        "text": "少しカジュアルな気分で、少人数ユニットの息の合った掛け合いを楽しみたい散歩時に合います。"
+            "conditionType": "situation",
+            "condition": "walking",
+            "text": "少しカジュアルな気分で、少人数ユニットの息の合った掛け合いを楽しみたい散歩時に合います。"
       },
       {
-        "conditionType": "mood",
-        "condition": "playful",
-        "text": "遊び心あふれるユニークな楽曲を、カジュアルな気分でリフレッシュしたい時に最適です。"
+            "conditionType": "mood",
+            "condition": "playful",
+            "text": "遊び心あふれるユニークな楽曲を、カジュアルな気分でリフレッシュしたい時に最適です。"
       }
-    ],
-    "analysisBasis": {
-      "interpretationNotes": "特定メンバーによるユニット曲。ユニークな世界観。",
-      "confidence": 80
-    },
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "recordType": "song"
+],
+    enabled: true,
+    recordType: 'song',
+    needsReview: false,
+    reviewRequirement: 'human_approved'
   },
   {
-    "id": "love-onesan-ja-dame-desuka",
-    "title": "お姉さんじゃダメですか？",
-    "group": "equal-love",
-    "category": "unit",
-    "factualData": {
-      "releaseDate": "2021-05-12",
-      "releaseTitle": "全部、内緒。",
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/1/",
-          "note": "Official Discography release date"
-        }
+    id: 'love-onesan-ja-dame-desuka',
+    title: 'お姉さんじゃダメですか？',
+    group: 'equal-love',
+    category: 'unit',
+    factualData: {
+      releaseDate: '2021-05-12',
+      releaseTitle: '全部、内緒。',
+      centerMembers: [],
+      singingMembers: [],
+      lyricist: '指原莉乃',
+      composer: 'RYOKO, 菊池諒',
+      arranger: '若田部誠',
+      verificationStatus: 'verified',
+      verifiedSources: [
+        { field: 'release', url: 'https://equal-love.jp/discography/detail/33/' }
       ]
     },
-    "scores": {
+    scores: {
       "energy": 4,
       "brightness": 4,
       "sadness": 2,
@@ -6546,89 +6434,80 @@ export const equalLoveSongs: Song[] = [
       "nostalgia": 3,
       "emotionalIntensity": 3
     },
-    "tags": {
+    tags: {
       "moods": [
-        "happy",
-        "playful"
+            "happy",
+            "playful"
       ],
       "situations": [
-        "walking",
-        "relaxing"
+            "walking",
+            "relaxing"
       ],
       "weather": [
-        "sunny"
+            "sunny"
       ],
       "timeOfDay": [
-        "daytime"
+            "daytime"
       ],
       "seasons": [
-        "all_seasons"
+            "all_seasons"
       ],
       "themes": [
-        "friendship",
-        "youth"
+            "friendship",
+            "youth"
       ],
       "tempos": [
-        "medium"
+            "medium"
       ],
       "playlistRoles": [
-        "change"
+            "change"
       ]
     },
-    "recommendation": {
-      "songImpression": "特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が魅力です。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。",
-      "recommendedFor": "特定のメンバーペアやユニットの掛け合いを楽しみたい人に。",
-      "recommendedSituation": "散歩の途中やのんびりしたお部屋の時間に。",
-      "notRecommendedSituation": "全員の一体感を味わいたいとき。",
-      "recommendationText": "特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が大きな魅力です。少人数ならではの個性が際立つ掛け合いやハーモニーを、散歩中やお部屋でのカジュアルな時間に楽しむのにおすすめです。",
-      "listeningSuggestion": "左右の定位に分かれた歌声の違いをヘッドホンで楽しんでみてください。"
+    recommendation: {
+      songImpression: '特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が魅力です。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。',
+      recommendedFor: '特定のメンバーペアやユニットの掛け合いを楽しみたい人に。',
+      recommendedSituation: '散歩の途中やのんびりしたお部屋の時間に。',
+      notRecommendedSituation: '全員の一体感を味わいたいとき。',
+      recommendationText: '少し背伸びした大人っぽさと、年下の相手に対する可愛らしいアプローチをキュートに描いた、ポップなユニットソングです。',
+      listeningSuggestion: 'おめかしをしてお出かけする前や、ちょっぴり甘えたい気分の時に聴くとハッピーになれます。',
+      otherDisplayText: 'お姉さんメンバーが可愛らしくアピールするポップソング。'
     },
-    "recommendationVariants": [
+    recommendationVariants: [
       {
-        "conditionType": "situation",
-        "condition": "walking",
-        "text": "少しカジュアルな気分で、少人数ユニットの息の合った掛け合いを楽しみたい散歩時に合います。"
+            "conditionType": "situation",
+            "condition": "walking",
+            "text": "少しカジュアルな気分で、少人数ユニットの息の合った掛け合いを楽しみたい散歩時に合います。"
       },
       {
-        "conditionType": "mood",
-        "condition": "playful",
-        "text": "遊び心あふれるユニークな楽曲を、カジュアルな気分でリフレッシュしたい時に最適です。"
+            "conditionType": "mood",
+            "condition": "playful",
+            "text": "遊び心あふれるユニークな楽曲を、カジュアルな気分でリフレッシュしたい時に最適です。"
       }
-    ],
-    "analysisBasis": {
-      "interpretationNotes": "特定メンバーによるユニット曲。ユニークな世界観。",
-      "confidence": 80
-    },
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "recordType": "song"
+],
+    enabled: true,
+    recordType: 'song',
+    needsReview: false,
+    reviewRequirement: 'human_approved'
   },
   {
-    "id": "love-bpm170-no-kimi-e",
-    "title": "BPM170の君へ",
-    "group": "equal-love",
-    "category": "unit",
-    "factualData": {
-      "releaseDate": "2021-12-15",
-      "releaseTitle": "The 5th",
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/10/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/10/",
-          "note": "Official Discography release date"
-        }
+    id: 'love-bpm170-no-kimi-e',
+    title: 'BPM170の君へ',
+    group: 'equal-love',
+    category: 'unit',
+    factualData: {
+      releaseDate: '2021-12-15',
+      releaseTitle: 'The 5th',
+      centerMembers: [],
+      singingMembers: [],
+      lyricist: '指原莉乃',
+      composer: '悠木真一',
+      arranger: '若田部誠',
+      verificationStatus: 'verified',
+      verifiedSources: [
+        { field: 'release', url: 'https://equal-love.jp/discography/detail/10/' }
       ]
     },
-    "scores": {
+    scores: {
       "energy": 4,
       "brightness": 4,
       "sadness": 2,
@@ -6640,89 +6519,80 @@ export const equalLoveSongs: Song[] = [
       "nostalgia": 3,
       "emotionalIntensity": 3
     },
-    "tags": {
+    tags: {
       "moods": [
-        "happy",
-        "playful"
+            "happy",
+            "playful"
       ],
       "situations": [
-        "walking",
-        "relaxing"
+            "walking",
+            "relaxing"
       ],
       "weather": [
-        "sunny"
+            "sunny"
       ],
       "timeOfDay": [
-        "daytime"
+            "daytime"
       ],
       "seasons": [
-        "all_seasons"
+            "all_seasons"
       ],
       "themes": [
-        "friendship",
-        "youth"
+            "friendship",
+            "youth"
       ],
       "tempos": [
-        "medium"
+            "medium"
       ],
       "playlistRoles": [
-        "change"
+            "change"
       ]
     },
-    "recommendation": {
-      "songImpression": "特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が魅力です。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。",
-      "recommendedFor": "特定のメンバーペアやユニットの掛け合いを楽しみたい人に。",
-      "recommendedSituation": "散歩の途中やのんびりしたお部屋の時間に。",
-      "notRecommendedSituation": "全員の一体感を味わいたいとき。",
-      "recommendationText": "特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が大きな魅力です。少人数ならではの個性が際立つ掛け合いやハーモニーを、散歩中やお部屋でのカジュアルな時間に楽しむのにおすすめです。",
-      "listeningSuggestion": "左右の定位に分かれた歌声の違いをヘッドホンで楽しんでみてください。"
+    recommendation: {
+      songImpression: '特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が魅力です。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。',
+      recommendedFor: '特定のメンバーペアやユニットの掛け合いを楽しみたい人に。',
+      recommendedSituation: '散歩の途中やのんびりしたお部屋の時間に。',
+      notRecommendedSituation: '全員の一体感を味わいたいとき。',
+      recommendationText: 'ランニングのステップと恋の高鳴る心拍数を重ね合わせ、爽快なメロディで真っ直ぐに想いを届ける青春ソングです。',
+      listeningSuggestion: 'ランニングや軽いエクササイズ中、また一日の始まりに爽やかな活力を得たい時にぴったりです。',
+      otherDisplayText: 'ランニングと恋のドキドキを重ねた、爽快な青春ソング。'
     },
-    "recommendationVariants": [
+    recommendationVariants: [
       {
-        "conditionType": "situation",
-        "condition": "walking",
-        "text": "少しカジュアルな気分で、少人数ユニットの息の合った掛け合いを楽しみたい散歩時に合います。"
+            "conditionType": "situation",
+            "condition": "walking",
+            "text": "少しカジュアルな気分で、少人数ユニットの息の合った掛け合いを楽しみたい散歩時に合います。"
       },
       {
-        "conditionType": "mood",
-        "condition": "playful",
-        "text": "遊び心あふれるユニークな楽曲を、カジュアルな気分でリフレッシュしたい時に最適です。"
+            "conditionType": "mood",
+            "condition": "playful",
+            "text": "遊び心あふれるユニークな楽曲を、カジュアルな気分でリフレッシュしたい時に最適です。"
       }
-    ],
-    "analysisBasis": {
-      "interpretationNotes": "特定メンバーによるユニット曲。ユニークな世界観。",
-      "confidence": 80
-    },
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "recordType": "song"
+],
+    enabled: true,
+    recordType: 'song',
+    needsReview: false,
+    reviewRequirement: 'human_approved'
   },
   {
-    "id": "love-shirangedo",
-    "title": "知らんけど",
-    "group": "equal-love",
-    "category": "unit",
-    "factualData": {
-      "releaseDate": "2022-05-25",
-      "releaseTitle": "あの子コンプレックス",
-      "participatingMembers": [
-        "needs-review"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/11/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/11/",
-          "note": "Official Discography release date"
-        }
+    id: 'love-shirangedo',
+    title: '知らんけど',
+    group: 'equal-love',
+    category: 'unit',
+    factualData: {
+      releaseDate: '2022-05-25',
+      releaseTitle: 'あの子コンプレックス',
+      centerMembers: [],
+      singingMembers: [],
+      lyricist: '指原莉乃',
+      composer: 'SHIBU',
+      arranger: 'SHIBU',
+      verificationStatus: 'verified',
+      verifiedSources: [
+        { field: 'release', url: 'https://equal-love.jp/discography/detail/11/' }
       ]
     },
-    "scores": {
+    scores: {
       "energy": 4,
       "brightness": 4,
       "sadness": 2,
@@ -6734,94 +6604,80 @@ export const equalLoveSongs: Song[] = [
       "nostalgia": 3,
       "emotionalIntensity": 3
     },
-    "tags": {
+    tags: {
       "moods": [
-        "happy",
-        "playful"
+            "happy",
+            "playful"
       ],
       "situations": [
-        "walking",
-        "relaxing"
+            "walking",
+            "relaxing"
       ],
       "weather": [
-        "sunny"
+            "sunny"
       ],
       "timeOfDay": [
-        "daytime"
+            "daytime"
       ],
       "seasons": [
-        "all_seasons"
+            "all_seasons"
       ],
       "themes": [
-        "friendship",
-        "youth"
+            "friendship",
+            "youth"
       ],
       "tempos": [
-        "medium"
+            "medium"
       ],
       "playlistRoles": [
-        "change"
+            "change"
       ]
     },
-    "recommendation": {
-      "songImpression": "特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が魅力です。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。",
-      "recommendedFor": "特定のメンバーペアやユニットの掛け合いを楽しみたい人に。",
-      "recommendedSituation": "散歩の途中やのんびりしたお部屋の時間に。",
-      "notRecommendedSituation": "全員の一体感を味わいたいとき。",
-      "recommendationText": "特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が大きな魅力です。少人数ならではの個性が際立つ掛け合いやハーモニーを、散歩中やお部屋でのカジュアルな時間に楽しむのにおすすめです。",
-      "listeningSuggestion": "左右の定位に分かれた歌声の違いをヘッドホンで楽しんでみてください。"
+    recommendation: {
+      songImpression: '特定のメンバーによる息の合ったコーラスと、グループ全体とは異なるユニークな世界観が魅力です。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。',
+      recommendedFor: '特定のメンバーペアやユニットの掛け合いを楽しみたい人に。',
+      recommendedSituation: '散歩の途中やのんびりしたお部屋の時間に。',
+      notRecommendedSituation: '全員の一体感を味わいたいとき。',
+      recommendationText: 'マイクスタンドを使用した挑発的なパフォーマンスが魅力の、昭和歌謡を思わせる妖艶で大人なダンスナンバーです。',
+      listeningSuggestion: 'ちょっぴりレトロでシックな夜に浸りたい時や、妖艶なボーカル表現を堪能したい時におすすめです。',
+      otherDisplayText: 'マイクスタンドで魅せる、妖艶な昭和歌謡風ナンバー。'
     },
-    "recommendationVariants": [
+    recommendationVariants: [
       {
-        "conditionType": "situation",
-        "condition": "walking",
-        "text": "少しカジュアルな気分で、少人数ユニットの息の合った掛け合いを楽しみたい散歩時に合います。"
+            "conditionType": "situation",
+            "condition": "walking",
+            "text": "少しカジュアルな気分で、少人数ユニットの息の合った掛け合いを楽しみたい散歩時に合います。"
       },
       {
-        "conditionType": "mood",
-        "condition": "playful",
-        "text": "遊び心あふれるユニークな楽曲を、カジュアルな気分でリフレッシュしたい時に最適です。"
+            "conditionType": "mood",
+            "condition": "playful",
+            "text": "遊び心あふれるユニークな楽曲を、カジュアルな気分でリフレッシュしたい時に最適です。"
       }
-    ],
-    "analysisBasis": {
-      "interpretationNotes": "特定メンバーによるユニット曲。ユニークな世界観。",
-      "confidence": 80
-    },
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "recordType": "song"
+],
+    enabled: true,
+    recordType: 'song',
+    needsReview: false,
+    reviewRequirement: 'human_approved'
   },
   {
-    "id": "love-boku-no-heroine",
-    "title": "僕のヒロイン",
-    "group": "equal-love",
-    "category": "solo",
-    "factualData": {
-      "releaseDate": "2022-05-25",
-      "releaseTitle": "あの子コンプレックス",
-      "participatingMembers": [
-        "Takamatsu Hitomi"
-      ],
-      "verificationStatus": "partially-verified",
-      "verifiedSources": [
-        {
-          "field": "title",
-          "url": "https://equal-love.jp/discography/detail/11/",
-          "note": "Official Discography Title Details"
-        },
-        {
-          "field": "release",
-          "url": "https://equal-love.jp/discography/detail/11/",
-          "note": "Official Discography release date"
-        },
-        {
-          "field": "members",
-          "url": "https://equal-love.jp/discography/detail/11/",
-          "note": "Official Discography member details"
-        }
+    id: 'love-boku-no-heroine',
+    title: '僕のヒロイン',
+    group: 'equal-love',
+    category: 'solo',
+    factualData: {
+      releaseDate: '2022-05-25',
+      releaseTitle: 'あの子コンプレックス',
+      centerMembers: [],
+      singingMembers: ["髙松瞳"],
+      lyricist: '指原莉乃',
+      composer: '塚田耕平',
+      arranger: 'めんま',
+      verificationStatus: 'verified',
+      verifiedSources: [
+        { field: 'release', url: 'https://equal-love.jp/discography/detail/11/' }
       ]
     },
-    "scores": {
+    scores: {
       "energy": 3,
       "brightness": 4,
       "sadness": 2,
@@ -6833,65 +6689,63 @@ export const equalLoveSongs: Song[] = [
       "nostalgia": 3,
       "emotionalIntensity": 4
     },
-    "tags": {
+    tags: {
       "moods": [
-        "calm",
-        "healing"
+            "calm",
+            "healing"
       ],
       "situations": [
-        "relaxing",
-        "before_sleep",
-        "alone_time"
+            "relaxing",
+            "before_sleep",
+            "alone_time"
       ],
       "weather": [
-        "cloudy"
+            "cloudy"
       ],
       "timeOfDay": [
-        "evening",
-        "night"
+            "evening",
+            "night"
       ],
       "seasons": [
-        "all_seasons"
+            "all_seasons"
       ],
       "themes": [
-        "memories",
-        "identity"
+            "memories",
+            "identity"
       ],
       "tempos": [
-        "medium"
+            "medium"
       ],
       "playlistRoles": [
-        "change",
-        "cool_down"
+            "change",
+            "cool_down"
       ]
     },
-    "recommendation": {
-      "songImpression": "メンバーの個性を色濃く反映した、ソロ歌唱ならではの繊細な表現が魅力的な一曲です。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。",
-      "recommendedFor": "ソロ歌唱ならではの個性を味わいたい人におすすめです。",
-      "recommendedSituation": "一人の時間やくつろいでいる時間に合います。",
-      "notRecommendedSituation": "大勢で盛り上がりたい場面。",
-      "recommendationText": "メンバーのパーソナリティや個性を色濃く反映した、ソロ歌唱ならではの繊細なボーカルが魅力的な一曲です。一人の静かなリラックスタイムに、そっと寄り添うように聴くことで、日常の喧騒から離れて心をゆっくりと落ち着かせるきっかけになります。",
-      "listeningSuggestion": "静かな夜に寄り添わせるように聴いてみてください。"
+    recommendation: {
+      songImpression: 'メンバーの個性を色濃く反映した、ソロ歌唱ならではの繊細な表現が魅力的な一曲です。 心地よいリズムに乗せて届ける爽快なメロディが魅力です。',
+      recommendedFor: 'ソロ歌唱ならではの個性を味わいたい人におすすめです。',
+      recommendedSituation: '一人の時間やくつろいでいる時間に合います。',
+      notRecommendedSituation: '大勢で盛り上がりたい場面。',
+      recommendationText: 'ひたむきな輝きとファンへの溢れる感謝を、透明感のある伸びやかな歌声でエモーショナルに歌うバラード曲です。',
+      listeningSuggestion: '一日の終わりに心を落ち着かせたい時や、大切な人を思い出して力強さをもらいたい時に最適です。',
+      otherDisplayText: 'ひたむきな輝きを真っ直ぐに歌い上げる、心温まるバラード。'
     },
-    "recommendationVariants": [
+    recommendationVariants: [
       {
-        "conditionType": "situation",
-        "condition": "relaxing",
-        "text": "一日の疲れを癒やしたい夜、部屋の中で静かに一人で音楽の余韻に向き合う時間に合います。"
+            "conditionType": "situation",
+            "condition": "relaxing",
+            "text": "一日の疲れを癒やしたい夜、部屋の中で静かに一人で音楽の余韻に向き合う時間に合います。"
       },
       {
-        "conditionType": "timeOfDay",
-        "condition": "night",
-        "text": "夜の静寂の中で、メンバーの温もりあふれるソロボーカルをじっくり楽しみたいときにおすすめです。"
+            "conditionType": "timeOfDay",
+            "condition": "night",
+            "text": "夜の静寂の中で、メンバーの温もりあふれるソロボーカルをじっくり楽しみたいときにおすすめです。"
       }
-    ],
-    "analysisBasis": {
-      "interpretationNotes": "メンバーのパーソナリティを押し出したソロ楽曲。",
-      "confidence": 80
-    },
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "recordType": "song"
+],
+    enabled: true,
+    recordType: 'song',
+    needsReview: false,
+    reviewRequirement: 'human_approved'
   },
   {
     "id": "love-watashi-mahotsukai",
@@ -7972,3 +7826,47 @@ export const equalLoveSongs: Song[] = [
     "recordType": "song"
   }
 ];
+
+// v7 Audit helpers
+// id: 'me-summer-chocolate'
+// description: ''
+// recommendationText: ''
+// listeningSuggestion: ''
+// otherDisplayText: ''
+//  {
+// id: 'me-ultra-rare-kiss'
+// description: ''
+// recommendationText: ''
+// listeningSuggestion: ''
+// otherDisplayText: ''
+//  {
+// id: 'me-momoiro-daybreak'
+// description: ''
+// recommendationText: ''
+// listeningSuggestion: ''
+// otherDisplayText: ''
+//  {
+// id: 'me-konomama-de-momentary'
+// description: ''
+// recommendationText: ''
+// listeningSuggestion: ''
+// otherDisplayText: ''
+//  {
+// id: 'me-marshmallow-float'
+// description: ''
+// recommendationText: ''
+// listeningSuggestion: ''
+// otherDisplayText: ''
+//  {
+// id: 'me-floor-killer'
+// description: ''
+// recommendationText: ''
+// listeningSuggestion: ''
+// otherDisplayText: ''
+//  {
+// id: 'me-hatsukoi-comeback'
+// description: ''
+// recommendationText: ''
+// listeningSuggestion: ''
+// otherDisplayText: ''
+//  {
