@@ -17,7 +17,8 @@ function generate() {
   const rawData = fs.readFileSync(reviewFilePath, 'utf8');
   let reviews: any[] = [];
   try {
-    reviews = JSON.parse(rawData);
+    const parsed = JSON.parse(rawData);
+    reviews = Array.isArray(parsed) ? parsed : (parsed.reviews || []);
   } catch (error) {
     console.error('❌ Failed to parse song-review-status.json:', error);
     process.exit(1);

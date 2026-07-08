@@ -2648,103 +2648,108 @@ export const notEqualMeSongs: Song[] = [
     "factualData": {
       "releaseDate": "2023-12-20",
       "releaseTitle": "「アンチコンフィチュール」",
-      "verificationStatus": "needs-review",
+      "centerMembers": ["谷崎早耶"],
+
+      "singingMembers": [],
+      "verificationStatus": "verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/44/",
-          "note": "Official Discography Page"
-        }
-      ]
+        "field": "release",
+        "url": "https://not-equal-me.jp/discography/detail/44/"
+      }
+      ],
+      "lyricist": "指原莉乃",
+      "composer": "HaTo",
+      "arranger": "めんま"
     },
     "scores": {
-      "energy": 3,
-      "brightness": 3,
-      "sadness": 3,
-      "cuteness": 3,
-      "power": 3,
-      "calmness": 3,
-      "romance": 3,
-      "liveHype": 3,
-      "nostalgia": 4,
-      "emotionalIntensity": 4
+        "energy": 3,
+        "brightness": 3,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3,
+        "nostalgia": 4,
+        "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [
-        "cute",
-        "bittersweet"
-      ],
-      "situations": [
-        "getting_ready",
-        "commute"
-      ],
-      "weather": [],
-      "timeOfDay": [
-        "morning",
-        "daytime"
-      ],
-      "seasons": [
-        "spring"
-      ],
-      "themes": [
-        "unrequited_love",
-        "memories"
-      ],
-      "tempos": [
-        "medium"
-      ],
-      "playlistRoles": [
-        "build_up"
-      ]
+        "moods": [
+            "cute",
+            "bittersweet"
+        ],
+        "situations": [
+            "getting_ready",
+            "commute"
+        ],
+        "weather": [],
+        "timeOfDay": [
+            "morning",
+            "daytime"
+        ],
+        "seasons": [
+            "spring"
+        ],
+        "themes": [
+            "unrequited_love",
+            "memories"
+        ],
+        "tempos": [
+            "medium"
+        ],
+        "playlistRoles": [
+            "build_up"
+        ]
     },
     "recommendation": {
       "songImpression": "かつての恋心の再燃と甘酸っぱい記憶を、可愛らしくもどこか切ないメロディに乗せて歌うミディアムナンバーと受け取れます。",
       "recommendedFor": "過去の淡い恋の思い出に優しく浸りたい方や、温かみのあるメロディに寄り添ってほしい方に適しています。",
       "recommendedSituation": "朝の身支度中や、お出かけ時の穏やかな移動時間、静かな昼下がりのBGMに向いています。",
       "notRecommendedSituation": "深夜に静かに心を無にして眠りたい時や、ハードなロックサウンドを求めてテンションを高めたい時には適していません。",
-      "recommendationText": "キュートな歌声と馴染みやすいビートが調和し、胸の奥にある甘酸っぱい感傷を引き立てます。",
-      "listeningSuggestion": "晴れた日の朝に、お気に入りのヘッドホンを使い、少しノスタルジックな気分に寄り添いながら聴くのが馴染みやすいでしょう。"
+      "recommendationText": "昔のピュアな恋心を思い出すような、甘酸っぱく爽快で明るいメロディが心地よい王道の青春アイドルラブソングです。",
+      "listeningSuggestion": "天気の良い日の散歩や、初恋のような甘酸っぱいトキメキを感じて明るい気分になりたい時におすすめです。",
+      "otherDisplayText": "ピュアな恋心を歌う、明るく爽快な王道青春ラブソング。"
     },
     "recommendationVariants": [
-      {
-        "conditionType": "mood",
-        "condition": "cute",
-        "text": "とことん素直な甘酸っぱさに包まれたい時、優しく可愛らしいボーカルがその感情にそっと寄り添います。"
-      },
-      {
-        "conditionType": "situation",
-        "condition": "getting_ready",
-        "text": "お出かけ前のメイク時間や服を選ぶ時間に聴くことで、一日を少し特別な気分でスタートできるでしょう。"
-      }
+        {
+            "conditionType": "mood",
+            "condition": "cute",
+            "text": "とことん素直な甘酸っぱさに包まれたい時、優しく可愛らしいボーカルがその感情にそっと寄り添います。"
+        },
+        {
+            "conditionType": "situation",
+            "condition": "getting_ready",
+            "text": "お出かけ前のメイク時間や服を選ぶ時間に聴くことで、一日を少し特別な気分でスタートできるでしょう。"
+        }
     ],
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "needsReview": true,
-    "reviewRequirement": "needs_review",
     "analysisBasis": {
-      "interpretationNotes": "曲の中心的な印象は、過去の恋心が蘇る甘酸っぱさを描いたポップソング。切なくも愛らしい心情を表現するためemotionalIntensityを4、思い出の回想からnostalgiaを4に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
-      "confidence": 82
+        "interpretationNotes": "曲の中心的な印象は、過去の恋心が蘇る甘酸っぱさを描いたポップソング。切なくも愛らしい心情を表現するためemotionalIntensityを4、思い出の回想からnostalgiaを4に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+        "confidence": 82
     },
     "releases": [
-      {
-        "title": "「アンチコンフィチュール」",
-        "releaseType": "single",
-        "releaseDate": "2023-12-20",
-        "trackNumber": 2,
-        "officialSourceUrl": "https://not-equal-me.jp/discography/detail/44/"
-      }
+        {
+            "title": "「アンチコンフィチュール」",
+            "releaseType": "single",
+            "releaseDate": "2023-12-20",
+            "trackNumber": 2,
+            "officialSourceUrl": "https://not-equal-me.jp/discography/detail/44/"
+        }
     ],
     "verification": {
-      "titleVerified": true,
-      "releaseVerified": true,
-      "categoryVerified": false,
-      "sourceContainsExactTitle": true,
-      "verifiedSources": [
-        "https://not-equal-me.jp/discography/detail/44/"
-      ],
-      "checkedAt": "2026-07-01T02:50:43.721Z"
+        "titleVerified": true,
+        "releaseVerified": true,
+        "categoryVerified": false,
+        "sourceContainsExactTitle": true,
+        "verifiedSources": [
+            "https://not-equal-me.jp/discography/detail/44/"
+        ],
+        "checkedAt": "2026-07-01T02:50:43.721Z"
     },
-    "recordType": "song"
+    "enabled": true,
+    "recordType": "song",
+    "needsReview": true,
+    "reviewRequirement": "needs_review"
   },
   {
     "id": "me-heroine-to-ookami",
@@ -3082,103 +3087,108 @@ export const notEqualMeSongs: Song[] = [
     "factualData": {
       "releaseDate": "2023-04-12",
       "releaseTitle": "「天使は何処へ」",
-      "verificationStatus": "needs-review",
+      "centerMembers": ["蟹沢萌子"],
+
+      "singingMembers": [],
+      "verificationStatus": "verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/23/",
-          "note": "Official Discography Page"
-        }
-      ]
+        "field": "release",
+        "url": "https://not-equal-me.jp/discography/detail/23/"
+      }
+      ],
+      "lyricist": "指原莉乃",
+      "composer": "ヤナガワタカオ",
+      "arranger": "ヤナガワタカオ"
     },
     "scores": {
-      "energy": 3,
-      "brightness": 3,
-      "sadness": 3,
-      "cuteness": 3,
-      "power": 3,
-      "calmness": 3,
-      "romance": 3,
-      "liveHype": 3,
-      "nostalgia": 4,
-      "emotionalIntensity": 4
+        "energy": 3,
+        "brightness": 3,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3,
+        "nostalgia": 4,
+        "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [
-        "romantic",
-        "dreamy"
-      ],
-      "situations": [
-        "relaxing",
-        "alone_time"
-      ],
-      "weather": [],
-      "timeOfDay": [
-        "evening",
-        "night"
-      ],
-      "seasons": [
-        "spring"
-      ],
-      "themes": [
-        "love",
-        "youth"
-      ],
-      "tempos": [
-        "medium"
-      ],
-      "playlistRoles": [
-        "cool_down"
-      ]
+        "moods": [
+            "romantic",
+            "dreamy"
+        ],
+        "situations": [
+            "relaxing",
+            "alone_time"
+        ],
+        "weather": [],
+        "timeOfDay": [
+            "evening",
+            "night"
+        ],
+        "seasons": [
+            "spring"
+        ],
+        "themes": [
+            "love",
+            "youth"
+        ],
+        "tempos": [
+            "medium"
+        ],
+        "playlistRoles": [
+            "cool_down"
+        ]
     },
     "recommendation": {
       "songImpression": "儚く美しい「今この瞬間」の愛おしさを、幻想的で透明感のあるサウンドに乗せて歌うミディアムナンバーと受け取れます。",
       "recommendedFor": "大切な人との時間の儚さに寄り添いたい方や、ドリーミーで心地よい浮遊感のあるポップスを求める方に適しています。",
       "recommendedSituation": "夕暮れ時に窓の外を眺めながら過ごす時間や、夜に部屋を少し暗くしてリラックスするひとときに向いています。",
       "notRecommendedSituation": "早朝の爽やかな目覚めと共にテンションを急上昇させたい時や、ハードな運動で汗を流したい場面には不向きです。",
-      "recommendationText": "透明感に満ちた歌声とたゆたうようなメロディラインが調和し、儚くも美しい世界観を演出します。",
-      "listeningSuggestion": "一日の終わりに近づく夕暮れや夜に、心地よいイヤホンを使って音の広がりに身を委ねるように聴くのが馴染みやすいでしょう。"
+      "recommendationText": "かけがえのない一瞬のきらめきと、胸に秘めた切ない青春の感情を、爽快で心地よいビートに乗せて歌うポップスです。",
+      "listeningSuggestion": "夕暮れ時の帰り道や、爽やかな風を感じながらノスタルジックな青春の思い出に浸りたい時におすすめです。",
+      "otherDisplayText": "一瞬の尊いきらめきを描く、爽やかで切ない青春ソング。"
     },
     "recommendationVariants": [
-      {
-        "conditionType": "timeOfDay",
-        "condition": "evening",
-        "text": "夕空の色が変わる瞬間に聴くことで、曲が描く「瞬間」の美しさと切なさがより胸に深く響くでしょう。"
-      },
-      {
-        "conditionType": "situation",
-        "condition": "relaxing",
-        "text": "肩の力を抜いて静かに過ごしたい時間に流すことで、ドリーミーな旋律が心に優しく寄り添います。"
-      }
+        {
+            "conditionType": "timeOfDay",
+            "condition": "evening",
+            "text": "夕空の色が変わる瞬間に聴くことで、曲が描く「瞬間」の美しさと切なさがより胸に深く響くでしょう。"
+        },
+        {
+            "conditionType": "situation",
+            "condition": "relaxing",
+            "text": "肩の力を抜いて静かに過ごしたい時間に流すことで、ドリーミーな旋律が心に優しく寄り添います。"
+        }
     ],
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "needsReview": true,
-    "reviewRequirement": "needs_review",
     "analysisBasis": {
-      "interpretationNotes": "曲の中心的な印象は、瞬間の儚さと愛おしさを描いたドリーミーなポップソング。幻想的で少し切ない情緒を表現するためemotionalIntensityを4、瞬間への愛おしさとノスタルジーからnostalgiaを4に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
-      "confidence": 82
+        "interpretationNotes": "曲の中心的な印象は、瞬間の儚さと愛おしさを描いたドリーミーなポップソング。幻想的で少し切ない情緒を表現するためemotionalIntensityを4、瞬間への愛おしさとノスタルジーからnostalgiaを4に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+        "confidence": 82
     },
     "releases": [
-      {
-        "title": "「天使は何処へ」",
-        "releaseType": "single",
-        "releaseDate": "2023-04-12",
-        "trackNumber": 2,
-        "officialSourceUrl": "https://not-equal-me.jp/discography/detail/23/"
-      }
+        {
+            "title": "「天使は何処へ」",
+            "releaseType": "single",
+            "releaseDate": "2023-04-12",
+            "trackNumber": 2,
+            "officialSourceUrl": "https://not-equal-me.jp/discography/detail/23/"
+        }
     ],
     "verification": {
-      "titleVerified": true,
-      "releaseVerified": true,
-      "categoryVerified": false,
-      "sourceContainsExactTitle": true,
-      "verifiedSources": [
-        "https://not-equal-me.jp/discography/detail/23/"
-      ],
-      "checkedAt": "2026-07-01T02:50:43.721Z"
+        "titleVerified": true,
+        "releaseVerified": true,
+        "categoryVerified": false,
+        "sourceContainsExactTitle": true,
+        "verifiedSources": [
+            "https://not-equal-me.jp/discography/detail/23/"
+        ],
+        "checkedAt": "2026-07-01T02:50:43.721Z"
     },
-    "recordType": "song"
+    "enabled": true,
+    "recordType": "song",
+    "needsReview": true,
+    "reviewRequirement": "needs_review"
   },
   {
     "id": "me-ultra-rare-kiss",
@@ -3188,103 +3198,108 @@ export const notEqualMeSongs: Song[] = [
     "factualData": {
       "releaseDate": "2022-11-23",
       "releaseTitle": "「はにかみショート」",
-      "verificationStatus": "needs-review",
+      "centerMembers": [],
+
+      "singingMembers": ["尾木波菜","菅波美玲","本田珠由記"],
+      "verificationStatus": "verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/22/",
-          "note": "Official Discography Page"
-        }
-      ]
+        "field": "release",
+        "url": "https://not-equal-me.jp/discography/detail/22/"
+      }
+      ],
+      "lyricist": "指原莉乃",
+      "composer": "Yu-ki Kokubo, YUU for YOU",
+      "arranger": "YUU for YOU"
     },
     "scores": {
-      "energy": 3,
-      "brightness": 3,
-      "sadness": 3,
-      "cuteness": 3,
-      "power": 3,
-      "calmness": 3,
-      "romance": 3,
-      "liveHype": 3,
-      "nostalgia": 2,
-      "emotionalIntensity": 4
+        "energy": 3,
+        "brightness": 3,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3,
+        "nostalgia": 2,
+        "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [
-        "happy",
-        "cute"
-      ],
-      "situations": [
-        "getting_ready",
-        "walking"
-      ],
-      "weather": [],
-      "timeOfDay": [
-        "morning",
-        "daytime"
-      ],
-      "seasons": [
-        "winter"
-      ],
-      "themes": [
-        "love",
-        "youth"
-      ],
-      "tempos": [
-        "upbeat"
-      ],
-      "playlistRoles": [
-        "build_up"
-      ]
+        "moods": [
+            "happy",
+            "cute"
+        ],
+        "situations": [
+            "getting_ready",
+            "walking"
+        ],
+        "weather": [],
+        "timeOfDay": [
+            "morning",
+            "daytime"
+        ],
+        "seasons": [
+            "winter"
+        ],
+        "themes": [
+            "love",
+            "youth"
+        ],
+        "tempos": [
+            "upbeat"
+        ],
+        "playlistRoles": [
+            "build_up"
+        ]
     },
     "recommendation": {
       "songImpression": "コミカルでハイテンションな可愛らしさを、弾けるような超高速のビートとユニークな歌詞表現で描いたポップチューンと受け取れます。",
       "recommendedFor": "とことん明るくコミカルなアイドルソングで笑顔になりたい方や、とにかく元気に気分を盛り上げたい方に適しています。",
       "recommendedSituation": "朝の目覚まし時間や、気合を入れて出かける準備をしたい時、テンションを上げたい通勤・通学路に向いています。",
       "notRecommendedSituation": "静かな深夜にリラックスして読書をしたい時や、クラシック音楽を聴くような静粛を重んじる場面には賑やかすぎるため不向きです。",
-      "recommendationText": "コミカルで表情豊かなボーカル表現と疾走するサウンドが重なり、聴く人を楽しい気分へと誘います。",
-      "listeningSuggestion": "お出かけ前に、カーステレオやイヤホンで音量を適度に調節し、ビートの勢いに乗りながら聴くのが馴染みやすいでしょう。"
+      "recommendationText": "ゲームのようなポップな世界観を取り入れた、コミカルかつ賑やかで最高にキュートな自己紹介風ソングです。",
+      "listeningSuggestion": "テンションを上げて楽しくなりたい時や、カラフルでコミカルな世界に浸りたい時におすすめです。",
+      "otherDisplayText": "ゲームの世界観を描く、コミカルで賑やかなポップス。"
     },
     "recommendationVariants": [
-      {
-        "conditionType": "mood",
-        "condition": "cute",
-        "text": "甘くキュートな遊び心に満ちた世界観を体感したい瞬間に聴くことで、曲の弾けるエネルギーがハッピーな気分を後押しします。"
-      },
-      {
-        "conditionType": "situation",
-        "condition": "getting_ready",
-        "text": "朝の身支度を整える時間に流すことで、曲が持つハイテンションなサウンドが一日のスタートを軽快に彩るでしょう。"
-      }
+        {
+            "conditionType": "mood",
+            "condition": "cute",
+            "text": "甘くキュートな遊び心に満ちた世界観を体感したい瞬間に聴くことで、曲の弾けるエネルギーがハッピーな気分を後押しします。"
+        },
+        {
+            "conditionType": "situation",
+            "condition": "getting_ready",
+            "text": "朝の身支度を整える時間に流すことで、曲が持つハイテンションなサウンドが一日のスタートを軽快に彩るでしょう。"
+        }
     ],
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "needsReview": true,
-    "reviewRequirement": "needs_review",
     "analysisBasis": {
-      "interpretationNotes": "曲の中心的な印象は、ユニークでコミカルな可愛らしさを歌う高速ポップナンバー。溢れるエネルギーを表現するためemotionalIntensityを4、現在進行形のハイテンションな性質からnostalgiaを2に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
-      "confidence": 82
+        "interpretationNotes": "曲の中心的な印象は、ユニークでコミカルな可愛らしさを歌う高速ポップナンバー。溢れるエネルギーを表現するためemotionalIntensityを4、現在進行形のハイテンションな性質からnostalgiaを2に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+        "confidence": 82
     },
     "releases": [
-      {
-        "title": "「はにかみショート」",
-        "releaseType": "single",
-        "releaseDate": "2022-11-23",
-        "trackNumber": 2,
-        "officialSourceUrl": "https://not-equal-me.jp/discography/detail/22/"
-      }
+        {
+            "title": "「はにかみショート」",
+            "releaseType": "single",
+            "releaseDate": "2022-11-23",
+            "trackNumber": 2,
+            "officialSourceUrl": "https://not-equal-me.jp/discography/detail/22/"
+        }
     ],
     "verification": {
-      "titleVerified": true,
-      "releaseVerified": true,
-      "categoryVerified": false,
-      "sourceContainsExactTitle": true,
-      "verifiedSources": [
-        "https://not-equal-me.jp/discography/detail/22/"
-      ],
-      "checkedAt": "2026-07-01T02:50:43.721Z"
+        "titleVerified": true,
+        "releaseVerified": true,
+        "categoryVerified": false,
+        "sourceContainsExactTitle": true,
+        "verifiedSources": [
+            "https://not-equal-me.jp/discography/detail/22/"
+        ],
+        "checkedAt": "2026-07-01T02:50:43.721Z"
     },
-    "recordType": "song"
+    "enabled": true,
+    "recordType": "song",
+    "needsReview": true,
+    "reviewRequirement": "needs_review"
   },
   {
     "id": "me-gekkabijin",
@@ -3402,103 +3417,108 @@ export const notEqualMeSongs: Song[] = [
     "factualData": {
       "releaseDate": "2023-04-12",
       "releaseTitle": "「天使は何処へ」",
-      "verificationStatus": "needs-review",
+      "centerMembers": ["菅波美玲"],
+
+      "singingMembers": [],
+      "verificationStatus": "verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/24/",
-          "note": "Official Discography Page"
-        }
-      ]
+        "field": "release",
+        "url": "https://not-equal-me.jp/discography/detail/24/"
+      }
+      ],
+      "lyricist": "指原莉乃",
+      "composer": "BE YOU, 田辺望, 永野小織",
+      "arranger": "石黒剛"
     },
     "scores": {
-      "energy": 3,
-      "brightness": 3,
-      "sadness": 3,
-      "cuteness": 3,
-      "power": 3,
-      "calmness": 3,
-      "romance": 3,
-      "liveHype": 3,
-      "nostalgia": 3,
-      "emotionalIntensity": 3
+        "energy": 3,
+        "brightness": 3,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3,
+        "nostalgia": 3,
+        "emotionalIntensity": 3
     },
     "tags": {
-      "moods": [
-        "happy",
-        "cute"
-      ],
-      "situations": [
-        "getting_ready",
-        "walking"
-      ],
-      "weather": [],
-      "timeOfDay": [
-        "morning",
-        "daytime"
-      ],
-      "seasons": [
-        "spring"
-      ],
-      "themes": [
-        "love",
-        "friendship"
-      ],
-      "tempos": [
-        "medium"
-      ],
-      "playlistRoles": [
-        "build_up"
-      ]
+        "moods": [
+            "happy",
+            "cute"
+        ],
+        "situations": [
+            "getting_ready",
+            "walking"
+        ],
+        "weather": [],
+        "timeOfDay": [
+            "morning",
+            "daytime"
+        ],
+        "seasons": [
+            "spring"
+        ],
+        "themes": [
+            "love",
+            "friendship"
+        ],
+        "tempos": [
+            "medium"
+        ],
+        "playlistRoles": [
+            "build_up"
+        ]
     },
     "recommendation": {
       "songImpression": "フワフワとした甘い恋心と日常の喜びを描いた、軽快でキャッチーなメロディが特徴的なキュートポップスと受け取れます。",
       "recommendedFor": "甘酸っぱい恋愛ソングを聴いて明るい気分になりたい方や、日常のスタートに元気をもらいたい方に適しています。",
       "recommendedSituation": "朝の身支度を整える時間や、天気の良い休日の朝にお散歩をしながら聴くのに向いています。",
       "notRecommendedSituation": "深い感傷に浸りたい一人きりの静かな夜や、重厚なロックサウンドを求めて集中したい時には世界観が合わず不向きです。",
-      "recommendationText": "可愛らしさを重視した歌声とブラスサウンドを感じる調べが調和し、心が弾むような明るい空間を演出します。",
-      "listeningSuggestion": "晴れた朝の光を浴びながら、お気に入りのヘッドホンを装着して軽やかなビートと共に歩きながら聴くのが馴染みやすいでしょう。"
+      "recommendationText": "マシュマロのようにふわふわした甘い恋心と、大好きな人に夢中な女の子の揺れる気持ちを可愛らしく表現した一曲です。",
+      "listeningSuggestion": "カフェでのんびりお茶をする時間や、甘くハッピーな片思いのワクワク感に浸りたい時にぴったりです。",
+      "otherDisplayText": "ふわふわした甘い片思いを可愛らしく描くポップソング。"
     },
     "recommendationVariants": [
-      {
-        "conditionType": "mood",
-        "condition": "cute",
-        "text": "甘くハッピーな気分に浸りたい瞬間、弾けるようなボーカルがその可愛らしい感情に寄り添います。"
-      },
-      {
-        "conditionType": "situation",
-        "condition": "getting_ready",
-        "text": "お出かけ前のメイク時間や服を選ぶ時間に聴くことで、一日を明るい気分でスタートする準備が整うでしょう。"
-      }
+        {
+            "conditionType": "mood",
+            "condition": "cute",
+            "text": "甘くハッピーな気分に浸りたい瞬間、弾けるようなボーカルがその可愛らしい感情に寄り添います。"
+        },
+        {
+            "conditionType": "situation",
+            "condition": "getting_ready",
+            "text": "お出かけ前のメイク時間や服を選ぶ時間に聴くことで、一日を明るい気分でスタートする準備が整うでしょう。"
+        }
     ],
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "needsReview": true,
-    "reviewRequirement": "needs_review",
     "analysisBasis": {
-      "interpretationNotes": "曲の中心的な印象は、甘く軽やかなポップソング。明るい恋愛感情と可愛らしさを重視し、nostalgiaを3、心地よく調和した情緒からemotionalIntensityを3に設定。既存の穏やかなスコア（brightness:3, cuteness:3）との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
-      "confidence": 82
+        "interpretationNotes": "曲の中心的な印象は、甘く軽やかなポップソング。明るい恋愛感情と可愛らしさを重視し、nostalgiaを3、心地よく調和した情緒からemotionalIntensityを3に設定。既存の穏やかなスコア（brightness:3, cuteness:3）との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+        "confidence": 82
     },
     "releases": [
-      {
-        "title": "「天使は何処へ」",
-        "releaseType": "single",
-        "releaseDate": "2023-04-12",
-        "trackNumber": 2,
-        "officialSourceUrl": "https://not-equal-me.jp/discography/detail/24/"
-      }
+        {
+            "title": "「天使は何処へ」",
+            "releaseType": "single",
+            "releaseDate": "2023-04-12",
+            "trackNumber": 2,
+            "officialSourceUrl": "https://not-equal-me.jp/discography/detail/24/"
+        }
     ],
     "verification": {
-      "titleVerified": true,
-      "releaseVerified": true,
-      "categoryVerified": false,
-      "sourceContainsExactTitle": true,
-      "verifiedSources": [
-        "https://not-equal-me.jp/discography/detail/24/"
-      ],
-      "checkedAt": "2026-07-01T02:50:43.721Z"
+        "titleVerified": true,
+        "releaseVerified": true,
+        "categoryVerified": false,
+        "sourceContainsExactTitle": true,
+        "verifiedSources": [
+            "https://not-equal-me.jp/discography/detail/24/"
+        ],
+        "checkedAt": "2026-07-01T02:50:43.721Z"
     },
-    "recordType": "song"
+    "enabled": true,
+    "recordType": "song",
+    "needsReview": true,
+    "reviewRequirement": "needs_review"
   },
   {
     "id": "me-floor-killer",
@@ -3508,103 +3528,108 @@ export const notEqualMeSongs: Song[] = [
     "factualData": {
       "releaseDate": "2023-09-06",
       "releaseTitle": "「想わせぶりっこ」",
-      "verificationStatus": "needs-review",
+      "centerMembers": ["落合希来里"],
+
+      "singingMembers": [],
+      "verificationStatus": "verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/37/",
-          "note": "Official Discography Page"
-        }
-      ]
+        "field": "release",
+        "url": "https://not-equal-me.jp/discography/detail/37/"
+      }
+      ],
+      "lyricist": "指原莉乃",
+      "composer": "近藤圭一",
+      "arranger": "近藤圭一, Uio"
     },
     "scores": {
-      "energy": 3,
-      "brightness": 3,
-      "sadness": 3,
-      "cuteness": 3,
-      "power": 3,
-      "calmness": 3,
-      "romance": 3,
-      "liveHype": 3,
-      "nostalgia": 2,
-      "emotionalIntensity": 5
+        "energy": 3,
+        "brightness": 3,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3,
+        "nostalgia": 2,
+        "emotionalIntensity": 5
     },
     "tags": {
-      "moods": [
-        "excited",
-        "confident"
-      ],
-      "situations": [
-        "getting_ready",
-        "driving"
-      ],
-      "weather": [],
-      "timeOfDay": [
-        "night",
-        "late_night"
-      ],
-      "seasons": [
-        "summer"
-      ],
-      "themes": [
-        "challenge",
-        "identity"
-      ],
-      "tempos": [
-        "upbeat"
-      ],
-      "playlistRoles": [
-        "peak"
-      ]
+        "moods": [
+            "excited",
+            "confident"
+        ],
+        "situations": [
+            "getting_ready",
+            "driving"
+        ],
+        "weather": [],
+        "timeOfDay": [
+            "night",
+            "late_night"
+        ],
+        "seasons": [
+            "summer"
+        ],
+        "themes": [
+            "challenge",
+            "identity"
+        ],
+        "tempos": [
+            "upbeat"
+        ],
+        "playlistRoles": [
+            "peak"
+        ]
     },
     "recommendation": {
       "songImpression": "ダンスビートを感じさせるサウンドと活動的な表現が融合した、高揚感を演出するアッパーチューンと解釈されます。",
       "recommendedFor": "エネルギッシュなダンス調の音楽で気分を高めたい方や、ライブハウスのような臨場感を好む方に適しています。",
       "recommendedSituation": "気持ちを盛り上げて出かける準備をする時や、夜のドライブ中にビートを感じて走り抜ける時間に向いています。",
       "notRecommendedSituation": "就寝前のリラックスした読書時間や、静かにクラシック音楽を聴くような落ち着いた空間には適していません。",
-      "recommendationText": "力強いリズムとボーカルワークが、聴く人の気分を刺激し、全身で音を感じる快感を提供します。",
-      "listeningSuggestion": "低音が綺麗に響くスピーカーや重低音対応のイヤホンを使用し、ビートの圧力を全身で受け止めるように聴くのが馴染みやすいでしょう。"
+      "recommendationText": "躍動感あふれるダンスと、夜のフロアを熱く盛り上げるエネルギッシュでクールなサウンドが魅力のダンスナンバーです。",
+      "listeningSuggestion": "気分を上げてアクティブに動き出したい時や、パワフルなダンスビートで盛り上がりたい時におすすめです。",
+      "otherDisplayText": "夜のフロアを熱く揺らす、エネルギッシュなダンス曲。"
     },
     "recommendationVariants": [
-      {
-        "conditionType": "mood",
-        "condition": "excited",
-        "text": "エネルギーが高まっている時、この重厚なダンスサウンドがさらに心拍数を刺激するような高揚感をもたらします。"
-      },
-      {
-        "conditionType": "situation",
-        "condition": "driving",
-        "text": "夜間のドライブシーンにおいて、ビートに同期するヘッドライトの光を感じながら走るような高揚感を生み出し得ます。"
-      }
+        {
+            "conditionType": "mood",
+            "condition": "excited",
+            "text": "エネルギーが高まっている時、この重厚なダンスサウンドがさらに心拍数を刺激するような高揚感をもたらします。"
+        },
+        {
+            "conditionType": "situation",
+            "condition": "driving",
+            "text": "夜間のドライブシーンにおいて、ビートに同期するヘッドライトの光を感じながら走るような高揚感を生み出し得ます。"
+        }
     ],
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "needsReview": true,
-    "reviewRequirement": "needs_review",
     "analysisBasis": {
-      "interpretationNotes": "曲の中心的な印象は、力強いビートで聴衆を惹きつけるダンスナンバー。感情の爆発力やパッションを重視し、emotionalIntensityを5、現在進行形のダンス熱を描くためnostalgiaを2に設定。既存の穏やかなスコア（energy:3, liveHype:3）との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
-      "confidence": 85
+        "interpretationNotes": "曲の中心的な印象は、力強いビートで聴衆を惹きつけるダンスナンバー。感情の爆発力やパッションを重視し、emotionalIntensityを5、現在進行形のダンス熱を描くためnostalgiaを2に設定。既存の穏やかなスコア（energy:3, liveHype:3）との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+        "confidence": 85
     },
     "releases": [
-      {
-        "title": "「想わせぶりっこ」",
-        "releaseType": "single",
-        "releaseDate": "2023-09-06",
-        "trackNumber": 2,
-        "officialSourceUrl": "https://not-equal-me.jp/discography/detail/37/"
-      }
+        {
+            "title": "「想わせぶりっこ」",
+            "releaseType": "single",
+            "releaseDate": "2023-09-06",
+            "trackNumber": 2,
+            "officialSourceUrl": "https://not-equal-me.jp/discography/detail/37/"
+        }
     ],
     "verification": {
-      "titleVerified": true,
-      "releaseVerified": true,
-      "categoryVerified": false,
-      "sourceContainsExactTitle": true,
-      "verifiedSources": [
-        "https://not-equal-me.jp/discography/detail/37/"
-      ],
-      "checkedAt": "2026-07-01T02:50:43.721Z"
+        "titleVerified": true,
+        "releaseVerified": true,
+        "categoryVerified": false,
+        "sourceContainsExactTitle": true,
+        "verifiedSources": [
+            "https://not-equal-me.jp/discography/detail/37/"
+        ],
+        "checkedAt": "2026-07-01T02:50:43.721Z"
     },
-    "recordType": "song"
+    "enabled": true,
+    "recordType": "song",
+    "needsReview": true,
+    "reviewRequirement": "needs_review"
   },
   {
     "id": "me-kochira-happy-tankentai",
@@ -3724,103 +3749,108 @@ export const notEqualMeSongs: Song[] = [
     "factualData": {
       "releaseDate": "2022-08-03",
       "releaseTitle": "「す、好きじゃない！」",
-      "verificationStatus": "needs-review",
+      "centerMembers": [],
+
+      "singingMembers": ["鈴木瞳美","谷崎早耶"],
+      "verificationStatus": "verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/15/",
-          "note": "Official Discography Page"
-        }
-      ]
+        "field": "release",
+        "url": "https://not-equal-me.jp/discography/detail/15/"
+      }
+      ],
+      "lyricist": "指原莉乃",
+      "composer": "加藤弘也",
+      "arranger": "杉原亮, 早川博隆"
     },
     "scores": {
-      "energy": 3,
-      "brightness": 3,
-      "sadness": 3,
-      "cuteness": 3,
-      "power": 3,
-      "calmness": 3,
-      "romance": 3,
-      "liveHype": 3,
-      "nostalgia": 3,
-      "emotionalIntensity": 3
+        "energy": 3,
+        "brightness": 3,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3,
+        "nostalgia": 3,
+        "emotionalIntensity": 3
     },
     "tags": {
-      "moods": [
-        "happy",
-        "cute"
-      ],
-      "situations": [
-        "getting_ready",
-        "walking"
-      ],
-      "weather": [],
-      "timeOfDay": [
-        "morning",
-        "daytime"
-      ],
-      "seasons": [
-        "summer"
-      ],
-      "themes": [
-        "love",
-        "youth"
-      ],
-      "tempos": [
-        "medium"
-      ],
-      "playlistRoles": [
-        "build_up"
-      ]
+        "moods": [
+            "happy",
+            "cute"
+        ],
+        "situations": [
+            "getting_ready",
+            "walking"
+        ],
+        "weather": [],
+        "timeOfDay": [
+            "morning",
+            "daytime"
+        ],
+        "seasons": [
+            "summer"
+        ],
+        "themes": [
+            "love",
+            "youth"
+        ],
+        "tempos": [
+            "medium"
+        ],
+        "playlistRoles": [
+            "build_up"
+        ]
     },
     "recommendation": {
       "songImpression": "夏の甘くキュートな恋模様を描いた、フワフワと可愛らしいメロディが特徴的な甘口ポップスと受け取れます。",
       "recommendedFor": "甘い恋愛ソングを聴いてハッピーな気分になりたい方や、とにかく可愛らしい音楽で癒やされたい方に適しています。",
       "recommendedSituation": "夏の朝の身支度を整える時間や、天気の良い休日の散歩をしながら軽やかに聴くのに向いています。",
       "notRecommendedSituation": "厳かでシリアスな集中力を要する作業時間や、重厚なロックサウンドを求めてテンションを高めたい場面には不向きです。",
-      "recommendationText": "とことん甘い歌声と軽快なブラスサウンドの響きが調和し、聴くだけで心が弾むようなハッピーな空間を演出します。",
-      "listeningSuggestion": "晴れた夏の朝の光を浴びながら、お気に入りのヘッドホンを装着して軽やかなビートと共に歩きながら聴くのが馴染みやすいでしょう。"
+      "recommendationText": "夏のおしゃれや甘いチョコレートのような恋心を、王道の甘く可愛らしいメロディで弾けるように表現した楽曲です。",
+      "listeningSuggestion": "夏のレジャーへ向かうドライブ中や、とびきりキュートな気分でテンションを上げたい時に最適です。",
+      "otherDisplayText": "夏のおしゃれと甘い恋心を歌う、ラブリーなポップソング。"
     },
     "recommendationVariants": [
-      {
-        "conditionType": "mood",
-        "condition": "cute",
-        "text": "とことん甘くハッピーな気分に浸りたい瞬間、弾けるようなボーカルがその可愛らしい感情にそっと寄り添います。"
-      },
-      {
-        "conditionType": "situation",
-        "condition": "getting_ready",
-        "text": "お出かけ前のメイク時間や服を選ぶ時間に聴くことで、一日を明るい気分でスタートする準備が整うでしょう。"
-      }
+        {
+            "conditionType": "mood",
+            "condition": "cute",
+            "text": "とことん甘くハッピーな気分に浸りたい瞬間、弾けるようなボーカルがその可愛らしい感情にそっと寄り添います。"
+        },
+        {
+            "conditionType": "situation",
+            "condition": "getting_ready",
+            "text": "お出かけ前のメイク時間や服を選ぶ時間に聴くことで、一日を明るい気分でスタートする準備が整うでしょう。"
+        }
     ],
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "needsReview": true,
-    "reviewRequirement": "needs_review",
     "analysisBasis": {
-      "interpretationNotes": "曲の中心的な印象は、甘く軽快なサマーポップソング。明るい恋愛感情と可愛らしさを重視し、nostalgiaを3、心地よく調和した情緒からemotionalIntensityを3に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
-      "confidence": 82
+        "interpretationNotes": "曲の中心的な印象は、甘く軽快なサマーポップソング。明るい恋愛感情と可愛らしさを重視し、nostalgiaを3、心地よく調和した情緒からemotionalIntensityを3に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+        "confidence": 82
     },
     "releases": [
-      {
-        "title": "「す、好きじゃない！」",
-        "releaseType": "single",
-        "releaseDate": "2022-08-03",
-        "trackNumber": 2,
-        "officialSourceUrl": "https://not-equal-me.jp/discography/detail/15/"
-      }
+        {
+            "title": "「す、好きじゃない！」",
+            "releaseType": "single",
+            "releaseDate": "2022-08-03",
+            "trackNumber": 2,
+            "officialSourceUrl": "https://not-equal-me.jp/discography/detail/15/"
+        }
     ],
     "verification": {
-      "titleVerified": true,
-      "releaseVerified": true,
-      "categoryVerified": false,
-      "sourceContainsExactTitle": true,
-      "verifiedSources": [
-        "https://not-equal-me.jp/discography/detail/15/"
-      ],
-      "checkedAt": "2026-07-01T02:50:43.721Z"
+        "titleVerified": true,
+        "releaseVerified": true,
+        "categoryVerified": false,
+        "sourceContainsExactTitle": true,
+        "verifiedSources": [
+            "https://not-equal-me.jp/discography/detail/15/"
+        ],
+        "checkedAt": "2026-07-01T02:50:43.721Z"
     },
-    "recordType": "song"
+    "enabled": true,
+    "recordType": "song",
+    "needsReview": true,
+    "reviewRequirement": "needs_review"
   },
   {
     "id": "me-momoiro-daybreak",
@@ -3830,103 +3860,108 @@ export const notEqualMeSongs: Song[] = [
     "factualData": {
       "releaseDate": "2022-11-23",
       "releaseTitle": "「はにかみショート」",
-      "verificationStatus": "needs-review",
+      "centerMembers": ["櫻井もも"],
+
+      "singingMembers": [],
+      "verificationStatus": "verified",
       "verifiedSources": [
         {
-          "field": "title",
-          "url": "https://not-equal-me.jp/discography/detail/19/",
-          "note": "Official Discography Page"
-        }
-      ]
+        "field": "release",
+        "url": "https://not-equal-me.jp/discography/detail/19/"
+      }
+      ],
+      "lyricist": "指原莉乃",
+      "composer": "磯崎健史",
+      "arranger": "磯崎健史"
     },
     "scores": {
-      "energy": 3,
-      "brightness": 3,
-      "sadness": 3,
-      "cuteness": 3,
-      "power": 3,
-      "calmness": 3,
-      "romance": 3,
-      "liveHype": 3,
-      "nostalgia": 3,
-      "emotionalIntensity": 4
+        "energy": 3,
+        "brightness": 3,
+        "sadness": 3,
+        "cuteness": 3,
+        "power": 3,
+        "calmness": 3,
+        "romance": 3,
+        "liveHype": 3,
+        "nostalgia": 3,
+        "emotionalIntensity": 4
     },
     "tags": {
-      "moods": [
-        "excited",
-        "dramatic"
-      ],
-      "situations": [
-        "getting_ready",
-        "commute"
-      ],
-      "weather": [],
-      "timeOfDay": [
-        "morning",
-        "daytime"
-      ],
-      "seasons": [
-        "all_seasons"
-      ],
-      "themes": [
-        "youth",
-        "identity"
-      ],
-      "tempos": [
-        "upbeat"
-      ],
-      "playlistRoles": [
-        "build_up"
-      ]
+        "moods": [
+            "excited",
+            "dramatic"
+        ],
+        "situations": [
+            "getting_ready",
+            "commute"
+        ],
+        "weather": [],
+        "timeOfDay": [
+            "morning",
+            "daytime"
+        ],
+        "seasons": [
+            "all_seasons"
+        ],
+        "themes": [
+            "youth",
+            "identity"
+        ],
+        "tempos": [
+            "upbeat"
+        ],
+        "playlistRoles": [
+            "build_up"
+        ]
     },
     "recommendation": {
       "songImpression": "新しい朝の訪れと内なる決意を感じさせる、疾走感のある劇的でエネルギッシュなメロディが特徴的な楽曲と受け取れます。",
       "recommendedFor": "強い決意を持って新しい一日をスタートしたい方や、勢いのあるドラマチックなロック調のサウンドを好む方に適しています。",
       "recommendedSituation": "夜明けから朝にかけての目覚めの時間や、気持ちを引き締めて移動する通学・通勤路に向いています。",
       "notRecommendedSituation": "一日の疲れを穏やかに癒やしたい就寝前のベッドルームや、静かに読書を楽しみたい場面のBGMには賑やかすぎるため不向きです。",
-      "recommendationText": "力強くのびやかな歌声と劇的なストリングスが融合し、前を向いて歩き出す勇気を引き立てます。",
-      "listeningSuggestion": "朝の通勤時に、イヤホンでサウンド全体の疾走感とボーカルの力強い響きをダイレクトに感じながら聴くのが馴染みやすいでしょう。"
+      "recommendationText": "圧倒的な歌唱力とシリアスな表情で、夜明け前の強い決意を力強くエッジの効いたサウンドで歌い上げるロックナンバーです。",
+      "listeningSuggestion": "何か大きな挑戦を控えていて闘志を燃やしたい時や、力強いボーカルで鼓舞されたい時に最適です。",
+      "otherDisplayText": "夜明け前の強い決意を歌う、エッジの効いたロック曲。"
     },
     "recommendationVariants": [
-      {
-        "conditionType": "timeOfDay",
-        "condition": "morning",
-        "text": "朝の澄んだ空気の中で聴くことで、曲が描く夜明けの決意と爽快な熱量がより鮮明に心に響くでしょう。"
-      },
-      {
-        "conditionType": "situation",
-        "condition": "commute",
-        "text": "移動時間や通学路で流すことで、ドラマチックなメロディラインが一日のスタートを力強く後押しします。"
-      }
+        {
+            "conditionType": "timeOfDay",
+            "condition": "morning",
+            "text": "朝の澄んだ空気の中で聴くことで、曲が描く夜明けの決意と爽快な熱量がより鮮明に心に響くでしょう。"
+        },
+        {
+            "conditionType": "situation",
+            "condition": "commute",
+            "text": "移動時間や通学路で流すことで、ドラマチックなメロディラインが一日のスタートを力強く後押しします。"
+        }
     ],
-    "enabled": true,
-    "enabledForRecommendation": true,
-    "needsReview": true,
-    "reviewRequirement": "needs_review",
     "analysisBasis": {
-      "interpretationNotes": "曲の中心的な印象は、夜明けと決意をドラマチックに描いたアッパーナンバー。熱量の高さや決意を表現するためemotionalIntensityを4、爽快で少し回想的な性質からnostalgiaを3に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
-      "confidence": 83
+        "interpretationNotes": "曲の中心的な印象は、夜明けと決意をドラマチックに描いたアッパーナンバー。熱量の高さや決意を表現するためemotionalIntensityを4、爽快で少し回想的な性質からnostalgiaを3に設定。既存の穏やかなスコア構成との大きな矛盾は見られない。既存の季節タグは維持するが、根拠は人間レビューで確認が必要。",
+        "confidence": 83
     },
     "releases": [
-      {
-        "title": "「はにかみショート」",
-        "releaseType": "single",
-        "releaseDate": "2022-11-23",
-        "trackNumber": 2,
-        "officialSourceUrl": "https://not-equal-me.jp/discography/detail/19/"
-      }
+        {
+            "title": "「はにかみショート」",
+            "releaseType": "single",
+            "releaseDate": "2022-11-23",
+            "trackNumber": 2,
+            "officialSourceUrl": "https://not-equal-me.jp/discography/detail/19/"
+        }
     ],
     "verification": {
-      "titleVerified": true,
-      "releaseVerified": true,
-      "categoryVerified": false,
-      "sourceContainsExactTitle": true,
-      "verifiedSources": [
-        "https://not-equal-me.jp/discography/detail/19/"
-      ],
-      "checkedAt": "2026-07-01T02:50:43.721Z"
+        "titleVerified": true,
+        "releaseVerified": true,
+        "categoryVerified": false,
+        "sourceContainsExactTitle": true,
+        "verifiedSources": [
+            "https://not-equal-me.jp/discography/detail/19/"
+        ],
+        "checkedAt": "2026-07-01T02:50:43.721Z"
     },
-    "recordType": "song"
+    "enabled": true,
+    "recordType": "song",
+    "needsReview": true,
+    "reviewRequirement": "needs_review"
   },
   {
     "id": "me-daremo-inai-mori-no-oku-de",
