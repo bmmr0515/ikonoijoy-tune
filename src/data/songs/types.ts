@@ -102,6 +102,7 @@ export type Song = {
     releaseTitle?: string;
     centerMembers?: string[];
     participatingMembers?: string[];
+    singingMembers?: string[];
     durationSeconds?: number;
     lyricist?: string;
     composer?: string;
@@ -145,6 +146,7 @@ export type Song = {
     notRecommendedSituation: string;
     recommendationText: string;
     listeningSuggestion: string;
+    otherDisplayText?: string;
   };
 
   recommendationVariants: {

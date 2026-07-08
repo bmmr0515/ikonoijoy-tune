@@ -1262,5 +1262,325 @@
     "reviewed": true,
     "reviewedAt": "2026-07-07T06:56:05.443Z",
     "reviewerNote": "Approved based on human-review-batch-5-part4-v5.json"
+  },
+  {
+    "songId": "love-iranai-twin-tail",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "love-niji-no-moto",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "love-sweetest-girl",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "love-oshi-no-iru-sekai",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "love-kimi-to-watashi-no-uta",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "love-my-voice-is-for-you",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "love-ryuseigun",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "love-sakura-no-saku-oto-ga-shita",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "love-oh-darling",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "love-senoby-in-love",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "love-haikei-anatadoma",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "love-geneki-idol-chu",
+    "group": "equal-love",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "me-kimi-to-boku-no-uta",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "me-teyuuka-mirutentte-nani",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "me-himitsu-incident",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "me-ponytail-kyurun",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "me-daremo-inai-mori-no-oku-de",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "me-sukida",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "me-off-shoulder-knit",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
+  },
+  {
+    "songId": "me-kochira-happy-tankentai",
+    "group": "not-equal-me",
+    "checks": {
+      "impressionIsAccurate": true,
+      "tagsAreAccurate": true,
+      "seasonHasEvidence": true,
+      "recommendationFits": true,
+      "noOverstatement": true,
+      "copyIsDistinct": true,
+      "rankingFeelsNatural": true
+    },
+    "reviewed": true,
+    "reviewedAt": "2026-07-07T11:47:15.377Z",
+    "reviewerNote": "Approved based on human-review-batch-20-v6-copy-output.json"
   }
 ]
