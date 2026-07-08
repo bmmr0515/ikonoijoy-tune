@@ -2641,7 +2641,7 @@ export const notEqualMeSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "me-hatsukoi-comeback", // id: 'me-hatsukoi-comeback'
+    "id": "me-hatsukoi-comeback",
     "title": "初恋カムバック",
     "group": "not-equal-me",
     "category": "unknown",
@@ -3080,7 +3080,7 @@ export const notEqualMeSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "me-konomama-de-momentary", // id: 'me-konomama-de-momentary'
+    "id": "me-konomama-de-momentary",
     "title": "このままでモーメンタリ",
     "group": "not-equal-me",
     "category": "unknown",
@@ -3191,7 +3191,7 @@ export const notEqualMeSongs: Song[] = [
     "reviewRequirement": "needs_review"
   },
   {
-    "id": "me-ultra-rare-kiss", // id: 'me-ultra-rare-kiss'
+    "id": "me-ultra-rare-kiss",
     "title": "ウルトラレアキッス",
     "group": "not-equal-me",
     "category": "unknown",
@@ -3410,7 +3410,7 @@ export const notEqualMeSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "me-marshmallow-float", // id: 'me-marshmallow-float'
+    "id": "me-marshmallow-float",
     "title": "マシュマロフロート",
     "group": "not-equal-me",
     "category": "unknown",
@@ -3521,7 +3521,7 @@ export const notEqualMeSongs: Song[] = [
     "reviewRequirement": "needs_review"
   },
   {
-    "id": "me-floor-killer", // id: 'me-floor-killer'
+    "id": "me-floor-killer",
     "title": "フロアキラー",
     "group": "not-equal-me",
     "category": "unknown",
@@ -3742,7 +3742,7 @@ export const notEqualMeSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "me-summer-chocolate", // id: 'me-summer-chocolate'
+    "id": "me-summer-chocolate",
     "title": "サマーチョコレート",
     "group": "not-equal-me",
     "category": "unknown",
@@ -3853,7 +3853,7 @@ export const notEqualMeSongs: Song[] = [
     "reviewRequirement": "needs_review"
   },
   {
-    "id": "me-momoiro-daybreak", // id: 'me-momoiro-daybreak'
+    "id": "me-momoiro-daybreak",
     "title": "桃色デイブレイク",
     "group": "not-equal-me",
     "category": "unknown",

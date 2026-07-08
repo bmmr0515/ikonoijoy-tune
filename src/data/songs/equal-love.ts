@@ -1985,7 +1985,7 @@ export const equalLoveSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "love-weekend-citron", // id: 'love-weekend-citron'
+    "id": "love-weekend-citron",
     "title": "ウィークエンドシトロン",
     "group": "equal-love",
     "category": "group",
@@ -2084,7 +2084,7 @@ export const equalLoveSongs: Song[] = [
     "reviewRequirement": "human_approved"
   },
   {
-    "id": "love-zuttomo-anken", // id: 'love-zuttomo-anken'
+    "id": "love-zuttomo-anken",
     "title": "ズッ友案件",
     "group": "equal-love",
     "category": "group",
@@ -2310,7 +2310,7 @@ export const equalLoveSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "love-shukusai", // id: 'love-shukusai'
+    "id": "love-shukusai",
     "title": "祝祭",
     "group": "equal-love",
     "category": "group",
@@ -2403,7 +2403,7 @@ export const equalLoveSongs: Song[] = [
     "reviewRequirement": "human_approved"
   },
   {
-    "id": "love-the-5th", // id: 'love-the-5th'
+    "id": "love-the-5th",
     "title": "The 5th",
     "group": "equal-love",
     "category": "group",
@@ -2501,7 +2501,7 @@ export const equalLoveSongs: Song[] = [
     "reviewRequirement": "human_approved"
   },
   {
-    "id": "love-ohimesama-ni-shiteyo", // id: 'love-ohimesama-ni-shiteyo'
+    "id": "love-ohimesama-ni-shiteyo",
     "title": "お姫様にしてよ！",
     "group": "equal-love",
     "category": "group",
@@ -2594,7 +2594,7 @@ export const equalLoveSongs: Song[] = [
     "reviewRequirement": "human_approved"
   },
   {
-    "id": "love-poison-girl", // id: 'love-poison-girl'
+    "id": "love-poison-girl",
     "title": "Poison Girl",
     "group": "equal-love",
     "category": "group",
@@ -2816,7 +2816,7 @@ export const equalLoveSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "love-egao-no-recipe", // id: 'love-egao-no-recipe'
+    "id": "love-egao-no-recipe",
     "title": "笑顔のレシピ",
     "group": "equal-love",
     "category": "group",
@@ -3038,7 +3038,7 @@ export const equalLoveSongs: Song[] = [
     "recordType": "song"
   },
   {
-    "id": "love-sukitte-ienakatta", // id: 'love-sukitte-ienakatta'
+    "id": "love-sukitte-ienakatta",
     "title": "好きって、言えなかった",
     "group": "equal-love",
     "category": "group",
@@ -6400,7 +6400,7 @@ export const equalLoveSongs: Song[] = [
     "reviewRequirement": "human_approved"
   },
   {
-    "id": "love-24-7", // id: 'love-24-7'
+    "id": "love-24-7",
     "title": "24/7",
     "group": "equal-love",
     "category": "unit",
@@ -6495,7 +6495,7 @@ export const equalLoveSongs: Song[] = [
     "reviewRequirement": "human_approved"
   },
   {
-    "id": "love-onesan-ja-dame-desuka", // id: 'love-onesan-ja-dame-desuka'
+    "id": "love-onesan-ja-dame-desuka",
     "title": "お姉さんじゃダメですか？",
     "group": "equal-love",
     "category": "unit",
@@ -6590,7 +6590,7 @@ export const equalLoveSongs: Song[] = [
     "reviewRequirement": "human_approved"
   },
   {
-    "id": "love-bpm170-no-kimi-e", // id: 'love-bpm170-no-kimi-e'
+    "id": "love-bpm170-no-kimi-e",
     "title": "BPM170の君へ",
     "group": "equal-love",
     "category": "unit",
@@ -6685,7 +6685,7 @@ export const equalLoveSongs: Song[] = [
     "reviewRequirement": "human_approved"
   },
   {
-    "id": "love-shirangedo", // id: 'love-shirangedo'
+    "id": "love-shirangedo",
     "title": "知らんけど",
     "group": "equal-love",
     "category": "unit",
@@ -6780,7 +6780,7 @@ export const equalLoveSongs: Song[] = [
     "reviewRequirement": "human_approved"
   },
   {
-    "id": "love-boku-no-heroine", // id: 'love-boku-no-heroine'
+    "id": "love-boku-no-heroine",
     "title": "僕のヒロイン",
     "group": "equal-love",
     "category": "solo",
